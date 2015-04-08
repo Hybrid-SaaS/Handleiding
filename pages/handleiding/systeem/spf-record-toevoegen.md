@@ -3,8 +3,6 @@
 		<title>SPF record toevoegen aan DNS</title>
 	</page>
 	<menu>
-		<position>Handleiding / Onderdeel / E-mail </position> 
-		<title>SPF record toevoegen</title>
 	</menu>
 </properties>
 
@@ -31,3 +29,4 @@ Vul bij "van" het mailadres in vanwaar
 <div class="info">
 Wanneer het e-mailadres is ingegeven wordt automatisch gecheckt of de SPF records correct zijn ingesteld. Indien deze niet correct zijn krijgt u hiervan een melding.
 </div>
+
