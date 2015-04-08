@@ -10,7 +10,7 @@
 
 # SPF record toevoegen #
 
-Om er voor te zorgen dat dat e-mails, welke vanuit Hybrid SaaS worden verstuurd, niet als spam worden aangemerkt dienen de <label>SPF</label> records bij de DNS van het domein toegevoegd te worden.
+Om er voor te zorgen dat dat e-mails, welke vanuit Hybrid SaaS worden verstuurd, niet als spam worden aangemerkt dienen de <label keyword="spf">SPF-records</label> bij de DNS van het domein toegevoegd te worden.
 
 <div class="info">
 In dit record wordt vermeld welke mailservers namens dit domein mail mogen verzenden. Staat de mailserver van Hybrid SaaS niet in deze opsomming en verzendt deze toch mail met het betreffende domein als afzender, dan wordt de mail als onrechtmatig beschouwd. In de praktijk kan het voorkomen dat de e-mails niet bij de betreffende ontvangen worden afgeleverd. 
