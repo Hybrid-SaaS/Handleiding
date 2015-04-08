@@ -3,8 +3,8 @@
 		<title>SPF record toevoegen aan DNS</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Extra </position> 
-		<title>SPF record</title>
+		<position>Handleiding / Onderdeel / E-mail </position> 
+		<title>SPF record toevoegen</title>
 	</menu>
 </properties>
 
