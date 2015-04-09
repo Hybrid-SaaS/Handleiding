@@ -14,7 +14,7 @@ We krijgen wel eens vragen om bepaalde acties uit te voeren via één van onze (
 
 ## Productie server heeft toegang tot bepaalde resource ##
 
-Doordat Hybrid SaaS kan koppelen met diverse externe systemen, komt het voor dat één van onze productie-servers / ip-adressen toegang heeft gekregen tot bepaalde andere externe bronnen.
+Doordat Hybrid SaaS kan koppelen met diverse externe systemen, komt het voor dat één van onze productie-servers / <label keyword="ip">ip-adressen</label> toegang heeft gekregen tot bepaalde andere externe bronnen.
 
 <div class="info">
 Een productieserver kan bijvoorbeeld zijn gewhite-list op een firewall van een toeleverancier en kan daardoor inloggen op de ftp-server van deze toeleverancier.
