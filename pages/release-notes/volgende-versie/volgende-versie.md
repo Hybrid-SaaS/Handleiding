@@ -15,8 +15,8 @@ In deze release notes staan de wijzigingen voor de volgende productieversie van 
 
 ## Verbetering werking geëxporteerde inkoopfacturen ##
 
-- Op inkoopfacturen werden betalings en financiële exports niet weergegeven.
-![](images/inkoop-facturen-export-info.jpg)
+- <div class="tag-update">Verbetering</div>Op inkoopfacturen werden betalings en financiële exports niet weergegeven.
+![](images/inkoop-factuur-export-info.jpg)
 
-- Het deblokkeren van een inkoopfactuur waar een financiële export aanwezig geeft een verbeterde melding
+- <div class="tag-update">Verbetering</div>Het deblokkeren van een inkoopfactuur waar een financiële export aanwezig geeft een verbeterde melding
 ![](images/inkoop-factuur-melding-deblokkeren.jpg)
