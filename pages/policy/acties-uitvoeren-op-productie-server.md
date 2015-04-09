@@ -20,7 +20,8 @@ Doordat Hybrid SaaS kan koppelen met diverse externe systemen, komt het voor dat
 Een productieserver kan bijvoorbeeld zijn gewhite-list op een firewall van een toeleverancier en kan daardoor inloggen op de ftp-server van deze toeleverancier.
 </div>
 
-Eventuele verzoeken die onze helpdesk ontvangt om via één van onze servers acties uit voeren op deze externe bronnen **zullen wij niet uitvoeren**.
+Door de beveiligingsrisico's en de verantwoordelijkheid die wij dragen zullen wij eventuele verzoeken die onze helpdesk ontvangt om via één van onze servers acties uit voeren op deze externe bronnen **niet uitvoeren**. 
+
 
 <div class="info">
 Voorbeelden van acties die wij niet uitvoeren:
