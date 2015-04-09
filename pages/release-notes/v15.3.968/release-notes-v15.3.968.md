@@ -1,16 +1,16 @@
 <properties>
 	<page>
-		<title>Release notes volgende versie</title>
+		<title>Release notes versie v15.3.968 (17-03-2015)</title>
 	</page>
 	<menu>
-		<position>Release notes</position>
-		<title> Versie 968 (17-03-2015) </title>
+		<position>Release notes / Productie </position>
+		<title> v15.3.968 (17-03-2015) </title>
 	</menu>
 </properties>
 
-Release notes versie 968 (17-03-2015)
+Release notes versie v15.3.968 (17-03-2015)
 ===================
-De volgende verbeteringen en aanpassingen zullen in de volgende versie van HybridSaaS beschikbaar komen
+De volgende verbeteringen en aanpassingen zullen in de volgende versie van Hybrid SaaS beschikbaar komen
 
 ---------------------------------------------------------------------------------------------------------
 **Ticket extranet**
@@ -116,7 +116,7 @@ Bij het aanmaken van een ticket onder een klant wordt je nu teruggestuurd naar d
 -----------------------------------------------------------------------------------------------------------
 **E-MAIL VERLOF**
 
-Indien de gebruiker een manager aan zich gekoppeld heeft wordt <noreply@hybridsaas.com> vervangen door de e-mail van de manager 
+Indien de gebruiker een manager aan zich gekoppeld heeft wordt <noreply@Hybrid SaaS.com> vervangen door de e-mail van de manager 
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -160,7 +160,7 @@ Je kunt op de gebruikerskaart aangeven welke herinneringen zij elke ochtend will
 -----------------------------------------------------------------------------------------------------------
 **SYSTEEM**
 
-Als je aan het wijzigen bent in HybridSaaS is het nu mogelijk om tussen verschillende applicaties te switchen zonderA dat je als je terug in hybridSaaS komt eerst 2 keer moet klikken om verder te gaan met de wijziging.
+Als je aan het wijzigen bent in Hybrid SaaS is het nu mogelijk om tussen verschillende applicaties te switchen zonderA dat je als je terug in Hybrid SaaS komt eerst 2 keer moet klikken om verder te gaan met de wijziging.
 
 -----------------------------------------------------------------------------------------------------------
 **TICKET API**
