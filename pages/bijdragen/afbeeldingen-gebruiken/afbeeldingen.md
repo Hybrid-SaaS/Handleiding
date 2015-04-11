@@ -27,17 +27,17 @@ De naam van het bestand moet beschrijvend zijn voor de inhoud. Je mag alleen <la
 
 <div class="info">
 Voorbeelden van juiste bestandsnamen:
-- dit-is-een-voorbeeld.jpg
-- creeer-een-nieuw-bestand.jpg
-- gebruik-van-getallen-zoals-123-is-ook-toegestaan.jpg
+-dit-is-een-voorbeeld.jpg
+-creeer-een-nieuw-bestand.jpg
+-gebruik-van-getallen-zoals-123-is-ook-toegestaan.jpg
 </div>
 
 
-<div class="waning">
+<div class="warning">
 Voorbeelden van onjuiste bestandsnamen:
-- dit is een voorbeeld.jpg (gebruik van spaties)
-- creëer-een-nieuw-bestand.jpg (gebruik van accenten)
-- gebruik-van-'bijzondere'-tekens.jpg (gebruik van bijzondere tekens, in dit geval de aanhalingstekens)
+-dit is een voorbeeld.jpg (gebruik van spaties)
+-creëer-een-nieuw-bestand.jpg (gebruik van accenten)
+-gebruik-van-'bijzondere'-tekens.jpg (gebruik van bijzondere tekens, in dit geval de aanhalingstekens)
 </div>
 
  
