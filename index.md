@@ -9,4 +9,4 @@
 
 U vindt hier handleidingen, downloads voor support, technische specificaties, pagina's voor het oplossen van problemen en oefeningen.
 
-Deze handleiding is nog under construction
+Als je wil bijdragen aan deze documentatie kijk dan op [deze pagina](/pages/readme).
