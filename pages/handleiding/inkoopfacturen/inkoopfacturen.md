@@ -4,7 +4,7 @@
 		<id>inkoopfactuur</id>
 	</page>
 	<menu>
-		<position>Inkoopfacturen</position> 
+		<position>Handleiding / Modules / Inkoopfacturen</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>
