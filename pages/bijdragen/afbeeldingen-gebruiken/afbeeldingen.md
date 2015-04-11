@@ -22,7 +22,7 @@ Als je <label keyword="screenshot">screenshots</label> gebruikt, let dan op dat 
 
 ## Bestandsnaam afbeeldingen ##
 
-De naam van het bestand moet beschrijvend zijn voor de inhoud. Je mag alleen <label>lowercase</label> gebruiken, zonder accenten en trema's. Ook moeten alle bijzondere karakters worden vermeden. Spaties moeten worden vervangen door een min-teken (**-**)
+De naam van het <label keyword="bestandnamen-stijl">bestand</label> moet beschrijvend zijn voor de inhoud. Je mag alleen <label>lowercase</label> gebruiken, zonder accenten en trema's. Ook moeten alle bijzondere karakters worden vermeden. Spaties moeten worden vervangen door een min-teken (**-**)
 
 
 <div class="info">
