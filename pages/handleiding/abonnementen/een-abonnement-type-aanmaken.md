@@ -3,8 +3,8 @@
 		<title>Abonnementen</title>
 	</page>
 	<menu>
-		<position>Abonnementen</position>
-		<title>Introductie</title>
+		<position>Handleiding / Modules / Abonnementen</position>
+		<title>Abonnement type aanmaken</title>
 	</menu>
 </properties>
 
