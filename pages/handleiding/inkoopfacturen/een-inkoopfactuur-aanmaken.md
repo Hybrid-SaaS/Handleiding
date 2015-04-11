@@ -4,8 +4,8 @@
 		<id>inkoopfactuur</id>
 	</page>
 	<menu>
-		<position>Inkoopfacturen</position> 
-		<title>Introductie</title>
+		<position>Handleiding / Modules / Inkoopfacturen</position> 
+		<title>Inkoopfactuur aanmaken</title>
 	</menu>
 </properties>
 
