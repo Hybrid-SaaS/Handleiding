@@ -3,7 +3,7 @@
 		<title>Acties uitvoeren op een productieserver</title>
 	</page>
 	<menu>
-		<position> Policies / Productieomgevingen </position> 
+		<position> Organisatie / Policies / Productieomgevingen </position> 
 		<title>Acties uitvoeren</title>
 	</menu>
 </properties>
