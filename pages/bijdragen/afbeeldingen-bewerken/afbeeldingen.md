@@ -110,3 +110,5 @@ Het eindresultaat is als volgt.
 ## Opslaan van bestand ##
 
 Omdat je meerdere lagen hebt gebruikt en deze opslaat als JPEG-bestand, zal Paint.net je bij het opslaan vragen of de meerdere lagen samengevoegd (*flatten*) mag worden. 
+
+![](images/lagen-samenvoegen.jpg)
