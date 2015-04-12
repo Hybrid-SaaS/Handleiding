@@ -3,8 +3,8 @@
 		<title>Afbeeldingen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Bijdragen</position>
-		<title>Afbeeldingen</title>
+		<position>Handleiding / Bijdragen / Afbeeldingen</position>
+		<title>Afbeeldingen gebruiken</title>
 	</menu>
 </properties>
 
