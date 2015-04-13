@@ -24,7 +24,7 @@ Deze gegevens dienen bij de serviceprovider van het domein, waar de e-mail van w
 
 Voor het instellen van het e-mailadres ga je naar "e-mail sjablonen" 
 
-Vul bij "van" het mailadres in vanwaar 
+Vul bij "van" het e-mailadres in welke gebruik dient te worden als verzendadres.
 
 ![e-mailadres instellen bij e-mailsjabloon](https://cloud.githubusercontent.com/assets/8395139/7047987/55c69a38-de10-11e4-8fad-21508c49806a.png)
 
