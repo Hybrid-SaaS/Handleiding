@@ -26,7 +26,8 @@ Voor het instellen van het e-mailadres ga je naar "e-mail sjablonen"
 
 Vul bij "van" het e-mailadres in welke gebruik dient te worden als verzendadres.
 
-![E-mailadres instellen bij e-mailsjabloon](images/verzendadres-vastleggen-in-e-mail-sjabloon.jpg)
+![E-mailadres instellen bij e-mailsjabloon](images/verzendadres-invoeren-in-e-mail-sjabloon.jpg)
+
 
 <div class="info">
 Wanneer het e-mailadres is ingegeven wordt automatisch gecheckt of de SPF records correct zijn ingesteld. Indien deze niet correct zijn wordt hiervan een melding gegeven.
