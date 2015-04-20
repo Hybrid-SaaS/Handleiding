@@ -1,11 +1,11 @@
 
 <properties>
 	<page>
-		<title>Bankrekeningen</title>
+		<title>Betaalbatch ongedaan maken</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Inkoopfacturen</position> 
-		<title>Introductie</title>
+		<position>Handleiding / Modules / Inkoopfacturen </position> 
+		<title>Betaalbatch ongedaan maken</title>
 	</menu>
 </properties>
 
