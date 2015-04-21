@@ -43,7 +43,7 @@ Wanneer het e-mailadres is ingegeven wordt automatisch gecheckt of de SPF record
 
 ## Uw instellingen controleren ##
 
-Op de site van [MXToolbox](http://mxtoolbox.com/SuperTool.aspx?action=spf%3ahybridsaas.email) kan je controleren hoe je SPF-records zijn insteld. 
+Op de site van [MXToolbox](http://mxtoolbox.com/SuperTool.aspx?action=_spf%3ahybridsaas.email) kan je controleren hoe je SPF-records zijn insteld. 
 
 <div class="info">
 Vul in het tekstveld het gedeelte in achter het apenstaartje (@). van het e-mailadres. Als het e-mailadres bijvoorbeeld **info@voorbeeld.bedrijf** is, kan je in het veld invoeren: **spf:voorbeeld.bedrijf** 
