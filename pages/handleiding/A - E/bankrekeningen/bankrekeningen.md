@@ -4,7 +4,7 @@
 		<title>Bankrekeningen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / A - E / Bankrekeningen 
+		<position>Handleiding / Modules / A - E / Bankrekeningen</position>
 		<title>Introductie</title>
 	</menu>
 </properties>
