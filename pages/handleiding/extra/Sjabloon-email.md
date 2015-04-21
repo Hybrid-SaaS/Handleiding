@@ -3,7 +3,7 @@
 		<title>Sjabloon Email</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Sjabloon Email</position>
+		<position>Handleiding / Onderdeel / E-mail / Email sjabloon</position>
 		<title>Sjabloon Email</title>
 	</menu>
 </properties>
