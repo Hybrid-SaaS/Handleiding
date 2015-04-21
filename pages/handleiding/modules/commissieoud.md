@@ -4,7 +4,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Commissiebeheer</position>
-		<title>Commissie</title>
+		<title>Commissie-oud</title>
 	</menu>
 </properties>
 
