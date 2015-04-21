@@ -1,6 +1,6 @@
 <properties>
 	<menu>
-		<position>Handleiding / Modules / A - E / Contracten 12</position> 
+		<position>Handleiding / Modules / A - E / Contracten / Contracten aanmaken</position> 
 		<title>Contracten administratie</title>
 	</menu>
 	<page>
