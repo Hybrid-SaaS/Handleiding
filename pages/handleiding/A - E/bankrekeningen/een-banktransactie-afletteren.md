@@ -4,7 +4,7 @@
 		<title>Bankrekeningen</title>
 	</page>
 	<menu>
-		<position>Bankrekeningen 
+		<position>Handleiding / Modules / A - E / Bankrekeningen / Een banktransactie afletteren</position>
 		<title>Introductie</title>
 	</menu>
 </properties>

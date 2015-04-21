@@ -4,7 +4,7 @@
 		<title>Bankrekeningen</title>
 	</page>
 	<menu>
-		<position>Bankrekeningen 
+		<position>Handleiding / Modules / A - E / Bankrekeningen / Een nieuwe bankrekening aanmaken</position>
 		<title>Introductie</title>
 	</menu>
 </properties>
