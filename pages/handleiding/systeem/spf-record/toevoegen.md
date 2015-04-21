@@ -17,8 +17,15 @@ In dit record wordt vermeld welke mailservers namens dit domein mail mogen verze
 </div>
 
 <div class="tip">
-Deze gegevens dienen bij de serviceprovider van het domein, waar de e-mail van wordt verzonden, aangepast te worden. Uw systeembeheer weet hoe deze gegevens aangepast dienen te worden
+Deze gegevens dienen bij de serviceprovider van het domein, waar de e-mail van wordt verzonden, aangepast te worden. Uw systeembeheer weet hoe deze gegevens aangepast dienen te worden.
 </div>
+
+## Hybrid SaaS toestaan emails uit uw (domein)naam te sturen ##
+
+In uw spf-record moet u de e-mailservers toevoegen (includen) die mails mogen versturen. Het volgende commando zorgt ervoor dat alle e-mailservers worden opgenomen:
+
+**include:_spf.hybridsaas.email**
+
 
 ## E-mailadres instellen ##
 
@@ -32,3 +39,17 @@ Vul bij "van" het e-mailadres in welke gebruik dient te worden als verzendadres.
 <div class="info">
 Wanneer het e-mailadres is ingegeven wordt automatisch gecheckt of de SPF records correct zijn ingesteld. Indien deze niet correct zijn wordt hiervan een melding gegeven.
 </div>
+
+
+## Uw instellingen controleren ##
+
+Op de site van [MXToolbox](http://mxtoolbox.com/SuperTool.aspx?action=spf%3ahybridsaas.email) kan je controleren hoe je SPF-records zijn insteld. 
+
+<div class="info">
+Vul in het tekstveld het gedeelte in achter het apenstaartje (@). van het e-mailadres. Als het e-mailadres bijvoorbeeld **info@voorbeeld.bedrijf** is, kan je in het veld invoeren: **spf:voorbeeld.bedrijf** 
+
+Na het klikken op de knop krijg je de inhoud van het spf-record van je domein te zien.
+</div>
+
+
+
