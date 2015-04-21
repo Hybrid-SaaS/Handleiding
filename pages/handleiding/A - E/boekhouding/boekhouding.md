@@ -3,7 +3,7 @@
 		<title>Boekhouding</title>
 	</page>
 	<menu>
-		<position>Boekhouding 
+		<position>Handleiding / Modules / A - E / Boekhouding 
 		<title>Introductie</title>
 	</menu>
 </properties>
