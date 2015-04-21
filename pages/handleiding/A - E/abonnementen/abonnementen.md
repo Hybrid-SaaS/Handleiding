@@ -3,7 +3,7 @@
 		<title>Abonnementen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Abonnementen</position>
+		<position>Handleiding / Modules / A - E / Abonnementen</position>
 		<title>Introductie</title>
 	</menu>
 </properties>
