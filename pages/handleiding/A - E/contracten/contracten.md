@@ -5,7 +5,7 @@
 		<context>contract-*, dlgcontract</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Contracten</position>
+		<position>Handleiding / Modules / A - E / Contracten</position>
 		<title>Uitleg</title>
 	</menu>
 </properties>
