@@ -6,7 +6,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Producten</position>
-		<title>Modulebeschrijving</title>
+		<title>Introductie</title>
 	</menu>
 </properties>
 

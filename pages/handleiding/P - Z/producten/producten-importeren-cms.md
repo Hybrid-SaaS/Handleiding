@@ -3,7 +3,7 @@
 		<title>Producten imporeteren CMS</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Producten / Importeren</position>
+		<position>Handleiding / Modules / P - Z / Producten / Producten importeren CMS</position>
 		<title>Importeren CMS</title>
 	</menu>
 </properties>
