@@ -3,7 +3,7 @@
 		<title>Projecten</title>
 	</page>
 	<menu>
-		<position>Projecten 
+		<position>Handleiding / Modules / P - Z / Projecten</position>
 		<title>Introductie</title>
 	</menu>
 </properties>

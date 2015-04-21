@@ -3,7 +3,7 @@
 		<title>Relatiebeheer</title>
 	</page>
 	<menu>
-		<position>Relatiebeheer 
+		<position>Handleiding / Modules / P - Z / Relatiebeheer</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

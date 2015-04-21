@@ -3,7 +3,7 @@
 		<title>Prepaid kaarten</title>
 	</page>
 	<menu>
-		<position>Prepaid kaarten 
+		<position>Handleiding / Modules / P - Z / Prepaid kaarten</position>  
 		<title>Introductie</title>
 	</menu>
 </properties>

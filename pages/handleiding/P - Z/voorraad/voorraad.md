@@ -1,9 +1,9 @@
 <properties>
 	<page>
-		<title>Voorraad</title>
+		<title>Voorraadbeheer</title>
 	</page>
 	<menu>
-		<position>Voorraad 
+		<position>Handleiding / Modules / P - Z / Voorraadbeheer</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

@@ -3,7 +3,7 @@
 		<title>Wachtwoordbeheer</title>
 	</page>
 	<menu>
-		<position>Wachtwoordbeheer 
+		<position>Handleiding / Modules / P - Z / Wachtwoordbeheer</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

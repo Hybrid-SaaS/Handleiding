@@ -3,7 +3,7 @@
 		<title>Werkbonnen</title>
 	</page>
 	<menu>
-		<position>Werkbonnen 
+		<position>Handleiding / Modules / P - Z / Werkbonnen</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

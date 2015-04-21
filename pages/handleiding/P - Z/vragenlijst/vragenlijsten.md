@@ -3,7 +3,7 @@
 		<title>Vragenlijsten</title>
 	</page>
 	<menu>
-		<position>Vragenlijsten 
+		<position>Handleiding / Modules / P - Z / Vragenlijst</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

@@ -5,7 +5,7 @@
 		<context>product*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Producten</position> 
+		<position>Handleiding / Modules / P - Z / Producten</position>
 		<title>Modulebeschrijving</title>
 	</menu>
 </properties>

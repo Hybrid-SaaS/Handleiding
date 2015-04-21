@@ -3,7 +3,7 @@
 		<title>Ticketsysteem</title>
 	</page>
 	<menu>
-		<position>Ticketsysteem 
+		<position>Handleiding / Modules / P - Z / Ticketsysteem</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>
