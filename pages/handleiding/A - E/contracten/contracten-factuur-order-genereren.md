@@ -3,7 +3,7 @@
 		<title>Contracten</title>
 	</page>
 	<menu>
-		<position>Handleiding / Contracten </position>
+		<position>Handleiding / Modules / A - E / Contracten34 </position>
 		<title>Contracten genereren</title>
 		<description>Uitleg hoe je contracten kan omzetten in facturen</description>
 	</menu>
