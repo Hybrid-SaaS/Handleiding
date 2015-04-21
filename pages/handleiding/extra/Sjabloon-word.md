@@ -3,7 +3,7 @@
 		<title>Sjabloon Word</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Sjabloon word</position>
+		<position>Handleiding / Onderdeel / Word / Sjabloon word</position>
 		<title>Sjabloon Word</title>
 	</menu>
 </properties>
