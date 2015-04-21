@@ -3,7 +3,7 @@
 		<title>KM registratie</title>
 	</page>
 	<menu>
-		<position>KM registratie 
+		<position>Handleiding / Modules / F - O / KM registratie</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

@@ -3,7 +3,7 @@
 		<title>Klantportaal</title>
 	</page>
 	<menu>
-		<position>Klantportaal 
+		<position>Handleiding / Modules / F - O / Klantportaal</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

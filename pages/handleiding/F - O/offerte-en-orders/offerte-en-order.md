@@ -3,7 +3,7 @@
 		<title>Offerte en Order</title>
 	</page>
 	<menu>
-		<position>Offerte en Order 
+		<position>Handleiding / Modules / F - O / Offertes en orders</position>
 		<title>Introductie</title>
 	</menu>
 </properties>

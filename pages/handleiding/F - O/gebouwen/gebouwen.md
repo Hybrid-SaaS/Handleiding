@@ -3,7 +3,7 @@
 		<title>Gebouwen</title>
 	</page>
 	<menu>
-		<position>Gebouwen 
+		<position>Handleiding / Modules / F - O / Gebouwen</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>
