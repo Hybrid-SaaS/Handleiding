@@ -3,7 +3,7 @@
 		<title>Tijdregistratie</title>
 	</page>
 	<menu>
-		<position>Tijdregistratie 
+		<position>Handleiding / Modules / P - Z / Tijdregistratie aanmaken</position>  
 		<title>Introductie</title>
 	</menu>
 </properties>

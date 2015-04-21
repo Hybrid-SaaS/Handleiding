@@ -3,7 +3,7 @@
 		<title>Tijdregistratie</title>
 	</page>
 	<menu>
-		<position>Tijdregistratie 
+		<position>Handleiding / Modules / P - Z / Tijdregistratie goedkeuren</position>  
 		<title>Introductie</title>
 	</menu>
 </properties>
