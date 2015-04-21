@@ -3,7 +3,7 @@
 		<title>Inventarisbeheer</title>
 	</page>
 	<menu>
-		<position>Inventarisbeheer 
+		<position>Handleiding / Modules / F - O / Inventarisbeheer</position> 
 		<title>Introductie</title>
 	</menu>
 </properties>

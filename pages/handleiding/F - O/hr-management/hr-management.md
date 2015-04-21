@@ -3,7 +3,7 @@
 		<title>HR Management</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / HR Management</position></position> 
+		<position>Handleiding / Modules / F - O / HR Management</position>
 		<title>Introductie</title>
 	</menu>
 </properties>

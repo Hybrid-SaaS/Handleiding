@@ -2,7 +2,7 @@
 	<page>
 		<title>Module facturatie</title>
 		<menu>
-		<position>Handleiding / Modules / F - O / Facturatie</position></position>
+		<position>Handleiding / Modules / F - O / Facturatie</position>
 		<title>Introductie</title>
 	</menu>
 </properties>
