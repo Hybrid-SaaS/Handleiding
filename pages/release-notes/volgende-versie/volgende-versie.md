@@ -17,31 +17,30 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 </div>
  
 ---------------------------------------------------------------------------------------------------------	
+<div class="tag-fix"></div>
 **Verbetering werking geëxporteerde inkoopfacturen**
 
-<div class="tag-fix"></div>
 Op inkoopfacturen werden betalings en financiële exports niet altijd weergegeven.
 
 ![](images/inkoop-factuur-export-info.jpg)
-
-
-
+---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
 Indien het deblokkeren van een inkoopfactuur niet mogelijk is omdat er een financiële export aanwezig is, verschijnt er nu een verbeterde melding die direct verwijst naar het nummer van de export.
 
 ![](images/inkoop-factuur-melding-deblokkeren.jpg)
 
 ---------------------------------------------------------------------------------------------------------
+<div class="tag-update"></div>
 **Verbetering werking geëxporteerde verkoopfacturen**
 
-<div class="tag-update"></div>
 Indien het deblokkeren van een verkoopfactuur niet mogelijk is omdat er een financiële export aanwezig is, verschijnt er nu een verbeterde melding die direct verwijst naar het nummer van de export.
 
 ![](images/verkoop-factuur-melding-deblokkeren.jpg)
 
 ---------------------------------------------------------------------------------------------------------
-**Individuele financiële export records ongedaan maken**
 <div class="tag-new"></div>
+**Individuele financiële export records ongedaan maken**
+
 Het is mogelijk om losse transacties van een financiële export ongedaan te maken. Hiervoor is een nieuwe menu knop toegevoegd genaamd **Ongedaan maken** 
 
 ![](images/financiele-export-ongedaan-maken.jpg)
@@ -59,26 +58,30 @@ Tevens is de actie gelogd bij de gekoppelde factuur
 ![](images/financiele-export-ongedaan-gemaakt-log.jpg)
 
 ---------------------------------------------------------------------------------------------------------
-**BTW**
 <div class="tag-update"></div>
+**BTW**
+
 Wijzigen van de standaard btw code vraagt of je de btw code van de adviesverkoopprijzen in producten wilt aanpassen, bij importeren van nieuwe producten uit excel zet het systeem nu ook standaard de btw code voor de adviesverkoopprijzen
 
 ---------------------------------------------------------------------------------------------------------
-**BANK**
 <div class="tag-update"></div>
+**BANK**
+
 ![](images/.jpg)
 Indien er imports zijn zonder transacties (zoals rabobank ze aanlevert) zal deze als 'correct' worden weergegeven in de controle
 
 ---------------------------------------------------------------------------------------------------------
-**CONTRACTEN**
 <div class="tag-update"></div>
+**CONTRACTEN**
+
 Bij de keuze om een contractwaarde per 3 maanden (kwartaal) vast te leggen werd er in de planning een met afrondongen gewerkt. hierdoor kwam er een verkeerde waarde op de factuur. Dit is aangepast. Het juiste bedrag wordt nu berekend en getoond op de factuur
 ![](images/contract-3-maanden.jpg)
 
 
 ---------------------------------------------------------------------------------------------------------
-**TIJDREGISTRATIE**
 <div class="tag-new"></div>
+**TIJDREGISTRATIE**
+
 
 Overboekknop op meerdere plekken beschikbaar. Binnen de module tijdregistratie is de knop om een tijdregistratie over te boeken op meerder plaatsen toegevoegd. Zo is hij nu beschikbaar bij:
 
