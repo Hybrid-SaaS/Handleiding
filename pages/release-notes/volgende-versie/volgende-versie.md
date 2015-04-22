@@ -69,7 +69,7 @@ Wijzigen van de standaard btw code vraagt of je de btw code van de adviesverkoop
 **BANK**
 
 ![](images/.jpg)
-Indien er imports zijn zonder transacties (zoals rabobank ze aanlevert) zal deze als 'correct' worden weergegeven in de controle
+Indien er imports zijn zonder transacties (zoals Rabobank ze aanlevert) zal deze als 'correct' worden weergegeven in de controle
 
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
@@ -210,7 +210,7 @@ Als je producten aan een ander product relateerde dan werd dit product dubbel op
 <div class="tag-update"></div>
 **KENMERKEN**
 
-Bulk CMS eigenschappen kunnen bewerken vanaf product kenmerken. Je kan nu via de product kenmerken de CMS gegevens in één keer aanpassen.
+Bulk CMS eigenschappen kunnen bewerken vanaf product kenmerken. Je kan nu via de product kenmerken de CMS gegevens in één keer aanpassen. Er moet wel een bestaand CMS record aanwezig zijn, dan kan je de 4 velden (Eenheid, Materialen, Kleur en CSS class website) aanpassen.
 ![](images/cms-bulk-aanpassing-1.jpg)
 ![](images/cms-bulk-aanpassing-2.jpg)
 ---------------------------------------------------------------------------------------------------------
