@@ -94,11 +94,13 @@ Overboekknop op meerdere plekken beschikbaar. Binnen de module tijdregistratie i
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
 **Bank**
+
 Verwijderde incasso exports zijn niet meer zichtbaar (INKOOP)FACTUUR - Het deblokkeren houdt rekening met verwijderde en ongedane financiële exports
 
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
 **PROGNOSE**
+
  Directe koppeling op tijdregistratie gezet, zo kun je ook tijd overboeken tussen prognose onderdelen
 
 ---------------------------------------------------------------------------------------------------------
