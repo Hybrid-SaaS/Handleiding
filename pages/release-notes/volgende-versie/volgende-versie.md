@@ -210,21 +210,22 @@ Als je producten aan een ander product relateerde dan werd dit product dubbel op
 <div class="tag-update"></div>
 **KENMERKEN**
 
-Bulk CMS eigenschappen kunnen bewerken vanaf product kenmerken
+Bulk CMS eigenschappen kunnen bewerken vanaf product kenmerken. Je kan nu via de product kenmerken de CMS gegevens in één keer aanpassen.
 ![](images/cms-bulk-aanpassing-1.jpg)
 ![](images/cms-bulk-aanpassing-2.jpg)
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-new"></div>
 **INKOOPFACTUUR**
 
-Commissie afdracht velden beschikbaar gemaakt
+Commissie afdracht velden beschikbaar gemaakt. Deze extra velden kunnen nu gebruikt worden in de word sjablonene die gebruik maken van de tabel "inkoopfacturen". 
+![](images/word-sjabloon-commissie.jpg)
+
 
 ---------------------------------------------------------------------------------------------------------
-<div class="tag-update"></div>
+<div class="tag-new"></div>
 **E-MAIL SJABLONEN**
 
-De verlof aanvraag e-mail kan nu zelf worden beheerd door middel van een sjabloon. Deze extra velden kunnen nu gebruikt worden in de word sjablonene die gebruik maken van de tabel "inkoopfacturen". 
-![](images/word-sjabloon-commissie.jpg)
+De verlof aanvraag e-mail kan nu zelf worden beheerd door middel van een sjabloon. 
 
 ---------------------------------------------------------------------------------------------------------
 **12**
