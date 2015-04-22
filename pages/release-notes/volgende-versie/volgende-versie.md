@@ -104,98 +104,117 @@ Verwijderde incasso exports zijn niet meer zichtbaar (INKOOP)FACTUUR - Het deblo
  Directe koppeling op tijdregistratie gezet, zo kun je ook tijd overboeken tussen prognose onderdelen
 
 ---------------------------------------------------------------------------------------------------------
-**TIJDREGISTATIES**
 <div class="tag-update"></div>
+**TIJDREGISTATIES**
+
  Weergegeven uurtarieven worden bijgewerkt indien de factuur is aangepast of afgekeurd, via excel export zie je het originele tarief nog wel.
 
 ---------------------------------------------------------------------------------------------------------
-**BANK**
 <div class="tag-update"></div>
+**BANK**
+
  Mogelijkheid tot het ongedaan maken van individuele financiële export records + logging INKOOP/VERKOOPFACTUUR - Deblokkeren geeft betere melding door blokkade financieel export INKOOPFACTUUR - Weergave van gekoppelde financiële exports in tabblad interne opmerking
 
 ---------------------------------------------------------------------------------------------------------
-**TIJDREGISTRATIE**
 <div class="tag-update"></div>
+**TIJDREGISTRATIE**
+
 Koppeling met prognose / PROGNOSE nieuwe methode / TICKET doorbelasten (beta) / FACTUREN aantal gescande bijlagen zichtbaar
 
 ---------------------------------------------------------------------------------------------------------
-**TICKET**
 <div class="tag-update"></div>
+**TICKET**
+
 Gerelateerde tickets gaan niet meer automatisch mee met de status wijziging
 
 ---------------------------------------------------------------------------------------------------------
-**Adressen**
 <div class="tag-update"></div>
+**Adressen**
+
 Je kunt aangeven welk adres in de storelocator wordt weergegeven
 
 ---------------------------------------------------------------------------------------------------------
-**Storelocator**
 <div class="tag-update"></div>
+**Storelocator**
+
 De storelocator accepteerd nu ook EN /system/storelocator/?language=EN
 
 ---------------------------------------------------------------------------------------------------------
-**TICKETS**
 <div class="tag-update"></div>
+**TICKETS**
+
 Opslaan van tickets is efficiënter geworden (x aantal loopings zaten er in), tevens bij actie toewijzen controleert het dialoog eerst of het onderwerp / categorie is ingegeven
 
 ---------------------------------------------------------------------------------------------------------
-**GEBRUIKERS**
 <div class="tag-update"></div>
+**GEBRUIKERS**
+
 Je kunt aangeven per gebruiker of deze alle gebruikers kan selecteren bij een gebruikers selectie keuze, zo niet dan kun je dit per afdeling instellen
 
 ---------------------------------------------------------------------------------------------------------
-**TICKETS**
 <div class="tag-update"></div>
+**TICKETS**
+
 Door facturen van tickets tegen een vaste prijs (naar meerdere opdrachtgevers)
 
 ---------------------------------------------------------------------------------------------------------
-**INKOOPFACTUUR**
 <div class="tag-update"></div>
+**INKOOPFACTUUR**
+
 Bij wijzigen datum komt meteen de juiste boekperiode in de factuur
 
 ---------------------------------------------------------------------------------------------------------
-**TICKET**
 <div class="tag-update"></div>
+**TICKET**
+
 Door belasting kosten haalt laatste werkcode op en neemt de opdrachtgever over uit het ticket
 
 ---------------------------------------------------------------------------------------------------------
-**MANDAGENSTAAT**
 <div class="tag-update"></div>
+**MANDAGENSTAAT**
+
 Na het verwijderen van een mandagenstaat komen de registraties nu weer terug als te verwerken. voorheen moest je alle registraties opnieuw goedkeuren
 
 ---------------------------------------------------------------------------------------------------------
-**MANDAGENSTAAT**
 <div class="tag-update"></div>
+**MANDAGENSTAAT**
+
 Je kunt bij de werkcode aangeven of de registraties NIET op een mandagenstaat komen te staan, dit is handig voor interne uren. bij verwerken wordt het vinkje geen mandagenstaat aangezet op de tijdregistratie
 
 ---------------------------------------------------------------------------------------------------------
-**CORRESPONDENTIE**
 <div class="tag-update"></div>
+**CORRESPONDENTIE**
+
 Koppeling vanuit kenmerk om de gekoppelde stukken in te zien
 
 ---------------------------------------------------------------------------------------------------------
-**WERKCODE - FACTUREN**
 <div class="tag-update"></div>
+**WERKCODE - FACTUREN**
+
 Extra journalisatie (t.b.v. onderhanden werk)
 
 ---------------------------------------------------------------------------------------------------------
-**WEBSITE**
 <div class="tag-fix"></div>
+**WEBSITE**
+
 Gerelateerde producten werden dubbel weergegeven
 
 ---------------------------------------------------------------------------------------------------------
-**KENMERKEN**
 <div class="tag-update"></div>
+**KENMERKEN**
+
 Bulk CMS eigenschappen kunnen bewerken vanaf product kenmerken
 
 ---------------------------------------------------------------------------------------------------------
-**INKOOPFACTUUR**
 <div class="tag-new"></div>
+**INKOOPFACTUUR**
+
 Commissie afdracht velden beschikbaar gemaakt
 
 ---------------------------------------------------------------------------------------------------------
-**E-MAIL SJABLONEN**
 <div class="tag-update"></div>
+**E-MAIL SJABLONEN**
+
 De verlof aanvraag e-mail kan nu zelf worden beheerd door middel van een sjabloon
 
 ---------------------------------------------------------------------------------------------------------
