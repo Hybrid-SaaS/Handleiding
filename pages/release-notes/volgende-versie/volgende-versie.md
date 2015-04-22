@@ -23,6 +23,7 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 Op inkoopfacturen werden betalings en financiële exports niet altijd weergegeven.
 
 ![](images/inkoop-factuur-export-info.jpg)
+
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
 Indien het deblokkeren van een inkoopfactuur niet mogelijk is omdat er een financiële export aanwezig is, verschijnt er nu een verbeterde melding die direct verwijst naar het nummer van de export.
@@ -74,7 +75,7 @@ Indien er imports zijn zonder transacties (zoals rabobank ze aanlevert) zal deze
 <div class="tag-update"></div>
 **CONTRACTEN**
 
-Bij de keuze om een contractwaarde per 3 maanden (kwartaal) vast te leggen werd er in de planning een met afrondongen gewerkt. hierdoor kwam er een verkeerde waarde op de factuur. Dit is aangepast. Het juiste bedrag wordt nu berekend en getoond op de factuur
+Bij de keuze om een contractwaarde per 3 maanden (kwartaal) vast te leggen werd er in de planning een met afrondingen gewerkt. Hierdoor kwam er een verkeerde waarde op de factuur. Dit is aangepast. Het juiste bedrag wordt nu berekend en getoond op de factuur
 ![](images/contract-3-maanden.jpg)
 
 
@@ -129,6 +130,7 @@ Koppeling met prognose / PROGNOSE nieuwe methode / TICKET doorbelasten (beta) / 
 **TICKET**
 
 Gerelateerde tickets gaan niet meer automatisch mee met de status wijziging
+![](images/tickets-gerelateerd-status.jpg)
 
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
@@ -200,14 +202,17 @@ Extra journalisatie (t.b.v. onderhanden werk)
 <div class="tag-fix"></div>
 **WEBSITE**
 
-Gerelateerde producten werden dubbel weergegeven
+Gerelateerde producten werden dubbel weergegeven.
+Als je producten aan een ander product relateerde dan werd dit product dubbel opgeslagen en hierdoor ook dubbel zichtbaar op de website. dit is aangepast. 
+![](images/product-gerelateerd-dubbel.jpg)
 
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-update"></div>
 **KENMERKEN**
 
 Bulk CMS eigenschappen kunnen bewerken vanaf product kenmerken
-
+![](images/cms-bulk-aanpassing-1.jpg)
+![](images/cms-bulk-aanpassing-2.jpg)
 ---------------------------------------------------------------------------------------------------------
 <div class="tag-new"></div>
 **INKOOPFACTUUR**
@@ -218,7 +223,8 @@ Commissie afdracht velden beschikbaar gemaakt
 <div class="tag-update"></div>
 **E-MAIL SJABLONEN**
 
-De verlof aanvraag e-mail kan nu zelf worden beheerd door middel van een sjabloon
+De verlof aanvraag e-mail kan nu zelf worden beheerd door middel van een sjabloon. Deze extra velden kunnen nu gebruikt worden in de word sjablonene die gebruik maken van de tabel "inkoopfacturen". 
+![](images/word-sjabloon-commissie.jpg)
 
 ---------------------------------------------------------------------------------------------------------
 **12**
