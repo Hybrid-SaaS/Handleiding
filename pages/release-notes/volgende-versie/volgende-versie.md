@@ -59,26 +59,26 @@ Tevens is de actie gelogd bij de gekoppelde factuur
 ![](images/financiele-export-ongedaan-gemaakt-log.jpg)
 
 ---------------------------------------------------------------------------------------------------------
-**BTW - Wijzigen van de standaard btw code vraagt of je de btw code van de adviesverkoopprijzen in producten wilt aanpassen, bij importeren van nieuwe producten uit excel zet het systeem nu ook standaard de btw code voor de adviesverkoopprijzen
-15:08:43 - Sjaak Marelis**
+**BTW**
+<div class="tag-update"></div>
+Wijzigen van de standaard btw code vraagt of je de btw code van de adviesverkoopprijzen in producten wilt aanpassen, bij importeren van nieuwe producten uit excel zet het systeem nu ook standaard de btw code voor de adviesverkoopprijzen
 
 ---------------------------------------------------------------------------------------------------------
 **BANK**
-
 <div class="tag-update"></div>
 ![](images/.jpg)
- Indien er imports zijn zonder transacties (zoals rabobank ze aanlevert) zal deze als 'correct' worden weergegeven in de controle
+Indien er imports zijn zonder transacties (zoals rabobank ze aanlevert) zal deze als 'correct' worden weergegeven in de controle
+
 ---------------------------------------------------------------------------------------------------------
 **CONTRACTEN**
-
-Bij de keuze om een contractwaarde per 3 maanden (kwartaal) vast te leggen werd er in de planning een met afrondongen gewerkt. hierdoor kwam er een verkeerde waarde op de factuur. Dit is aangepast. Het juiste bedrag wordt nu berekend en getoond op de factuur
-
 <div class="tag-update"></div>
+Bij de keuze om een contractwaarde per 3 maanden (kwartaal) vast te leggen werd er in de planning een met afrondongen gewerkt. hierdoor kwam er een verkeerde waarde op de factuur. Dit is aangepast. Het juiste bedrag wordt nu berekend en getoond op de factuur
 ![](images/contract-3-maanden.jpg)
 
 
 ---------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
+<div class="tag-new"></div>
 
 Overboekknop op meerdere plekken beschikbaar. Binnen de module tijdregistratie is de knop om een tijdregistratie over te boeken op meerder plaatsen toegevoegd. Zo is hij nu beschikbaar bij:
 
@@ -88,7 +88,7 @@ Overboekknop op meerdere plekken beschikbaar. Binnen de module tijdregistratie i
 - Alle afgekeurde tijdregistraties
 - Goed te keuren tijdregistraties van mijn projecten
 
-<div class="tag-new"></div>
+
 ![](images/tijdregistratie-overboeken.jpg)
 
 ---------------------------------------------------------------------------------------------------------
@@ -100,22 +100,27 @@ Verwijderde incasso exports zijn niet meer zichtbaar (INKOOP)FACTUUR - Het deblo
 **PROGNOSE**
 <div class="tag-update"></div>
  Directe koppeling op tijdregistratie gezet, zo kun je ook tijd overboeken tussen prognose onderdelen
+
 ---------------------------------------------------------------------------------------------------------
 **TIJDREGISTATIES**
 <div class="tag-update"></div>
  Weergegeven uurtarieven worden bijgewerkt indien de factuur is aangepast of afgekeurd, via excel export zie je het originele tarief nog wel.
+
 ---------------------------------------------------------------------------------------------------------
 **BANK**
 <div class="tag-update"></div>
  Mogelijkheid tot het ongedaan maken van individuele financiële export records + logging INKOOP/VERKOOPFACTUUR - Deblokkeren geeft betere melding door blokkade financieel export INKOOPFACTUUR - Weergave van gekoppelde financiële exports in tabblad interne opmerking
+
 ---------------------------------------------------------------------------------------------------------
 **TIJDREGISTRATIE**
 <div class="tag-update"></div>
 Koppeling met prognose / PROGNOSE nieuwe methode / TICKET doorbelasten (beta) / FACTUREN aantal gescande bijlagen zichtbaar
+
 ---------------------------------------------------------------------------------------------------------
 **TICKET**
 <div class="tag-update"></div>
 Gerelateerde tickets gaan niet meer automatisch mee met de status wijziging
+
 ---------------------------------------------------------------------------------------------------------
 **Adressen**
 <div class="tag-update"></div>
