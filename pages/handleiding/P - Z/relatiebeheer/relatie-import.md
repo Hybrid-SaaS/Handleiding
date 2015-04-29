@@ -51,12 +51,16 @@ Zodra je alle gegevens in het importbestand hebt verwerkt en dit bestand hebt op
 ![](images/import-import.jpg)
 
 <div class="info">
-LET OP: het bestand mag niet geöpend zijn op het moment dat je gaat importeren. Dan geeft het systeem een ERROR.</div>
+LET OP: het bestand mag niet geopend zijn op het moment dat je gaat importeren. 
+Dan geeft het systeem een ERROR.
+</div>
 
-Als de import is uitgevoerd wordt er in je Internet Explorer een rapport getoond. Hierin staan als het goed is geen fouten. Maar zoals in onderstaand voorbeeld wordt aangegeven kan er iets mis gaan.
+Als de import is uitgevoerd wordt er in je Internet Explorer een rapport getoond. Hierin staan als het goed is geen fouten. Mochten er toch fouten in het rapport voorkomen, pas dan het initiële importbestand aan en lees het bestand opnieuw in.
+
+**Voorbeeld Rapport**
 
 - Shipping_cost = verkeerd formaat ingevoerd
-- Accountmanager = De ingevoerde accountmanager bestaat niet in het systeem. (validatie op  tabel"accountmanager" )
+- Accountmanager = De ingevoerde accountmanager bestaat niet in het systeem. (validatie op tabel "accountmanager")
 
 ![](images/import-rapport.jpg)
 
