@@ -21,10 +21,11 @@ Als je via de START knop naar Extra, Importeren gegevens gaat dan krijg je een s
 ![](images/import-start.jpg)
 
 Voor de relaties kies je "Bedrijven importeren".
-Als je dit voor het eerst doet, dan begin je met het downloaden van de voorbeeld sheet. Er wordt dan een 
+Als je dit voor het eerst doet, dan begin je met het downloaden van de voorbeeld sheet. Er wordt dan een excel sheet geopend.
+
 ![](images/import-scherm.jpg)
 
-Hierin krijg je horizontaal alle mogelijke velden die je kan invullen en daarna importeren.
+Hierin krijg je horizontaal alle mogelijke velden die je kan invullen en daarna importeren. Vul handmatig of kopieer de gewenste velden in dit importbestand.
 
 ![](images/import-voorbeeld-excel.jpg)
 
@@ -33,7 +34,7 @@ In onderstaande matrix zie je welk importveld correspondeert met het database ve
 - Veld bestand			
 	- Veldnaam uit de het bestand (Engels)
 - Tabel
-	- De tabel waar de data wordt weggeschreven (Berdijf en Persoon)
+	- De tabel waar de data wordt weggeschreven (Bedrijf en Persoon)
 - Scherm tabblad
 	- Het tabblad in het relatie scherm waar de gegevens zichtbaar worden
 - Scherm blok
@@ -45,7 +46,9 @@ In onderstaande matrix zie je welk importveld correspondeert met het database ve
 
 **Importeren van het importbestand**
 
-Zodra je alle gegevens in het importbestand hebt verwerkt en dit bestand hebt opgeslagen kan je deze gaan importeren. 
+Zodra je alle gegevens in het importbestand hebt verwerkt en dit bestand hebt opgeslagen kan je deze gaan importeren. Dit doe je door in het "Importeren Data" scherm de knop "Klik hier om bedrijven te importeren". Zoek het juiste importbestand en klik op "Openen". Het bestand wordt ingelezen.
+
+![](images/import-import.jpg)
 
 <div class="info">
 LET OP: het bestand mag niet geöpend zijn op het moment dat je gaat importeren. Dan geeft het systeem een ERROR.</div>
