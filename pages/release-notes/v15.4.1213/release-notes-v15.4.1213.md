@@ -3,7 +3,7 @@
 		<title>Release notes versie v15.4.1213 (30-04-2015)</title>
 	</page>
 	<menu>
-		<position>Release notes / Productie </position>
+		<position>Release notes</position>
 		<title> v15.4.1213 (30-04-2015) </title>
 	</menu>
 </properties>

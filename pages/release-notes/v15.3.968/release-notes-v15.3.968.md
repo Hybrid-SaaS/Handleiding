@@ -3,7 +3,7 @@
 		<title>Release notes versie v15.3.968 (17-03-2015)</title>
 	</page>
 	<menu>
-		<position>Release notes / Productie </position>
+		<position>Release notes / Historie </position>
 		<title> v15.3.968 (17-03-2015) </title>
 	</menu>
 </properties>
