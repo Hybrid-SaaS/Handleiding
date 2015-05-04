@@ -15,7 +15,9 @@ Release notes versie v15.4.1213 (30 april 2015)
 <div class="tag-hotfix"></div>
 *Versie v15.5.1227 (4 mei 2015)*
 
+** Importeren werkcodes foutmelding **
 Bij het verwerken van een werkcode-import kon het systeem een foutmelding geven indien de entiteitsnaam een getal was in de aangeboden Excelsheet.
+
 
 
 
