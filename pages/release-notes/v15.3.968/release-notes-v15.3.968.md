@@ -1,14 +1,14 @@
 <properties>
 	<page>
-		<title>Release notes versie v15.3.968 (17-03-2015)</title>
+		<title>Release notes versie v15.3.968 (17 maart 2015)</title>
 	</page>
 	<menu>
 		<position>Release notes / Historie </position>
-		<title> v15.3.968 (17-03-2015) </title>
+		<title> v15.3.968 (17 maart 2015) </title>
 	</menu>
 </properties>
 
-Release notes versie v15.3.968 (17-03-2015)
+Release notes versie v15.3.968 (17 maart 2015)
 ===================
 
 <div class="tag-fix"></div>
