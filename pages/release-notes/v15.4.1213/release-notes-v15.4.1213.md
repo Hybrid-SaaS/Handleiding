@@ -1,15 +1,21 @@
 <properties>
 	<page>
-		<title>Release notes versie v15.4.1213 (30-04-2015)</title>
+		<title>Release notes versie v15.4.1213 (30 april 2015)</title>
 	</page>
 	<menu>
 		<position>Release notes</position>
-		<title> v15.4.1213 (30-04-2015) </title>
+		<title> v15.4.1213 (30 april 2015) </title>
 	</menu>
 </properties>
 
-Release notes versie v15.3.968 (17-03-2015)
+Release notes versie v15.4.1213 (30 april 2015)
 ===================
+
+
+<div class="tag-hotfix"></div>
+*Versie v15.5.1227 (4 mei 2015)*
+Bij het verwerken van de werkcodes-import kon het systeem een foutmelding geven indien de entiteitnaam een getal was.
+
 
 
 
