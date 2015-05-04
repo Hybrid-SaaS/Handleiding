@@ -62,7 +62,6 @@ Als de import is uitgevoerd wordt er in je Internet Explorer een rapport getoond
 
 ![](images/import-rapport.jpg)
 
-TEST SAMEN met Yvonne
 
 
 
