@@ -86,7 +86,6 @@ Wijzigen van de standaard btw code vraagt of je de btw code van de adviesverkoop
 <div class="tag-update"></div>
 **BANK**
 
-![](images/.jpg)
 Indien er imports zijn zonder transacties (zoals Rabobank ze aanlevert) zal deze als 'correct' worden weergegeven in de controle
 
 
