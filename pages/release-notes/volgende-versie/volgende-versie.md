@@ -18,9 +18,13 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 </div>
  
 
+
+
+## Module website ##
+
 <div class="tag-update"></div>
 
-## Website rechten uitgebreid ##
+**Website rechten uitgebreid**
 
 De website rechten zijn nu uitgebreid van één naar 4 rechten:
 
@@ -45,3 +49,14 @@ Het is nu mogelijk om apart de volgende rechten in te stellen:
 <div class="warning">
 Na de upgrade krijgen alle gebruikers die alleen rechten hadden voor websites, automatisch deze nieuwe rechten toegewezen.
 </div>
+
+
+
+
+
+
+
+
+
+
+
