@@ -13,7 +13,7 @@
 In de release notes staan de wijzigingen voor de volgende productieversie van Hybrid SaaS.
 
 
-<div class="info">
+<div class="warning">
 De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende release van Hybrid SaaS zal deze functionaliteiten bevatten.
 </div>
  
@@ -25,10 +25,10 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 
 **Ongeldige bureaublad iconen**
 
-Indien er een snelkoppeling op het bureaublad is geplaatst die verwijst naar een Hybrid SaaS optie die niet meer bestaat of is gewijzigd, kon een foutmelding optreden na het aanklikken. Na deze update zal dit icoon niet meer worden getoond worden op het bureaublad.
+Indien er een snelkoppeling op het bureaublad is geplaatst die verwijst naar een Hybrid SaaS optie die niet meer bestaat of is gewijzigd, kon een foutmelding optreden na het aanklikken. Na deze update zullen deze iconen niet meer worden getoond.
 
 <div class="info">
-Bepaalde Hybrid SaaS functies kunnen wijzigen en daardoor kunnen snelkoppelingen die wijzen naar een pakketfunctie die niet meer geldig is. U kunt vanuit het menu opnieuw een snelkoppeling aanmaken. Soms kan het zijn dat functionaliteit gewijzigd is, raadpleeg hiervoor de release notes. 
+Bepaalde Hybrid SaaS functies kunnen wijzigen en daardoor kunnen snelkoppelingen die wijzen naar een pakketfunctie die niet meer geldig zijn. U kunt vanuit het menu opnieuw een snelkoppeling aanmaken. Soms kan het zijn dat functionaliteit is gewijzigd, raadpleeg hiervoor de release notes. 
 </div>
 
 
