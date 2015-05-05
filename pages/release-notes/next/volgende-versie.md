@@ -48,16 +48,16 @@ Bepaalde Hybrid SaaS functies kunnen wijzigen en daardoor kunnen snelkoppelingen
 
 De website rechten zijn nu uitgebreid van één naar 4 rechten:
 
-van
+*van*
 
-- ![Originele situatie](images/website-rechten-uitgebreid.jpg)
+![Originele situatie](images/website-rechten-uitgebreid.jpg)
 
-naar
+*naar*
 
-- ![Originele situatie](images/website-rechten-uitgebreid-nieuwe-rechten.jpg)
+![Originele situatie](images/website-rechten-uitgebreid-nieuwe-rechten.jpg)
 
 
-Het is nu mogelijk om apart de volgende rechten in te stellen:
+Het is nu mogelijk om de volgende rechten apart in te stellen:
 
 
 - Websites inzien
