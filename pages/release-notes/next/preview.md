@@ -21,7 +21,7 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 
 ## Systeem ##
 
-<div class="tag-update"></div>
+<div class="tag-fix"></div>
 
 **Ongeldige bureaublad iconen**
 
