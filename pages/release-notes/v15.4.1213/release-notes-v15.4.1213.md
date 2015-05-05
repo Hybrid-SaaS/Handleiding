@@ -12,6 +12,21 @@ Release notes versie v15.4.1213 (30 april 2015)
 ===================
 
 
+
+
+
+<div class="tag-hotfix"></div>
+*Versie v15.5.1229 (5 mei 2015)*
+
+**Bewerken afdeling foutmelding**
+
+Indien een gebruiker een afdeling wilde bewerken kon er een foutmelding optreden indien deze gebruiker geen rechten had op de module Ticket.
+
+
+
+
+
+
 <div class="tag-hotfix"></div>
 *Versie v15.5.1227 (4 mei 2015)*
 
