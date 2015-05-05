@@ -12,6 +12,16 @@ Release notes versie v15.4.1213 (30 april 2015)
 ===================
 
 
+<div class="tag-hotfix"></div>
+*Versie v15.5.1232 (5 mei 2015)*
+
+**Exporteren ja/nee-veld naar Excel**
+
+Het exporteren van query's met daarin ja/nee (boolean)-velden ging niet in alle gevallen goed. 
+Er kon op de export de waarde '0' komen te staan, terwijl er '1' verwacht was. 
+
+
+
 
 
 
