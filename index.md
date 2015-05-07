@@ -5,8 +5,8 @@
 	</page>
 </properties>
 
-# Hybrid SaaS support #
+# Hybrid SaaS Online Support #
 
-U vindt hier handleidingen, downloads voor support, technische specificaties, pagina's voor het oplossen van problemen en oefeningen.
+Op deze website vind je handleidingen, technische specificaties en andere documentatie voor optimaal gebruik van Hybrid SaaS. Zowel onze software als deze website zijn constant in beweging en wordt continu verbeterd en aangevuld met nieuwe informatie en functionaliteiten. Kan je iets niet vinden, of mis je informatie laat het ons weten zodat wij je verder kunnen helpen.
 
-Als je wil bijdragen aan deze documentatie kijk dan op [deze pagina](/pages/readme).
+Wil je bijdragen aan de aan deze website kijk dan op [deze pagina](/pages/readme). 
