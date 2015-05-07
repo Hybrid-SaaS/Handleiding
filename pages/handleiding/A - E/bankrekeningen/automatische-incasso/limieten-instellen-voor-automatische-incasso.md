@@ -3,7 +3,7 @@
 		<title>Automatische incasso limieten instellen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Bank / Automatische incasso</position> 
+		<position>Handleiding / Modules / A - E / Bankrekeningen / Automatische incasso</position> 
 		<title>Limieten instellen</title>
 	</menu>
 </properties>

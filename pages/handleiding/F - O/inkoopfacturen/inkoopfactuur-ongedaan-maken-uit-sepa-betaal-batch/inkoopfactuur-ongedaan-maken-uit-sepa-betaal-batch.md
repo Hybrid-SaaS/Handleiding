@@ -4,7 +4,7 @@
 		<title>Betaalbatch ongedaan maken</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / Inkoopfacturen </position> 
+		<position>Handleiding / Modules / F - O / Inkoopfacturen </position> 
 		<title>Betaalbatch ongedaan maken</title>
 	</menu>
 </properties>
