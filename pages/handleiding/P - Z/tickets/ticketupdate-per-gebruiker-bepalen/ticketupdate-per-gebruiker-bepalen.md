@@ -3,7 +3,7 @@
 		<title>Ticketupdate per gebruiker instellen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P-Z / Ticketsysteem </position> 
+		<position>Handleiding / Modules / P - Z / Ticketsysteem </position> 
 		<title>Instellen updates</title>
 	</menu>
 </properties>
