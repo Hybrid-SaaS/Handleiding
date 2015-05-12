@@ -1,7 +1,8 @@
 <properties>
 	<page>
-		<title>Module facturatie</title>
-		<menu>
+		<title>Facturatie</title>
+	</page>
+	<menu>
 		<position>Handleiding / Modules / F - O / Facturatie</position>
 		<title>Introductie</title>
 	</menu>
@@ -16,14 +17,3 @@
 
 Daarnaast geeft de module altijd het actuele facturatieproces weer en kun je in één oogopslag zien welke facturen zijn afgehandeld en welke er nog openstaan. Wanneer een betalingstermijn van een factuur is verstreken kunnen er gemakkelijk en snel betalingsherinneringen worden verstuurd.
 </description>
-Hoe kan ik ....?
-
-# Een factuur aanmaken #
-# Commissies beheren #
-# Een creditfactuur aanmaken #
-# Een factuur en een creditfactuur samenvoegen#
-# Het totaal bedrag van (alle) openstaande facturen inzien#
-# Een herinnerring versturen#
-# Facturen beschermen tegen samenvoegen#
-# Facturen samenvoegen#
-# De Track and Trace code per email versturen met de factuur#
