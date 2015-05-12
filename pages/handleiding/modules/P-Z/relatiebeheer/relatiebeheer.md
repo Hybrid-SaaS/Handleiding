@@ -1,9 +1,7 @@
 <properties>
 	<page>
 		<title>Relatiebeheer</title>
-		<description>Relatiebeheer modulebeschrijving</description>
-        <context>dlgorganization*<context>
-	</page>
+			</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Relatiebeheer</title>

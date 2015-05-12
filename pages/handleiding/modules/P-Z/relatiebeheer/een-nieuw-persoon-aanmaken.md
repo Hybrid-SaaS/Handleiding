@@ -3,7 +3,7 @@
 		<title>Nieuw persoon aanmaken modulebeschrijving</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Relatiebeheer / Nieuw Persoon aanmaken</position>
+		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Nieuw Persoon aanmaken</title>
 	</menu>
 </properties>

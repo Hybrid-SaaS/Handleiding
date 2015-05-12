@@ -3,7 +3,7 @@
 		<title>Relatie-import</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Relatiebeheer </position>
+		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Relatie-import</title>
 	</menu>
 </properties>
