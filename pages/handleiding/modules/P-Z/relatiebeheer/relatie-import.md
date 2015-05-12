@@ -1,8 +1,6 @@
 <properties>
 	<page>
 		<title>Relatie-import</title>
-		<description>Relatiebeheer modulebeschrijving</description>
-        <context>dlgorganization*<context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
