@@ -17,7 +17,7 @@
 **Aanmaken van een nieuw persoon**
 
 **Tabblad N.A.W.**
-![](images/Persoon-n.a.w..JPG)
+![](images/Persoon-n.a.w.JPG)
 
 - Initialen
 - Titel
