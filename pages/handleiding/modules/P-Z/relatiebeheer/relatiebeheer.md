@@ -10,6 +10,7 @@
 	</menu>
 </properties>
 
+
 # Relatiebeheer #
 <description>Relaties zijn de motor van iedere organisatie. Juist daarom is het belangrijk om als organisatie over een compleet en overzichtelijk CRM-systeem (Customer Relationship Management) te beschikken.
 
