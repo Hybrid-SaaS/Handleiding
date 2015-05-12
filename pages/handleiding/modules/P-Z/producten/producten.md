@@ -21,13 +21,7 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 **Aanmaken van een nieuw product**
 
-
-
-
-
-
-
-**Tabblad Informartie**
+**Tabblad Informatie**
 ![](images/product-aanmaken-informatie.jpg) 
 
 - Fabrikant
@@ -55,7 +49,6 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 **Tabblad Prijzen**
 ![](images/product-aanmaken-prijzen.jpg)
-
 *Inkoopprijs informatie*
 
 - Inkoopprijs
@@ -84,7 +77,6 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 **Tabblad Details**
 ![](images/producten-aanmaken-details.JPG)
-
 *Details*
 
 *Opmerking*
@@ -127,10 +119,8 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 *Product bestaat uit de volgende onderdelen*
 
-
 **Tabblad CMS**
 ![](images/producten-aanmaken-cms.JPG)
-
 *content per taal*
 
 - Website uitbreiding
@@ -138,35 +128,28 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 **Tabblad Kenmerken**
 ![](images/producten-aanmaken-kenmerken.JPG)
-
 *Wat voor kenmerken horen bij dit product?*
 
 **Tabblad Serie nummers**
 ![](images/producten-aanmaken-serienummers.JPG)
-
 *Welke serienummers zijn er bekend van dit product*
 
 -Serienummers bijhouden
 
-
 **Tabblad Fabrikanten**
 ![](images/producten-aanmaken-fabrikanten.JPG)
-
 *Wat voor fabrikanten horen bij dit product?*
 
 **Tabblad Collecties**
 ![](images/producten-aanmaken-collecties.JPG)
-
 *Wat voor collecties horen bij dit product?*
 
 **Tabblad Seizoenen**
 ![](images/producten-aanmaken-seizoenen.JPG)
-
 *Wat voor seizoenen horen bij dit product?*
 
 **Tabblad Product locatie**
 ![](images/producten-aanmaken-productlocaties.JPG)
-
 *Wat voor locaties horen bij dit product?*
 
 **Tabblad HTML**
@@ -174,5 +157,4 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 **Tabblad Historie**
 ![](images/producten-aanmaken-historie.JPG)
-
 *Historie inzien*
