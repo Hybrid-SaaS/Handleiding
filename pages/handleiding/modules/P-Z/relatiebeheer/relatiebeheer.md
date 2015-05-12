@@ -1,7 +1,9 @@
 <properties>
 	<page>
 		<title>Relatiebeheer</title>
-			</page>
+		<description>Relatiebeheer</description>
+        <context>dlgorganization*</context>
+	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Relatiebeheer</title>
@@ -14,12 +16,13 @@
 Met de module Relatiebeheer van Hybrid SaaS kunnen klantgegevens gemakkelijk en snel worden vastgelegd. Bovendien heeft elke medewerker altijd en overal toegang tot de actuele gegevens en de historie van elke klant. Dit is ook voor de klant een goede zaak, want dit zorgt voor een optimale klantbediening.
 </description>
 
-# Bedrijf aanmaken #
+# Relatie aanmaken #
+Een relatie aanmaken kan verschillen tussen of een *klant* of een *leverancier* of een *fabrikant* of een combinatie van dit
 
-**Aanmaken van een nieuw bedrijf**
+**Aanmaken van een nieuwe relatie**
 
 **Tabblad N.A.W.**
-![](images/bedrijf-n.a.w..JPG) 
+![](images/bedrijf-n.a.w.JPG) 
 
 - Code
 - Zoek code
