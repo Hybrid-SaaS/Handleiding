@@ -1,11 +1,9 @@
 <properties>
 	<page>
 		<title>Nieuw persoon aanmaken modulebeschrijving</title>
-		<description>Nieuw persoon aanmaken modulebeschrijving</description>
-		<context>dlgperson*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
+		<position>Handleiding / Modules / P - Z / Relatiebeheer </position>
 		<title>Nieuw Persoon aanmaken</title>
 	</menu>
 </properties>
