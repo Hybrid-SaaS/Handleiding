@@ -10,8 +10,6 @@
 	</menu>
 </properties>
 
-#Grootboekrekening aanmaken#
-<description>
 
 # Grootboek rekening/werkcode aanmaken #
 
