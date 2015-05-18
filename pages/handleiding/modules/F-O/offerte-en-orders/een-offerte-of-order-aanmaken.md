@@ -13,7 +13,7 @@
 #Een offerte of order aanmaken#
 <description>
 
-Introductie
+
 
 In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster](http://hybridsaas.support/in/dialog/dlgorder).
 
@@ -39,7 +39,7 @@ In het geopende scherm vult u de velden in die betrekking hebben op het door u a
 
 Je kan op verschillende manieren een product toevoegen
 Om een voorraad locatie in te geven bent u verplicht om met voorraad te werken.
-Zie [Product locatie](http://hybridsaas.support/in/dialog/dlgproduct-locations) en [Voorraad locatie](http://hybridsaas.support/in/dialog/dlgstock-location) voor meer informatie.
+Zie [Product locatie](http://hybridsaas.support/in/query/product-locations) en [Voorraad locatie](http://hybridsaas.support/in/query/stock-locations) voor meer informatie.
 
 		
 *Scanner invoer*

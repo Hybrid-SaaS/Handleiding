@@ -10,10 +10,10 @@
 	</menu>
 </properties>
 
+Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
 #Invoervenster#
-Introductie
 
-De functies van het invoervenster offerte en order word in dit artikel behandeld.
+De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
 
 **Tabblad Stamgegevens**
 ![](images/offertes-aanmaken-stamgegevens.JPG) 
