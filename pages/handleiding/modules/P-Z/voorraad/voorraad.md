@@ -1,10 +1,11 @@
 <properties>
 	<page>
-		<title>Voorraadbeheer</title>
+		<title>Voorraad beheer</title>
+		<description>Voorraad beheer</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Voorraadbeheer</position> 
-		<title>Introductie</title>
+		<position>Handleiding / Modules / P - Z / Voorraad</position> 
+		<title>Voorraad beheer</title>
 	</menu>
 </properties>
 
