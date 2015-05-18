@@ -71,3 +71,7 @@ Hier vul je bij de productcode en amount je gegevens in daarna selecteer je alle
 Na het toevoegen van je producten is je offerte/order klaar.
 
 Door direct te "Opslaan" is het een offerte, of door heb te "goedkeuren" en daarna te "Opslaan" is het een order
+
+Hierna heb je 3 verschillende keuze voor het afhandelen van de orde zie de volgende stappen
+
+[Met voorraad]() --- [Zonder voorraad]() --- [Gedeeltelijke voorraad]()
