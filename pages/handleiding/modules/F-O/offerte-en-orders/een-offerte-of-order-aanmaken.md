@@ -25,7 +25,7 @@ Het systeem vraagt automatisch om een bedrijf als klant. Wilt u de order voor pa
 
 **Tabblad Stamgegevens**
 
-![](images/offertes-aanmaken-stamgegevens-uitgelicht.PNG) 
+![](images/offertes-aanmaken-stamgegevens-uitgelicht.jpg)
 
 In het geopende scherm vult u de velden in die betrekking hebben op het door u aan te maken offerte/order in.
 
