@@ -5,7 +5,6 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Voorraad</position> 
-		<title>Voorraad beheer</title>
 	</menu>
 </properties>
 
