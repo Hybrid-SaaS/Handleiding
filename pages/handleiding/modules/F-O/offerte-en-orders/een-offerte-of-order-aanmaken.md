@@ -5,7 +5,7 @@
 		<context>order-quote-all*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Offerte en Order</position> 
+		<position>Handleiding / Modules / F - O / Offertes en Orders</position> 
 		<title>Offerte-Order aanmaken</title>
 	</menu>
 </properties>
