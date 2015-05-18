@@ -201,3 +201,5 @@ In het tabblad vrije teksten kunt u teksten met opmaak ingeven die in de offerte
 	- Om het document uit te zoemen klikt u op de button Zoom uit.
 - Zoom in
 	- Om het document in te zoemen klikt u op de button Zoom in.
+
+Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
