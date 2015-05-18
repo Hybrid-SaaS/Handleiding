@@ -74,4 +74,4 @@ Door direct te "Opslaan" is het een offerte, of door heb te "goedkeuren" en daar
 
 Hierna heb je 3 verschillende keuze voor het afhandelen van de orde zie de volgende stappen
 
-[Met voorraad]() --- [Zonder voorraad]() --- [Gedeeltelijke voorraad]()
+[Met voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-met-voorraad) --- [Zonder voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-zonder-voorraad) --- [Gedeeltelijke voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-gedeeltelijke-voorraad)

@@ -4,7 +4,7 @@
 		<description>Orders met voorraad</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Offertes en orders/ Offerte-Order aanmaken</position> 
+		<position>Handleiding / Modules / F - O / Offertes en orders/ Order afhandelen</position> 
 		<title>Order met voorraad</title>
 	</menu>
 </properties>
