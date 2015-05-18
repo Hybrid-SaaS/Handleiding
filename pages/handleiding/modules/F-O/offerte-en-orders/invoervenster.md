@@ -5,7 +5,7 @@
 		<context>dlgorder*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Offertes en Orders</position>
+		<position>Handleiding / Modules / F - O / Offertes en orders</position>
 		<title>Invoervenster</title>
 	</menu>
 </properties>
