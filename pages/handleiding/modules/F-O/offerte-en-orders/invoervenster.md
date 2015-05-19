@@ -90,7 +90,6 @@ De tabbladen en functies van het invoervenster offerte en order word in dit arti
 - Dealer %
 
 **Tabblad Adres wijziging/Instellingen**
-
 ![](images/offertes-aanmaken-adreswijziginginstellingen.JPG) 
 
 *Factuuradres*
@@ -151,7 +150,6 @@ De tabbladen en functies van het invoervenster offerte en order word in dit arti
 - Percentage
 
 **Tabblad Opmerkingen**
-
 ![](images/offertes-aanmaken-opmerkingen.JPG) 
 
 *Opmerking*
@@ -160,12 +158,10 @@ In het tabblad opmerking kunt u een vrije opmerking over de offerte / order inge
 *Prijsafpraak*
 
 **Tabblad Acties**
-
 ![](images/offertes-aanmaken-acties.JPG) 
 
 
 **Tabblad Vrije tekst**
-
 ![](images/offertes-aanmaken-vrijetekst.JPG) 
 
 *Snel teksten*
@@ -173,22 +169,18 @@ In het tabblad opmerking kunt u een vrije opmerking over de offerte / order inge
 In het tabblad vrije teksten kunt u teksten met opmaak ingeven die in de offerte / order zichtbaar zijn. De teksten die u hier ingeeft worden geheel met opmaak over genomen.
 
 **Tabblad Betalingen**
-
 ![](images/offertes-aanmaken-betalingen.JPG) 
 
 
 **Tabblad Historie**
-
 ![](images/offertes-aanmaken-historie.JPG) 
 
 
 **Tabblad Online bestanden**
-
 ![](images/offertes-aanmaken-onlinebestanden.JPG) 
 
 
 **Tabblad Digitale kopie**
-
 ![](images/offertes-aanmaken-digitalekopie.JPG) 
 
 - Toevoegen
