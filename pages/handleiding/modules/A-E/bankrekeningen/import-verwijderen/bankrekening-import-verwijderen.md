@@ -18,5 +18,4 @@ Wanneer de import wordt verwijderd zullen alle geboekte transacties komen te ver
 
 </div>
 
-
-![Bankrekening import verwijderen](images/import-verwijderen.jpg)
+![Bankrekeningimport verwijderen](images/import-verwijderen.jpg)
