@@ -1,12 +1,11 @@
 <properties>
 	<menu>
-		<position>Handleiding / Modules / F - O / Gebruikers / Handtekening</position> 
+		<position>Handleiding / Modules / F - O / Gebruikers</position> 
 		<title>Handtekening</title>
 	</menu>
 	<page>
 		<title>Handtekening</title>
-		<description> Hier</description>
-				
+		<description></description>	
 	</page>
 
 </properties>
@@ -36,7 +35,7 @@ Het is nu zo dat je alleen je eigen handtekening onder documenten kan plaatsen.
 
 **Handtekening van een ander persoon plaatsen**
 
-Het is mogelijk dat je in overleg een handtekening van een collega wilt plaatsen. Dit kan je regel op gebruikersniveau of op afdelingsniveau.  
+Het is mogelijk dat je in overleg een handtekening van een collega wilt plaatsen. Dit kan je regelen op gebruikersniveau of op afdelingsniveau.  
 
 **Alle rechten**
 
@@ -48,7 +47,7 @@ Je zet dan het recht "Gebruiker mag andere gebruikers selecteren, ongeacht de in
 **Afdelings rechten**
 
 Als je besluit dat gebruikers per afdeling onderling een handtekening van elkaar moeten kunnen plaatsen dan doe je dit op afdelingsniveau.
-Zorg dat de afdelingen op orde zijn en dat de juiste gebruikers ion de juiste afdelingen staan.
+Zorg dat de afdelingen op orde zijn en dat de juiste gebruikers in de juiste afdelingen staan.
 Selecteer de afdeling en zet het recht "Leden mogen elkaars collega's uit deze afdeling selecteren.
  
 ![](images/handtekening-afdeling1.jpg)
