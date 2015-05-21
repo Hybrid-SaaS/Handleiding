@@ -1,10 +1,10 @@
 <properties>
 	<page>
-		<title>Betalingsherinneringen versturen per status</title>
+		<title>Betalingsherinneringen versturen per klant</title>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Facturatie / Debiteurenbeheer </position> 
-		<title>Herinnering per status</title>
+		<title>Herinnering per klant</title>
 	</menu>
 </properties>
 
@@ -13,6 +13,8 @@
 Er zijn verschillende manieren om een betalingsherinnering te versturen.
 - Een herinnering per factuur versturen
 - Een herinneringsoverzicht versturen van openstaande facturen van één klant
+
+We bespreken in deze handleiding de herinnering per klant.
 
 Op basis van het documentschema en de vervaldatum van de factuur bepaalt het systeem of een factuur in aanmerking komt voor een herinnering. 
 
@@ -24,20 +26,31 @@ Voor optimaal debiteurenbeheer raden wij aan gebruik te maken van de bankrekenin
 Er kan een verschil zitten in de tussen de transacties die je ziet bij de bank ten opzichte van de ingelezen banktransacties. De meeste banken werken met dagafschriften. Hierdoor kan het voorkomen dat sommige transacties (meestal één dag) nog niet in de importbatch staan.
 </div>
 
-## Overzicht van de facturen per status ##
+## Overzicht van de openstaande facturen met dagen ##
 
-Op je bureaublad, of in het menu staan verschillende inconen. Afhankelijk van de van de ouderdom van de factuur en eventueel eerder verzonden herinneringen, worden de facturen in de verschillende statussen weergegeven. Op deze manier je overzicht van het aantal openstaande facturen in een chronologische workflow.
+Er zijn twee verschillende overzichten welke facturen gegroepeerd per klant weergegeven. 
+- Openstaand met dagen
+- Betalingsachterstand
 
-![Herinneren op basis van de status](images/herinneren-per-status.jpg)
+### Openstaand met dagen ###
+
+In dit overzicht wordt een overzicht getoond van alle openstaande facturen gegroepeerd per klant. Hierin wordt geen onderscheid gemaakt in vervaldagen, kredietlimieten of betalingsregelingen.
+
+![Openstaand met dagen](images/gegroepeerd-herinneren-openstaand.jpg)
 
 
-## Herinnering versturen per factuur ##
+### Betalingsachterstand ###
 
-Klik op één van snelkoppelingen zodat de facturen in deze status worden weergegeven. Voor het voorbeeld gaan gebruiken wij de 1e herinnering.
+In dit overzicht wordt een overzicht getoond van alle openstaande facturen gegroepeerd per klant. Hierin wordt  onderscheid gemaakt in vervaldagen, kredietlimieten of betalingsregelingen.
 
-Selecteer één of meerdere facturen en klik op "1e herinnering"
+![Betalingsachterstand](images/gegroepeerd-herinneren-op-basis-van-voorwaarden.jpg)
 
-![Herinneren op basis van de status](images/losse-herinnering-versturen.jpg)
+
+## Versturen ##
+
+Indien je een overzicht wilt sturen selecteer je de betreffende klant en klik je op "Herinneren". Met deze knop wordt de herinnering per mail verzonden en worden de herinneringsdata in de factuur opgeslagen. Wil je enkel een overzicht sturen waarbij de data niet worden opgeslagen kies dan één van andere twee opties.
+
+![Betalingsachterstand](images/gegroepeerd-herinneringsoverzicht.jpg)
 
 
 <div class="info">
