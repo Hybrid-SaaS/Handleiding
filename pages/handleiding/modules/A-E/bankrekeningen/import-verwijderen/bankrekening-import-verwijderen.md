@@ -1,7 +1,7 @@
 
 <properties>
 	<page>
-		<title>Bankimport verwijderen</title>
+		<title>Bankrekeningimport verwijderen</title>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
