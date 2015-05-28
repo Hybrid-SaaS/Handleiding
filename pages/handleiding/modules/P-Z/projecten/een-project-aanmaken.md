@@ -9,6 +9,7 @@
 		<title>Invoervenster Projecten</title>
 	</menu>
 </properties>
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
 
 #Invoervenster projecten#
 
@@ -222,4 +223,4 @@ De tabbladen en functies van het invoervenster offerte en order word in dit arti
 
 *Historie inzien*
 
-Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
