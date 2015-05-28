@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Invoervenster</title>
-		<description>Invoervenster</description>
+		<title>Invoervenster offerte-order</title>
+		<description>Invoervenster offerte-order</description>
 		<context>dlgorder*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders</position>
-		<title>Invoervenster</title>
+		<title>Invoervenster offerte-order</title>
 	</menu>
 </properties>
 
