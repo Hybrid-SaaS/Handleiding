@@ -15,7 +15,7 @@
 
 
 
-In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster).
+In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster offerte/order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster).
 
 Klik op
 

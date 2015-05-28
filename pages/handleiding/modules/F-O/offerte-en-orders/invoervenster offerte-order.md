@@ -1,17 +1,16 @@
 <properties>
 	<page>
-		<title>Invoervenster offerte/orde</title>
-		<description>Invoervenster offerte/orde</description>
+		<title>Invoervenster</title>
+		<description>Invoervenster</description>
 		<context>dlgorder*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders</position>
-		<title>Invoervenster offerte/orde</title>
+		<title>Invoervenster</title>
 	</menu>
 </properties>
 
 Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
-
 #Invoervenster offerte/order#
 
 De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
