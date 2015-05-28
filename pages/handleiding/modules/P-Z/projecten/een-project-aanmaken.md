@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-#Invoervensten projecten#
+#Invoervenster projecten#
 
 De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
 
