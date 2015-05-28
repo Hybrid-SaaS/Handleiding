@@ -1,52 +1,40 @@
 <properties>
 	<page>
-		<title>Tijdregistratie</title>
-		<description>Tijdregistratie</description>
+		<title>Tijdregistratie verwerken</title>
+		<description>Tijdregistratie verwerken</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
-		<title>Invoerscherm tijdregistratie/title>
+		<title>Tijdregistratie verwerken</title>
 	</menu>
 </properties>
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
 
-#Invoerscherm tijdregistratie#
-**Tabblad Tijdregistratie**
-![](images/tijdregistratie-tijdregistratie.jpg)
+#Tijdregistratie verwerken#
+![](images/tijdregistratie-verwerken.JPG)
 
-*Waar wilt u deze registratie aan koppelen*
+*Datum selectie*
 
+- Week
+- Vanaf
+- Tot en met
+
+*Beperkte facturatie*
+
+- Medewerker
+- Organisatie
 - Project
 - Werkcode
-- Projectafspraak
-- Werklocatie
-- Prognose
-- Doorbelasten
 
-*Wanneer was deze registratie*
+*Gegevens op factuur*
 
-- Datum
-- Duur
-- Intern
-- Begin tijd
-- Eind tijd
-- Pauze
-- Sneltekst
+- Periode
+- Minimum bedrag
 
-*Informatie voor de manager*
+*Verwerk tijdregistratie*
 
-- Aangemaakt door
-- Goedgekeurd door
-- Afgekeurd door
-- Uurtarief
-- Vast gestelde prijs
-- Referentie
+als je alles heb ingevuld en gekozen kan je op verwerk tijdregistratie klikken dan krijg je het volgende scherm en is je tijdregistratie voltooid
 
-*Omschrijving van deze registratie*
+![](images/tijdregistratie-verwerkt.JPG)
 
-*Opmerking over deze registratie*
-
-![](images/tijdregistratie-kostenregistatie.jpg)
-
-*Welke kosten zijn er gemaakt voor deze registratie?*
-
-![](images/tijdregistratie-bewijsregistratie.JPG)
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)

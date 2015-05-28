@@ -8,6 +8,7 @@
 		<title>Werklocatie</title>
 	</menu>
 </properties>
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
 
 #Een werklocatie aanmaken#
 
@@ -21,3 +22,5 @@
 - Reistijd
 - Verplichte keuze
 - Niet weergeven
+
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)

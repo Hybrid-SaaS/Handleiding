@@ -5,9 +5,10 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
-		<title>Invoerscherm tijdregistratie/title>
+		<title>Invoerscherm tijdregistratie</title>
 	</menu>
 </properties>
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
 
 #Invoerscherm tijdregistratie#
 **Tabblad Tijdregistratie**
@@ -45,8 +46,12 @@
 
 *Opmerking over deze registratie*
 
+**Tabblad Kostenregistratie**
 ![](images/tijdregistratie-kostenregistatie.jpg)
 
 *Welke kosten zijn er gemaakt voor deze registratie?*
 
+**Tabblad Bewijsregistratie**
 ![](images/tijdregistratie-bewijsregistratie.JPG)
+
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
