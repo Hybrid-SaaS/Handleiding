@@ -15,7 +15,7 @@
 
 
 
-In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster](http://hybridsaas.support/in/dialog/dlgorder).
+In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster).
 
 Klik op
 
@@ -39,7 +39,7 @@ In het geopende scherm vult u de velden in die betrekking hebben op het door u a
 
 Je kan op verschillende manieren een product toevoegen
 Om een voorraad locatie in te geven bent u verplicht om met voorraad te werken.
-Zie [Product locatie](http://hybridsaas.support/in/query/product-locations) en [Voorraad locatie](http://hybridsaas.support/in/query/stock-locations) voor meer informatie.
+Zie [Product locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/een-product-locatie-aanmaken) en [Voorraad locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/voorraad/voorraad-locaties-aanmaken) voor meer informatie.
 
 		
 *Scanner invoer*
@@ -52,7 +52,7 @@ Zie [Product locatie](http://hybridsaas.support/in/query/product-locations) en [
 
 *Toevoegen groene knop*
 
-Voor een volledige uitleg van het nu geopende scherm zie [Orderregel](http://hybridsaas.support/in/dialog/dlgorder-line)
+Voor een volledige uitleg van het nu geopende scherm zie [Orderregel](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/orderegel)
 
 - Met deze button kan je een nieuw product toevoegen onder vermelding van een werkcode of product beschrijving alle velden zijn leeg en zijn zelf aan te passen 
 
