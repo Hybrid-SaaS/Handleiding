@@ -1,8 +1,7 @@
 <properties>
 	<page>
 		<title>Projecten</title>
-		<description>Projecten</description>
-		<context>dlgtime-registration*</context>
+		<description>Projecten</description
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Projecten</position>
