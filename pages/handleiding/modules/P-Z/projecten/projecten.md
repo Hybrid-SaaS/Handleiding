@@ -1,16 +1,6 @@
 <properties>
 	<page>
 		<title>Projecten</title>
-	</page>
-	<menu>
-		<position>Handleiding / Modules / P - Z / Projecten</position>
-		<title>Introductie</title>
-	</menu>
-</properties>
-
-<properties>
-	<page>
-		<title>Projecten</title>
 		<description>Projecten</description>
 		<context>dlgtime-registration*</context>
 	</page>
