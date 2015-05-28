@@ -9,7 +9,7 @@
 		<title>Invoervenster Projecten</title>
 	</menu>
 </properties>
-Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
+Terug naar ~[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie) ~ [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)~
 
 #Invoervenster projecten#
 
@@ -223,4 +223,5 @@ De tabbladen en functies van het invoervenster offerte en order word in dit arti
 
 *Historie inzien*
 
-Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
+</properties>
+Terug naar ~[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie) ~ [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)~
