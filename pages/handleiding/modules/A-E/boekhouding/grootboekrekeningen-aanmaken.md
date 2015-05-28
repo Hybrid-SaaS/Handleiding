@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie) 
 # Grootboek rekening/werkcode aanmaken #
 
 **Aanmaken van een grootboek rekening/werkcode**
@@ -84,3 +84,4 @@
 - Bedrijf
 - Percentage
 
+Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)

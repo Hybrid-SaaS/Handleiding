@@ -2,6 +2,7 @@
 	<page>
 		<title>Tijdregistratie</title>
 		<description>Tijdregistratie</description>
+		<context>dlgtime-registration*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>

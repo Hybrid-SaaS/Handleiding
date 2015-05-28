@@ -2,6 +2,7 @@
 	<page>
 		<title>Werklocatie</title>
 		<description>Werklocatie</description>
+		<context>time-registration-location*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
