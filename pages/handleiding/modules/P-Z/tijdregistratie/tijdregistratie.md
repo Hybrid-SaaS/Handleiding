@@ -19,10 +19,12 @@ Met Hybrid SaaS Tijdregistratie kan iedere medewerker op elke gewenst moment sne
 ![](images/tijdregistratie-buttonbalk.JPG)
 
 #Tijdregistratie maken#
-Om een [tijdregistratie aan te maken] heb je de volgende gegevens nodig:
+Om een [Tijdregistratie aan te maken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/invoerscherm-tijdregistratie) heb je de volgende gegevens nodig:
 
 - Een [Project](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/een-project-aanmaken) die moet gekoppeld zijn aan een [Bedrijf](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuwe-relatie-aanmaken)
 - Een [Werkcode](http://hybridsaas.support/pages/handleiding/modules/A-E/boekhouding/grootboekrekeningen-aanmaken)
 - Een [Locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/werklocatie)
 
-Daarna kan je de tijdregistratie Opslaan, nu kan je in *alle tijdregistraties* de regels selecteren en goedkeuren zie buttonbalk
+Daarna kan je de tijdregistratie Opslaan, nu kan je in *alle tijdregistraties* de regels selecteren en goedkeuren zie buttonbalk.
+
+Nu kan je de [Tijdregistratie verwerken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/een-tijdregistratie-verwerken)

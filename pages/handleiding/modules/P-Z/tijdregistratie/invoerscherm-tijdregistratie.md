@@ -12,6 +12,7 @@ Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules
 
 #Invoerscherm tijdregistratie#
 **Tabblad Tijdregistratie**
+
 ![](images/tijdregistratie-tijdregistratie.jpg)
 
 *Waar wilt u deze registratie aan koppelen*
@@ -47,11 +48,13 @@ Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules
 *Opmerking over deze registratie*
 
 **Tabblad Kostenregistratie**
+
 ![](images/tijdregistratie-kostenregistatie.jpg)
 
 *Welke kosten zijn er gemaakt voor deze registratie?*
 
 **Tabblad Bewijsregistratie**
+
 ![](images/tijdregistratie-bewijsregistratie.JPG)
 
 Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
