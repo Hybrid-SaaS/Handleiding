@@ -2,7 +2,7 @@
 	<page>
 		<title>Orderegel</title>
 		<description>Orderegel</description>
-		<context>*</context>
+		<context>dlgorder*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders</position>
