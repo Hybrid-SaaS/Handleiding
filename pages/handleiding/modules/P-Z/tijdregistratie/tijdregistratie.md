@@ -17,8 +17,8 @@ Met Hybrid SaaS Tijdregistratie kan iedere medewerker op elke gewenst moment sne
 
 
 #Tijdregistratie maken#
-Om een tijdregistratie aan te maken heb je 3 gegevens nodig:
+Om een [tijdregistratie aan te maken] heb je de volgende gegevens nodig:
 
 - Een [Project](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/een-project-aanmaken) die moet gekoppeld zijn aan een [Bedrijf](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuwe-relatie-aanmaken)
 - Een [Werkcode](http://hybridsaas.support/pages/handleiding/modules/A-E/boekhouding/grootboekrekeningen-aanmaken)
-- Een Locatie
+- Een [Locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/werklocatie)
