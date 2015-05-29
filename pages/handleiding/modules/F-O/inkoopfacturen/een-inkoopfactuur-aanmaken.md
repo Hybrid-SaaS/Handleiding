@@ -1,14 +1,16 @@
 <properties>
 	<page>
-		<title>Inkoopfactuur aanmaken</title>
-		<description>Inkoopfactuur aanmaken</description>
-        <context>dlgpurchase-invoice*</context>
+		<title>Inkoopfacturen aanmaken</title>
+		<description>Inkoopfacturen aanmaken</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Inkoopfacturen</position> 
-		<title>Inkoopfactuur aanmaken</title>
+		<position>Handleiding / Modules / F - O / Inkoopfacturen</position>
+		<title>Inkoopfacturen aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
+
+Ga terug [Inkoopfacturen](http://hybridsaas.support/pages/handleiding/modules/F-O/inkoopfacturen/inkoopfacturen)
 
 #Een inkoopfactuur aanmaken#
 
@@ -62,3 +64,5 @@
 **Tabblad Historie**
 ![](images/inkoopfactuur-historie.JPG)
 *Historie inzien*
+
+Ga terug [Inkoopfacturen](http://hybridsaas.support/pages/handleiding/modules/F-O/inkoopfacturen/inkoopfacturen)
