@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-Ga terug [Commissie]()
+Ga terug [Commissie](http://hybridsaas.support/pages/handleiding/modules/A-E/commissiebeheer/Introductie)
 
 #Commsissie toepassen#
 Hier wordt beschreven welke stappen je moet doorlopen om commissie in te richten.
@@ -131,4 +131,4 @@ In dit voorbeeld heb ik gekozen voor betaling via SEPA. De goedgekeurde inkoopfa
 - wachtend op factuur
 - inkoopfactuur (goedkeuren)
 
-Ga terug [Commissie]()
+Ga terug [Commissie](http://hybridsaas.support/pages/handleiding/modules/A-E/commissiebeheer/Introductie)
