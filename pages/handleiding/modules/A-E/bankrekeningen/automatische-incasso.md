@@ -1,7 +1,7 @@
 <properties>
 	<page>
-		<title>Bankrekeningen</title>
-		<description>Bankrekeningen</description>
+		<title>Automatische incasso</title>
+		<description>Automatische incasso</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 

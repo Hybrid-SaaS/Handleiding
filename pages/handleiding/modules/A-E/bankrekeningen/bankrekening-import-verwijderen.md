@@ -1,13 +1,15 @@
-
 <properties>
 	<page>
 		<title>Bankrekeningimport verwijderen</title>
+		<description>Bankrekeningimport verwijderen</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
-		<title>Bankimport verwijderen</title>
+		<title>Bankrekeningimport verwijderen</title>
 	</menu>
 </properties>
+
+Terug naar [Bankrekeningen]()
 
 # Verwijderen van de bankrekeningimport #
 
@@ -19,3 +21,5 @@ Wanneer de import wordt verwijderd zullen alle geboekte transacties komen te ver
 </div>
 
 ![Bankrekeningimport verwijderen](images/import-verwijderen.jpg)
+
+Terug naar [Bankrekeningen]()
