@@ -1,15 +1,16 @@
 <properties>
-	<menu>
-		<position>Handleiding / Modules / F - O / Gebruikers</position> 
-		<title>Handtekening</title>
-	</menu>
 	<page>
 		<title>Handtekening</title>
 		<description></description>	
 	</page>
-
+	<menu>
+		<position>Handleiding / Modules / F - O / Gebruikers</position> 
+		<title>Handtekening</title>
+		<sort>B</sort>
+	</menu>
 </properties>
 
+Ga terug [Gebruikers](http://hybridsaas.support/pages/handleiding/modules/F-O/Gebruikers/Introductie)
 # Handtekening #
 
 **Plaatsen van een handtekening**
@@ -67,3 +68,5 @@ Op het moment dat Jaap een offerte maakt met gebruikersrechten, dan kan hij alle
 Op het moment dat Jaap een offerte maakt met afdelingsrechten en Jaap zit in de afdeling Directie, dan kan hij alleen maar 4 gebruikers selecteren.
 
 ![](images/handtekening-offerte-afdeling.jpg)
+
+Ga terug [Gebruikers](http://hybridsaas.support/pages/handleiding/modules/F-O/Gebruikers/Introductie)
