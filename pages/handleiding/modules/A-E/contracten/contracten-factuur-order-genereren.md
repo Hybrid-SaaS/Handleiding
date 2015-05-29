@@ -6,7 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Contracten</position>
 		<title>Contracten genereren</title>
-		<sort>A</sort>
+		<sort>C</sort>
 	</menu>
 </properties>
 

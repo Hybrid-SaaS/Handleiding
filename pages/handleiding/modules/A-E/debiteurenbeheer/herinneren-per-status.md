@@ -3,7 +3,7 @@
 		<title>Betalingsherinneringen versturen per status</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Facturatie / Debiteurenbeheer </position> 
+		<position>Handleiding / Modules / A - E / Debiteurenbeheer </position> 
 		<title>Herinnering per status</title>
 		<sort>B</sort>
 	</menu>
