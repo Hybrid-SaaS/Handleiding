@@ -1,7 +1,7 @@
 <properties>
 	<page>
-		<title>Product zichtbaar</title>
-		<description>Product zichtbaar</description>
+		<title>Product-zichtbaar</title>
+		<description>Product-zichtbaar</description>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
