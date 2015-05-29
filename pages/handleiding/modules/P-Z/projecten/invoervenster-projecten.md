@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-Terug naar ~[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie) ~ [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)~
+Terug naar {[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)} {[Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)}
 
 #Invoervenster Projecten#
 
@@ -224,5 +224,5 @@ De tabbladen en functies van het invoervenster Projecten word in dit artikel beh
 
 *Historie inzien*
 
-</properties>
-Terug naar ~[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie) ~ [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)~
+
+Terug naar {[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)} {[Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)}
