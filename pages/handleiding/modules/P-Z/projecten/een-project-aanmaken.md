@@ -12,7 +12,7 @@
 
 Terug naar ~[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie) ~ [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/projecten)~
 
-#Invoervenster projecten#
+#Invoervenster Projecten#
 
 De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
 
