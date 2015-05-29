@@ -1,16 +1,17 @@
 <properties>
 	<page>
-		<title>Invoervenster offerte-order</title>
-		<description>Invoervenster offerte-order</description>
-		<context>dlgorder*</context>
+		<title>Invoervenster Offerte en Order</title>
+		<description>Invoervenster Offerte en Order</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders</position>
-		<title>Invoervenster offerte-order</title>
+		<title>Invoervenster Offerte en Order</title>
+		<sort>BA</sort>
 	</menu>
 </properties>
 
-Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}
+
 #Invoervenster offerte/order#
 
 De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
@@ -194,4 +195,4 @@ In het tabblad vrije teksten kunt u teksten met opmaak ingeven die in de offerte
 - Zoom in
 	- Om het document in te zoemen klikt u op de button Zoom in.
 
-Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}

@@ -5,8 +5,9 @@
 		<context>dlgpurchase-order*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Offertes en orders</position>
-		<title>Inkoopordevenster</title>
+		<position>Handleiding / Modules / F - O / Offertes en orders /  Order afhandelen</position> 
+		<title>Inkoopordevenster/title>
+		<sort>BA</sort>
 	</menu>
 </properties>
 

@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders</position>
 		<title>Orderegel</title>
+		<sort>BB</sort>
 	</menu>
 </properties>
 

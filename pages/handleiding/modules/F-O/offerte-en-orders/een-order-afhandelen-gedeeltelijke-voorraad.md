@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders / Order afhandelen</position> 
 		<title>Order gedeeltelijke voorraad</title>
+		<sort>C</sort>
 	</menu>
 </properties>
 

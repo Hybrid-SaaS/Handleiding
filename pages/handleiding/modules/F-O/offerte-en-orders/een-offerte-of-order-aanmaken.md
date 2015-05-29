@@ -1,19 +1,18 @@
 <properties>
 	<page>
-		<title>Offertes en Orders</title>
-		<description>Offertes en Orders</description>
-		<context>order-quote-all*</context>
+		<title>Offerte en Order aanmaken</title>
+		<description>Offerte en Order aanmaken</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Offertes en orders</position> 
-		<title>Offerte-Order aanmaken</title>
+		<position>Handleiding / Modules / F - O / Offertes en orders</position>
+		<title>Offerte en Order aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
+Ga terug [Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)
+
 #Een offerte of order aanmaken#
-<description>
-
-
 
 In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster offerte/order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster).
 
@@ -39,7 +38,7 @@ In het geopende scherm vult u de velden in die betrekking hebben op het door u a
 
 Je kan op verschillende manieren een product toevoegen
 Om een voorraad locatie in te geven bent u verplicht om met voorraad te werken.
-Zie [Product locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/een-product-locatie-aanmaken) en [Voorraad locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/voorraad/voorraad-locaties-aanmaken) voor meer informatie.
+Zie [Product locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Product-locatie-aanmaken) en [Voorraad locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/voorraad/voorraad-locaties-aanmaken) voor meer informatie.
 
 		
 *Scanner invoer*
@@ -75,3 +74,5 @@ Door direct te "Opslaan" is het een offerte, of door heb te "goedkeuren" en daar
 Hierna heb je 3 verschillende keuze voor het afhandelen van de orde zie de volgende stappen
 
 [Met voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-met-voorraad) --- [Zonder voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-zonder-voorraad) --- [Gedeeltelijke voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-gedeeltelijke-voorraad)
+
+Ga terug [Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)

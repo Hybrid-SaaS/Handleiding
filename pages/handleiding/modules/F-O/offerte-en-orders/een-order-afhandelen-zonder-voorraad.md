@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders /  Order afhandelen</position> 
 		<title>Order zonder voorraad</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
@@ -25,18 +26,7 @@ de Offerte is toegevoegd aan de map "besteld advies", daar vanuit kan je een "in
 
 In dit venster wordt het proces voor het bestellen van een inkooporde beschreven. Voor meer uitleg over het inkoopordevensters gaat u naar [inkoopordevenster](http://hybridsaas.support/in/dialog/dlgpurchase-order)
 
-![](images/inkooporde-uitgelicht.JPG)
-
-
-
-
-
-
-
-
-
-
-
+![](images/inkooporde-uitgelicht-mail.JPG)
 
 
 Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
