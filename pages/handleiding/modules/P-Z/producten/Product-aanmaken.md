@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten)}
+Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)}
 # Product aanmaken #
 De tabbladen en functies van het invoervenster Product aanmaken word in dit artikel behandeld.
 
@@ -152,4 +152,4 @@ De tabbladen en functies van het invoervenster Product aanmaken word in dit arti
 ![](images/producten-aanmaken-historie.JPG)
 *Historie inzien*
 
-Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten)}
+Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)}

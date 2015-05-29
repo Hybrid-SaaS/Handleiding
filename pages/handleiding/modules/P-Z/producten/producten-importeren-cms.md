@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-Terug naar {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten)}
+Terug naar {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)}
 
 #Importeren CMS#
 Hier wordt uitgelegd hoe je eenvoudig de CMS gegevens van producten kan importeren.
@@ -48,4 +48,4 @@ Je kan nu in HybridSaas bij de producten in het tabblad "CMS" de geïmporteerde 
 ![](images/producten-hs-resultaat.jpg)
 
 
-Terug naar {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten)}
+Terug naar {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)}

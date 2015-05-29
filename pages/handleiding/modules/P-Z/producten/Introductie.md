@@ -20,5 +20,5 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 
 
-Ga naar {[Product aanmaken]()} {[Product locatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/een-product-locatie-aanmaken)} {[CMS Importeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten-importeren-cms)}
+Ga naar {[Product aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Product-aanmaken)} {[Product locatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Product-locatie-aanmaken)} {[CMS Importeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten-importeren-cms)}
 
