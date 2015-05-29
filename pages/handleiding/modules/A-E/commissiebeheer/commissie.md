@@ -1,16 +1,18 @@
 <properties>
 	<page>
-		<title>Commissie</title>
+		<title>Commissie toepassen</title>
+		<description>Commissie toepassen</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Commissiebeheer</position>
-		<title>Commissie-oud</title>
+		<title>Commissie toepassen</title>
 	</menu>
 </properties>
 
-Commissie
-================================
-Als bedrijf kan je externe bedrijven en/of personen inzetten om arbeid te verrichten. in De bouw praat je dan over onderaannemers en in de groothandel over vertegenwoordigers (accountmanagers). Deze diensten kan je belonen via commissie. Hier wordt beschreven welke stappen je moet doorlopen om commissie in te richten.
+Ga terug [Commissie]()
+
+#Commsissie toepassen#
+Hier wordt beschreven welke stappen je moet doorlopen om commissie in te richten.
 
 
 **Rechten aanpassen**
@@ -128,3 +130,5 @@ In dit voorbeeld heb ik gekozen voor betaling via SEPA. De goedgekeurde inkoopfa
 - te verzenden 
 - wachtend op factuur
 - inkoopfactuur (goedkeuren)
+
+Ga terug [Commissie]()
