@@ -14,7 +14,7 @@
 Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens van toepassing als 1 van deze gegevens niet ingevuld zijn zal niet worden weergegeven.
 
 **Tabblad Informatie**
-![](images/informatie.jpg)
+![](images/informatie.JPG)
 
 - Fabrikant
   - Hier kan je de Fabrikant opzoeken
@@ -35,7 +35,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 
 
 **Tabblad Prijzen**
-![](images/prijzen.jpg)
+![](images/prijzen.JPG)
 
 - Verkoopprijs
   - Hier kan je de verkoopprijs van het product invullen
@@ -57,7 +57,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 
 
 **Tabblad Instellingen**
-![](images/instellingen.jpg)
+![](images/instellingen.JPG)
 
 - Dit is een hoofdproduct
   - Hiermee geef je aan dat het een hoofdproduct is en zichtbaar zal moeten zijn
@@ -65,7 +65,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
   - Je kan hier als je meerdere producten met elkaar gekoppeld heb aangeven dat dit een onderdeel van een ander artikel is
  
 **Tabblad CMS**
-![](images/cms.jpg)
+![](images/cms.JPG)
 
 - Toevoegen
   - Door op deze knop te klikken kom je in het volgende scherm terecht
