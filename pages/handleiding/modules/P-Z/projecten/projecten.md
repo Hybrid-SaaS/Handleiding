@@ -20,4 +20,4 @@ Per project kun je financiële afspraken vastleggen en altijd en overal de proje
 
 
 
-[Project aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/invoervenster-projecten)
+Ga naar [Project aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/invoervenster-projecten)

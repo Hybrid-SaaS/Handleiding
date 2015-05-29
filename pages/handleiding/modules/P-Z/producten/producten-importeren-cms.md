@@ -1,15 +1,17 @@
 <properties>
 	<page>
-		<title>Producten imporeteren CMS</title>
+		<title>Importeren CMS</title>
+		<description>Importeren CMS</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Producten / Producten importeren CMS</position>
+		<position>Handleiding / Modules / P - Z / Producten </position>
 		<title>Importeren CMS</title>
 	</menu>
 </properties>
 
-Importeren CMS.
-================================
+Terug naar {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten)}
+
+#Importeren CMS#
 Hier wordt uitgelegd hoe je eenvoudig de CMS gegevens van producten kan importeren.
 
 
@@ -44,3 +46,6 @@ Na de import verschijnt er een window met daarin het resultaat van de import.
 Je kan nu in HybridSaas bij de producten in het tabblad "CMS" de geïmporteerde gegevens terugvinden.
 
 ![](images/producten-hs-resultaat.jpg)
+
+
+Terug naar {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten)}
