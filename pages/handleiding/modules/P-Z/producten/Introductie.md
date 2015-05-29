@@ -6,7 +6,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Producten</position>
-		<title>Producten</title>
+		<title>Introductie</title>
 	</menu>
 </properties>
 
@@ -20,5 +20,5 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 
 
 
-Ga naar {[Product aanmaken]()} {[Product locatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/een-product-locatie-aanmaken)} {[CMS Importeren]()}
+Ga naar {[Product aanmaken]()} {[Product locatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/een-product-locatie-aanmaken)} {[CMS Importeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten-importeren-cms)}
 

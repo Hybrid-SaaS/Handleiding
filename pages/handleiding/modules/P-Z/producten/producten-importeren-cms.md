@@ -4,7 +4,7 @@
 		<description>Importeren CMS</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Producten </position>
+		<position>Handleiding / Modules / P - Z / Producten</position>
 		<title>Importeren CMS</title>
 	</menu>
 </properties>
