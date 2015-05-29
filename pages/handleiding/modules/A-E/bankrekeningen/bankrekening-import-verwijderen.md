@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-Terug naar [Bankrekeningen]()
+Terug naar [Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)
 
 # Verwijderen van de bankrekeningimport #
 
@@ -22,4 +22,4 @@ Wanneer de import wordt verwijderd zullen alle geboekte transacties komen te ver
 
 ![Bankrekeningimport verwijderen](images/import-verwijderen.jpg)
 
-Terug naar [Bankrekeningen]()
+Terug naar [Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)

@@ -4,8 +4,7 @@
 		<title>Bankrekeningen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / A - E / Bankrekeningen / Handmatige transacties inboeken</position> 
-		<title>Introductie</title>
+		<position>
 	</menu>
 </properties>
 
