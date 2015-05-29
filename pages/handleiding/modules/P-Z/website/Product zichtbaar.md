@@ -46,6 +46,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 
 
 **Tabblad Prijzen toevoegen**
+
 ![](images/prijzen-toevoegen.jpg)
 
 - Groep
