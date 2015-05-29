@@ -14,7 +14,7 @@ Terug naar ~[Tijdregistratie](http://hybridsaas.support/pages/handleiding/module
 
 #Invoervenster Projecten#
 
-De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
+De tabbladen en functies van het invoervenster Projecten word in dit artikel behandeld.
 
 **Tabblad N.A.W.**
 ![](images/projecten-naw.jpg) 
