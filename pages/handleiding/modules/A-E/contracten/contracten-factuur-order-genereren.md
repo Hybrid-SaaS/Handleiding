@@ -10,13 +10,28 @@
 	</menu>
 </properties>
 
-Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-contract-aanmaken)
+Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)
 # Facturen & orders genereren #
-
-content
 
 ![](images/contract-genereren-start.png) 
 
+*Datum selectie*
 
+- Tot en met
+
+*Besperkte facturatie*
+
+- Entiteit
+- Organisatie
+- Persoon
+
+*Uitvoer opties*
+
+- Samenvoegen
+- Proef ronde
+
+*Verwerken*
+
+Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)
 
 

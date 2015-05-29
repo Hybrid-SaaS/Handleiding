@@ -5,7 +5,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Contracten</position>
-		<title>Contracten</title>
+		<title>Introductie</title>
 		<sort>A</sort>
 	</menu>
 </properties>

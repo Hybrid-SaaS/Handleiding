@@ -10,6 +10,7 @@
 	</menu>
 </properties>
 
+Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)
 # Contract aanmaken #
 
 **Aanmaken van een nieuw contract**
@@ -45,7 +46,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 **Contract instellingen**
 
 - Contractnummer
-	- Dit is een vrij in te voeren veld. Je kan deze ook viea een volgnummer laten oplopen, dit gebeurt dan bij het opslaan.
+	- Dit is een vrij in te voeren veld. Je kan deze ook via een volgnummer laten oplopen, dit gebeurt dan bij het opslaan.
 - Omschrijving
 	- Geef hier in duidelijk bewoording weer waarvoor het contract bedoeld is. Dit is een **verplicht veld**
 - Externe referentie
@@ -148,3 +149,5 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 **Eenmalige kosten**
 
 - Entiteit
+
+Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)

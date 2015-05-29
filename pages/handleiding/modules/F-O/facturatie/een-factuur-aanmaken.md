@@ -7,9 +7,11 @@
 	<menu>
 		<position>Handleiding / Modules / F - O / Facturatie</position>
 		<title>Factuur aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
+Ga terug [Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/facturatie)
 #Een factuur aanmaken#
 
 **Aanmaken van een nieuwe factuur**
@@ -83,3 +85,5 @@
 **Tabblad Historie**
 ![](images/factuur-historie.JPG)
 *Historie inzien*
+
+Ga terug [Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/facturatie)
