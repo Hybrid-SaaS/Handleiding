@@ -5,7 +5,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
-		<title>product zichtbaar</title>
+		<title>Product zichtbaar</title>
 	</menu>
 </properties>
 
