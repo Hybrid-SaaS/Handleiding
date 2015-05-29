@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Boekhouding</position>
 		<title>Grootboekrekening aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 

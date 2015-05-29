@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Boekhouding</position>
 		<title>Introductie</title>
+		<sort>A</sort>
 	</menu>
 </properties>
 

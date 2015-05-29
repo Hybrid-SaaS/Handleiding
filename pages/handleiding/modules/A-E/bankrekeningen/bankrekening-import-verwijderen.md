@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Bankrekeningimport verwijderen</title>
+		<sort>C</sort>
 	</menu>
 </properties>
 

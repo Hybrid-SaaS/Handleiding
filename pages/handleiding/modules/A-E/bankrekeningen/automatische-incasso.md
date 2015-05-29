@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Automatische incasso instellen</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 

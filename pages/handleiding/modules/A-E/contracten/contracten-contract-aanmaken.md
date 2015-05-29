@@ -1,20 +1,13 @@
 <properties>
-	<menu>
-		<position>Handleiding / Modules / A - E / Contracten / Contracten aanmaken</position> 
-		<title>Contracten administratie</title>
-	</menu>
 	<page>
-		<title>Contracten aanmaken</title>
-		<description> Hier wordt het proces voor het beheren van een contracten beschreven. Contracten worden gebruikt om terugkerende orders en of facturen autoamtisch te verwerken. Aan de orde komen:
-
-- Contract aanmaken
-- contract genereren - per order/factuur
-- contract genereren - alle orders/facturen gegroepeerd 
-- contract beëindigen
-	</description>
-				
+		<title>Contracten-aanmaken</title>
+		<description> Contracten-aanmaken</description>		
 	</page>
-
+	<menu>
+		<position>Handleiding / Modules / A - E / Contracten</position> 
+		<title>Contracten aanmaken</title>
+		<sort>B</sort>
+	</menu>
 </properties>
 
 # Contract aanmaken #

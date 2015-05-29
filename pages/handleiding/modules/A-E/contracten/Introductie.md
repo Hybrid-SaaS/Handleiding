@@ -1,11 +1,12 @@
 <properties>
 	<page>
 		<title>Contracten</title>
+		<description>Contracten</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / A - E / Contracten / Factuur-Order genereren </position>
-		<title>Contracten genereren</title>
-		<description>Uitleg hoe je contracten kan omzetten in facturen</description>
+		<position>Handleiding / Modules / A - E / Contracten</position>
+		<title>Contracten</title>
+		<sort>A</sort>
 	</menu>
 </properties>
 

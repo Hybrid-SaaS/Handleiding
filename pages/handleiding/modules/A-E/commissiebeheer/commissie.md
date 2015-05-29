@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Commissiebeheer</position>
 		<title>Commissie toepassen</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 

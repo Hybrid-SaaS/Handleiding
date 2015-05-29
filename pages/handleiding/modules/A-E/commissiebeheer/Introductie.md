@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Commissiebeheer</position>
 		<title>Introductie</title>
+		<sort>A</sort>
 	</menu>
 </properties>
 
