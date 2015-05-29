@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Projecten</position>
 		<title>Invoervenster Projecten</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 

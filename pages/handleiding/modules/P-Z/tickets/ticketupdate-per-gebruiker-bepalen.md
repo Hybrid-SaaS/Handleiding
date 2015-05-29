@@ -1,13 +1,16 @@
 <properties>
 	<page>
-		<title>Ticketupdate per gebruiker instellen</title>
+		<title>Ticketupdate</title>
+		<description>Ticketupdate</description>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / P - Z / Ticketsysteem </position> 
-		<title>Instellen updates</title>
+		<position>Handleiding / Modules / P - Z / Ticketsysteem</position>
+		<title>Ticketupdate</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
+Ga terug [Ticketsysteem](http://hybridsaas.support/pages/handleiding/modules/P-Z/tickets/Ticketsysteem)
 # Ticketupdate per afdeling en/of gebruiker Instellen #
 
 Wanneer er een ticket wordt aangemaakt, of wanneer er een wijziging of antwoord op een ticket wordt gegeven kan er een e-mail update naar gebruikers worden verzonden. Deze instellingen kunnen per gebruiker bij de "afdelingen" worden ingesteld. Daarnaast is het mogelijk in inkomende e-mail aan bepaalde mailadressen te koppelen aan afdelingen.
@@ -34,3 +37,4 @@ Tevens is mogelijk om bij het e-mailsjabloon het antwoordadres direct door te la
 </div>
 
 
+Ga terug [Ticketsysteem](http://hybridsaas.support/pages/handleiding/modules/P-Z/tickets/Ticketsysteem)

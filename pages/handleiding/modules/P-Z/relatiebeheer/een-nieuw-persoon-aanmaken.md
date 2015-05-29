@@ -7,9 +7,11 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Persoon aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
+Ga terug [Relatiebeheer](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)
 #Personen#
 
 **Aanmaken van een nieuw persoon**
@@ -99,3 +101,5 @@
 ![](images/Persoon-onlinefiles.JPG)
 **Tabblad Extranet**
 ![](images/Persoon-extranet.JPG)
+
+Ga terug [Relatiebeheer](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)

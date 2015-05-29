@@ -1,15 +1,18 @@
 <properties>
 	<page>
 		<title>Relatie-import</title>
+		<description>Relatie-import</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Relatie-import</title>
+		<sort>D</sort>
 	</menu>
 </properties>
 
+Ga terug [Relatiebeheer](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)
 
-#Relatiebeheer#
+#Relatie importeren#
 <description>Om op een eenvoudige manier relaties in de database te krijgen is er een import module aanwezig. Hiermee kan je eenvoudig nieuwe relaties toevoegen of bestaande relaties aanpassen. Dit doe je niet als je voor één relatie iets wilt aanpassen maar vaak als je een massa mutatie gaat uitvoeren, waarbij je bijvoorbeeld bij iedere relatie iets wilt toevoegen en/of wijzigen.
 </description>
 
@@ -63,5 +66,5 @@ Als de import is uitgevoerd wordt er in je Internet Explorer een rapport getoond
 ![](images/import-rapport.jpg)
 
 
-
+Ga terug [Relatiebeheer](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)
 

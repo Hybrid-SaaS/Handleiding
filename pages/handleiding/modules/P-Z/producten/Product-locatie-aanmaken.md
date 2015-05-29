@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Producten</position> 
 		<title>Product locatie aanmaken</title>
+		<sort>C</sort>
 	</menu>
 </properties>
 

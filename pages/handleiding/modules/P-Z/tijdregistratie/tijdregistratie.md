@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
 		<title>Introductie</title>
+		<sort>A</sort>
 	</menu>
 </properties>
 
@@ -22,7 +23,7 @@ Met Hybrid SaaS Tijdregistratie kan iedere medewerker op elke gewenst moment sne
 #Tijdregistratie maken#
 Om een [Tijdregistratie aan te maken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/invoerscherm-tijdregistratie) heb je de volgende gegevens nodig:
 
-- Een [Project](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/een-project-aanmaken) die moet gekoppeld zijn aan een [Bedrijf](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuwe-relatie-aanmaken)
+- Een [Project](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/invoervenster-projecten) die moet gekoppeld zijn aan een [Bedrijf](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuwe-relatie-aanmaken)
 - Een [Werkcode](http://hybridsaas.support/pages/handleiding/modules/A-E/boekhouding/grootboekrekeningen-aanmaken)
 - Een [Locatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/werklocatie)
 

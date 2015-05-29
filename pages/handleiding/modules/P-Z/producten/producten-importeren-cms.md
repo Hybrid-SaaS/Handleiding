@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Producten</position>
 		<title>Importeren CMS</title>
+		<sort>D</sort>
 	</menu>
 </properties>
 

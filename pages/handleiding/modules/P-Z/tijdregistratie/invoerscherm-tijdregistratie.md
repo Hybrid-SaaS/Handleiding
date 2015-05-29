@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
 		<title>Invoerscherm tijdregistratie</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 

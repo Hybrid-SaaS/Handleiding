@@ -7,9 +7,11 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Relatiebeheer</position>
 		<title>Relatiebeheer aanmaken</title>
+		<sort>C</sort>
 	</menu>
 </properties>
 
+Ga terug [Relatiebeheer](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)
 # Relatie aanmaken #
 <description>Een relatie aanmaken kan verschillen tussen of een *klant* of een *leverancier* of een *fabrikant* 
 of een combinatie van dit</description>
@@ -141,3 +143,5 @@ of een combinatie van dit</description>
 
 **Tabblad Extranet**
 ![](images/bedrijf-extranet.JPG)
+
+Ga terug [Relatiebeheer](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)

@@ -6,6 +6,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
 		<title>Tijdregistratie verwerken</title>
+		<sort>C</sort>
 	</menu>
 </properties>
 

@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tijdregistratie</position>
 		<title>Werklocatie</title>
+		<sort>D</sort>
 	</menu>
 </properties>
 

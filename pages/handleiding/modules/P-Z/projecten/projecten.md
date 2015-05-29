@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Projecten</position>
 		<title>Introductie</title>
+		<sort>A</sort>
 	</menu>
 </properties>
 

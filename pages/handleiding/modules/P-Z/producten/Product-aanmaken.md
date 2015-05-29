@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Producten</position>
 		<title>Product aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
