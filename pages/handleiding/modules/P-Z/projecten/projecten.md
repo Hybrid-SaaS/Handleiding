@@ -1,7 +1,8 @@
 <properties>
 	<page>
 		<title>Projecten</title>
-		<description>Projecten</description
+		<description>Projecten</description>
+		<context>projects-all*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Projecten</position>
