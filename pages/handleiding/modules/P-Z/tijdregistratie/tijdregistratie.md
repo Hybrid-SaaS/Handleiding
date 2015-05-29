@@ -29,3 +29,5 @@ Om een [Tijdregistratie aan te maken](http://hybridsaas.support/pages/handleidin
 Daarna kan je de tijdregistratie Opslaan, nu kan je in *alle tijdregistraties* de regels selecteren en goedkeuren zie buttonbalk.
 
 Nu kan je de [Tijdregistratie verwerken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/een-tijdregistratie-verwerken)
+
+Ga naar {[Invoerscherm tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/invoerscherm-tijdregistratie)} {[Tijdregistratie verwerken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/een-tijdregistratie-verwerken)} {[Een werklocatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/werklocatie)}

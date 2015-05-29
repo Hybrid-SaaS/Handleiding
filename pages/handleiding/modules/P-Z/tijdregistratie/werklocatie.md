@@ -9,7 +9,8 @@
 		<title>Werklocatie</title>
 	</menu>
 </properties>
-Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
+
+Terug naar {[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)}
 
 #Een werklocatie aanmaken#
 
@@ -24,4 +25,4 @@ Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules
 - Verplichte keuze
 - Niet weergeven
 
-Terug naar [Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)
+Terug naar {[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/tijdregistratie)}
