@@ -7,6 +7,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Introductie</title>
+		<sort>AAAA - First</sort>
 	</menu>
 </properties>
 
