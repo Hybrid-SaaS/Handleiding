@@ -3,7 +3,7 @@
 		<title>Offerte en Order</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Zicht-Consignatie factuur</position> 
+		<position>Handleiding / Modules / F - O / Offertes en orders</position> 
 		<title>Zicht-Consignatie factuur</title>
 	<sort>B</sort>
 	</menu>
@@ -13,6 +13,24 @@ Terug naar {[Vragenlijst](http://hybridsaas.support/pages/handleiding/modules/F-
 
 #Zicht-Consignatie factuur#
 
-Test
+Voor het aanmaken van een consignatie factuur zijn er wat standaard inrichtingen nodig. Zo is er een document schema nodig waarin je aangeeft dat de facturen op consignatie komen te staan. Vaak zit hier ook een andere factuur layout bij waarbij geen totaal prijzen en BTW worden getoond (Alleen aantallen en stuks prijzen)
 
-![](images/vragenlijst.jpg) 
+Wat moet je instellen bij het document schema?
+Het vinkje "Facturen op consignatie" moet aan staan.
+
+![](images/consignatie-doc-schema.jpg) 
+
+Bij het maken van een consignatiefactuur begin je bij het invoeren van een order, voor de klant waarvoor dit bedoeld is.
+Kies dan het juiste document schema. (dit kunnen er meerdere zijn, de gekozen moet wel het vinkje "Facturen op consignatie" aan hebben staan.)
+Producten moeten op voorraad zijn. En kies dan voor de knop goedkeuren.
+
+![](images/consignatie-order-invoer.jpg)
+
+Omdat alles van de order op voorraad is, verschijnt de knop "Direct factuur" hiermee kan je de order in één keer verwerken tot factuur, de uitlevering, afboeking van de voorraad gaat automatisch. 
+
+![](images/consignatie-order-direct-factuur.jpg)    
+
+Doordat het vinkje "Facturen op consignatie" in het document schema aan staat wordt er geen normale factuur aangemaakt maar een consignatiefactuur. Deze kan je terugvinden onder de START knop:
+
+![](images/consignatie-factuur.jpg) 
+
