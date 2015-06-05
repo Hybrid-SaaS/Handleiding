@@ -62,7 +62,8 @@ Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarv
 
 ![](images/knop.jpg)
 
-<div class="warning">LET WEL OP. Je kiest voor Retour nemen of Factureren, je kan dus niet in één keer producten retournemen en factureren. Dit doe je dan in 2 stappen.</div>
+<div class="warning">LET WEL OP. Je kiest voor Retour nemen of Factureren, je kan dus niet in één keer producten retour nemen en factureren.
+Dit doe je dan in 2 stappen.</div>
 
 ![](images/consignatie-gedeeltelijk.jpg)
 
