@@ -58,6 +58,20 @@ Het komt ook voor dat je een gedeelte van een productregel retour wilt nemen of 
 
 ![](images/consignatie-gedeeltelijk.jpg)
 
-Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarvan je iets wilt retour nemen.
+Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarvan je iets wilt retour nemen. Je ziet dat er voor het veld dat je kan wijzigen **"Facturen / retour"** staat. er is dus geen apart veld voor retour of factuur. Dit wordt bepaald aan de hand van de knop.
 
-<div class="warning">LET WEL OP. Je kiest voor Retour nemen of Factureren.</div> 
+![](images/knop.jpg)
+
+<div class="warning">LET WEL OP. Je kiest voor Retour nemen of Factureren.</div>
+
+![](images/consignatie-gedeeltelijk.jpg)
+
+De aangepaste aantallen komen nu in het **ROOD** zichtbaar in de factuur. 
+Kies nu d.m.v. de knop "Retour" om deze aantallen terug te nemen.
+Dit resulteert in een nieuwe factuur met een tegenboeking van de gewijzigde aantallen. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur. Als de factuur uiteindelijk wordt verzonden, dan worden de goederen terug geboekt in de voorraad, er verschijnt dan een pop-up scherm waarop deze producten staan.
+ 
+![](images/consignatie-gedeeltelijk-factuur.jpg)
+
+Als uiteindelijk alle aantallen van de productregels retour genomen of gefactureerd zijn, zal de consignatie factuur verdwijnen.
+
+![](images/consignatie-eind.jpg) 
