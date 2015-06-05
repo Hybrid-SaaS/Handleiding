@@ -70,7 +70,7 @@ De aangepaste aantallen komen nu in het **ROOD** zichtbaar in de factuur.
 Kies nu d.m.v. de knop "Retour" om deze aantallen terug te nemen.
 Dit resulteert in een nieuwe factuur met een tegenboeking van de gewijzigde aantallen. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur. Als de factuur uiteindelijk wordt verzonden, dan worden de goederen terug geboekt in de voorraad, er verschijnt dan een pop-up scherm waarop deze producten staan.
  
-![](images/consignatie-gedeeltelijk-factuur.jpg)
+![](images/consignatie-gedeeltelijk-retour.jpg)
 
 Als uiteindelijk alle aantallen van de productregels retour genomen of gefactureerd zijn, zal de consignatie factuur verdwijnen.
 
