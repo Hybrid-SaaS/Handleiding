@@ -3,7 +3,7 @@
 		<title>Offerte en Order</title>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O /  Offertes en orders</position> 
+		<position>Handleiding / Modules / F - O / Offertes en orders</position> 
 		<title>Zicht-Consignatie factuur omzetten</title>
 	<sort>B</sort>
 	</menu>
