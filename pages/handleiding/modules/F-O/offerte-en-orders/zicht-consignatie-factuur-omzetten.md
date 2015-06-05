@@ -54,15 +54,15 @@ Dit resulteert in een nieuwe factuur. Vul de factuur verder in (Facturatie schem
 
 **Gedeeltelijk retour nemen of factureren**
 
-Het komt ook voor dat je een gedeelte van een productregel retour wilt nemen of wilt factureren. In zo'n geval ga je naar de consignatieregels en selecteert de productregel.
+Het komt ook voor dat je een gedeelte van een productregel retour wilt nemen of wilt factureren. In zo'n geval ga je naar de consignatieregels en selecteert de productregel (dubbel klikken).
 
 ![](images/consignatie-gedeeltelijk.jpg)
 
-Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarvan je iets wilt retour nemen. Je ziet dat er voor het veld dat je kan wijzigen **"Facturen / retour"** staat. er is dus geen apart veld voor retour of factuur. Dit wordt bepaald aan de hand van de knop.
+Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarvan je iets wilt retour nemen. Je ziet dat er voor het veld dat je kan wijzigen **"Facturen / retour"** staat. Er is dus geen apart veld voor retour of factuur. Dit wordt bepaald aan de hand van de knop.
 
 ![](images/knop.jpg)
 
-<div class="warning">LET WEL OP. Je kiest voor Retour nemen of Factureren.</div>
+<div class="warning">LET WEL OP. Je kiest voor Retour nemen of Factureren, je kan dus niet in één keer producten retournemen en factureren. Dit doe je dan in 2 stappen.</div>
 
 ![](images/consignatie-gedeeltelijk.jpg)
 
