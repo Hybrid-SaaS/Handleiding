@@ -75,3 +75,5 @@ Dit resulteert in een nieuwe factuur met een tegenboeking van de gewijzigde aant
 Als uiteindelijk alle aantallen van de productregels retour genomen of gefactureerd zijn, zal de consignatie factuur verdwijnen.
 
 ![](images/consignatie-eind.jpg) 
+
+[Consignatie Factuur aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-aanmaken)
