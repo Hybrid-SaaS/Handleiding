@@ -1,6 +1,6 @@
 <properties>
 	<page>
-		<title>Ticketsysteem</title>
+		<title>Tickets</title>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Tickets</position> 
