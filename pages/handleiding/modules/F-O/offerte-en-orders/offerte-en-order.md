@@ -22,8 +22,10 @@ Ga naar {[Een Offerte/Order aanmaken](http://hybridsaas.support/pages/handleidin
 
 
 
+Order afhandelen
+{[Met gedeeltelijke voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-gedeeltelijke-voorraad)}
+{[Met voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-met-voorraad)} {[Inkooporde venster](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster)}
+{[Zonder voorraad]( http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-zonder-voorraad)} 
 
-{[Order afhandelen met gedeeltelijke voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-met-voorraad)}
-{[Order afhandelen met voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-zonder-voorraad)} {[Inkooporde venster](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster)}
-{[Order afhandelen zonder voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-gedeeltelijke-voorraad)} 
-
+Zicht Consignatie
+{[Factuur](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-aanmaken)} {[Omzetten naar Retour/Factuur](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-omzetten)}

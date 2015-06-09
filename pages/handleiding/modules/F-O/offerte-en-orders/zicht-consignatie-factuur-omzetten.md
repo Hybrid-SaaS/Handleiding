@@ -9,6 +9,7 @@
 	</menu>
 </properties>
 
+Terug naar {[Offerte en order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)} 
 #Zicht-Consignatie factuur omzetten naar Retour/Factuur#
 
 Een consignatie factuur is een factuur waarbij je goederen tijdelijk op een andere locatie worden geplaatst. Deze goederen worden uiteindelijk verkocht of retour gegeven. 
@@ -16,7 +17,7 @@ Een consignatie factuur vertegenwoordigd wel een waarde maar deze waarde wordt p
 
 
 - Goederen worden verkocht en dan volgt er een verkoopfactuur
-- goederen worden retour gestuurd en dan wordt de voorraad weer opgeboekt. 
+- Goederen worden retour gestuurd en dan wordt de voorraad weer opgeboekt. 
 
 Hieronder worden deze optie uitgelegd.
 
@@ -33,7 +34,7 @@ Op het moment dat je 1 productregel selecteert worden de knoppen bruikbaar.
 
 **Retour nemen**
 
-Als je alle regels retour wilt nemen dan selecteer je alle regels (dmv ALT of CNTR toetsen) en drukt op de knop Retour.   
+Als je alle regels retour wilt nemen dan selecteer je alle regels (dmv ALT of CTRL toetsen) en drukt op de knop Retour.   
 ![](images/consignatie-knop-retour.jpg)
 
 Dit resulteert in een nieuwe factuur met een tegenboeking van de aantallen. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur.
@@ -46,7 +47,7 @@ Als de factuur uiteindelijk wordt verzonden, dan worden de goederen terug geboek
 
 **Factureren**
 
-Als je alle regels wilt factureren dan selecteer je alle regels (dmv ALT of CNTR toetsen) en drukt op de knop Factureren.   
+Als je alle regels wilt factureren dan selecteer je alle regels (dmv ALT of CTRL toetsen) en drukt op de knop Factureren.   
 ![](images/consignatie-knop-factuur.jpg)
 
 Dit resulteert in een nieuwe factuur. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur.
@@ -77,4 +78,8 @@ Als uiteindelijk alle aantallen van de productregels retour genomen of gefacture
 
 ![](images/consignatie-eind.jpg) 
 
-[Consignatie Factuur aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-aanmaken)
+
+
+Zie ook {[Factuur](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-aanmaken)} 
+
+Terug naar {[Offerte en order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}

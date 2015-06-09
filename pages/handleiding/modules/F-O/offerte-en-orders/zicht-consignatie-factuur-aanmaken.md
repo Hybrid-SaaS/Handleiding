@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-Terug naar {[Vragenlijst](http://hybridsaas.support/pages/handleiding/modules/F-O/Zicht-Consignatie factuur)}
+Terug naar {[Offerte en order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}
 
 #Zicht-Consignatie factuur#
 
@@ -36,4 +36,6 @@ Doordat het vinkje "Facturen op consignatie" in het document schema aan staat wo
 
 Het doel van een consignatiefactuur is om goederen tijdelijk op een ander locatie (bij een klant) te plaatsen. De klant bepaald dan zelf of een product verkocht wordt of retour wordt gestuurd. Bij een verkoop ontvangt de klant daarvoor een factuur 
 
-[Omzetten naar Retour/Factuur](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-omzetten)
+Zie ook {[Omzetten naar Retour/Factuur](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/zicht-consignatie-factuur-omzetten)} 
+
+Terug naar {[Offerte en order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}
