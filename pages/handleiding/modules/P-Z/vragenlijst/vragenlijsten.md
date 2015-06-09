@@ -1,6 +1,6 @@
 <properties>
 	<page>
-		<title>Vragenlijsten</title>
+		<title>Vragenlijst</title>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Vragenlijst</position> 
@@ -36,14 +36,17 @@ Dit doe je met de knop toevoegen. Als je in een bestaande vragenlijst aan het we
 Er zijn 3 soorten vragen 
 
 - Enkele tekstregel
-	- Hiervan krijg je 
 - Meerdere tekstregels
 - Multiple choice
 
-
+**Enkele tekstregel**
 
 ![](images/vragenlijst-beheer-1-tekstregel.jpg) 
 
+
+**Meerdere tekstregels**
+
+**Multiple choice**
 ![](images/vragenlijst-beheer-multiplechoice.jpg) 
 
 ![](images/vragenlijst-beheer-multiplechoice-antw.jpg)
