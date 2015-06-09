@@ -61,3 +61,34 @@ Voordat je de vragenlijst kan opslaan is er ook nog een tabblad "Instellingen" H
 Hieronder het resultaat van bovenstaande vragenlijst
  
 ![](images/vragenlijst-resultaat.jpg)
+
+**Extra actie**
+
+Je kan bij de multiple choice vragen ook extra vragen toevoegen als een bepaald antwoord wordt gegeven.
+Maak dan eerste de extra vragen aan en groepeer deze door er een ID aan te geven. Dit kan een willekeurige naam zijn. In het voorbeeld is dit "extra"
+
+![](images/vragenlijst-beheer-extra.jpg)
+
+Door bij de antwoord opties een actie toe te voegen, zullen de extra vragen in de vragenlijst wel mof niet worden getoond. 
+
+
+- SHOW "ID"
+	- vragen met hetzelfde ID worden nu zichtbaar als deze optie gekozen wordt
+- HIDE "ID" 
+	- vragen met hetzelfde ID worden nu verborgen als deze optie gekozen wordt
+
+![](images/vragenlijst-beheer-extra-1.jpg)
+
+De extra vragen die je maakt kunnnen weer van de 3 verschillende types zijn,   
+
+![](images/vragenlijst-beheer-extra-vraag.jpg) 
+
+![](images/vragenlijst-beheer-extra-vraag-1.jpg)
+
+**Resultaat:** Als er voor de optie "Ja" wordt gekozen dan worden de 3 extra vragen zichtbaar. Deze kunnen dan extra beantwoord worden.
+
+![](images/vragenlijst-beheer-extra-show.jpg)
+
+**Resultaat:** Als er voor de optie "NVT" wordt gekozen dan komen er geen extra vragen bij, deze zijn dan ook niet relevant.  
+
+![](images/vragenlijst-beheer-extra-hide.jpg)        
