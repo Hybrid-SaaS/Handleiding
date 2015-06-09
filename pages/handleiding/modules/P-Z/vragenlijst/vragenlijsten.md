@@ -38,8 +38,9 @@ Er zijn 3 soorten vragen
 
 ![](images/vragenlijst-beheer-1-tekstregel.jpg) 
 
-
 **Meerdere tekstregels**
+
+![](images/vragenlijst-beheer-meer-tekstregels.jpg) 
 
 **Multiple choice**
 
@@ -47,6 +48,16 @@ Er zijn 3 soorten vragen
 
 ![](images/vragenlijst-beheer-multiplechoice-antw.jpg)
 
+![](images/vragenlijst-beheer-instellingen.jpg)
 
+Voordat je de vragenlijst kan opslaan is er ook nog een tabblad "Instellingen" Hierop geef je aan waar de vragenlijst wordt weergegeven en je bent verplicht om een document layout en een email layout te selecteren.
+
+
+<<<<<<< HEAD
 **Tabblad Informatie**
 Terug naar {[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/Vragenlijst)}
+=======
+Hieronder het resultaat van bovenstaande vragenlijst
+ 
+![](images/vragenlijst-resultaat.jpg)
+>>>>>>> origin/master
