@@ -68,7 +68,7 @@ Maak dan eerste de extra vragen aan en groepeer deze door er een ID aan te geven
 
 ![](images/vragenlijst-beheer-extra.jpg)
 
-Door bij de antwoord opties een actie toe te voegen, zullen de extra vragen in de vragenlijst wel mof niet worden getoond. 
+Door bij de antwoord opties een actie toe te voegen, zullen de extra vragen in de vragenlijst wel of niet worden getoond. 
 
 
 - SHOW "ID"
@@ -91,3 +91,18 @@ De extra vragen die je maakt kunnnen weer van de 3 verschillende types zijn,
 **Resultaat:** Als er voor de optie "NVT" wordt gekozen dan komen er geen extra vragen bij, deze zijn dan ook niet relevant.  
 
 ![](images/vragenlijst-beheer-extra-hide.jpg)        
+
+**Foto bij de vraag**
+
+In sommige gevallen is het handig om een foto (upload) aan de vraag toe te voegen. Dit verduidelijkt de vraag.
+Bij de vraag kan je door middel van de knop "Upload foto" een plaatje toevoegen. 
+
+![](images/vragenlijst-foto-upload.jpg)
+
+Het resultaat in de vraag:
+
+![](images/vragenlijst-foto-upload-1.jpg)  
+
+Het resultaat in de vraag op extranet:
+
+![](images/vragenlijst-foto-upload-2.jpg)  

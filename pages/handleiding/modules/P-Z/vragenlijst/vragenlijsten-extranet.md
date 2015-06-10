@@ -9,13 +9,11 @@
 	</menu>
 </properties>
 
-
-#Vragenlijsten#
-<description>Informatie is misschien wel het belangrijkste onderdeel binnen elke organisatie. Maar hoe zorgt u ervoor dat u de juiste informatie krijgt, zonder dat er een hele papierstroom aan vooraf gaat.
-Met de Online Enquête en vragenlijsten van Hybrid SaaS kunt u klanttevredenheidsonderzoeken uitvoeren, gestandaardiseerde (voor) opnamelijsten en nog veel meer. U heeft de volledige vrijheid om zelf vragen op te stellen en deze te laten beantwoorden door middel van muliplechoice of open antwoorden.
+#Vragenlijst extranet#
+<description>Het invullen van een vragen lijst kan door iedere gebruiker gedaan worden via het extranet. Het extranet is een module die het mogelijk maakt om op mobiele devices informatie te halen of in te voeren.
 </description>
 
-#Vragenlijst extranet#
+#Hoe log ik in op extranet#
 
 Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door naar het menu Beheren te gaan onder Vragenlijsten. 
 
