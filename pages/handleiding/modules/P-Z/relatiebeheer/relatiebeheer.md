@@ -17,3 +17,5 @@ Relaties zijn de motor van iedere organisatie. Juist daarom is het belangrijk om
 Met de module Relatiebeheer van Hybrid SaaS kunnen klantgegevens gemakkelijk en snel worden vastgelegd. Bovendien heeft elke medewerker altijd en overal toegang tot de actuele gegevens en de historie van elke klant. Dit is ook voor de klant een goede zaak, want dit zorgt voor een optimale klantbediening.
 
 Ga naar {[Persoon aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuw-persoon-aanmaken)} {[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuwe-relatie-aanmaken)} {[Relatie import](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatie-import)}
+
+Zie ook {[Abonnementen](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/introductie)}
