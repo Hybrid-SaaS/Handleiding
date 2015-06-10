@@ -17,7 +17,7 @@ Met de Online Enquête en vragenlijsten van Hybrid SaaS kunt u klanttevredenheid
 
 #Beheren vragenlijst#
 
-Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door naar het menu Beheren te gaan onder Vragenlijsten. 
+Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door  via de startknop naar het menu Vragenlijsten te gaan en daar Beheren te selecteren. 
 
 ![](images/vragenlijst-beheer.jpg) 
 

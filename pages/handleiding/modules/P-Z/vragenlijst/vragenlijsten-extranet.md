@@ -15,7 +15,12 @@
 
 #Hoe log ik in op extranet#
 
-Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door naar het menu Beheren te gaan onder Vragenlijsten. 
+Maak een gebruiker aan die alleen via extranet kan inloggen. Geef deze gebruiker de juiste rechten. dit doe je door middel van een beveiligingsgroep aan te maken en deze aan de gebruiker te koppelen.
 
+Aanmaken gebruiker
+
+Ga naar [gebruiker-aanmaken-wijzigen](http://hybridsaas.support/pages/handleiding/extra/gebruiker-aanmaken-wijzigen)
+
+  
 ![](images/vragenlijst-beheer.jpg) 
 
