@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-Terug naar {[Abonnementen]()} {[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)}
+Terug naar {[Abonnementen](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/introductie)} {[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)}
 #Aanmaken van Abonnementype#
 *Introductie*
 
@@ -91,4 +91,4 @@ In dit artikel wordt het proces om een abonnement aan te maken beschreven. Abonn
 - Zoom in
 	- Hiermee kan je het document inzoomen.
 
-Terug naar {[Abonnementen]()} {[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)}
+Terug naar {[Abonnementen](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/introductie)} {[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)}
