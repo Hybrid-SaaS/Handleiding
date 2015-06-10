@@ -1,10 +1,12 @@
 <properties>
 	<page>
 		<title>Abonnementen</title>
+		<context>dlgsubscription*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Abonnementen</position>
-		<title>Introductie</title>
+		<title>abonnementen aanmaken</title>
+		<sort>B</sort>
 	</menu>
 </properties>
 
