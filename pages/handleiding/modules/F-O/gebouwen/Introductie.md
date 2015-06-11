@@ -44,5 +44,6 @@
 ----------
 
 <[Gebouwen beheren](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuur-aanmaken)>
+<[Gebouw eenheden]()>
 
 ----------

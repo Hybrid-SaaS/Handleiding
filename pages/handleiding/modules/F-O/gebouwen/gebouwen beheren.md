@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-<[Gebouwen beheren](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuur-aanmaken)>
+Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen)>
 
 ----------
 #Gebouwen beheren#
@@ -48,3 +48,7 @@ De functies van het invoervenster gebouwen wordt in dit artikel behandeld. Afhan
 **Tabblad Abonnementen**
 
 ![](images/gebouwen-abonnementen.JPG)
+
+
+----------
+Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen)>
