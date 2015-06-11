@@ -43,7 +43,7 @@
 
 ----------
 
-<[Gebouwen beheren](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuur-aanmaken)>
-<[Gebouw eenheden]()>
+<[Gebouwen beheren](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen%20beheren)>
+<[Gebouw eenheden](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouw-eenheden)>
 
 ----------
