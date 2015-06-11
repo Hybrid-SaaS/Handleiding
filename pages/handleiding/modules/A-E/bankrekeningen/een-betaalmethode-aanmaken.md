@@ -17,6 +17,7 @@ Ga terug <[Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A
 ----------
 
 #Een betaalmethode aanmaken#
+In dit artikel wordt het proces om een betaalmethode aan te maken beschreven
 
 **Tabblad Betaalmethode**
 

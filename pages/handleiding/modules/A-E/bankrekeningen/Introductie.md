@@ -39,9 +39,18 @@ De module Hybrid SaaS Bankrekeningen schept orde in de chaos. U kan eenvoudig ba
 ----------
 
 Ga naar <[Bankrekening aanmaken]()>
+<[Bankrekening als kas aanmaken]()>
 <[Betaalmethode aanmaken]()>
 
 ----------
 
-Zie ook <[Automatische incasso](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/automatische-incasso)>
+<[Automatische incasso](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/automatische-incasso)>
 <[Verwijderen van de bankrekeningimport](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/bankrekening-import-verwijderen)>
+
+----------
+
+<[Banktransactie importeren]()>
+<[Banktransactie importeren MT940]()>
+
+----------
+<[Handmatige transactie inboeken]()>
