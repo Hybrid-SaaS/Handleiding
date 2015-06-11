@@ -1,6 +1,7 @@
 <properties>
 	<page>
-		<title>Abonnementen</title>
+		<title>Introductie abonnementen</title>
+		<description>Introductie abonnementen</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Abonnementen</position>
@@ -17,4 +18,6 @@ Wanneer een certificaat of overeenkomst tegen de einddatum aanloopt word je hier
 
 
 
-Ga naar {[Abonnement aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/abonnementen)} {[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)} 
+----------
+
+Ga naar <[Abonnement aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/abonnementen)> <[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)>
