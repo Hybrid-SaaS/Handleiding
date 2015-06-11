@@ -1,14 +1,14 @@
 
 <properties>
 	<page>
-		<title>Bankrekeningen</title>
-		<description>Bankrekeningen</description>
+		<title>Betaalmethode aanmaken</title>
+		<description>Betaalmethode aanmaken</description>
 		<context>dlgpayment-method*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Betaalmethode aanmaken</title>
-		<sort></sort>
+		<sort>c</sort>
 	</menu>
 </properties>
 

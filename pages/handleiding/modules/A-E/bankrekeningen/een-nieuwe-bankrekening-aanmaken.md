@@ -8,7 +8,7 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Bankrekening aanmaken</title>
-		<sort></sort>
+		<sort>b</sort>
 	</menu>
 </properties>
 

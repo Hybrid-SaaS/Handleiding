@@ -7,7 +7,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Abonnementen</position>
-		<title>abonnementen aanmaken</title>
+		<title>Abonnementen aanmaken</title>
 		<sort>B</sort>
 	</menu>
 </properties>

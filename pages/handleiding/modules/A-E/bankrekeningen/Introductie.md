@@ -1,7 +1,7 @@
 <properties>
 	<page>
-		<title>Bankrekeningen</title>
-		<description>Bankrekeningen</description>
+		<title>Introductie bankrekeningen</title>
+		<description>Introductie bankrekeningen</description>
 		<context>bankaccounts*</context>
 	</page>
 	<menu>
@@ -43,6 +43,5 @@ Ga naar <[Bankrekening aanmaken]()>
 
 ----------
 
-
-<[Automatische incasso](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/automatische-incasso)>
+Zie ook <[Automatische incasso](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/automatische-incasso)>
 <[Verwijderen van de bankrekeningimport](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/bankrekening-import-verwijderen)>

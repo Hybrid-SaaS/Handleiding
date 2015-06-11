@@ -6,15 +6,17 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Bankrekeningimport verwijderen</title>
-		<sort>C</sort>
+		<sort>e</sort>
 	</menu>
 </properties>
 
-Terug naar [Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)
+Terug naar <[Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)>
+
+----------
 
 # Verwijderen van de bankrekeningimport #
 
-Het is mogelijk om een bankrekening import te verwijderen wanneer deze is ingelezen. Ge hiervoor naar bankrekeningen > transacties > bankrekening imports. Selecteer de import welke verwijderd dient te worden en klik op verwijderen.
+Het is mogelijk om een bankrekening import te verwijderen wanneer deze is ingelezen. Ga hiervoor naar bankrekeningen > transacties > bankrekening imports. Selecteer de import welke verwijderd dient te worden en klik op verwijderen.
 
 <div class="info">
 Wanneer de import wordt verwijderd zullen alle geboekte transacties komen te vervallen. Dit kan betekenen dat reeds geboekte in- en verkoopfacturen weer open komen te staan.
@@ -23,4 +25,6 @@ Wanneer de import wordt verwijderd zullen alle geboekte transacties komen te ver
 
 ![Bankrekeningimport verwijderen](images/import-verwijderen.jpg)
 
-Terug naar [Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)
+----------
+
+Terug naar <[Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)>

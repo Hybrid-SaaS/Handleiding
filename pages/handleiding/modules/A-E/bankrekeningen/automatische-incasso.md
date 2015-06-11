@@ -6,11 +6,14 @@
 	<menu>
 		<position>Handleiding / Modules / A - E / Bankrekeningen </position> 
 		<title>Automatische incasso instellen</title>
-		<sort>B</sort>
+		<sort>d</sort>
 	</menu>
 </properties>
 
-Terug naar [Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)
+Terug naar <[Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)>
+
+----------
+
 #Automatische incasso limieten instellen#
 
 Het is mogelijk om een controle te laten plaatsvinden van de waarde van de automatische incasso's.
@@ -45,4 +48,6 @@ Indien er tijdens het aanmaken van het incassobestand één van de limieten is o
 
 ![](images/incasso-aanmaken-foutmelding.jpg)
 
-Terug naar [Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)
+----------
+
+Terug naar <[Bankrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/Introductie)>
