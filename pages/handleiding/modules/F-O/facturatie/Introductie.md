@@ -2,7 +2,7 @@
 	<page>
 		<title>Introductie facturatie</title>
 		<description>Introductie facturatie</description>
-		<context>invoice-new</context>
+		<context>invoice-new*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Facturatie</position>
