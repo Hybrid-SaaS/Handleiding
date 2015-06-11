@@ -1,7 +1,8 @@
 <properties>
 	<page>
 		<title>Contracten-aanmaken</title>
-		<description> Contracten-aanmaken</description>		
+		<description> Contracten-aanmaken</description>	
+		<context>dlgcontract*</context>	
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Contracten</position> 
@@ -10,18 +11,19 @@
 	</menu>
 </properties>
 
-Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)
-# Contract aanmaken #
+Ga terug <[Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)>
 
-**Aanmaken van een nieuw contract**
+----------
+
+# Contract aanmaken #
 
 Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de contract gegevens en de contractregels. Het resultaat van deze 2 kan je terugvinden in de planning. De overige tabbladen zijn informatief en ondersteunend.
 
 
-**Contract gegevens** 
+**Tabblad Contract** 
 ![](images/contract-hoofdpagina.png) 
 
-**Stamgegevens**
+*Stamgegevens*
 
 - Entiteit
 	- Dit is de administratie waar dit contract onder valt (over het algemeen wordt er met 1 entiteit gewerkt)
@@ -43,7 +45,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - T.a.v.
 	- Hier kan je zelf een persoon of functie toevoegen, bijvoorbeeld Hoof administratie of Dhr. J. Janssen.
 
-**Contract instellingen**
+*Contract instellingen*
 
 - Contractnummer
 	- Dit is een vrij in te voeren veld. Je kan deze ook via een volgnummer laten oplopen, dit gebeurt dan bij het opslaan.
@@ -67,7 +69,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 	- Hiermee geef je aan wat de output van dit contract wordt. Dit is vaak een nieuwe factuur, maar kan ook een nieuwe order, extern contract of nieuwe factuur(regels) zijn. Dit is een **verplicht veld**
 - Uitstellen met
 
-**Plannings interval**
+*Plannings interval*
 
 - Niet meer genereren
 	- Als je een contract wilt beëindigen, dan kan je dit vinkje aanzetten dan wordt het contract niet meer in de planning geplaatst en ook niet meer gegenereerd.
@@ -87,7 +89,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Einddatum 
 - Automatisch verlengen
 
-**Uitvoer instellingen**
+*Uitvoer instellingen*
 
 - Factuurmoment
 	- Je kan een factuur/order vooraf of achteraf laten genereren. Dit kan je hier ingeven.
@@ -96,58 +98,62 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Contractwaarde
 	- De waarde die wordt ingegeven bij de contractregels wordt weergegeven in deze waarde. dit kan zijn jaar, maand, week of dag. 
 
-----
-
-**Contract regels**
+**Tabblad Contract regels**
  
 ![](images/contract-regels.png) 
 
-**Aan te maken regels**
+*Aan te maken regels*
 
-**Toevoegen van contractregels; Tabblad "Titel"**
-	- ![](images/contract-regel-titel.jpg)
-	- De 3 manieren om een contractregel toe te voegen zijn op werkcode, prepaid kaart of op productcode.
-
-
-**Instellingen**
-
--  **Werkcode**
-	-  Je kan een werkcoce invoeren (als je deze weet)
-	-  Je kan een gedeelte van de tekst invoeren, het systeem haalt dan de eerste code op die hieraan voldoet.
-	-  Je kan zoeken op werkcode door op het veld "Geen werkcode gekozen" te klikken, er verschijnt dan een lijst met mogelijke werkcodes waarvan je er één kan kiezen
--  **Prepaid kaart**
-	-  Je kan zoeken op prepaidkaart door op het veld "Geen prepaid kaart gekozen" te klikken, als er aan deze relatie één of meerdere prepaid kaarten zijn gekoppeld dan kan je die kliezen.
--  **Productcode**
-	-  Je kan de productcode invoeren 
-	-  Je kan een gedeelte van de productcode invoeren, het systeem haalt dan de eerste code op die aan hieraan voldoet
-- **BTW-percentage** 
-	- wordt gevuld aan de hand van de gemaakte keuze. (werkcode, prepaidkaart of productcode)
-- **Omschrijving**
-	- Dit is vaak de omschrijving die wordt overgenomen uit de werkcode, prepaidkaart of de productcode. Deze kan altijd worden aangepast.
-- **Aantal**
-- **Eenheid**
-- **Basis bedrag**
-- **Marge /Korting %**
-- **Prijs**
-- **Inkoop**
-- **SPlitsen**
-
-**Generatie instellingen**
-
-- **Opstart kosten**
-- **Annulerings kosten**
-- **Ingangsdatum**
-- **Einddatum**
-- **Automatisch verlengen**
-- **Geen commissie berekenen**
-- ** laatst verlengd op**
-- **Herinnering**
-
-**Toevoegen van contractregels; Tabblad "Variabele looptijden (Details)"**
-	- ![](images/contract-regel-variabel.jpg)
-
-**Eenmalige kosten**
+- Toevoegen (zie volgende tabbladen)
+ 
+*Eenmalige kosten*
 
 - Entiteit
 
-Ga terug [Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)
+
+**Tabblad Titel**
+![](images/contract-regel-titel.jpg)
+	- De 3 manieren om een contractregel toe te voegen zijn op werkcode, prepaid kaart of op productcode.
+
+
+*Instellingen*
+
+-  Werkcode
+	-  Je kan een werkcoce invoeren (als je deze weet)
+	-  Je kan een gedeelte van de tekst invoeren, het systeem haalt dan de eerste code op die hieraan voldoet.
+	-  Je kan zoeken op werkcode door op het veld "Geen werkcode gekozen" te klikken, er verschijnt dan een lijst met mogelijke werkcodes waarvan je er één kan kiezen
+-  Prepaid kaart
+	-  Je kan zoeken op prepaidkaart door op het veld "Geen prepaid kaart gekozen" te klikken, als er aan deze relatie één of meerdere prepaid kaarten zijn gekoppeld dan kan je die kliezen.
+-  Productcode
+	-  Je kan de productcode invoeren 
+	-  Je kan een gedeelte van de productcode invoeren, het systeem haalt dan de eerste code op die aan hieraan voldoet
+- BTW-percentage
+	- wordt gevuld aan de hand van de gemaakte keuze. (werkcode, prepaidkaart of productcode)
+- Omschrijving
+	- Dit is vaak de omschrijving die wordt overgenomen uit de werkcode, prepaidkaart of de productcode. Deze kan altijd worden aangepast.
+- Aantal
+- Eenheid
+- Basis bedrag
+- Marge /Korting %
+- Prijs
+- Inkoop
+- Splitsen
+
+*Generatie instellingen*
+
+- Opstart kosten
+- Annulerings- kosten
+- Ingangsdatum
+- Einddatum
+- Automatisch verlengen
+- Geen commissie berekenen
+- laatst verlengd op
+- Herinnering
+
+**Tabblad Variabele looptijden (Details)**
+![](images/contract-regel-variabel.jpg)
+
+
+----------
+
+Ga terug <[Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)>

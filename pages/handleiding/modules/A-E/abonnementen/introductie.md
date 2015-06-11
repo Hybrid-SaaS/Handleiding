@@ -17,7 +17,10 @@ Wanneer een certificaat of overeenkomst tegen de einddatum aanloopt word je hier
 </description>
 
 
+> **Koppelingen die betrekking hebben op 'Abonnementen':**
+
 
 ----------
+<[Abonnement aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/abonnementen)> <[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)>
 
-Ga naar <[Abonnement aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/abonnementen/abonnementen)> <[Relatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/relatiebeheer)>
+----------

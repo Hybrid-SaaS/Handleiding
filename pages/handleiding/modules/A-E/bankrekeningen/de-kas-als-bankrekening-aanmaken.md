@@ -23,7 +23,7 @@ In dit artikel wordt het proces om de kas als bankrekening aan te maken beschrev
 - Entiteit
 	- Entiteit word automatisch ingegeven. Tenzij u meerdere entiteiten heeft aangemaakt. In dat geval kunt u hier de entiteit selecteren.
 - Grootboek
-	- Selecteer de grootboekrekening welke bij de bank hoort.
+	- Selecteer de grootboekrekening welke bij de bank hoort. (Maak deze eventueel aan via [werkcodes/ grootboekrekeningen](http://hybridsaas.support/pages/handleiding/modules/A-E/boekhouding/grootboekrekeningen-aanmaken))
 - Handmatige transacties (kasboek)
 
 

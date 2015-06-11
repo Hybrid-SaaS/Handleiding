@@ -36,9 +36,12 @@ De module Hybrid SaaS Bankrekeningen schept orde in de chaos. U kan eenvoudig ba
 - Correspondentie
 
 
+
+> **Koppelingen die betrekking hebben op 'Bankrekeningen':**
+
 ----------
 
-Ga naar <[Bankrekening aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/een-nieuwe-bankrekening-aanmaken)>
+<[Bankrekening aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/een-nieuwe-bankrekening-aanmaken)>
 <[Bankrekening als kas aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/de-kas-als-bankrekening-aanmaken)>
 <[Betaalmethode aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/een-betaalmethode-aanmaken)>
 
@@ -54,3 +57,5 @@ Ga naar <[Bankrekening aanmaken](http://hybridsaas.support/pages/handleiding/mod
 
 ----------
 <[Handmatige transactie inboeken](http://hybridsaas.support/pages/handleiding/modules/A-E/bankrekeningen/handmatige-transacties-inboeken)>
+
+----------
