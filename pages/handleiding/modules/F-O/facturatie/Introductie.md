@@ -17,6 +17,47 @@ Een goede cashflow begint bij het op tijd versturen van je facturen. Met Hybrid 
 
 Daarnaast geeft de module altijd het actuele facturatie proces weer en kun je in één oogopslag zien welke facturen zijn afgehandeld en welke er nog openstaan. Wanneer een betalingstermijn van een factuur is verstreken kunnen er gemakkelijk en snel betalingsherinneringen worden verstuurd.
 
+![](images/buttonbalk-facturatie.JPG)
+
+*Acties*
+
+- Toevoegen
+- Bewerken
+- Verwijderen
+- Vernieuwen
+- Document opmaken
+- Excel
+
+
+*Acties*
+
+- Beschermen
+- Samenvoegen 
+- Dupliceren
+
+*Goedkeuren of direct verzenden?*
+
+- Alleen goedkeuren
+- Automatisch verzenden
+- Automatisch afdrukken
+
+*Printen*
+
+- Op scherm
+- Op printer
+
+*Koppelingen* 
+
+- Historie
+- Orders
+- Mandagenstaat
+- Termijnstaat
+- Meerminderwerk staat
+
+*Financieel*
+
+- Totalen
+- Betalen
 
 > **Koppelingen die betrekking hebben op 'Facturatie':**
 
