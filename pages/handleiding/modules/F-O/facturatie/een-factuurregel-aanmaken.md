@@ -11,7 +11,8 @@
 	</menu>
 </properties>
 
-Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
+Ga terug <[Fatuur aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuur-aanmaken)>
+<[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
 
 ----------
 
@@ -77,4 +78,5 @@ Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/f
 
 ----------
 
-Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
+Ga terug <[Fatuur aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuur-aanmaken)>
+<[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
