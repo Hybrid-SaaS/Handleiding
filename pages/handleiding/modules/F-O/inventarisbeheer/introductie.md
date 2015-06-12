@@ -5,7 +5,7 @@
 		<context>inventory*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / HR Management</position>
+		<position>Handleiding / Modules / F - O / Inventarisbeheer</position>
 		<title>Introductie</title>
 		<sort>a</sort>
 	</menu>

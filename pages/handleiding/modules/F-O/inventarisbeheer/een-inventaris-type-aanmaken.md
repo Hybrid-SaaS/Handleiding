@@ -5,7 +5,7 @@
 		<context>dlginventory-type*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / HR Management</position>
+		<position>Handleiding / Modules / F - O / Inventarisbeheer</position>
 		<title>Inventarisbeheer aanmaken</title>
 		<sort>c</sort>
 	</menu>
