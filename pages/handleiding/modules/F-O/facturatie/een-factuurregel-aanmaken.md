@@ -11,13 +11,14 @@
 	</menu>
 </properties>
 
-Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/facturatie)>
+Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
 
 ----------
 
 #Een factuurregel aanmaken#
 
 **Tabblad Factuur regel**
+
 ![](images/factuur-regel.JPG)
 
 - Werkcode
@@ -76,4 +77,4 @@ Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/f
 
 ----------
 
-Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/facturatie)>
+Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>

@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/facturatie)>
+Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
 
 ----------
 
@@ -69,7 +69,7 @@ Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/f
 
 *Factuurregels*
 
-- Toevoegen zie [Een factuurregel aanmaken]()
+- Toevoegen zie [Een factuurregel aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuurregel-aanmaken)
 	- Om toe te voegen klikt u op de button Toevoegen.
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
@@ -150,4 +150,4 @@ Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/f
 
 ----------
 
-Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/facturatie)>
+Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/Introductie)>
