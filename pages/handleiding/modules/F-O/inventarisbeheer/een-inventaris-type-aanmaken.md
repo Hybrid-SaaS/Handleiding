@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Inventarisbeheer aanmaken</title>
-		<description>Inventarisbeheer aanmaken</description>
+		<title>Inventaris type aanmaken</title>
+		<description>Inventaris type aanmaken</description>
 		<context>dlginventory-type*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Inventarisbeheer</position>
-		<title>Inventarisbeheer aanmaken</title>
+		<title>Inventaris type aanmaken</title>
 		<sort>c</sort>
 	</menu>
 </properties>

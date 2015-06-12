@@ -20,7 +20,7 @@ Met Online Inventarisbeheer van Hybrid SaaS kunnen gegevens over uw inventaris o
 > **Koppelingen die betrekking hebben op 'Inventarisbeheer':**
 
 ----------
-<[Inventaris type aanmaken]()>
-<[Inventaris item aanmaken]()>
+<[Inventaris type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/inventarisbeheer/een-inventaris-type-aanmaken)>
+<[Inventaris item aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/inventarisbeheer/een-inventaris-item-aanmaken)>
 
 ----------

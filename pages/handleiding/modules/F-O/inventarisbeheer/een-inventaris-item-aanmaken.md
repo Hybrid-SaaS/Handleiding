@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Inventarisbeheer aanmaken</title>
-		<description>Inventarisbeheer aanmaken</description>
+		<title>Inventaris item aanmaken</title>
+		<description>Inventaris item aanmaken</description>
 		<context>inventory*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Inventarisbeheer</position>
-		<title>Inventarisbeheer aanmaken</title>
+		<title>Inventaris item aanmaken</title>
 		<sort>b</sort>
 	</menu>
 </properties>
