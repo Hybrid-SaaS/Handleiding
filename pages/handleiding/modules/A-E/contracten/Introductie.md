@@ -49,6 +49,10 @@ Met de module Hybrid SaaS Contractbeheer hoeft u zich nooit meer zorgen te maken
 
 ----------
 <[Contract aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-contract-aanmaken)>
+<[Contract regel aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-regel-aanmaken)>
+
+----------
+
 <[Facturen & orders genereren](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-factuur-order-genereren)>
 
 ----------
