@@ -38,5 +38,7 @@ Video <[HRM - Verlofregistratie](https://www.youtube.com/watch?v=Rb4g1DDQhCU)>
 
 ----------
 
-<[Rooster aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/verlof-aanvragen)>
+<[Rooster aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/roosters-aanmaken)>
+<[Bedrijfsagenda aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/bedrijfsagenda-aanmaken)>
 
+----------
