@@ -73,7 +73,7 @@ Ga terug <[Contract aanmaken](http://hybridsaas.support/pages/handleiding/module
 
 **Tabblad Interne opmerking**
 
-![](images/interne-opmerking.JPG)
+![](images/interne-opmerking.jpg)
 
 *Opmerking*
 

@@ -21,7 +21,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 
 **Tabblad Contract** 
-![](images/contract-hoofdpagina.png) 
+![](images/contract-hoofdpagina.jpg) 
 
 *Stamgegevens*
 
@@ -100,7 +100,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Tabblad Contract regels**
  
-![](images/contract-regels.png) 
+![](images/contract-regels.jpg) 
 
 *Aan te maken regels*
 
@@ -113,7 +113,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Tabblad Planning**
  
-![](images/contract-planning.png)
+![](images/contract-planning.jpg)
 
 *Gepland*
 
@@ -132,7 +132,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Tabblad Commissies**
  
-![](images/contract-commissies.png)
+![](images/contract-commissies.jpg)
 
 - Toevoegen
 	- Om toe te voegen klikt u op de button Toevoegen.
@@ -144,7 +144,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Tabblad Digitale kopie**
  
-![](images/contract-digitale-kopie.png)
+![](images/contract-digitale-kopie.jpg)
 
 - Bestand toevoegen
 	- Om een bestand toe te voegen klikt u op de button Toevoegen.
@@ -160,11 +160,11 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Tabblad Online bestanden**
  
-![](images/contract-online-bestanden.png)
+![](images/contract-online-bestanden.jpg)
 
 **Tabblad Opmerking**
  
-![](images/contract-opmerking.png)
+![](images/contract-opmerking.jpg)
 
 *Opmerking*
 
@@ -177,11 +177,11 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 **Tabblad Historie**
  
-![](images/contract-historie.png)
+![](images/contract-historie.jpg)
 
 **Tabblad Vervallen**
  
-![](images/contract-vervallen.png)
+![](images/contract-vervallen.jpg)
 
 *Commissie regels*
 
