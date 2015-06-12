@@ -11,8 +11,8 @@
 	</menu>
 </properties>
 
-Ga terug <[Medewerker aanmaken]()>
-<[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/hr-management)>
+Ga terug <[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-medewerker-aanmaken)>
+<[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/introductie)>
 
 ----------
 #Een Certificaat type aanmaken#
@@ -30,5 +30,5 @@ Ga terug <[Medewerker aanmaken]()>
 
 ----------
 
-Ga terug <[Medewerker aanmaken]()>
-<[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/hr-management)>
+Ga terug <[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-medewerker-aanmaken)>
+<[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/introductie)>

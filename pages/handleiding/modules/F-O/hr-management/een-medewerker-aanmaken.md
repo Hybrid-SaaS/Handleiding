@@ -12,7 +12,7 @@
 </properties>
 
 
-Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/hr-management)>
+Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/introductie)>
 
 ----------
 
@@ -271,4 +271,4 @@ Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-
 
 
 ----------
-Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/hr-management)>
+Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/introductie)>
