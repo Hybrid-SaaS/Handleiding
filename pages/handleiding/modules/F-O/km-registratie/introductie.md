@@ -17,7 +17,7 @@
 > **Koppelingen die betrekking hebben op 'HR Management':**
 
 ----------
-<[KM Registratie aanmaken]()>
-<[Vervoersmethode aanmaken]()>
+<[KM Registratie aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/km-registratie/een-km-registratie-aanmaken)>
+<[Vervoersmethode aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/km-registratie/vervoersmethode-aanmaken)>
 
 ----------
