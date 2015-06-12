@@ -17,7 +17,7 @@ Ga terug <[Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/c
 # Facturen & orders genereren #
 In dit artikel wordt het proces voor genereren van automatische orders en facturen beschreven. U dient eerst een automatische factuur aan te maken
 
-![](images/contract-genereren-start.png) 
+![](images/contract-genereren-start.jpg) 
 
 *Datum selectie*
 
