@@ -25,12 +25,13 @@ Video <[HRM - Verlofregistratie](https://www.youtube.com/watch?v=Rb4g1DDQhCU)>
 
 <[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-medewerker-aanmaken)>
 <[Certificaat aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-aanmaken)>
+<[Verlof aanvragen]()>
 
 ----------
 
 <[Certificaat type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-type-aanmaken)>
 <[Opleiding type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-opleidings-type-aanmaken)>
-<[Verlof type aanmaken]()>
+<[Verlof type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-verlof-type-aanmaken)>
 
 ----------
 
