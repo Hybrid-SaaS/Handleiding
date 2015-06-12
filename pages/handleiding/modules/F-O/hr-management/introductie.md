@@ -20,12 +20,12 @@ Het zogenoemde Employee Self Service (ESS) maakt het mogelijk dat medewerkers ze
 
 ----------
 
-<[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen%20beheren)>
+<[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-medewerker-aanmaken)>
 
 ----------
-<[Certificaat aanmaken]()>
-<[Certificaat type aanmaken]()>
-<[Opleiding type aanmaken]()>
+<[Certificaat aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-aanmaken)>
+<[Certificaat type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-type-aanmaken)>
+<[Opleiding type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-opleidings-type-aanmaken)>
 
 ----------
 
