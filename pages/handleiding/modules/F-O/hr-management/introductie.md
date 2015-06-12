@@ -10,7 +10,6 @@
 	</menu>
 </properties>
 
-
 #HR Management#
 Met Hybrid Saas Human Resource Management kun je personeelszaken eenvoudig automatiseren en heb je altijd een up-to-date inzicht in de gehele personeelsadministratie. Alle personeelsgegevens staan op één centrale veilige plaats en zaken als contactgegevens, dienstverband en verlofuren kunnen altijd en overal worden geraadpleegd.
 
