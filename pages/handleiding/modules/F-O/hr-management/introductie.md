@@ -24,14 +24,16 @@ Video <[HRM - Verlofregistratie](https://www.youtube.com/watch?v=Rb4g1DDQhCU)>
 ----------
 
 <[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-medewerker-aanmaken)>
+<[Certificaat aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-aanmaken)>
 
 ----------
-<[Certificaat aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-aanmaken)>
+
 <[Certificaat type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-type-aanmaken)>
 <[Opleiding type aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-opleidings-type-aanmaken)>
+<[Verlof type aanmaken]()>
 
 ----------
 
-<[Relaties indelen in groepen]()>
+<[Relaties indelen in groepen](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/medewerkers-indelen-in-groepen)>
 
 ----------
