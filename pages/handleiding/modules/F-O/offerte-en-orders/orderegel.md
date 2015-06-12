@@ -11,7 +11,10 @@
 	</menu>
 </properties>
 
-Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>
+
+----------
+
 #Orderegel#
 
 De tabbladen en functies van het veld orderregel word in dit artikel behandeld.
@@ -49,13 +52,32 @@ De tabbladen en functies van het veld orderregel word in dit artikel behandeld.
 - Gefactureerd
 
 **Tabblad Prijsvoorstel**
+
 ![](images/orderegel-prijsvoorstel.JPG) 
 
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
+
 **Tabblad Extra omschrijving**
+
 ![](images/orderegel-extraomschrijving.JPG) 
+
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
 
 **Tabblad Productie/Tijdregistratie**
 ![](images/orderegel-productie-tijdregistratie.JPG) 
+
 *productie fase*
 
 - Deadline
@@ -84,14 +106,32 @@ De tabbladen en functies van het veld orderregel word in dit artikel behandeld.
 - Geannuleerd bedrag
 
 **Tabblad Bundeling/onderverdeling**
+
 ![](images/orderegel-bundeling-onderverdeling.JPG) 
+
 *Gebundelde producten worden afgeboekt van de voorraad, bij retour worden deze niet opgeboekt!*
 
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
+
 **Tabblad Omschrijving HTML**
+
 ![](images/orderegel-omschrijvingHTML.JPG) 
 
+
 **Tabblad Historie**
+
 ![](images/orderegel-historie.JPG) 
+
 *Historie inzien*
 
-Terug naar een [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+
+----------
+
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>

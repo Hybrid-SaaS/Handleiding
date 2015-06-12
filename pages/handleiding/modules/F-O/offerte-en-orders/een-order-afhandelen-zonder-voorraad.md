@@ -10,7 +10,9 @@
 	</menu>
 </properties>
 
-Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>
+
+----------
 
 #Een order afhandelen zonder voorraad#
 
@@ -24,9 +26,10 @@ Alle goederen zijn niet op voorraad, je maakt hier een bestel advies van door mi
 de Offerte is toegevoegd aan de map "besteld advies", daar vanuit kan je een "inkooporder aanmaken" naar je leverancier
 ![](images/offertes-zondervoorraad-uitgelicht-inkooporde.JPG)
 
-In dit venster wordt het proces voor het bestellen van een inkooporde beschreven. Voor meer uitleg over het inkoopordevensters gaat u naar [inkoopordevenster](http://hybridsaas.support/in/dialog/dlgpurchase-order)
+In dit venster wordt het proces voor het bestellen van een inkooporde beschreven. Voor meer uitleg over het inkoopordevensters gaat u naar [inkoopordevenster](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster)
 
 ![](images/inkooporde-uitgelicht-mail.JPG)
 
+----------
 
-Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>

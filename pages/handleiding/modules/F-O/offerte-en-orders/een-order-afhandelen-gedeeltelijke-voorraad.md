@@ -10,7 +10,10 @@
 	</menu>
 </properties>
 
-Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>
+
+----------
 
 
 #Een order afhandelen met gedeeltelijke voorraad #
@@ -18,4 +21,7 @@ Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/m
 
 In dit artikel wordt het proces voor het afhandelen van een nieuwe order met gedeeltelijke voorraad beschreven.
 
-Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+
+----------
+
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>

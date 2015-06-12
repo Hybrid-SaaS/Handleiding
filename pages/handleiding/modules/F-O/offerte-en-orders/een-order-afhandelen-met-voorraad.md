@@ -10,7 +10,9 @@
 	</menu>
 </properties>
 
-Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>
+
+----------
 
 #Een order afhandelen met voorraad#
 In dit artikel wordt het proces voor het afhandelen van een nieuwe order met voorraad beschreven.
@@ -31,5 +33,6 @@ Bevestig de order
 
 Je order komt dan in verzonden facturen te staan en je kan de producten uitleveren
 
+----------
 
-Stap terug [offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)
+Ga terug <[offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>

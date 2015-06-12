@@ -10,11 +10,11 @@
 	</menu>
 </properties>
 
-Ga terug [Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)
+Ga terug <[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/introductie)
 
 #Een offerte of order aanmaken#
 
-In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Invoervenster offerte/order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster).
+In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven. Voor meer uitleg over het invoervensters gaat u naar [Offerte en Order](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/invoervenster).
 
 Klik op
 
@@ -75,4 +75,7 @@ Hierna heb je 3 verschillende keuze voor het afhandelen van de orde zie de volge
 
 [Met voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-met-voorraad) --- [Zonder voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-zonder-voorraad) --- [Gedeeltelijke voorraad](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-order-afhandelen-gedeeltelijke-voorraad)
 
-Ga terug [Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)
+
+----------
+
+Ga terug <[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/introductie)

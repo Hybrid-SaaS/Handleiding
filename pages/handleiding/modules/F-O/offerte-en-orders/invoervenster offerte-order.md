@@ -1,22 +1,27 @@
 <properties>
 	<page>
-		<title>Invoervenster Offerte en Order</title>
-		<description>Invoervenster Offerte en Order</description>
+		<title>Offerte en Order</title>
+		<description>Offerte en Order</description>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / F - O / Offertes en orders</position>
-		<title>Invoervenster Offerte en Order</title>
+		<title>Offerte en Order</title>
 		<sort>BA</sort>
 	</menu>
 </properties>
 
-Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}
+Ga terug <[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)>
+<[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/introductie)
 
-#Invoervenster offerte/order#
+----------
+
+
+#Offerte en Order#
 
 De tabbladen en functies van het invoervenster offerte en order word in dit artikel behandeld.
 
 **Tabblad Stamgegevens**
+
 ![](images/offertes-aanmaken-stamgegevens.JPG) 
 
 *Relatie gegevens*
@@ -91,6 +96,7 @@ De tabbladen en functies van het invoervenster offerte en order word in dit arti
 - Dealer %
 
 **Tabblad Adres wijziging/Instellingen**
+
 ![](images/offertes-aanmaken-adreswijziginginstellingen.JPG) 
 
 *Factuuradres*
@@ -161,6 +167,13 @@ In het tabblad opmerking kunt u een vrije opmerking over de offerte / order inge
 **Tabblad Acties**
 ![](images/offertes-aanmaken-acties.JPG) 
 
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
 
 **Tabblad Vrije tekst**
 ![](images/offertes-aanmaken-vrijetekst.JPG) 
@@ -169,9 +182,25 @@ In het tabblad opmerking kunt u een vrije opmerking over de offerte / order inge
 
 In het tabblad vrije teksten kunt u teksten met opmaak ingeven die in de offerte / order zichtbaar zijn. De teksten die u hier ingeeft worden geheel met opmaak over genomen.
 
+- Selecteren
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
 **Tabblad Betalingen**
 ![](images/offertes-aanmaken-betalingen.JPG) 
 
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
 
 **Tabblad Historie**
 ![](images/offertes-aanmaken-historie.JPG) 
@@ -195,4 +224,8 @@ In het tabblad vrije teksten kunt u teksten met opmaak ingeven die in de offerte
 - Zoom in
 	- Om het document in te zoemen klikt u op de button Zoom in.
 
-Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/offerte-en-order)}
+
+----------
+
+Terug naar <[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)> 
+<[Offerte/orde](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/introductie)
