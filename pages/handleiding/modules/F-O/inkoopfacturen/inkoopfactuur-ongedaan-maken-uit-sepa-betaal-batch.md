@@ -10,7 +10,10 @@
 	</menu>
 </properties>
 
-Ga terug [Inkoopfacturen](http://hybridsaas.support/pages/handleiding/modules/F-O/inkoopfacturen/inkoopfacturen)
+Ga terug <[Inkoopfacturen](http://hybridsaas.support/pages/handleiding/modules/F-O/inkoopfacturen/inkoopfacturen)>
+
+----------
+
 # Transactie inkoopfactuur verwijderen uit SEPA betaalbatch #
 
 Bij het deblokkeren van een inkoopfactuur krijg je de volgende melding:" Deze factuur is reeds geëxporteerd naar de bank voor de betaling in export #XX "
@@ -45,4 +48,7 @@ Selecteer de transactie en maak deze ongedaan.
 
 ![E-mailadres instellen bij e-mailsjabloon](images/factuur-ongedaan-maken-in-batch.png)
 
-Ga terug [Inkoopfacturen](http://hybridsaas.support/pages/handleiding/modules/F-O/inkoopfacturen/inkoopfacturen)
+
+----------
+
+Ga terug <[Inkoopfacturen](http://hybridsaas.support/pages/handleiding/modules/F-O/inkoopfacturen/inkoopfacturen)>

@@ -205,7 +205,7 @@ Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-
 ![](images/personeelslid-certifitcaten.JPG)
 
 - Toevoegen
-	- Om toe te voegen klikt u op de button Toevoegen. zie ook [Certificaat toevoegen]()
+	- Om toe te voegen klikt u op de button Toevoegen. zie ook [Certificaat toevoegen](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-certificaat-aanmaken)
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
 - Verwijderen
@@ -220,7 +220,7 @@ Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-
 ![](images/personeelslid-opleidingen.JPG)
 
 - Toevoegen
-	- Om toe te voegen klikt u op de button Toevoegen. zie ook [Opleiding type toevoegen]()
+	- Om toe te voegen klikt u op de button Toevoegen. zie ook [Opleiding type toevoegen](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-opleidings-type-aanmaken)
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
 - Verwijderen
@@ -254,7 +254,7 @@ Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-
 	- Om een email te versturen aan alle deelnemers aan de groep selecteert u een regel en klikt op de button Email.
 - Exporteren
 
-<div class="info">U dient eerst groepen aan te maken om het medewerkers te koppelen aan een bepaalde groep. Ga naar [Medewerkers indelen in groepen](). Groepen worden aangemaakt om medewerkers te sorteren in bepaalde groepen. Dit kan zijn alle medewerkers die werkzaam zijn bij de receptie,  administratie, sales en implementatie, systeembeheer etc.</div>
+<div class="info">U dient eerst groepen aan te maken om het medewerkers te koppelen aan een bepaalde groep. Ga naar [Medewerkers indelen in groepen](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/medewerkers-indelen-in-groepen). Groepen worden aangemaakt om medewerkers te sorteren in bepaalde groepen. Dit kan zijn alle medewerkers die werkzaam zijn bij de receptie,  administratie, sales en implementatie, systeembeheer etc.</div>
 
 
 **Tabblad Opmerkingen**
