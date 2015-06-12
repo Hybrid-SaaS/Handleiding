@@ -1,156 +1,101 @@
 <properties>
 	<page>
-		<title>Product aanmaken</title>
-		<description>Product aanmaken</description>
-		<context>producten*</context>
+		<title>Product groep aanmaken</title>
+		<description>Product groep aanmaken</description>
+		<context>product-categories*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Producten</position>
-		<title>Product aanmaken</title>
-		<sort>B</sort>
+		<title>Product groep aanmaken</title>
+		<sort>e</sort>
 	</menu>
 </properties>
 
-Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)}
-# Product aanmaken #
-De tabbladen en functies van het invoervenster Product aanmaken word in dit artikel behandeld.
+Terug naar <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)>
 
-**Tabblad Informatie**
-![](images/product-aanmaken-informatie.jpg) 
+----------
 
-- Fabrikant
-- Subgroep
-- Weergeven op webshop
-- Gearchiveerd
-- Barcode/EAN13
-- Productcode
-- Lev. code
-- Beschrijving
-- Eenheid
-- Afmeting
-- Materialen
-- Kleur
-- Merk
-- Goederen code
-- Land van herkomst
-- Gewicht
-- Voorraad verwerking
-- Afbeelding
-
-*Voorraad*
-
-*Gerelateerde producten*
-
-**Tabblad Prijzen**
-![](images/product-aanmaken-prijzen.jpg)
-*Inkoopprijs informatie*
-
-- Inkoopprijs
-- Advies inkoopprijs
-- In vreemde valuta
-
-*Verkoopprijs informatie*
-
-- Verkoopprijs
-- BTW percentage
-- Bereken via factor op inkoopprijs
-- Repeterende kosten
-- Vaste korting
-- Geen korting toepassen
-- Advies verkoopprijs
-- BTW percentage
-- Bereken via factor op verkoopprijs
-- Opstart kosten
-- Voorgestelde verkoopprijs
-- BTW percentage
-- Bereken via factor op verkoopprijs
-- Annuleringskosten
-
-*Afwijkende prijsmodellen voor dit product*
-
-
-**Tabblad Details**
-![](images/producten-aanmaken-details.JPG)
-*Details*
-
-*Opmerking*
+#Product hoofdgroep aanmaken#
+Product hoofdgroepen zijn een verzameling product subgroepen, die tot dezelfde categorie behoren. Door product subgroepen te groeperen kunt u overzicht houden in uw producten bestand.
 
 **Tabblad Instellingen**
-![](images/producten-aanmaken-instellingen.JPG)
 
-*Product instellingen*
+![](images/hoofdgroep-instellingen.JPG)
 
-- Dit is een hoofdproduct
-- Dit is een onderdeel
-- Dit zijn verzendkosten
-- Speciaal voor klant
-- Offerte product
-- Pre sale product (alleen voor accountmanager beschikbaar)
-- Introductiedatum
-- Variable verkoop prijs uitschakelen voor dit product
-- Variable inkoop prijs uitschakelen voor dit product
-- Product onderdelen bundelen in orderegel (ivm afboeken voorraad)
-- Dit product zal op voorraad komen door verweking van de gekoppelde producten (eigen productie)
-- Dit product zal niet meer worden nabesteld (op=op)
-- Individueel nabestellen vanuit de orderegel
-- Verkoop calculatie
-- Product label
-- Inkoop calculatie
-- Maat label
-- Basis verkoop prijs
-- Afronden verkoopprijs
-- Basis inkoop prijs
-- Minimale voorraad
-- Nabestel hoeveelheid
-- Nabestel dagen
-- Verpakkings eenheid (aantal * verpakkings eenheid zal worden gefactureerd en/of afgeboekt)
-- Drop shipment
-- Productie dagen (aantal werkdagen nodig voor het produceren van dit product)
-- Uitlever dagen (aantal werkdagen nodig voor het uitleveren van dit product)
-- Lengte (cm)
-- Breedte (cm)
-- Hoogte (cm)
+- Volgorde
+	- Optioneel
+- Website
+- Naam
+- Omschrijving
+	- Optioneel
+- Korting %
+- Korting eindigt op
 
-*Product bestaat uit de volgende onderdelen*
+*Voorkeurs werkcode/grootboekrekening*
 
-**Tabblad CMS**
-![](images/producten-aanmaken-cms.JPG)
-*content per taal*
+- Verkoop facturen
+	- Koppel de voorkeurs werkcode waarvan u wilt dat deze automatisch bij orders en facturen naar voren komt.
+- Inkoop facturen
+	- Koppel de voorkeurs werkcode waarvan u wilt dat deze automatisch bij orders en facturen naar voren komt.
 
-- Website uitbreiding
-- Sorteer waarde
+**Tabblad Vertaling**
 
-**Tabblad Kenmerken**
-![](images/producten-aanmaken-kenmerken.JPG)
-*Wat voor kenmerken horen bij dit product?*
+![](images/hoofdgroep-vertalingen.JPG)
 
-**Tabblad Serie nummers**
-![](images/producten-aanmaken-serienummers.JPG)
-*Welke serienummers zijn er bekend van dit product*
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
 
--Serienummers bijhouden
 
-**Tabblad Fabrikanten**
-![](images/producten-aanmaken-fabrikanten.JPG)
-*Wat voor fabrikanten horen bij dit product?*
+**Tabblad Omschrijving HTML**
 
-**Tabblad Collecties**
-![](images/producten-aanmaken-collecties.JPG)
-*Wat voor collecties horen bij dit product?*
+![](images/hoofdgroep-html.JPG)
 
-**Tabblad Seizoenen**
-![](images/producten-aanmaken-seizoenen.JPG)
-*Wat voor seizoenen horen bij dit product?*
+#Product subgroep aanmaken#
+Product subgroepen zijn een verzameling producten, die tot één productcategorie behoren. Door producten te groeperen kunt u overzicht houden in uw producten.
 
-**Tabblad Product locatie**
-![](images/producten-aanmaken-productlocaties.JPG)
-*Wat voor locaties horen bij dit product?*
+**Tabblad Instellingen**
 
-**Tabblad HTML**
-![](images/producten-aanmaken-HTML.JPG)
+![](images/subgroep-algemeen.JPG)
 
-**Tabblad Historie**
-![](images/producten-aanmaken-historie.JPG)
-*Historie inzien*
+- Volgorde
+	- Optioneel
+- Weergeven op webshop
+- Groep
+	- Selecteer de groep die hoort bij de subgroep die u aanmaakt.
+- Naam
+	- Optioneel
+- Korting %
+- Korting eindigt op
 
-Terug naar {[Offerte/orde aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/offerte-en-orders/een-offerte-of-order-aanmaken)} {[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)}
+*Voorkeurs werkcode/grootboekrekening*
+
+- Verkoop facturen
+	- Koppel de voorkeurs werkcode waarvan u wilt dat deze automatisch bij orders en facturen naar voren komt.
+- Inkoop facturen
+	- Koppel de voorkeurs werkcode waarvan u wilt dat deze automatisch bij orders en facturen naar voren komt.
+
+**Tabblad Vertaling**
+
+![](images/subgroep-vertaling.JPG)
+
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
+
+**Tabblad Omschrijving HTML**
+
+![](images/subgroep-html.JPG)
+
+----------
+
+Terug naar <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)>

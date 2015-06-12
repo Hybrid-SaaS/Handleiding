@@ -23,7 +23,7 @@ Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/f
 - Entiteit
 	- Hier kunt u de entiteit selecteren. Wanneer er één entiteit ingegeven is wordt dit veld automatisch ingevuld.
 - Facturatie schema
-	- Hier kunt u het facturatie schema selecteren. Om een facturatie schema aan te maken en te koppelen aan een document schema gaat u naar: [Word sjabloon](http://hybridsaas.support/pages/handleiding/extra/Sjabloon-word) en [Document schema]().
+	- Hier kunt u het facturatie schema selecteren. Om een facturatie schema aan te maken en te koppelen aan een document schema gaat u naar: [Word sjabloon](http://hybridsaas.support/pages/handleiding/extra/Sjabloon-word) en [Document schema](http://hybridsaas.support/pages/handleiding/extra/Documentschema).
 - Status
 	- De status van de factuur is in dit veld zichtbaar. Dit veld wordt automatisch ingegeven en is niet handmatig aan te passen.
 - Bedrijf
