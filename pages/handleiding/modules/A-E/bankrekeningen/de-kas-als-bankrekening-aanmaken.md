@@ -27,7 +27,7 @@ In dit artikel wordt het proces om de kas als bankrekening aan te maken beschrev
 - Handmatige transacties (kasboek)
 
 
-<div class ="warning'> Let op! Wanneer u het vinkje handmatige transacties niet aanzet kunt op deze kas rekening geen transacties inboeken en verwerken</div>
+<div class ="warning"> Let op! Wanneer u het vinkje handmatige transacties niet aanzet kunt op deze kas rekening geen transacties inboeken en verwerken</div>
 
 - Inkoopfacturen mee betalen
 - Laatste import datum
