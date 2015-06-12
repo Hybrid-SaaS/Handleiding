@@ -32,3 +32,7 @@ In dit artikel wordt het proces voor aanmaken van roosters beschreven.
 	- Klik op de button dag lengte om het aantal uren van de werkdagen in te geven.
 - Zet za&zo weekend
 	- Klik op de button Zet za&zo weekend om de zaterdagen en zondagen op weekend te zetten.
+
+----------
+
+Ga terug <[HR Management](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/introductie)>
