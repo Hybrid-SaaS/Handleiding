@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Contracten-aanmaken</title>
-		<description> Contracten-aanmaken</description>	
+		<title>Contracten regel aanmaken</title>
+		<description>Contracten regel aanmaken</description>	
 		<context>dlgcontract*</context>	
 	</page>
 	<menu>
 		<position>Handleiding / Modules / A - E / Contracten</position> 
-		<title>Contracten aanmaken</title>
+		<title>Contracten regel aanmaken</title>
 		<sort>c</sort>
 	</menu>
 </properties>

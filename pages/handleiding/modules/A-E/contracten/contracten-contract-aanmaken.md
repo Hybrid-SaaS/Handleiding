@@ -104,7 +104,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 *Aan te maken regels*
 
-- Toevoegen zie [contract regel aanmaken]()
+- Toevoegen zie [contract regel aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-regel-aanmaken)
  
 *Eenmalige kosten*
 
