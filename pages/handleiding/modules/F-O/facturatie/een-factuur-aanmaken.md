@@ -147,12 +147,17 @@ Ga terug <[Facturatie](http://hybridsaas.support/pages/handleiding/modules/F-O/f
 
 **Tabblad Betalingen**
 ![](images/factuur-betalingen.JPG)
-*Betalings informatie*
+*Betalings- informatie*
 
 **Tabblad Commissies**
 ![](images/factuur-commissies.JPG)
-- Niet meer weergeven in alle facturen zonder commissie afdracht
 
+- Niet meer weergeven in alle facturen zonder commissie afdracht
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
 
 **Tabblad Historie**
 ![](images/factuur-historie.JPG)

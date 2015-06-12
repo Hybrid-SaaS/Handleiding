@@ -104,54 +104,97 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 
 *Aan te maken regels*
 
-- Toevoegen (zie volgende tabbladen)
+- Toevoegen zie [contract regel aanmaken]()
  
 *Eenmalige kosten*
 
 - Entiteit
 
 
-**Tabblad Titel**
-![](images/contract-regel-titel.jpg)
-	- De 3 manieren om een contractregel toe te voegen zijn op werkcode, prepaid kaart of op productcode.
+**Tabblad Planning**
+ 
+![](images/contract-planning.png)
+
+*Gepland*
+
+- Regels inzien
+	- Klik hier om de regels in te zien
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
+*Voltooid*
+
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
 
 
-*Instellingen*
+**Tabblad Commissies**
+ 
+![](images/contract-commissies.png)
 
--  Werkcode
-	-  Je kan een werkcoce invoeren (als je deze weet)
-	-  Je kan een gedeelte van de tekst invoeren, het systeem haalt dan de eerste code op die hieraan voldoet.
-	-  Je kan zoeken op werkcode door op het veld "Geen werkcode gekozen" te klikken, er verschijnt dan een lijst met mogelijke werkcodes waarvan je er één kan kiezen
--  Prepaid kaart
-	-  Je kan zoeken op prepaidkaart door op het veld "Geen prepaid kaart gekozen" te klikken, als er aan deze relatie één of meerdere prepaid kaarten zijn gekoppeld dan kan je die kliezen.
--  Productcode
-	-  Je kan de productcode invoeren 
-	-  Je kan een gedeelte van de productcode invoeren, het systeem haalt dan de eerste code op die aan hieraan voldoet
-- BTW-percentage
-	- wordt gevuld aan de hand van de gemaakte keuze. (werkcode, prepaidkaart of productcode)
-- Omschrijving
-	- Dit is vaak de omschrijving die wordt overgenomen uit de werkcode, prepaidkaart of de productcode. Deze kan altijd worden aangepast.
-- Aantal
-- Eenheid
-- Basis bedrag
-- Marge /Korting %
-- Prijs
-- Inkoop
-- Splitsen
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
 
-*Generatie instellingen*
+**Tabblad Digitale kopie**
+ 
+![](images/contract-digitale-kopie.png)
 
-- Opstart kosten
-- Annulerings- kosten
-- Ingangsdatum
-- Einddatum
-- Automatisch verlengen
-- Geen commissie berekenen
-- laatst verlengd op
-- Herinnering
+- Bestand toevoegen
+	- Om een bestand toe te voegen klikt u op de button Toevoegen.
+- Scan document
+	- Om een document te scannen vanuit Hybrid SaaS dient een scanner gekoppeld te zijn aan de computer waarop u werkt. Klik op de button Scan document om een document te scannen en direct toe te voegen.
+- Zoom 100%
+	- Om het document 100% uit te zoemen klikt u op de button Zoom 100%.
+- Zoom uit
+	- Om het document uit te zoemen klikt u op de button Zoom uit.
+- Zoom in
+	- Om het document in te zoemen klikt u op de button Zoom in.
 
-**Tabblad Variabele looptijden (Details)**
-![](images/contract-regel-variabel.jpg)
+
+**Tabblad Online bestanden**
+ 
+![](images/contract-online-bestanden.png)
+
+**Tabblad Opmerking**
+ 
+![](images/contract-opmerking.png)
+
+*Opmerking*
+
+- Om een datum aan de opmerking toe te voegen klikt u op de button Datum.
+
+*Interne Opmerking*
+
+- Om een datum aan de interne opmerking toe te voegen klikt u op de button Datum.
+
+
+**Tabblad Historie**
+ 
+![](images/contract-historie.png)
+
+**Tabblad Vervallen**
+ 
+![](images/contract-vervallen.png)
+
+*Commissie regels*
+
+- Commissie afdracht naar
+- Commissie werkcode
+- Commissie deel
+- Eind datum
+- Laatst gegenereerd
+- Frequentie
+
+*Werkbonnen koppelen aan een specifieke locatie*
+
+- Plattegrond
 
 
 ----------
