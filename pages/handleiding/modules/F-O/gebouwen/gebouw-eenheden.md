@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen)>
+Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/Introductie)>
 
 ----------
 
@@ -84,4 +84,4 @@ Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/geb
 
 
 ----------
-Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen)>
+Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/Introductie)>

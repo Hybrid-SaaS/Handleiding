@@ -18,7 +18,7 @@
 *Acties*
 
 - Toevoegen
-	- Om een nieuw contract op te maken klikt u op de button Toevoegen
+	- Om een nieuw gebouw op te maken klikt u op de button Toevoegen
 - Bewerken
 	- Om de geselecteerde regel te bewerken selecteert u een product en klikt u op de button Bewerken
 - Verwijderen
@@ -36,7 +36,6 @@
 	- Om alle uitgestelde tickets in te zien
 - Ongefilterd
 	- Om alle ongefilterde tickets in te zien
-
 
 
 > **Koppelingen die betrekking hebben op 'Gebouwen':**

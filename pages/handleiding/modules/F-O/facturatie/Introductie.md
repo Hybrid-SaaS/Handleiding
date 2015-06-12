@@ -73,6 +73,4 @@ Video<[Verkoopfactuur aanmaken](https://www.youtube.com/watch?v=aSJ160Q7TEE)>
 <[Een factuurregel aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/facturatie/een-factuurregel-aanmaken)>
 
 ----------
-<[Productgroep aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Product-hoofdgroep-aanmaken)>
 
-----------

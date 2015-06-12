@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen)>
+Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/Introductie)>
 
 ----------
 #Gebouwen beheren#
@@ -51,4 +51,4 @@ De functies van het invoervenster gebouwen wordt in dit artikel behandeld. Afhan
 
 
 ----------
-Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/gebouwen)>
+Ga terug <[Gebouwen](http://hybridsaas.support/pages/handleiding/modules/F-O/gebouwen/Introductie)>
