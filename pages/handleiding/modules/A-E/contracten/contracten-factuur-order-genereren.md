@@ -11,7 +11,6 @@
 </properties>
 
 Ga terug <[Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)>
-
 ----------
 
 # Facturen & orders genereren #

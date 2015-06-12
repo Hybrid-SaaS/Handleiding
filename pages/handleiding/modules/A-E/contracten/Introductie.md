@@ -48,6 +48,9 @@ Met de module Hybrid SaaS Contractbeheer hoeft u zich nooit meer zorgen te maken
 > **Koppelingen die betrekking hebben op 'Contracten':**
 
 ----------
+Video <[Automatische facturen genereren](https://www.youtube.com/watch?v=I1cHkzTx7UA)>
+
+----------
 <[Contract aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-contract-aanmaken)>
 <[Contract regel aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-regel-aanmaken)>
 

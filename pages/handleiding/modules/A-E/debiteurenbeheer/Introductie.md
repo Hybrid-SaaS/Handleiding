@@ -27,4 +27,6 @@ Voor optimaal debiteurenbeheer raden wij aan gebruik te maken van de bankrekenin
 Er kan een verschil zitten in de tussen de transacties die je ziet bij de bank ten opzichte van de ingelezen banktransacties. De meeste banken werken met dagafschriften. Hierdoor kan het voorkomen dat sommige transacties (meestal één dag) nog niet in de importbatch staan.
 </div>
 
+Video <[Debiteurenbeheer](https://www.youtube.com/watch?v=YtopkSi08fQ)>
+
 Ga naar {[Herinneren per status]()} {[Herinneren per klant]()}

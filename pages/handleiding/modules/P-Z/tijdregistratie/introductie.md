@@ -31,4 +31,10 @@ Daarna kan je de tijdregistratie Opslaan, nu kan je in *alle tijdregistraties* d
 
 Nu kan je de [Tijdregistratie verwerken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/een-tijdregistratie-verwerken)
 
+Video <[Tijdregistratie Basis](https://www.youtube.com/watch?v=y9YTAyUh2P0)>
+<[Tijdregistratie Volledig](https://www.youtube.com/watch?v=f1NtCmKSabw)>
+<[Tijdregistratie Uitgebreid](https://www.youtube.com/watch?v=nuThRryFZE0)>
+<[Tijd registreren - goedkeuren - verwerken - factureren](https://www.youtube.com/watch?v=u6CfLj5CJJ0)>
+
+
 Ga naar {[Invoerscherm tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/invoerscherm-tijdregistratie)} {[Tijdregistratie verwerken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/een-tijdregistratie-verwerken)} {[Een werklocatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/werklocatie)}

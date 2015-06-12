@@ -19,6 +19,10 @@ Het zogenoemde Employee Self Service (ESS) maakt het mogelijk dat medewerkers ze
 > **Koppelingen die betrekking hebben op 'HR Management':**
 
 ----------
+[Video](https://www.youtube.com/watch?v=Rb4g1DDQhCU)
+
+----------
+
 
 <[Medewerker aanmaken](http://hybridsaas.support/pages/handleiding/modules/F-O/hr-management/een-medewerker-aanmaken)>
 

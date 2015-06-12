@@ -60,6 +60,12 @@ Daarnaast geeft de module altijd het actuele facturatie proces weer en kun je in
 - Betalen
 
 > **Koppelingen die betrekking hebben op 'Facturatie':**
+> 
+
+----------
+
+
+Video<[Verkoopfactuur aanmaken](https://www.youtube.com/watch?v=aSJ160Q7TEE)>
 
 ----------
 
