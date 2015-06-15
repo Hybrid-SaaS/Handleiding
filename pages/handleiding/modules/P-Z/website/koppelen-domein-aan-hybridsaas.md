@@ -6,9 +6,13 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>Dns instellen</title>
+		<sort>g</sort>
 	</menu>
 </properties>
 
+Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+
+----------
 
 # Hoe stel ik de DNS-records in voor mijn domeinnaam? #
 
@@ -47,3 +51,8 @@ Nadat je de aanpassingen hebt ingevoerd, kan het tot 24 uur duren voor je domein
 - Je domein blijft gehost bij je provider.
 - De instellingen voor de domeinnaam moeten worden aangepast, zodat bezoekers op die domeinnaam de website vinden die in Hybrid SaaS is aangemaakt.
 </div>
+
+
+----------
+
+Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>

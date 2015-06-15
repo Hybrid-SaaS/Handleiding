@@ -6,15 +6,19 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>Product zichtbaar</title>
+		<sort>d</sort>
 	</menu>
 </properties>
 
+Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+
+----------
 
 #Product zichtbaar#
 Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens van toepassing als 1 van deze gegevens niet ingevuld zijn zal niet worden weergegeven.
 
 **Tabblad Informatie**
-![](images/informatie.JPG)
+![](images/productzichtbaar-informatie.JPG)
 
 - Fabrikant
   - Hier kan je de Fabrikant opzoeken
@@ -35,7 +39,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 
 
 **Tabblad Prijzen**
-![](images/prijzen.JPG)
+![](images/productzichtbar-prijzen.JPG)
 
 - Verkoopprijs
   - Hier kan je de verkoopprijs van het product invullen
@@ -47,7 +51,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 
 **Tabblad Prijzen toevoegen**
 
-![](images/prijzen-toevoegen.jpg)
+![](images/pruductzichtbaar-prijzen-toevoegen.jpg)
 
 - Groep
   - Hier kan je de groep opzoeken waar de prijs aan gekoppeld moet worden dit is over het algemeen 'Webshop' of 'Webwinkel' of wat hier mee overeen komt
@@ -58,7 +62,7 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 
 
 **Tabblad Instellingen**
-![](images/instellingen.JPG)
+![](images/productzichtbaar-instellingen.JPG)
 
 - Dit is een hoofdproduct
   - Hiermee geef je aan dat het een hoofdproduct is en zichtbaar zal moeten zijn
@@ -66,14 +70,14 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
   - Je kan hier als je meerdere producten met elkaar gekoppeld heb aangeven dat dit een onderdeel van een ander artikel is
  
 **Tabblad CMS**
-![](images/cms.JPG)
+![](images/productzichtbaar-cms.JPG)
 
 - Toevoegen
   - Door op deze knop te klikken kom je in het volgende scherm terecht
  
 
 **Tabblad CMS toevoegen**
-![](images/cms-toevoegen.jpg)
+![](images/productzichtbaar-cms-toevoegen.jpg)
 
 - Website
   - Hier kan je de website opzoeken op welke die zichtbaar moet worden
@@ -86,3 +90,8 @@ Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens
 <div class="warning"> Let hier wel bij op dat je geen hoofdletters , . / of spaties gebruikt als je meerdere woorden invuld kies dan voor - Voorbeeld fout: Test/Omgeving Voorbeeld goed: test-omgeving</div>
 - Titel
   - Deze kan je gelijk houden aan Omschrijving
+
+
+----------
+
+Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
