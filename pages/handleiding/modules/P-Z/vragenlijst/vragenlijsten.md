@@ -4,7 +4,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Vragenlijst</position> 
-		<title>Vragenlijst-1</title>
+		<title>Vragenlijst</title>
 	<sort>B</sort>
 	</menu>
 </properties>
