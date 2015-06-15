@@ -34,3 +34,30 @@ Het vinkje "Gebruiker mag niet inloggen op Hybrid SaaS" moet aan staan. Hiermee 
 
 **Rechten**
 
+Voor de individuele rechten ga je bij de gebruikerskaart naar het tabblad "Rechten" 
+
+![](images/gebruikers-rechten.jpg)  
+
+Het scherm bestaat uit een bepaald aantal onderdelen. Je kan deze gebruiker aan een beveiligingsgroep koppelen (Beveiligingsgroep moet wel bestaan)
+Je kan op zoek gaan naar een bepaald recht door een stuk van de tekst in te voeren in het veld "Zoeken in rechten" en dan op ENTER te drukken. Je krijgt dan alle rechten te zien die aan deze tekst voldoen ongeacht in welke module deze zitten.
+Voorbeeld : zoeken op het woord "bewerken" heeft als resultaat 
+  
+![](images/gebruikers-rechten-zoeken.jpg)  
+
+Verder kan je ook per module zoeken en dan de rechten aan- of uitvinken. Klik dan op de module aan de linkerkant. Alle mogelijke rechten binnen deze module worden dan zichtbaar.
+Voorbeeld module Extranet. Met de scrollbar kan je alle rechten zien.
+
+![](images/gebruikers-rechten-module.jpg)  
+
+Er zijn 4 soorten rechten die je terug ziet en of kan zetten. Standaard zullen alle rechten op "Geen recht beveiligingsgroep" staan.
+
+![](images/gebruikers-rechten-opties.jpg)  
+
+- Recht beveiligingsgroep
+	- dit is een recht dat aanstaat, indien je een beveiligingsgroep hebt gekozen. 
+- Geen recht beveiligingsgroep
+	- dit is een recht dat uitstaat, indien je een beveiligingsgroep hebt gekozen.
+- Recht gebruiker
+	- dit is een recht dat je aan kan zetten indien je geen beveiligingsgroep hebt gekozen, ook kan je hiermee het recht van de beveiligingsgroep overrulen. Dit kan voorkomen als bijvoorbeeld één persoon binnen een bepaalde beveiligingsgroep iets **extra's** moet kunnen.  
+- Geen recht gebruiker 
+	- dit is een recht dat je uit kan zetten indien je geen beveiligingsgroep hebt gekozen, ook kan je hiermee het recht van de beveiligingsgroep overrulen. Dit kan voorkomen als bijvoorbeeld één persoon binnen een bepaalde beveiligingsgroep iets **NIET** mag.  
