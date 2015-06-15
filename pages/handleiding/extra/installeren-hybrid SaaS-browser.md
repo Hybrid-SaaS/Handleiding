@@ -23,7 +23,8 @@ Er staan 3 download opties
 - Hybrid SaaS Outlook add-in
 	- Hiermee kan je vanuit je outlook binnengekomen mail converteren naar een ticket tbv van de module "Ticketsysteem" 
 
-Kies de Hybrid SaaS Browser  
+Kies de Hybrid SaaS Browser
+  
 ![](images/download-hs-browser.jpg) 
 
 Kies voor "Uitvoeren" in de melding die onderaan het scherm verschijnt.
@@ -38,11 +39,11 @@ Na de taalkeuze wordt de installatie wizard opgestart. Kies volgende om door te 
 
 ![](images/download-hs-welkom.jpg)
 
-KLik op akkoord om de licentievoorwaarde te accepteren
+Klik op akkoord om de licentievoorwaarde te accepteren.
 
 ![](images/download-hs-licentie.jpg)
 
-Bij dit onderdeel staan standaard de Startmenu en Desktop shortcuts aan gevinkt Het onderdeel Microsoft Word Add-In kan je optioneel aanzetten. Dit doe je als je zelf word-sjablonen gaat maken of aanpassen. En klik op volgende om door te gaan.     
+Bij dit onderdeel staan standaard de Startmenu en Desktop shortcuts aan gevinkt. Het onderdeel Microsoft Word Add-In kan je optioneel aanzetten. Dit doe je als je zelf word-sjablonen gaat maken of aanpassen. En klik op volgende om door te gaan.     
 
 ![](images/download-hs-onderdeel.jpg)
 
@@ -50,7 +51,7 @@ Klik op "installeren" om de installatie te starten. De Installatiemap (C:\Progra
 
 ![](images/download-hs-locatie.jpg)
 
-Op het scherm zie je de installatie lopen en uiteindelijk verschijnt waarop je de installatie kan voltooien.
+Op het scherm zie je de installatie lopen en uiteindelijk verschijnt onderstaand scherm waarop je de installatie kan voltooien.
 
 ![](images/download-hs-voltooid.jpg)
 
@@ -59,7 +60,7 @@ Op je desktop staat nu het Hybrid SaaS logo, waarmee je de applicatie kan starte
 ![](images/download-hs-browser-logo.jpg)
 
 Bij de eerste keer opstarten vraagt het systeem nog om een locatie, dit is het internet-adres van je omgeving.
-Dit is je **bedrijfsnaam** gevolgd door **.hybridsaas.com**.
+Dit is **bedrijfsnaam** gevolgd door **.hybridsaas.com**.
 
 Gebruik de knop "Sla instellingen op" om deze instelling op te slaan.
 
