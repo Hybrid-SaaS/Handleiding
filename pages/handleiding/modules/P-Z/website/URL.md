@@ -20,13 +20,45 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 ![](images/url-algemeen.JPG)
 
+- Nieuwe handler
+- Taalcode
+- Land
+- Name
+- Omschrijving
+- URL
+- Document schema
+- Facebook identity
+- Header content
+- Footer content
+- Footer content 2
+- Standaard content
+- Organisatie
+- Prijzen van groep
+- In valuta
+- Pad betaal fout
+- Pad fout
+- Pad betaling ok
+- Pad order geplaats
+
+- 
 **Tabblad Prefix**
 
 ![](images/url-prefix.JPG)
 
+- Toevoegen
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Exporteren
+
 **Tabblad Raw content**
 
 ![](images/url-rawcontent.JPG)
+
+- Raw content head
+- Raw content body
 
 
 ----------
