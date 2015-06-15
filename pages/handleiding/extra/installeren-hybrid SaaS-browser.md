@@ -34,15 +34,23 @@ Selecteer hier de taal. Standaard is dit Nederlands.
 
 ![](images/download-hs-taal.jpg)
 
-Na de taalkeuze wordt de installatie wizard opgestart.
+Na de taalkeuze wordt de installatie wizard opgestart. Kies volgende om door te gaan.
 
 ![](images/download-hs-welkom.jpg)
 
+KLik op akkoord om de licentievoorwaarde te accepteren
+
 ![](images/download-hs-licentie.jpg)
+
+Bij dit onderdeel staan standaard de Startmenu en Desktop shortcuts aan gevinkt Het onderdeel Microsoft Word Add-In kan je optioneel aanzetten. Dit doe je als je zelf word-sjablonen gaat maken of aanpassen. En klik op volgende om door te gaan.     
 
 ![](images/download-hs-onderdeel.jpg)
 
+Klik op "installeren" om de installatie te starten. De Installatiemap (C:\Program Files\ Hybrid SaaS) die wordt voorgesteld kan je zo laten staan. 
+
 ![](images/download-hs-locatie.jpg)
+
+Op het scherm zie je de installatie lopen en uiteindelijk verschijnt waarop je de installatie kan voltooien.
 
 ![](images/download-hs-voltooid.jpg)
 
@@ -57,4 +65,6 @@ Gebruik de knop "Sla instellingen op" om deze instelling op te slaan.
 
 ![](images/download-hs-loc-hs.jpg)
 
-Nu kan je de applicatie starten. 
+Nu kan je de applicatie starten. (Mits je in het bezit bent van geldige inlognaam en wachtwoord)
+
+![](images/download-hs-browser-inlog.jpg)
