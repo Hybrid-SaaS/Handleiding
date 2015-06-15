@@ -61,3 +61,17 @@ Er zijn 4 soorten rechten die je terug ziet en of kan zetten. Standaard zullen a
 	- dit is een recht dat je aan kan zetten indien je geen beveiligingsgroep hebt gekozen, ook kan je hiermee het recht van de beveiligingsgroep overrulen. Dit kan voorkomen als bijvoorbeeld één persoon binnen een bepaalde beveiligingsgroep iets **extra's** moet kunnen.  
 - Geen recht gebruiker 
 	- dit is een recht dat je uit kan zetten indien je geen beveiligingsgroep hebt gekozen, ook kan je hiermee het recht van de beveiligingsgroep overrulen. Dit kan voorkomen als bijvoorbeeld één persoon binnen een bepaalde beveiligingsgroep iets **NIET** mag.  
+
+**Extranet**
+
+Wat krijg je te zien als je via het extranet inlogt, dit is afhankelijk van de keuzes die zijn gemaakt bij het inrichten van de vragenlijst. Daar kan je namelijk 4 plaatsen aangeven waar je de vragenlijst te zien krijgt.
+Afhankelijk van deze keuzes worden rechten toebedeeld.
+
+![](images/vragenlijst-rechten-opties.jpg)  
+
+
+**Bedrijven**
+
+![](images/extranet-vragenlijst-klant-1.jpg)
+
+![](images/extranet-vragenlijst-klant.jpg)    
