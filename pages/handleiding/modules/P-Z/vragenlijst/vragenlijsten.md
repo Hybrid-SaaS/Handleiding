@@ -113,6 +113,8 @@ Je kan bij de multiple choice vragen extra zaken afdwingen of laten invoeren. Zo
 
 ![](images/vragenlijst-mc-extra.jpg)
 
+Onderstaand scherm verschijnt, je kan nu door middel van de vinkjes de vraag uitbreiden.
+
 ![](images/vragenlijst-mc-optie.jpg)
 
 Als je een extra mogelijkheid wilt creëren om informatie vast te leggen dan zet je het vinkje aan bij "Omschrijving ingave". Zodra antwoord JA word gekozen volgt er een extra invoermogelijkheid. Je kan het veld ook verplicht maken door het vinkje "Omschrijving is verplicht" aan te zetten. Bij het opslaan wordt er dan een controle uitgevoerd. 
@@ -123,4 +125,17 @@ Boven het invoerblok kan je een label meegeven, dit doe je bij de "Label omschri
 
 Resultaat van een extra verplicht veld bij een multiple choice vraag.
 
-![](images/vragenlijst-mc-omschrijving.jpg)    
+![](images/vragenlijst-mc-omschrijving.jpg)
+  
+Verder bestaat de mogelijkheid om een bijlage toe te voegen, dit kan door het vinkje "Bijlage" aan te zetten. Wil je er een verplicht veld van maken dan zet je het vinkje "Bijlage is verplicht" aan.
+Ook boven dit invoerblok kan je een label meegeven, dit doe je bij het veld "Label bijlage" 
+
+![](images/vragenlijst-mc-bijlage.jpg)  
+
+Resultaat van een verplichte bijlage, je kan nu door middel van de knop "Bladeren" zoeken naar het document of de foto die je wilt toevoegen. 
+
+![](images/vragenlijst-mc-bijlage-1.jpg)  
+
+Als laatste kan je ook van uit een bestaande vragenlijst een nieuwe vragenlijst activeren. Dit komt voor als je bij een multiple choice vraag een antwoord geeft waardoor je extra informatie wilt vragen en vastleggen.
+
+![](images/vragenlijst-mc-vragenlijst.jpg)      
