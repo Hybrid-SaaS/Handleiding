@@ -70,8 +70,21 @@ Afhankelijk van deze keuzes worden rechten toebedeeld.
 ![](images/vragenlijst-rechten-opties.jpg)  
 
 
-**Bedrijven**
+**Bedrijfs rechten**
 
 ![](images/extranet-vragenlijst-klant-1.jpg)
 
-![](images/extranet-vragenlijst-klant.jpg)    
+
+![](images/extranet-vragenlijst-klant.jpg)
+
+**Persoons rechten**
+
+![](images/extranet-vragenlijst-persoon.jpg)
+
+![](images/extranet-vragenlijst-persoon-1.jpg)
+
+**Project rechten**
+
+![](images/extranet-vragenlijst-project.jpg)
+
+![](images/extranet-vragenlijst-project-1.jpg)
