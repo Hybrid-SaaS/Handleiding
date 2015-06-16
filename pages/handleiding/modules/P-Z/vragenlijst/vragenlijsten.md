@@ -106,3 +106,13 @@ Het resultaat in de vraag:
 Het resultaat in de vraag op extranet:
 
 ![](images/vragenlijst-foto-upload-2.jpg)  
+
+**Extra opties bij Multiple choice vragen**
+
+![](images/vragenlijst-mc-extra.jpg)
+
+![](images/vragenlijst-mc-optie.jpg)
+
+![](images/vragenlijst-mc-omschrijving-1.jpg)        
+
+![](images/vragenlijst-mc-omschrijving.jpg)    
