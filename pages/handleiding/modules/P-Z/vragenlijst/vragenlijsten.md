@@ -115,6 +115,12 @@ Je kan bij de multiple choice vragen extra zaken afdwingen of laten invoeren. Zo
 
 ![](images/vragenlijst-mc-optie.jpg)
 
+Als je een extra mogelijkheid wilt creëren om informatie vast te leggen dan zet je het vinkje aan bij "Omschrijving ingave". Zodra antwoord JA word gekozen volgt er een extra invoermogelijkheid. Je kan het veld ook verplicht maken door het vinkje "Omschrijving is verplicht" aan te zetten. Bij het opslaan wordt er dan een controle uitgevoerd. 
+Boven het invoerblok kan je een label meegeven, dit doe je bij de "Label omschrijving". Als een veld verplicht is, dan wordt dit vermeld achter het label. 
+
+
 ![](images/vragenlijst-mc-omschrijving-1.jpg)        
+
+Resultaat van een extra verplicht veld bij een multiple choice vraag.
 
 ![](images/vragenlijst-mc-omschrijving.jpg)    
