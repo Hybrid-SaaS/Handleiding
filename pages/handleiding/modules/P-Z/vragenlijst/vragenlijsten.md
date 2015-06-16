@@ -109,6 +109,8 @@ Het resultaat in de vraag op extranet:
 
 **Extra opties bij Multiple choice vragen**
 
+Je kan bij de multiple choice vragen extra zaken afdwingen of laten invoeren. Zo kan je bij bepaalde keuzes een extra omschrijving laten invoeren (ook eventueel verplicht maken) je kan een bijlage toevoegen (ook deze kan verplicht gemaakt worden) en je kan indien je ook met het Hybrid SaaS ticketsysteem werkt een ticket laten aanmaken. Dit is een actie die je koppelt aan een bepaalde medewerker die hier dan verantwoordelijk voor is. 
+
 ![](images/vragenlijst-mc-extra.jpg)
 
 ![](images/vragenlijst-mc-optie.jpg)
