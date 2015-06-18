@@ -10,3 +10,6 @@
 
 Printer instellingen
 ================================
+Dit 
+
+![](images/instelling-printer.jpg) 
