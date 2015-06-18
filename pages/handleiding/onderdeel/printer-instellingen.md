@@ -3,7 +3,7 @@
 		<title>Printer instellingen</title>
 	</page>
 	<menu>
-		<position>Handleiding / Onderdeel / Printer instellingen</position>
+		<position>Handleiding / Onderdeel / Printer instellingen </position>
 		<title>Printer instellingen</title>
 	</menu>
 </properties>
