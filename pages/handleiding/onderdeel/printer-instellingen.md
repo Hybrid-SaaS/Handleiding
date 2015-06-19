@@ -10,7 +10,7 @@
 
 #Printer instellingen#
 
-**Word-sjabloon instellingen.**
+**Word-sjabloon instellingen**
 
 Er moeten een paar instellingen in het word-sjabloon worden aangepast.
 Het word-sjabloon moet gekoppeld zijn aan een afdeling of het vinkje "Weergeven bij iedereen" staat aan. Anders komt deze niet zichtbaar in de lijst met printer instellingen
@@ -27,7 +27,7 @@ Ook moet de "voorkeurs uitvoer" op **printer** worden gezet. Deze staat standaar
 
 Als je de printer instellingen opent, dan verschijnt er een scherm met alle word sjablonen die gedefinieerd zijn. 
 
-Zoek in de lijst met word-sjablonen het sjabloon op waar je een standaard printer aan wilt koppelen. door op het "dropdown" pijltje te klikken. 
+Zoek in de lijst met word-sjablonen het sjabloon op waar je een standaard printer aan wilt koppelen, door op het "dropdown" pijltje te klikken. 
 ![](images/instelling-printer-lijst.jpg)    
 
 Er verschijnt dan een lijst met gevonden printer in het netwerk. Selecteer de juiste printer en drup op de knop opslaan.
@@ -36,4 +36,6 @@ Er verschijnt dan een lijst met gevonden printer in het netwerk. Selecteer de ju
 
 Als je nu de volgende keer een document gaat printen dan staat deze automatisch op de juiste printer.Klik op samenvoegen en het document wordt opgemaakt en naar de printer verzonden.
 
-![](images/instelling-printer-resultaat.jpg)      
+![](images/instelling-printer-resultaat.jpg)   
+
+Ga naar [Home](http://hybridsaas.support/pages)   
