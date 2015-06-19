@@ -14,8 +14,11 @@
 
 Er moeten een paar instellingen in het word-sjabloon worden aangepast.
 Het word-sjabloon moet gekoppeld zijn aan een afdeling of het vinkje "Weergeven bij iedereen" staat aan. Anders komt deze niet zichtbaar in de lijst met printer instellingen
+Ga naar de word-sjablonen
 
-![](images/instelling-printer-word-sjabloon1.jpg)
+![](images/instelling-word-sjabloon1.jpg)
+
+Kies het word-sjabloon  waarvan je de standaard printer wilt instellen (dubbelklikken)
 
 ![](images/instelling-printer-word-sjabloon.jpg)
 
