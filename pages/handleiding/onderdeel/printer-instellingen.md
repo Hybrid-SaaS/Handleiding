@@ -15,6 +15,8 @@
 Er moeten een paar instellingen in het word-sjabloon worden aangepast.
 Het word-sjabloon moet gekoppeld zijn aan een afdeling of het vinkje "Weergeven bij iedereen" staat aan. Anders komt deze niet zichtbaar in de lijst met printer instellingen
 
+![](images/instelling-printer-word-sjabloon1.jpg)
+
 ![](images/instelling-printer-word-sjabloon.jpg)
 
 Ook moet de "voorkeurs uitvoer" op **printer** worden gezet. Deze staat standaard op "Microsoft Word".
