@@ -10,7 +10,7 @@
 
 #Printer instellingen#
 
-**Word-sjabloon instellingen**
+**Word-sjabloon instellingen.**
 
 Er moeten een paar instellingen in het word-sjabloon worden aangepast.
 Het word-sjabloon moet gekoppeld zijn aan een afdeling of het vinkje "Weergeven bij iedereen" staat aan. Anders komt deze niet zichtbaar in de lijst met printer instellingen
