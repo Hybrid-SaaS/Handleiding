@@ -1,13 +1,12 @@
 <properties>
 	<page>
-		<title>Website invullen</title>
-		<description>Website invullen</description>
-		<context>dlgwebsite*</context>
+		<title>Website menupaden</title>
+		<description>Website menupaden</description>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
-		<title>Website</title>
-		<sort>b</sort>
+		<title>Menu paden</title>
+		<sort>bc</sort>
 	</menu>
 </properties>
 

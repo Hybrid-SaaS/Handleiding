@@ -44,12 +44,13 @@
 > **Koppelingen die betrekking hebben op 'Website':**
 
 ----------
-<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
-<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/IURL)>
-<[Product zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
+<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
+<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+<[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
+<[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
 
 ----------
-
+<[Product zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
 <[Dns instellen](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/koppelen-domein-aan-hybridsaas)>
 
 ----------

@@ -1,7 +1,8 @@
 <properties>
 	<page>
-		<title>Website invullen</title>
-		<description>Website invullen</description>
+		<title>Website URL</title>
+		<description>Website URL</description>
+		<context>dlgwebsite-url*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
@@ -14,7 +15,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 ----------
 
-#URL Toevoegen##
+#URL Toevoegen#
 
 **Tabblad Algemeen**
 
@@ -22,13 +23,20 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 - Nieuwe handler
 - Taalcode
+	- Hier word de taalcode ingevuld
 - Land
+	- Hier vul je het land in
 - Name
+	- Hier kan je de naam van je website invullen
 - Omschrijving
+	- Hier kan je een omschrijving invullen
 - URL
+	- Hier vul je de URL in
 - Document schema
+	- Hier kan je een document schema aanhangen welke gebruikt moet worden voor de website
 - Facebook identity
 - Header content
+	- Hier kan je een header content toevoegen zie ook [content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)
 - Footer content
 - Footer content 2
 - Standaard content
@@ -36,11 +44,15 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 - Prijzen van groep
 - In valuta
 - Pad betaal fout
+	- Hier kan je een pad van betaalfout toevoegen zie ook [menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)
 - Pad fout
+	- Hier kan je een pad van fout toevoegen zie ook [menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)
 - Pad betaling ok
-- Pad order geplaats
+	- Hier kan je een pad van betaling ok toevoegen zie ook [menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)
+- Pad order geplaatst
+	- Hier kan je een pad van order geplaatst toevoegen zie ook [menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)
 
-- 
+
 **Tabblad Prefix**
 
 ![](images/url-prefix.JPG)
@@ -63,4 +75,10 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 ----------
 
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Zie ook <[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
+<[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
+
+----------
+
+Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
