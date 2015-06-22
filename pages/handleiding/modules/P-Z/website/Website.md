@@ -2,7 +2,6 @@
 	<page>
 		<title>Website invullen</title>
 		<description>Website invullen</description>
-		<context>dlgwebsite*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
@@ -16,7 +15,7 @@ Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/
 ----------
 
 #Website#
-x
+
 Het beginnen van de website 
 
 **Tabblad Algemeen**
@@ -62,7 +61,7 @@ Het beginnen van de website
 
 ----------
 
-Zie ook <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+Next <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
 
 ----------
 
