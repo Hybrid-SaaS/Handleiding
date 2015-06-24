@@ -20,7 +20,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 **Tabblad Algemeen**
 
-![](images/url-algemeen.JPG)
+![](images/url-algemeen.JPg)
 
 - Nieuwe handler
 - Taalcode

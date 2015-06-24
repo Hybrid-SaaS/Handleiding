@@ -21,7 +21,7 @@ Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/
 
 **Content**
 
-![](images/content.JPG)
+![](images/content.JPg)
 
 - Website
 - ID
@@ -43,7 +43,7 @@ Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 
 **Tamplate**
 
-![](images/template.JPG)
+![](images/template.JPg)
 
 - Naam
 - Opmerking
