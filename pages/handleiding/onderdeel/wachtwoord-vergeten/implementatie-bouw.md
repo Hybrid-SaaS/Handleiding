@@ -4,7 +4,7 @@
 		<description>Uitleg over hoe je ...</description>
 	</page>
 	<menu>
-		<position>Handleiding / Systeem / Implementati</position>
+		<position>Handleiding / Systeem / Implementatie</position>
 		<title>Implementatie bouw</title>
 	</menu>
 </properties>
