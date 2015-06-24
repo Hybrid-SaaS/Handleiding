@@ -13,4 +13,11 @@
 Implementatie bouw
 ===================
 
-![Wachtwoord vergeten](images/wachtwoord-vergeten.jpg)
+Hybrid SaaS maakt een omgeving aan voor de klant, hierbij wordt standaard een gebruiker aan gemaakt en de gegevens (id + wachtwoord) worden gemaild naar de gebruiker.
+
+Zodra je deze gegevens hebt ontvangen kan je starten met de implementatie van Hybrid SaaS.
+
+ga naar  [Werkplek installatie](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser)
+
+
+
