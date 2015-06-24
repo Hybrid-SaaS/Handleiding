@@ -12,7 +12,7 @@
 </properties>
 
 # Website #
-
+![](images/start-website.JPG)
 
 #Buttonbalk#
 ![](images/buttonbalk.JPG)
@@ -48,7 +48,7 @@
 ----------
 <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
 <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
-<[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
+<[Content/Templates](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
 
 ----------

@@ -76,8 +76,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 ----------
 
-Zie ook <[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
-<[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
+Next <[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)> of <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
 
 ----------
 

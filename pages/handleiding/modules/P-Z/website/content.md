@@ -1,17 +1,17 @@
 <properties>
 	<page>
-		<title>Website content</title>
-		<description>Website content</description>
+		<title>Content-Templates</title>
+		<description>Content-Templates</description>
 		<context>content*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
-		<title>Content</title>
+		<title>Content-Templates</title>
 		<sort>bb</sort>
 	</menu>
 </properties>
 
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
 
 ----------
 
@@ -19,7 +19,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 ![](images/content-alle.JPG)
 
-**Tabblad**
+**Content**
 
 ![](images/content.JPG)
 
@@ -32,9 +32,28 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 - Bewerk content 
 
+----------
+
+Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+<[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+
+----------
+
+#Website Templates#
+
+**Tamplate**
+
+![](images/template.JPG)
+
+- Naam
+- Opmerking
+- Raw content head
+- Raw content body
+- Content (content in pagina)
+- Niet gebruiken
 
 
 ----------
 
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
-<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+Ga terug <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
+<[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
