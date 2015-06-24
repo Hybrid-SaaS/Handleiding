@@ -66,7 +66,7 @@ Volgorde om een website op te bouwen
 
 <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product)>
 <[Prijsmodel](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-prijsmodel)>
-<[Product CMS](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-cms)>
+<[Product CMS](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product-cms)>
 
 ----------
 <[Dns instellen](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/koppelen-domein-aan-hybridsaas)>

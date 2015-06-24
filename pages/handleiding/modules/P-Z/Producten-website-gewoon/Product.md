@@ -170,7 +170,7 @@ Voor meer informatie over import/export zie [Importeren](http://hybridsaas.suppo
 *content per taal*
 
 - <span style="color: red">Toevoegen</span>
-	- Om toe te voegen klikt u op de button Toevoegen zie [CMS](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-cms)
+	- Om toe te voegen klikt u op de button Toevoegen zie [CMS](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product-cms)
 - Downloaden
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
