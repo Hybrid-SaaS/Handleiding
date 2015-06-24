@@ -17,7 +17,10 @@ Hybrid SaaS maakt een omgeving aan voor de klant, hierbij wordt standaard een ge
 
 Zodra je deze gegevens hebt ontvangen kan je starten met de implementatie van Hybrid SaaS.
 
-ga naar  [Werkplek installatie](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser)
+Ga naar  [Werkplek installatie](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser)
 
+Ga naar  [Vragenlijsten beheren](http://hybridsaas.support/pages/handleiding/modules/P-Z/vragenlijst/vragenlijsten)
+
+Ga naar  [Extranet gebruiker + rechten](http://hybridsaas.support/pages/handleiding/modules/P-Z/vragenlijst/vragenlijsten-extranet)
 
 
