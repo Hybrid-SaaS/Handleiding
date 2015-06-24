@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-Ga terug <[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
+Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/website)>
 
 ----------
 
@@ -18,32 +18,45 @@ Ga terug <[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z
 Zoek in start naar menu
 
 ![](images/start-website-menu.JPg)
-![](images/menu.JPG)
+
+![](images/menu.JPg)
 
 Om een pad aan te maken klik op Toevoegen
 
 **Tabblad Algemeen**
 
-![](images/menu.JPG)
+![](images/menu-tablad.JPG)
 
-- Test mode
-- Test mode betalingen
-- Houd rekening met voorraad
-	- Hier kan je het vinkje van aanzetten als je met voorraad wilt werken op de site
-- Producten alleen zichtbaar na inlog
-	- Hier kan je het vinkje van aanzetten als je een inlog op de website wil
-- Omschrijving
-	- Hier kan je de naam van je website invullen
-- Code
+- Bovenliggend menu
+	- Hier kan je een menu kiezen waar van je wilt waar het moet komen keuze hieruit zijn:
+		- ![](images/bovenliggende-menu.JPG) deze dien je dan ook aan te maken
+
+<div class="warning">De id moet gelijk zijn aan: bottom - left - top - footertop, alle met kleine letters dit is voorgeprogameerd voor waar het moet komen op de site </div> rood
+
+- Id
+	- Hier vul je de id in
 - Volgorde
-	- Als je meerdere website hebt dan kan je er een volgorde aangeven welke boven aan in de lijst en welke onderaan in de lijst
-- Weergeven als webshop
-- Entiteit
-	- Hier geef je aan van welke entiteit je een website van wilt aanmaken
+	- Hiermee kan je een volgorde bepalen (in top en bottom van link naar recht en in left van boven naar beneden)
+- Titel
+	- Hier geef je de titel van het menu aan
+- Website
+	- Hier geef je aan voor welke website het menu bedoeld is
+- Taal
+	- hier geef je de taalcode aan
+- Website pad
+	- Hier geef je aan naar welke website menupad hij moet gaan
+- Handmatige url
+	- hier kan je een handmatige url invoeren
+- Html id
+- CSS class
+- Link target
+- Beschrijving
 
-*URL per taal*
+*Sub items*
 
-- Toevoegen zie [URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)
+Hier kan je een andere menu koppelen doormidden van toevoegen
+
+- Toevoegen
 	- Om toe te voegen klikt u op de button Toevoegen.
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
@@ -53,14 +66,12 @@ Om een pad aan te maken klik op Toevoegen
 
 **Tabblad Raw content**
 
-![](images/website-rawcontent.JPG)
+![](images/menu-rawcontent.JPG)
 
 - Raw content head
 	- Hier vul je de stylesheet in daarnaast is de kleur en grote altijd aan te passen zie hier onder het voorbeeld zoals het standaard is  
 - Raw content body
 - Product details
-
-![](images/website-rawcontent-zichtbaar.JPG)
 
 
 ----------
