@@ -10,17 +10,21 @@
 	</menu>
 </properties>
 
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Ga terug <[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 
 ----------
 
-#Website#
+#Website menu#
+Zoek in start naar menu
 
-Het beginnen van de website 
+![](images/start-website-menu.JPg)
+![](images/menu.JPG)
+
+Om een pad aan te maken klik op Toevoegen
 
 **Tabblad Algemeen**
 
-![](images/website-algemeen.JPG)
+![](images/menu.JPG)
 
 - Test mode
 - Test mode betalingen

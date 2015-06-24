@@ -15,9 +15,14 @@ Ga terug <[URl](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 
 ----------
 
-#Website Content#
+#Website content aanmaken#
+Zoek in start naar content
+
+![](images/start-content.JPg)
 
 ![](images/content-alle.JPG)
+
+Om een pad aan te maken klik op Toevoegen
 
 **Content**
 
@@ -40,7 +45,14 @@ Ga terug
 
 ----------
 
-#Website Templates#
+#Website templates aanmaken#
+Zoek in start naar template
+
+![](images/start-template.JPg)
+
+![](images/template-alle.JPg)
+
+Om een pad aan te maken klik op Toevoegen
 
 **Template**
 

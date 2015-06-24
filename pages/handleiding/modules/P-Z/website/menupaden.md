@@ -15,7 +15,12 @@ Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 ----------
 
 #Menu paden aanmaken#
+Zoek in start naar menu paden
 
+![](images/start-website-paden.JPg)
+![](images/menupaden.JPg)
+
+Om een pad aan te maken klik op Toevoegen
 
 **Tabblad Algemeen**
 
@@ -36,9 +41,9 @@ Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 - Type weergave
 	- Hier kan je de type weergave aangeven keuze uit:
 		- Standaard
-		![](images/menupad-standaard.)
+		![](images/menupad-standaard.jpg)
 		- Gekoppelde weergave
-		![](images/menupad-gekoppelde.JPG)
+		![](images/menupad-gekoppelde.JPg)
 - Product hoofdgroep
 	- Hier kan je het pad koppelen aan een hoofdgroep
 - Product subgroep
@@ -64,7 +69,7 @@ Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 **Tabblad Gekoppelde gegevens**
 
 Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de paden aangeven welke gekoppeld moeten worden aan deze pad
-![](images/menupaden-gekoppeldegegevens.JPG)
+![](images/menupaden-gekoppeldegegevens.JPg)
 
 - Website pad
 	- Om toe te voegen klikt u op de button.
@@ -75,6 +80,15 @@ Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de p
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
+Door op de regel dubbel te klikken kan je een sortering aangeven
+hij plaatst het altijd:
+
+- 1	2
+- 3	4
+- 5 6
+- enzo
+
+![](images/gekoppelde-weergave-sortering.JPG)
 
 **Tabblad Extra**
 
@@ -82,11 +96,11 @@ Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de p
 
 - Extra menu's
 - Boven content
-	- ![](images/boven-content.JPG)
-		- ![](images/boven-content-website.JPG)
+	- ![](images/boven-content.JPg)
+		- ![](images/boven-content-website.JPg)
 - Onder content
 	- ![](images/onder-content.JPG)
-		- ![](images/onder-content-website.JPG)
+		- ![](images/onder-content-website.JPg)
 
 **Tabblad Raw content**
 
@@ -105,6 +119,7 @@ Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de p
 ----------
 
 Next
+<[Templates](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 <[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 
 ----------

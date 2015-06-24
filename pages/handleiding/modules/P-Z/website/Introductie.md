@@ -50,6 +50,7 @@
 <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
 <[Content/Templates](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
+<[Website menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website-menu)>
 
 ----------
 <[Product zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
