@@ -72,7 +72,7 @@ Hier kan je een andere menu koppelen doormidden van toevoegen
 
 ----------
 
-Next <[Producten Zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
+Next <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-webiste-gewoon/Product)>
 
 ----------
 

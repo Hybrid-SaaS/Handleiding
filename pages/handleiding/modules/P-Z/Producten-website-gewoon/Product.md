@@ -170,7 +170,7 @@ Voor meer informatie over import/export zie [Importeren](http://hybridsaas.suppo
 *content per taal*
 
 - <span style="color: red">Toevoegen</span>
-	- Om toe te voegen klikt u op de button Toevoegen zie [CMS]()
+	- Om toe te voegen klikt u op de button Toevoegen zie [CMS](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-cms)
 - Downloaden
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
@@ -178,16 +178,29 @@ Voor meer informatie over import/export zie [Importeren](http://hybridsaas.suppo
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-
 - Website uitbreiding
 - Sorteer waarde
 
 **Tabblad Kenmerken**
+
 ![](images/producten-aanmaken-kenmerken.JPG)
+
 *Wat voor kenmerken horen bij dit product?*
 
+- Toevoegen zie [kenmerken](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/kenmerken)
+	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
+- Verwijderen
+	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
+- Records
+- Exporteren
+
+
 **Tabblad Serie nummers**
+
 ![](images/producten-aanmaken-serienummers.JPG)
+
 *Welke serienummers zijn er bekend van dit product*
 
 -Serienummers bijhouden
