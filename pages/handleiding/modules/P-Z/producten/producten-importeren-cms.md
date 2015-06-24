@@ -12,7 +12,7 @@
 
 
 Ga terug <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)> 
-<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
 
 ----------
 #Importeren#
@@ -68,14 +68,16 @@ Hier wordt uitgelegd hoe je eenvoudig de CMS gegevens van producten kan importer
 ![](images/import.JPG)
 
 De geëxporteerde excelsheet bevat 2 tabbladen, namelijk "Products" en "Products NL".
-Het tabblad Products kan je verwijderen.
 
+![](images/import-tabblad2.JPG)
+
+We gebruiken nu het tabblad *Products_NL* de andere kan je verwijderen
 
 ![](images/producten-excel.jpg)
 
 Als je nieuwe CMS records wilt toevoegen dan kan dit op basis van de kolom Search_field. Je voert hier het woord "Productcode" in en haalt de kolom "Search index" weg. 
 Vul vervolgens alle kolommen in die nodig zijn.
-Verwijder het tabblad "Products"en sla het bestand op.
+En sla het bestand op.
 
 
 ![](images/producten-excel1.jpg)
@@ -95,4 +97,4 @@ Je kan nu in HybridSaas bij de producten in het tabblad "CMS" de geïmporteerde 
 ----------
 
 Ga terug <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)>
-<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>

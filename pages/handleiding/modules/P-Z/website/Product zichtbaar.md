@@ -18,7 +18,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 #Product zichtbaar#
 Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens van toepassing als 1 van deze gegevens niet ingevuld zijn zal niet worden weergegeven.
 
-Als je nog geen bestaande prosucten heb kan een hoop producten tegelijk invoeren een aantal gegevens zullen dan al ingevuld zijn 
+Als je nog geen bestaande producten heb kan een hoop producten tegelijk invoeren een aantal gegevens zullen dan al ingevuld zijn 
 dit kan door middel van een excel import bestandje
 ![](images/excel-product.JPG)
 Voor meer informatie over import/export zie [Importeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten-importeren-cms)

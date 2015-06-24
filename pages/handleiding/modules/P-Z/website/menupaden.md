@@ -16,6 +16,9 @@ Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 ----------
 
 #Menu paden aanmaken#
+Een menupad heeft een menu nodig,
+het pad verwijst je door naar de pagina wat bedoelt is maar de naam uit het menu word op de site geplaatst.
+
 Zoek in start naar menu paden
 
 ![](images/start-website-paden.JPg)

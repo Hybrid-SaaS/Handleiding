@@ -30,15 +30,16 @@ Om een menu aan te maken klik op Toevoegen
 - Bovenliggend menu
 	- Hier kan je een menu kiezen waar van je wilt waar het moet komen keuze hieruit zijn:
 		- ![](images/bovenliggende-menu.JPG) deze dien je dan ook aan te maken
-
-<div class="warning">De id moet gelijk zijn aan: bottom - left - top - footertop, alle met kleine letters dit is voorgeprogameerd voor waar het moet komen op de site </div>
+<div class="warning">De id moet gelijk zijn aan: bottom - left - top - footertop, alle met kleine letters dit is voorgeprogrammeerd voor waar het moet komen op de site </div>
+- 		Het kan ook zijn dat je hem onder een andere pagina wilt, dit is ook mogelijk voorbeeld: 
+- 		![](images/bovenliggend-menu.JPG)
 
 - Id
 	- Hier vul je de id in
 - Volgorde
 	- Hiermee kan je een volgorde bepalen (in top en bottom van link naar recht en in left van boven naar beneden)
 - Titel
-	- Hier geef je de titel van het menu aan
+	- Hier geef je de titel van het menu aan (deze is zichtbaar op de site)
 - Website
 	- Hier geef je aan voor welke website het menu bedoeld is
 - Taal

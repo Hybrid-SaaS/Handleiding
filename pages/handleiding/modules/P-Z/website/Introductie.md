@@ -20,20 +20,29 @@
 *Acties*
 
 - Toevoegen
+	- Om een website toe te voegen klik je op Toevoegen
 - Bewerken
+	- Om de website te bewerken klik om Bewerken
 - Verwijderen
+	- Om de website te verwijderen klik op Verwijderen
 - Vernieuwen
+	- Om het scherm te vernieuwen klik op vernieuwen
 
 *Acties*
 
 - Bezoek
+	- Door hier op te klikken kan je de website bezoeken
 - Reset
+	- Sommige aanpassingen zullen niet direct aangepast worden, hiervoor kan je de reset knop gebruiken
 
 *Koppelingen*
 
 - Paden
+	- Hiermee ga je naar de menupaden
 - Menu's
+	- Hiermee ga je naar de menu's
 - Producten
+	- Hiermee ga je naar de producten
 
 *Koppelingen oud*
 
@@ -41,7 +50,7 @@
 - Promotie codes
 - Product groepen
 
-
+![](images/website-website.JPG)
 
 > **Koppelingen die betrekking hebben op 'Website':**
 
