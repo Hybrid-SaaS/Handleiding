@@ -50,7 +50,8 @@
 - Promotie codes
 - Product groepen
 
-![](images/website-website.JPG)
+![](images/website-website.jpg)
+
 
 > **Koppelingen die betrekking hebben op 'Website':**
 
