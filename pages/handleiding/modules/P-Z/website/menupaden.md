@@ -2,6 +2,7 @@
 	<page>
 		<title>Website menupaden</title>
 		<description>Website menupaden</description>
+		<context>website-path</context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
@@ -18,6 +19,7 @@ Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/
 Zoek in start naar menu paden
 
 ![](images/start-website-paden.JPg)
+
 ![](images/menupaden.JPg)
 
 Om een pad aan te maken klik op Toevoegen
@@ -110,8 +112,8 @@ hij plaatst het altijd:
 
 ![](images/menupaden-template.JPG)
 
-- Toevoegen
-	- Om toe te voegen klikt u op de button Toevoegen.
+- Bewerken
+	- Om te bewerken klikt u op de button Bewerken.
 - Verwijderen
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
@@ -120,7 +122,7 @@ hij plaatst het altijd:
 
 Next
 <[Templates](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
-<[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
+<[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website-menu)>
 
 ----------
 

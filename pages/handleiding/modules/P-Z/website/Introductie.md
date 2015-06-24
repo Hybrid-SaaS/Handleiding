@@ -2,7 +2,7 @@
 	<page>
 		<title>Website</title>
 		<description>Website</description>
-		<context></context>
+		<context>website</context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
@@ -53,9 +53,9 @@ Volgorde om een website op te bouwen
 <[Content/Templates](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
 <[Website menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website-menu)>
+<[Producten zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
 
 ----------
-<[Product zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
 <[Dns instellen](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/koppelen-domein-aan-hybridsaas)>
 
 ----------

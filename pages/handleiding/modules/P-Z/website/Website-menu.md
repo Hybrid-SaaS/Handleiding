@@ -21,7 +21,7 @@ Zoek in start naar menu
 
 ![](images/menu.JPg)
 
-Om een pad aan te maken klik op Toevoegen
+Om een menu aan te maken klik op Toevoegen
 
 **Tabblad Algemeen**
 
@@ -31,7 +31,7 @@ Om een pad aan te maken klik op Toevoegen
 	- Hier kan je een menu kiezen waar van je wilt waar het moet komen keuze hieruit zijn:
 		- ![](images/bovenliggende-menu.JPG) deze dien je dan ook aan te maken
 
-<div class="warning">De id moet gelijk zijn aan: bottom - left - top - footertop, alle met kleine letters dit is voorgeprogameerd voor waar het moet komen op de site </div> rood
+<div class="warning">De id moet gelijk zijn aan: bottom - left - top - footertop, alle met kleine letters dit is voorgeprogameerd voor waar het moet komen op de site </div>
 
 - Id
 	- Hier vul je de id in
@@ -68,15 +68,10 @@ Hier kan je een andere menu koppelen doormidden van toevoegen
 
 ![](images/menu-rawcontent.JPG)
 
-- Raw content head
-	- Hier vul je de stylesheet in daarnaast is de kleur en grote altijd aan te passen zie hier onder het voorbeeld zoals het standaard is  
-- Raw content body
-- Product details
-
 
 ----------
 
-Next <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+Next <[Producten Zichtbaar](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Product%20zichtbaar)>
 
 ----------
 

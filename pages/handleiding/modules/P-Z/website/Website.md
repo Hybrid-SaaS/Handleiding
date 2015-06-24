@@ -15,8 +15,13 @@ Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/
 ----------
 
 #Website#
+Zoek in start naar menu paden
 
-Het beginnen van de website 
+![](images/start-websites.JPG)
+
+![](images/website.JPG)
+
+Om een website aan te maken klik op Toevoegen
 
 **Tabblad Algemeen**
 
