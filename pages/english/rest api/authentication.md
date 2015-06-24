@@ -3,8 +3,8 @@
 		<title>Wall of Fame</title>
 	</page>
 	<menu>
-		<position> Handleiding / Rest api / Authenthication </position> 
-		<title>Rest api authenthication</title>
+		<position> Handleiding / Rest api </position> 
+		<title>Authenthication</title>
 	</menu>
 </properties>
 
