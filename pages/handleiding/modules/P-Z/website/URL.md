@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
 
 ----------
 
@@ -76,9 +76,10 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 ----------
 
-Next <[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)> of <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
+Next
+<[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)> of <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
 
 ----------
 
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
-<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
+Ga terug 
+<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)> <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 

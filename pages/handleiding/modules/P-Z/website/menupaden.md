@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)> <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)> 
 
 ----------
 
@@ -102,7 +102,13 @@ Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de p
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
+----------
+
+Next
+<[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
 
 ----------
 
-Ga terug  <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)> <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Ga terug
+<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+<[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>

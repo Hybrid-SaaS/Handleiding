@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Ga terug <[URl](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
 
 ----------
 
@@ -34,14 +34,15 @@ Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/
 
 ----------
 
-Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+Ga terug 
+<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
 <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
 
 ----------
 
 #Website Templates#
 
-**Tamplate**
+**Template**
 
 ![](images/template.JPg)
 

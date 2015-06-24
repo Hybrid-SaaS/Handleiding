@@ -2,7 +2,7 @@
 	<page>
 		<title>Website</title>
 		<description>Website</description>
-		<context>website*</context>
+		<context></context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
