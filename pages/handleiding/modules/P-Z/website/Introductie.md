@@ -64,7 +64,7 @@ Volgorde om een website op te bouwen
 <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
 <[Website menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website-menu)>
 
-<[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-webiste-gewoon/Product)>
+<[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product)>
 <[Prijsmodel](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-prijsmodel)>
 <[Product CMS](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-cms)>
 

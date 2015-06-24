@@ -12,7 +12,7 @@
 </properties>
 
 Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
-<[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-webiste-gewoon/Product)>
+<[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product)>
 
 ----------
 
@@ -28,4 +28,4 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 
 Ga terug 
 <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
-<[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-webiste-gewoon/Product)>
+<[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product)>

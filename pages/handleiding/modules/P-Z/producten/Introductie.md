@@ -23,7 +23,7 @@ Hybrid SaaS Productbeheer helpt je een goed overzicht te houden over je producte
 > **Koppelingen die betrekking hebben op 'HR Management':**
 
 ----------
-Ga naar <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-webiste-gewoon/Product)>
+Ga naar <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product)>
 <[Product locatie aanmaken](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Product-locatie-aanmaken)>
 <[CMS Importeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/producten-importeren-cms)>
 
