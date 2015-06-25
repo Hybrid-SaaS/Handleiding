@@ -188,4 +188,4 @@
 ![](images/nieuwe-historie.jpg)
 
 ----------
-[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)
+[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving) x
