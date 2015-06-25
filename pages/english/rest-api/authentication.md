@@ -213,6 +213,7 @@ This is the full script to access the Rest API
 			});
 	</script>
 
+## Good to know ##
 
 <div class="info">
 - A single hash for a request is valid for a maximum period of 15 minutes. This wil protect the application against replay-attacks. 
