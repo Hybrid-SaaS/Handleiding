@@ -12,7 +12,7 @@
 
 Hoe installeer ik de Hybrid SaaS browser om mijn werkplek. 
 
-Ga naar [Installeren](http://www.hybridsaas.com/downloads)
+Ga naar [Installeren](http://www.hybridsaas.com/downloads) op de website
 
 Er staan 3 download opties
 
@@ -69,3 +69,7 @@ Gebruik de knop "Sla instellingen op" om deze instelling op te slaan.
 Nu kan je de applicatie starten. (Mits je in het bezit bent van geldige inlognaam en wachtwoord)
 
 ![](images/download-hs-browser-inlog.jpg)
+
+---------
+
+Zie vervolgens het [Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving) om je omgeving in te vullen

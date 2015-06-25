@@ -2,9 +2,10 @@
 	<page>
 		<title>Producten</title>
 		<description>Producten</description>
+		<context>dlgproduct*</context>
 	</page>
 	<menu>
-		<position>Handleiding / Webshop</position>
+		<position>Handleiding /Modules /Producten</position>
 		<title>Producten</title>
 		<sort>d</sort>
 	</menu>
@@ -23,7 +24,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 #Producten#
 De tabbladen en functies van het invoervenster Product aanmaken word in dit artikel behandeld.
 
-Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens van toepassing als 1 van deze gegevens niet ingevuld zijn zal niet worden weergegeven. deze zal worden aangegeven in het <span style="color: red">ROOD</span>
+Om je producten zichtbaar te laten worden op de website zijn een aantal gegevens van toepassing als 1 van deze gegevens niet ingevuld zijn zal niet worden weergegeven. deze zal worden aangegeven in het <span style="color: red">ROOD</span> dit is alleen nodig voor op de website
 
 Als je nog geen bestaande producten heb kan een hoop producten tegelijk invoeren een aantal gegevens zullen dan al ingevuld zijn 
 dit kan door middel van een excel import bestandje
