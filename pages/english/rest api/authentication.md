@@ -17,7 +17,7 @@ The given sample is using a HTML-page with jQuery and CryptoJS. jQuery is a Java
 ## How to access the Rest Api (in this code example) ##
 In order to communicate with the Rest API you will need a application id and a secret. These can be obtained by requestion the */rest/api/login*-endpoint. With those variables you can sign the requests and(in the header of the request). All steps will be explained with code samples.
 
-**Step one**
+##Pre requirements##
 Firstly, we need to include jQuery and CryptoJs in the HTML-page..
 
 To load the jQuery script you need to add this:
@@ -29,7 +29,7 @@ To load the CryptoJS script you need to add this:
 	<script src="//crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/hmac-sha256.js"></script>
 
 
-**Step two**
+##Needed variables##
 You will need your **application id** and **secret key** from the login function in order to continue. You are able to get this information at the page: "/rest/api/login". To receive your crendentials you need to post a JSON to the login page:
 	
 	//Attention! This example uses jQuery.
@@ -48,7 +48,7 @@ You will need your **application id** and **secret key** from the login function
 
 You have now received the application id and the secret id from the Rest API. In the variable "data" are the values stored. You can access the values by using **data.variableName;**
 
-**Step three, creating the hash for each request**
+##Creating the hash for the request##
 Each Rest API-request has to be signed. To sign the request you need the **Application Id,** the **HTTP-method**, the url you are calling (example: /rest/api/organization) and a timestamp (Epoch timestamp) and the **Secret**. 
 
 The following values have to be concatenated in a single string in the following fixed order:
@@ -58,6 +58,8 @@ The following values have to be concatenated in a single string in the following
 >3. (Relative) url you are calling
 >4. Epoch timestamp
 
+
+##Creating string to hash##
 
 In this example we are going to request the organizations-endpoint, for this request we have a the following parameters:
 
@@ -86,13 +88,17 @@ Concatenate the values without spaces
 </div>
 
 
-The result can be hashed with the HmacSHA256 using the secret:
+##Signing the string##
 
+The result can be hashed with the HmacSHA256 using the secret:
 
 After you put them in a string you can hash them with this function:
 	var hash = CryptoJS.HmacSHA256(string_to_hash, secret);
 
-CryptoJS.HmacSHA256 return the hash value into the variable hash. This hash is a part that is required to sign the request.
+CryptoJS.HmacSHA256 returns the hash value into the variable hash. This hash is a part that is required to sign the request.
+
+
+##Creating the Authentication header##
 
 Now you need to create the final string that is going to be used as a authenthication key.
 
@@ -106,7 +112,7 @@ Concatenate the values WITH spaces
 
 Now you are able to put this authenthication string into the header of the request.
 
-For example:
+Example:
 
 	var headers = {
 		Authentication: "hmac256 applicationId  timeStamp hash"
@@ -124,7 +130,7 @@ For example:
 	});
 
 
-
+##Working example##
 This is the full script to access the Rest API
 
 	<!--Imports jQuery library.-->
