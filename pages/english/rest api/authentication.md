@@ -21,16 +21,100 @@ The Hybrid SaaS rest API is using a API key to gain access to the system. The AP
 
 <a href="https://en.wikipedia.org/wiki/Hash-based_message_authentication_code">Click here for to read more about Hmac hasing.</a>
 
+## What is JQuery?##
+Jquery is a JavaScript framework. For more information <a ahref="www.http://jquery.com/">Click here</a>
+
+## What is (Unix) Epoch timestamp?
+dfsdfds
+
 ## How to acces the rest api (in code example) ##
 
-To get information from the rest api, you need to do a http request. To execute a http request you can use the code library JQuery in JavaScript.
+There is some information that is required in order to communicate with the rest api. You need to build a http request for the login page, because you will need the application id and the secret key in order to communicate with the rest api. With that information you need to hash to variables and put them in the header of the browser. All this steps will be explained in steps and code samples.
 
-<!--<!doctype html>
-<html>
- <head>
-  <title>Authenthication preview</title>
- </head>
- <body>
+**Step one**
+
+I recommend to import the JQuery script first. If you import this script you will be able to use functions from JQuery. 
+
+<a href="http://code.jquery.com/jquery-2.1.4.min.js">Download JQuery here</a>
+
+To load the JQuery script in your html page you need to add this:
+	
+	<script src="JQueryLocation/jquery-2.1.4.min.js"></script>
+
+
+**Step two**
+
+You need your **application id** and **secret key** from the login function in order to continue. You are able to get this information at the page: "/rest/api/login". To receive your crendentials you need to post a JSON to the login page. For example:
+	
+	//Attention! This example uses JQuery.
+	//First import the JQuery script in your html page.
+	
+	$.ajax({
+			method: 'POST',
+			url: '/rest/api/login',
+			data : '{ "username": "testUsername", "password": "testPassword", "application": "rest" }'	
+	}).done(function (data) {
+		//In variable data is your response.
+		//To get your application id and secret key you can use this code:
+		var applicationId = data.applicationId;
+		var secretId = data.secret;
+	});
+
+You have now received the application id and the secret id from the rest api. In the variable "data" are the values stored. You can acces the values by using **data.variableName;**
+
+**Step three**
+
+When step two is completed you are now able to make a valid authenthication code. The rest api key consists of 2 parts. The first part is your application id and the second part is the secret key. In this part you need to hash the applicationId, the method of your action ("GET" or "POST"), the url you are calling (example: /rest/api/organization) and the timestamp (Epoch timestamp). Place the values in this order in a string:
+
+>1. Application id
+>2. Method type
+>3. Url you are calling
+>4. Epoch timestamp
+
+The string will look like this:
+> ApplicationIdTypeUrlTimestamp
+
+**Notice: put all values together without space!**
+
+After you put them in a string you can hash them with this function:
+
+
+	var hash = CryptoJS.HmacSHA256(your_string, secret);
+
+CryptoJS.HmacSHA256 return the hash value into the variable hash. This hash is a part that is required for the header of your browser.
+
+Now you need to create the final string that is going to be used as a authenthication key.
+
+Example. The authenthication key looks like this: 
+>hmac256 applicationId  timeStamp hash 
+
+**Notice: put all values together WITH A SPACE BETWEEN THE VALUES**
+
+
+Now you are able to put the authenthication string into the header of the browser.
+
+For example. I want to receive organizations:
+
+	var headers = {};
+	var authenthicationString = "hmac256 applicationId  timeStamp hash"; 
+	headers["Authentication"] = authenthicationString;
+
+	$.ajax({
+			method: 'GET',
+			url: '/rest/api/organizations',
+			headers: headers
+	}).done(function (data) {
+		//In variable data is your response.
+		//To get your application id and secret key you can use this code:
+		var applicationId = data.applicationId;
+		var secretId = data.secret;
+	});
+
+
+
+This is the full script that i have created to acces the rest api:
+
+
 	<!--Imports JQuery library.-->
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<!--Imports the hasing algorithm (hmac256)-->
@@ -101,9 +185,6 @@ To get information from the rest api, you need to do a http request. To execute 
 		  //This functions handles if you request contains an error.
 		});
 	</script>
- </body>
-</html>
-
 
 
 
