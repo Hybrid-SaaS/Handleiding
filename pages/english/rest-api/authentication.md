@@ -15,7 +15,7 @@ All Hybrid SaaS Rest API-interaction is signed with a Hash-based Message Authent
 The given sample is using a HTML-page with jQuery and CryptoJS. jQuery is a JavaScript framework. For more information <a ahref="http://jquery.com/">Click here</a>. CryptoJS is a collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. For more information <a ahref="https://code.google.com/p/crypto-js/">Click here</a>.
 
 ## How to access the Rest Api (in this code example) ##
-In order to communicate with the Rest API you will need a application id and a secret. These can be obtained by requestion the */rest/api/login*-endpoint. With those variables you can sign the requests and(in the header of the request). All steps will be explained with code samples.
+In order to communicate with the Rest API you will need a application id and a secret. These can be obtained by request on the **/rest/api/login**-endpoint. With those variables you can sign the requests and(in the header of the request). All steps will be explained with code samples.
 
 ##Pre requirements##
 Firstly, we need to include jQuery and CryptoJs in the HTML-page..
@@ -49,7 +49,7 @@ You will need your **application id** and **secret key** from the login function
 You have now received the application id and the secret id from the Rest API. In the variable "data" are the values stored. You can access the values by using **data.variableName;**
 
 ##Creating the hash for the request##
-Each Rest API-request has to be signed. To sign the request you need the **Application Id,** the **HTTP-method**, the url you are calling (example: /rest/api/organization) and a **Timestamp** (<label keyword="unix-timestamp">Unix timestamp</label>) and the **Secret**. 
+Each Rest API-request has to be signed. To sign the request you need the **Application Id,** the **HTTP-method**, the url you are calling (example: /rest/api/organization) and a **Timestamp** (<label keyword="unix-time">Unix time</label>) and the **Secret**. 
 
 The following values have to be concatenated in a single string in the following fixed order:
 
