@@ -1,6 +1,6 @@
 <properties>
 	<page>
-		<title>Wall of Fame</title>
+		<title>Rest API Authenthication</title>
 	</page>
 	<menu>
 		<position> Handleiding / Rest API </position> 
@@ -9,101 +9,114 @@
 </properties>
 
 # Rest API authentication #
+All Hybrid SaaS Rest API-interaction is signed with a <label keyword="hmacsha256">Hash-based Message Authentication Code (HMAC) by using the SHA256 hash function</label>
 
+## Sample ##
+The given sample is using a HTML-page with jQuery and CryptoJS. jQuery is a JavaScript framework. For more information <a ahref="http://jquery.com/">Click here</a>. CryptoJS is a collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. For more information <a ahref="https://code.google.com/p/crypto-js/">Click here</a>.
 
-
-
-## Introduction ##
-The Hybrid SaaS rest API is using a API key to gain access to the system. The API key is hashed with the HmacSHA256 algorithm. This hash is required to receive data from the rest api. This article shows you some examples and how to do this in code.
-
-
-## What is HmacSHA256? ##
-
-<a href="https://en.wikipedia.org/wiki/Hash-based_message_authentication_code">Click here for to read more about Hmac hasing.</a>
-
-## What is JQuery?##
-Jquery is a JavaScript framework. For more information <a ahref="www.http://jquery.com/">Click here</a>
-
-## What is (Unix) Epoch timestamp?
-The Unix Epoch timestamp is the time in seconds since January 1, 1970. <a href="http://www.unixtimestamp.com/">Click here to read more</a>
-
-## How to acces the rest api (in code example) ##
-
-There is some information that is required in order to communicate with the rest api. You need to build a http request for the login page, because you will need the application id and the secret key in order to communicate with the rest api. With that information you need to hash to variables and put them in the header of the browser. All this steps will be explained in steps and code samples.
+## How to access the Rest Api (in this code example) ##
+In order to communicate with the Rest API you will need a application id and a secret. These can be obtained by requestion the */rest/api/login*-endpoint. With those variables you can sign the requests and(in the header of the request). All steps will be explained with code samples.
 
 **Step one**
+Firstly, we need to include jQuery and CryptoJs in the HTML-page..
 
-I recommend to import the JQuery script first. If you import this script you will be able to use functions from JQuery. 
-
-<a href="http://code.jquery.com/jquery-2.1.4.min.js">Download JQuery here</a>
-
-To load the JQuery script in your html page you need to add this:
+To load the jQuery script you need to add this:
 	
-	<script src="JQueryLocation/jquery-2.1.4.min.js"></script>
+	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+
+To load the CryptoJS script you need to add this:
+	
+	<script src="//crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/hmac-sha256.js"></script>
 
 
 **Step two**
-
-You need your **application id** and **secret key** from the login function in order to continue. You are able to get this information at the page: "/rest/api/login". To receive your crendentials you need to post a JSON to the login page. For example:
+You will need your **application id** and **secret key** from the login function in order to continue. You are able to get this information at the page: "/rest/api/login". To receive your crendentials you need to post a JSON to the login page:
 	
-	//Attention! This example uses JQuery.
-	//First import the JQuery script in your html page.
+	//Attention! This example uses jQuery.
+	//First import the jQuery script in your html page.
 	
 	$.ajax({
 			method: 'POST',
 			url: '/rest/api/login',
 			data : '{ "username": "testUsername", "password": "testPassword", "application": "rest" }'	
 	}).done(function (data) {
-		//In variable data is your response.
+		//In data is your response.
 		//To get your application id and secret key you can use this code:
 		var applicationId = data.applicationId;
 		var secretId = data.secret;
 	});
 
-You have now received the application id and the secret id from the rest api. In the variable "data" are the values stored. You can acces the values by using **data.variableName;**
+You have now received the application id and the secret id from the Rest API. In the variable "data" are the values stored. You can access the values by using **data.variableName;**
 
-**Step three**
+**Step three, creating the hash for each request**
+Each Rest API-request has to be signed. To sign the request you need the **Application Id,** the **HTTP-method**, the url you are calling (example: /rest/api/organization) and a timestamp (Epoch timestamp) and the **Secret**. 
 
-When step two is completed you are now able to make a valid authenthication code. The rest api key consists of 2 parts. The first part is your application id and the second part is the secret key. In this part you need to hash the applicationId, the method of your action ("GET" or "POST"), the url you are calling (example: /rest/api/organization) and the timestamp (Epoch timestamp). Place the values in this order in a string:
+The following values have to be concatenated in a single string in the following fixed order:
 
 >1. Application id
->2. Method type
->3. Url you are calling
+>2. HTTP-method in lowercase
+>3. (Relative) url you are calling
 >4. Epoch timestamp
 
-The string will look like this:
-> ApplicationIdTypeUrlTimestamp
 
-**Notice: put all values together without space!**
+In this example we are going to request the organizations-endpoint, for this request we have a the following parameters:
+
+>1. Application id: a9a0d2640fa940af8011596e3686e397
+>2. Http-Method: GET
+>3. Url: /rest/api/organizations?envelope=1
+>4. Timestamp: 1435235082725
+>5. Secret: 5ff72d0084c831a918a52b2d5c2008e53ec0d29b2c49f84ec1abd582680dcd9a
+
+When we concatenate these values into the following format:
+
+&lt;Application Id&gt; &lt;Http-Method&gt; &lt;Url&gt; &lt;Timestamp&gt;
+
+we obtain the following result:
+
+*a9a0d2640fa940af8011596e3686e397get/rest/api/organizations?envelope=11435235082725*
+
+
+<div class="information">
+- The Http-method has to be in lowercase
+- The url has to include the trailing forward slash
+</div>
+
+<div class="warning">
+Concatenate the values without spaces
+</div>
+
+
+The result can be hashed with the HmacSHA256 using the secret:
+
 
 After you put them in a string you can hash them with this function:
+	var hash = CryptoJS.HmacSHA256(string_to_hash, secret);
 
-
-	var hash = CryptoJS.HmacSHA256(your_string, secret);
-
-CryptoJS.HmacSHA256 return the hash value into the variable hash. This hash is a part that is required for the header of your browser.
+CryptoJS.HmacSHA256 return the hash value into the variable hash. This hash is a part that is required to sign the request.
 
 Now you need to create the final string that is going to be used as a authenthication key.
 
-Example. The authenthication key looks like this: 
->hmac256 applicationId  timeStamp hash 
+The authenthication key looks like this: 
 
-**Notice: put all values together WITH A SPACE BETWEEN THE VALUES**
+&lt;Hashing protocol&gt; &lt;Application Id&gt; &lt;Timestamp&gt; &lt;Resulting Hash&gt;
 
+<div class="warning">
+Concatenate the values WITH spaces
+</div>
 
-Now you are able to put the authenthication string into the header of the browser.
+Now you are able to put this authenthication string into the header of the request.
 
-For example. I want to receive organizations:
+For example:
 
-	var headers = {};
-	var authenthicationString = "hmac256 applicationId  timeStamp hash"; 
-	headers["Authentication"] = authenthicationString;
-
+	var headers = {
+		Authentication: "hmac256 applicationId  timeStamp hash"
+	};
 	$.ajax({
 			method: 'GET',
 			url: '/rest/api/organizations',
 			headers: headers
-	}).done(function (data) {
+		}
+	).done(function (data) {
 		//In variable data is your response.
 		//To get your application id and secret key you can use this code:
 		var applicationId = data.applicationId;
@@ -112,38 +125,30 @@ For example. I want to receive organizations:
 
 
 
-This is the full script that i have created to acces the rest api:
+This is the full script to access the Rest API
 
-
-	<!--Imports JQuery library.-->
+	<!--Imports jQuery library.-->
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<!--Imports the hasing algorithm (hmac256)-->
 	<script src="//crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/hmac-sha256.js"></script>
 	<script>
-		//Your rest api key contains two values. The first part before the ":" is the application id an the second part after the ":" contains the secretId.
-		//You can receive those id's from the login function of the rest API.
-		var API_KEY = 'applicationId:secretId';
-
-		//This will split the application id and the secret id in an array. 
-		//apiSplit[0] is applicationId
-		//apisplit[1] is secretId
-		var apiSplit = API_KEY.split(':');
-
-		var applicationId = apiSplit[0];
-		var secret = apiSplit[1];
+		//the applicationid and secret have already been obtained and stored in there variables:
+	
+		var applicationId = "a9a0d2640fa940af8011596e3686e397 ";
+		var secret = "5ff72d0084c831a918a52b2d5c2008e53ec0d29b2c49f84ec1abd582680dcd9a";
 		
 		//Get the epoch timestamp (Epoch timestamp is the number of seconds since January 1, 1970)
-		var timeStamp = new Date().getTime();
+		var timeStamp = new Date().getTime(); // = 1435235082725 
 
 		//the relative path (with query) of the request.. eg: /test
 		var url = '/rest/api/organizations';
 		var type = 'GET';
 
-		//Creates the string to put in the header.
+		//Create an array with the following values.
 		var stringToHash = [];
 			stringToHash.push( applicationId );
 			stringToHash.push( type.toLowerCase() );
-			stringToHash.push( url.substring(url) );
+			stringToHash.push( url.substring(url) ); ///make sure this is lowercase
 			stringToHash.push( timeStamp );
 
 		//Create hash with the Hmac algorithm.
@@ -165,7 +170,9 @@ This is the full script that i have created to acces the rest api:
 		headerValue.push( hash );
 
 		var requestInfo = {
-			headers: {},
+			headers: {
+				Authentication: headerValue.join(' ')
+			},
 			url: url,
 			dataType: 'json', 
 			processData: false,
@@ -173,17 +180,16 @@ This is the full script that i have created to acces the rest api:
 			type: type
 		};
 		
-		requestInfo.headers["Authentication"] = headerValue.join(' ');
-
 		$.ajax( requestInfo )
-		.done( function (data)
-		{
-			//variable 'data' is now a JSON object with your data.
-		})
-		.fail( function (data)
-		{
-		  //This functions handles if you request contains an error.
-		});
+			.done( function (data)
+			{
+				//alert the result
+				alert( JSON.stringify(data) );
+			})
+			.fail( function (data)
+			{
+				alert('Something went wrong');
+			});
 	</script>
 
 
