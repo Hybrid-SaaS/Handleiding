@@ -35,4 +35,21 @@ Zodra dit alles in ingericht kan je gebruikers
 
 Ga naar  [Extranet gebruiker + rechten](http://hybridsaas.support/pages/handleiding/modules/P-Z/vragenlijst/vragenlijsten-extranet)
 
+#Klaar om te starten#
+Nu ben je klaar om als extranet gebruiker in te loggen en vragenlijsten in te vullen.
 
+Ga naar een browser en tik onderstaande URL in.
+
+**https://{databasenaam}.hybridsaas.com/Extranet-revisited**
+
+voorbeeld https://bronbouw.hybridsaas.com/Extranet-revisited
+
+Er verschijnt een standaard scherm waarbij je aan de rechterkant kan zien dat je nog niet bent ingelogd. Dit doe je met de knop "Inloggen" en met de gegevens die je via de mail hebt ontvangen.  
+![](images/extranet.jpg)
+
+
+Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbehorende gegevens te zien. In dit voorbeeld heb je rechten op zowel klanten (2 stuks) en personen (1 stuks). 
+
+![](images/extranet-inlog.jpg)
+
+Kies voor klanten of personen en selecteer daar dan diegene uit waarvan je een vragenlijst wilt invoeren. 

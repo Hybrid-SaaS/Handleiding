@@ -8,7 +8,6 @@
 	</menu>
 </properties>
 
-
 Wachtwoord versturen
 ====================
 
@@ -21,7 +20,6 @@ Onder deze knop zitten 3 functies om een wachtwoord te wijzigen en eventueel te 
 
 ![](images/gebruiker-wachtwoord-1.jpg)  
 
-
 #Optie 1: Stuur nieuw wachtwoord via de e-mail en laat de gebruiker een nieuw wachtwoord kiezen bij de volgende inlog#
 Zodra je deze optie kiest wordt er een e-mail gestuurd naar de gebruiker. Deze ontvangt onderstaand bericht en kan nu inloggen met de nieuwe inlognaam en wachtwoord.
 
@@ -31,7 +29,7 @@ Vul bij het "Origiele wachtwoord" het via de e-mail ontvangen wachtwoord in en v
 
 ![](images/gebruiker-wachtwoord-wijzig.jpg)
 
-dit scherm verschijnt, klik op OK en je bent ingelogd.
+Dit scherm verschijnt, klik op OK en je bent ingelogd.
 
 ![](images/gebruiker-wachtwoord-ok.jpg)
 
@@ -44,14 +42,13 @@ Vul bij het "Origiele wachtwoord" het via de e-mail ontvangen wachtwoord in en v
 
 ![](images/gebruiker-wachtwoord-wijzig.jpg)
 
-dit scherm verschijnt, klik op OK en je bent ingelogd.
+Dit scherm verschijnt, klik op OK en je bent ingelogd.
 
 ![](images/gebruiker-wachtwoord-ok.jpg)
 
-
 #Optie 3: Voer een nieuw wachtwoord in#
 
-Deze optie wordt vooral intern gebruikt om een wachtwoord van een medewerker terug te zetten omdat ze het vergeten zijn.
+Deze optie wordt vooral intern gebruikt om een wachtwoord van een medewerker om te zetten, bijvoorbeeld omdat deze vergeten is. Of om deze gelijk te zetten met een ander wachtwoord.
  
 ![](images/gebruiker-wachtwoord-optie-3.jpg)
 
