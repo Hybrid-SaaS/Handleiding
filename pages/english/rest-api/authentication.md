@@ -49,14 +49,14 @@ You will need your **application id** and **secret key** from the login function
 You have now received the application id and the secret id from the Rest API. In the variable "data" are the values stored. You can access the values by using **data.variableName;**
 
 ##Creating the hash for the request##
-Each Rest API-request has to be signed. To sign the request you need the **Application Id,** the **HTTP-method**, the url you are calling (example: /rest/api/organization) and a **Timestamp** (<label>Epoch</label>) and the **Secret**. 
+Each Rest API-request has to be signed. To sign the request you need the **Application Id,** the **HTTP-method**, the url you are calling (example: /rest/api/organization) and a **Timestamp** (<label>Unix timestamp</label>) and the **Secret**. 
 
 The following values have to be concatenated in a single string in the following fixed order:
 
 >1. Application id
 >2. HTTP-method in lowercase
 >3. (Relative) url you are calling
->4. Epoch timestamp
+>4. Unix timestamp
 
 
 ##Creating string to hash##
