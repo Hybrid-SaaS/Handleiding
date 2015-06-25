@@ -3,7 +3,7 @@
 		<title>Wachtwoord versturen</title>
 			</page>
 	<menu>
-		<position>Handleiding / Systeem / inloggen</position>
+		<position>Handleiding / Systeem / Inloggen</position>
 		<title>Wachtwoord versturen</title>
 	</menu>
 </properties>
