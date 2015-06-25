@@ -9,7 +9,7 @@
 </properties>
 
 # Rest API authentication #
-All Hybrid SaaS Rest API-interaction is signed with a <label keyword="hmacsha256">Hash-based Message Authentication Code (HMAC) by using the SHA256 hash function</label>
+All Hybrid SaaS Rest API-interaction is signed with a Hash-based Message Authentication Code (HMAC) by using the <label keyword="hmacsha256">SHA256 hash function</label>
 
 ## Sample ##
 The given sample is using a HTML-page with jQuery and CryptoJS. jQuery is a JavaScript framework. For more information <a ahref="http://jquery.com/">Click here</a>. CryptoJS is a collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. For more information <a ahref="https://code.google.com/p/crypto-js/">Click here</a>.
@@ -78,7 +78,7 @@ we obtain the following result:
 *a9a0d2640fa940af8011596e3686e397get/rest/api/organizations?envelope=11435235082725*
 
 
-<div class="information">
+<div class="info">
 - The Http-method has to be in lowercase
 - The url has to include the trailing forward slash
 </div>
