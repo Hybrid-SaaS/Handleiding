@@ -25,7 +25,7 @@ The Hybrid SaaS rest API is using a API key to gain access to the system. The AP
 Jquery is a JavaScript framework. For more information <a ahref="www.http://jquery.com/">Click here</a>
 
 ## What is (Unix) Epoch timestamp?
-dfsdfds
+The Unix Epoch timestamp is the time in seconds since January 1, 1970. <a href="http://www.unixtimestamp.com/">Click here to read more</a>
 
 ## How to acces the rest api (in code example) ##
 
