@@ -120,7 +120,7 @@ Example:
 	};
 	$.ajax({
 			method: 'GET',
-			url: '/rest/api/organizations',
+			url: '/rest/api/endpoint',
 			headers: headers
 		}
 	).done(function (data) {
@@ -148,7 +148,7 @@ This is the full script to access the Rest API
 		var timeStamp = new Date().getTime(); // = 1435235082725 
 
 		//the relative path (with query) of the request.. eg: /test
-		var url = '/rest/api/organizations';
+		var url = '/rest/api/organizations?envelope=1';
 		var type = 'GET';
 
 		// Create an array with the following values.
