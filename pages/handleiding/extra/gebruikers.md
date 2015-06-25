@@ -11,13 +11,13 @@
 	</menu>
 </properties>
 
-#Gebruiker aanmaken/wijzigen#
+#Gebruikers#
 ----------
 
 #Start#
 ![](images/gebruikers-start.JPG)
 #Entiteiten#
-![](images/gebruikers-buttonbalk2.JPg)
+![](images/gebruikers-buttonbalk2.JPG)
 
 **Acties**
 
@@ -97,7 +97,7 @@
 - Onderaannemer
 - Doorbelasten op
 - Onderaannemer verzorgt orderverwerking vanuit eigen voorraad
-- 
+
 #Tijdregistratie#
 ![](images/gebruikers-tijdregistratiejpg.jpg)
 
@@ -137,7 +137,7 @@
 - Vrije veld 1
 - Vrije veld 2
 - Vrije veld 3
-- Handtekening
+- [Handtekening]()
 
 #Commissies#
 ![](images/gebruikers-commissies.jpg)

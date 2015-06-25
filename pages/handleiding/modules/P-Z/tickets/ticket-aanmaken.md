@@ -5,7 +5,7 @@
 		<context>tickets-new*</context>
 	</page>
 	<menu>
-		<position>Handleiding /Modules /P-Z /Tickets</position>
+		<position>Handleiding /Modules /P - Z /Tickets</position>
 		<title>tickets Aanmaken</title>
 		<sort></sort>
 	</menu>

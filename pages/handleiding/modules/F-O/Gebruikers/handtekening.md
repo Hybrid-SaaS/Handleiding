@@ -1,22 +1,20 @@
-<properties>
+<properties>	
 	<page>
-		<title>Handtekening</title>
-		<description></description>	
+		<title>handtekening</title>
+		<description>handtekening</description>
+		<context></context>
 	</page>
 	<menu>
-		<position>Handleiding / Modules / F - O / Gebruikers</position> 
+		<position>Handleiding / Extra</position> 
 		<title>Handtekening</title>
-		<sort>B</sort>
+		<sort></sort>
 	</menu>
 </properties>
 
-Ga terug [Gebruikers](http://hybridsaas.support/pages/handleiding/modules/F-O/Gebruikers/Introductie)
 # Handtekening #
+Je kan in het systeem een digitale handtekening plaatsen en deze op verschillende plaatsen onder documenten laten terugkomen. Hier wordt uitgelegd hoe je dat kan doen.
 
-**Plaatsen van een handtekening**
-
-Je kan in het systeem een digitale handtekening plaatsen en deze op verschillende plaatsen onder documenten laten terugkomen.
-Hier wordt uitgelegd hoe je dat kan doen.
+----------
 
 **Uploaden van een handtekening** 
 
@@ -69,4 +67,7 @@ Op het moment dat Jaap een offerte maakt met afdelingsrechten en Jaap zit in de 
 
 ![](images/handtekening-offerte-afdeling.jpg)
 
-Ga terug [Gebruikers](http://hybridsaas.support/pages/handleiding/modules/F-O/Gebruikers/Introductie)
+----------
+
+
+Ga terug [Gebruikers](http://hybridsaas.support/pages/handleiding/extra/gebruikers)

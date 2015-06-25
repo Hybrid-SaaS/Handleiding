@@ -5,7 +5,7 @@
 		<context>ticket-categories*</context>
 	</page>
 	<menu>
-		<position>Handleiding /Modules /P-Z /Tickets</position>
+		<position>Handleiding /Modules /P - Z /Tickets</position>
 		<title>Tickets Categorieën</title>
 		<sort></sort>
 	</menu>

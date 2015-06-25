@@ -5,7 +5,7 @@
 		<context>ticket-status*</context>
 	</page>
 	<menu>
-		<position>Handleiding /Modules /P-Z /Tickets</position>
+		<position>Handleiding /Modules /P - Z /Tickets</position>
 		<title>Tickets Statussen</title>
 		<sort></sort>
 	</menu>

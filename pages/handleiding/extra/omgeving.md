@@ -44,7 +44,7 @@ De [Grootboekrekeningen & Werkcodes](http://hybridsaas.support/pages/handleiding
 Een [Relatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeheer/een-nieuwe-relatie-aanmaken) aanmaken
 
 #Stap 10#
-een [Product](http://hybridsaas.support/pages/handleiding/modules/producten/Product) aanmaken
+een [Product](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product) aanmaken
 
 #Stap 11#
 Bij het Ticket systeem de Tickets [Categorieën](http://hybridsaas.support/pages/handleiding/modules/P-Z/categorieen) en de Ticket [Statussen](http://hybridsaas.support/pages/handleiding/modules/P-Z/status) bepalen
