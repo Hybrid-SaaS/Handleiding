@@ -88,3 +88,7 @@ Afhankelijk van deze keuzes worden rechten toebedeeld.
 ![](images/extranet-vragenlijst-project.jpg)
 
 ![](images/extranet-vragenlijst-project-1.jpg)
+
+Informeer nu deze gebruiker door hem zijn id en wachtwoord te versturen.
+
+Ga naar  [Wachtwoord-versturen](http://hybridsaas.support/pages/handleiding/onderdeel/wachtwoord-vergeten/wachtwoord-versturen)  
