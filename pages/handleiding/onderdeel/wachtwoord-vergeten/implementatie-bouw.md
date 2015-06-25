@@ -22,7 +22,7 @@ Zodra je deze gegevens hebt ontvangen kan je starten met de implementatie van Hy
 
 Ga naar  [Werkplek installatie](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser)
 
-Start de applicatie op en log in met de aangeleverde gegevens. Je komt dan, afhankelijk van het ekozen pakket, op een standaard desktop terecht. In dit voorbeeld is gekozen voor het invullen van vragenlijsten bij bedrijven en personen.
+Start de applicatie op en log in met de aangeleverde gegevens. Je komt dan, afhankelijk van het gekozen pakket, op een standaard desktop terecht. In dit voorbeeld is gekozen voor het invullen van vragenlijsten bij bedrijven en personen.
 Via de grote START knop kan je eventueel andere functies toevoegen op je desktop.
  
 ![](images/gebruiker-desktop.jpg)
@@ -53,3 +53,4 @@ Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbeh
 ![](images/extranet-inlog.jpg)
 
 Kies voor klanten of personen en selecteer daar dan diegene uit waarvan je een vragenlijst wilt invoeren. 
+
