@@ -5,7 +5,7 @@
 		<context>dlgproduct*</context>
 	</page>
 	<menu>
-		<position>Handleiding /Modules /Producten</position>
+		<position>Handleiding /Modules /P-Z /Producten</position>
 		<title>Producten</title>
 		<sort>d</sort>
 	</menu>

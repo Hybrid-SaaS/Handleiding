@@ -12,6 +12,8 @@
 </properties>
 
 #E-mail Sjablonen#
+----------
+
 #Start#
 ![](images/email-start.JPG)
 #E-mail sjablonen#
@@ -63,8 +65,4 @@
 - Exporteren
 
 ---------
-**Ga verder**
-
-
-----------
-**Ga terug**
+[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)

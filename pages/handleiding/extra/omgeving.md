@@ -13,8 +13,11 @@
 
 #Omgeving invullen stappenplan#
 
+----------
+
+
 #Stap 1#
-Het [Instaleren](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser) van HybridSaaS
+Het [Instaleren](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser) van HybridSaaS, Word add-in en Outlook add-in
 
 #Stap 2#
 Het invullen van de [Entiteit](http://hybridsaas.support/pages/handleiding/extra/entiteit).
@@ -29,10 +32,10 @@ Een gebruiker aan een [Beveiligingsgroep](http://hybridsaas.support/pages/handle
 Bij de [Afdelingen](http://hybridsaas.support/pages/handleiding/extra/afdelingen) het email adres toepassen voor de ontvangen e-mails
 
 #Stap 6#
-Een [Word sjablonen](http://hybridsaas.support/pages/handleiding/extra/wordsjabloon) maken voor de facturatie en orders
+Het downloaden van Word add-in en een [Word sjablonen](http://hybridsaas.support/pages/handleiding/extra/wordsjabloon) maken voor de facturatie en orders
 
 #Stap 7#
-Bij de [Email sjablonen](http://hybridsaas.support/pages/handleiding/extra/emailsjabloon) de SPF instellen en het voorwoord aanpassen
+Het downloaden van [Outlook add-in](http://download.hybridsaas.com/install/office/outlook/) en bij de [Email sjablonen](http://hybridsaas.support/pages/handleiding/extra/emailsjabloon) de [SPF instellen](http://hybridsaas.support/pages/handleiding/onderdeel/spf-record/toevoegen) en het voorwoord aanpassen
 
 #Stap 8#
 De [Grootboekrekeningen & Werkcodes](http://hybridsaas.support/pages/handleiding/modules/A-E/boekhouding/grootboekrekeningen-aanmaken) aanmaken
@@ -44,22 +47,25 @@ Een [Relatie](http://hybridsaas.support/pages/handleiding/modules/P-Z/relatiebeh
 een [Product](http://hybridsaas.support/pages/handleiding/modules/producten/Product) aanmaken
 
 #Stap 11#
-ticket volgorde status
-catagorie bepalen
+Bij het Ticket systeem de Tickets [Categorieën](http://hybridsaas.support/pages/handleiding/modules/P-Z/categorieen) en de Ticket [Statussen](http://hybridsaas.support/pages/handleiding/modules/P-Z/status) bepalen
 
-#Stap 12#
-projecten aanmaken
-klant-werkcode-uurtarief = gebruikers-werkcode-project
+**Na deze stappen heb je alles erin zitten en kan je verschillende modules aanmaken zie hieronder welke**
 
-#Stap 13#
-Tickets aanmaken
+----------
+
+#Stap 1.1#
+Een [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecten/invoervenster-projecten) aanmaken, Hierbij kan je een uurtarief instellen deze is op 3 plekken in te stellen.
+Op een project; Op een werkcode; Op een gebruiker, is het uurtarief niet op het project ingevuld word er naar de werkcode gekeken is deze ook niet ingevuld word er naar de gebruiker gekeken.
+
+#Stap 1.2#
+Een [Ticket]() aanmaken dit kan handmatig en via de outlook add-in
 handmatig via mail en via outlook add in
 
-#Stap 14#
+#Stap 1.3#
 tijdregistratie aanmaken
 
-#Stap 15#
+#Stap 1.4#
 Prepaid kaarten aanmaken
 
-#Stap 16#
+#Stap 1.5#
 Contracten aanmaken 

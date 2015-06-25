@@ -12,6 +12,8 @@
 </properties>
 
 #Gebruiker aanmaken/wijzigen#
+----------
+
 #Start#
 ![](images/gebruikers-start.JPG)
 #Entiteiten#
@@ -212,37 +214,4 @@
 - Producten: Zonder werkcode
 
 ---------
-**Ga verder**
-
-Stap 4 [Beveiligingsgroep](http://hybridsaas.support/pages/handleiding/extra/beveiligingsgroepen)
-
-Stap 5 [Afdelingen](http://hybridsaas.support/pages/handleiding/extra/afdelingen)
-
-Stap 6
-
-Stap 7
-
-Stap 8
-
-Stap 10
-
-Stap 11
-
-Stap 12
-
-Stap 13
-
-Stap 14
-
-Stap 15
-
-Stap 16
-
-----------
-**Ga terug**
-
-Stap 0 [Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)
-
-Stap 1 [Instaleren](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser)
-
-Stap 2 [Entiteit](http://hybridsaas.support/pages/handleiding/extra/entiteit)
+[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)

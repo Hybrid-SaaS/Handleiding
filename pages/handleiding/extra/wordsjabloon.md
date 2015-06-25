@@ -12,6 +12,8 @@
 </properties>
 
 #Word Sjablonen#
+----------
+
 #Start#
 ![](images/wordsjabloon-start.JPG)
 #Word sjablonen#
@@ -100,12 +102,5 @@
 - Verwijderen
 - Exporteren
 
-
-
-
 ---------
-**Ga verder**
-
-
-----------
-**Ga terug**
+[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)

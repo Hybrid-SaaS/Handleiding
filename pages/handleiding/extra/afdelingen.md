@@ -12,6 +12,8 @@
 </properties>
 
 #Afdelingen#
+----------
+
 #Start#
 ![](images/afdelingen-start.JPg)
 #Afdelingen#
@@ -30,7 +32,7 @@
 - Entiteit
 - Naam
 - Leden mogen elkaars collega's uit deze afdeling selecteren
-- Leden mogen elkaars factuurberscherming opheffen
+- Leden mogen elkaars factuurbescherming opheffen
 - Gebruiken voor tickets
 - Weergeven op extranet
 - Extranet naam
@@ -57,37 +59,4 @@
 - Exporteren
 
 ---------
-**Ga verder**
-
-Stap 6 [Word sjablonen](http://hybridsaas.support/pages/handleiding/extra/wordsjabloon)
-
-Stap 7
-
-Stap 8
-
-Stap 10
-
-Stap 11
-
-Stap 12
-
-Stap 13
-
-Stap 14
-
-Stap 15
-
-Stap 16
-
-----------
-**Ga terug**
-
-Stap 0 [Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)
-
-Stap 1 [Instaleren](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser)
-
-Stap 2 [Entiteit](http://hybridsaas.support/pages/handleiding/extra/entiteit)
-
-Stap 3 [Gebruikers](http://hybridsaas.support/pages/handleiding/extra/gebruikers).
-
-Stap 4 [Beveiligingsgroep](http://hybridsaas.support/pages/handleiding/extra/beveiligingsgroepen)
+[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)

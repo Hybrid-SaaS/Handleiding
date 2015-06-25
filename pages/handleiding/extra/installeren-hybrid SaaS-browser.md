@@ -9,6 +9,7 @@
 </properties>
 
 #Installeren Hybrid SaaS#
+----------
 
 Hoe installeer ik de Hybrid SaaS browser om mijn werkplek. 
 
@@ -71,5 +72,4 @@ Nu kan je de applicatie starten. (Mits je in het bezit bent van geldige inlognaa
 ![](images/download-hs-browser-inlog.jpg)
 
 ---------
-
-Zie vervolgens het [Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving) om je omgeving in te vullen
+[Stappenplan](http://hybridsaas.support/pages/handleiding/extra/omgeving)
