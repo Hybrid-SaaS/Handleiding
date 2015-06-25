@@ -93,6 +93,7 @@ Concatenate the values without spaces
 The result can be hashed with the HmacSHA256 using the secret:
 
 After you put them in a string you can hash them with this function:
+
 	var hash = CryptoJS.HmacSHA256(string_to_hash, secret);
 
 CryptoJS.HmacSHA256 returns the hash value into the variable hash. This hash is a part that is required to sign the request.
@@ -150,53 +151,75 @@ This is the full script to access the Rest API
 		var url = '/rest/api/organizations';
 		var type = 'GET';
 
-		//Create an array with the following values.
-		var stringToHash = [];
-			stringToHash.push( applicationId );
-			stringToHash.push( type.toLowerCase() );
-			stringToHash.push( url.substring(url) ); ///make sure this is lowercase
-			stringToHash.push( timeStamp );
+		// Create an array with the following values.
+		var hashArray = [];
+			hashArray.push( applicationId ); // a9a0d2640fa940af8011596e3686e397 
+			hashArray.push( type.toLowerCase() ); // 'get', make sure this is lowercase
+			hashArray.push( url.substring( url ) ); // '/rest/api/organizations?envelope=1'
+			hashArray.push( timeStamp ); // 1435235082725
 
-		//Create hash with the Hmac algorithm.
-		var hash = CryptoJS.HmacSHA256(stringToHash.join(''), secret);
+		// Join the array to the string to hash
+		var stringToHash = hashArray.join(''); // 'a9a0d2640fa940af8011596e3686e397get/rest/api/organizations?envelope=11435235082725'
 
-		//Create authentication header:
+
+
+		// Create hash with the Hmac algorithm.
+		var hash = CryptoJS.HmacSHA256(stringToHash, secret); // Sign the string the secret. The result will be: '5ff72d0084c831a918a52b2d5c2008e53ec0d29b2c49f84ec1abd582680dcd9a'
+
+		// Create authentication header:
 		var headerValue = [];
 
-		//The hashing method in lowercase
+		// The hashing method in lowercase
 		headerValue.push( 'hmac256' );
 
-		//Application id
-		headerValue.push( applicationId );
+		// Application id
+		headerValue.push( applicationId ); // 'a9a0d2640fa940af8011596e3686e397'
 
-		//The epoch
-		headerValue.push( timeStamp );
+		// The epoch
+		headerValue.push( timeStamp ); // 1435235082725
 
 		//The hash
-		headerValue.push( hash );
-
+		headerValue.push( hash ); // '5ff72d0084c831a918a52b2d5c2008e53ec0d29b2c49f84ec1abd582680dcd9a'
+		
+		
+		
+		//Join the values with a space
+		var authenticationValue = headerValue.join(' '); // 'hmac256 a9a0d2640fa940af8011596e3686e397 1435235082725 5ff72d0084c831a918a52b2d5c2008e53ec0d29b2c49f84ec1abd582680dcd9a'
+		
+		
+		//Set the request parameters
 		var requestInfo = {
 			headers: {
-				Authentication: headerValue.join(' ')
+				Authentication: authenticationValue
 			},
 			url: url,
 			dataType: 'json', 
 			processData: false,
 			contentType: 'application/json; charset=utf-8',
-			type: type
+			type: type // GET
 		};
+		
 		
 		$.ajax( requestInfo )
 			.done( function (data)
 			{
-				//alert the result
+				// alert the result
 				alert( JSON.stringify(data) );
 			})
 			.fail( function (data)
 			{
+				// something went wrong
 				alert('Something went wrong');
 			});
 	</script>
 
 
+<div class="info">
+- A single hash for a request is valid for a maximum period of 15 minutes. This wil protect the application against replay-attacks. 
+- The **Application Id** and **Application secret** can be cached locally by your implementation.
+- If the user changes his password or looses rights to login, all linked **Application secrets** will automatically become invalid.
+</div>
 
+<div class="warning">
+Please do not authenticate on the **/login** endpoint on every single request, this will trigger brute-force detection.
+</div>
