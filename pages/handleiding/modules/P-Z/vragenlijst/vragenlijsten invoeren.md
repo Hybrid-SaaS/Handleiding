@@ -12,7 +12,13 @@
 #Vragenlijsten#
 <description>Je kan op verschillende manieren een vragenlijst invoeren.</description>
 
-#Vragenlijst invoeren#
+#Vragenlijst invoeren op je mobiel#
+
+![](images/mob-hoofd.jpg)
+
+Door de knop met de 3 lijntjes te gebruiken krijg je onderstaand scherm. 
+
+![](images/mob-menu.jpg) 
 .
 
       
