@@ -1,10 +1,10 @@
 <properties>
 	<page>
-		<title>Vragenlijst</title>
+		<title>Vragenlijst beheren</title>
 	</page>
 	<menu>
 		<position>Handleiding / Modules / P - Z / Vragenlijst</position> 
-		<title>Vragenlijst</title>
+		<title>Vragenlijst beheren</title>
 	<sort>B</sort>
 	</menu>
 </properties>
