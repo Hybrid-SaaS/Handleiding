@@ -5,7 +5,6 @@
 	<menu>
 		<position>Handleiding / Modules / P - Z / Vragenlijst</position> 
 		<title>Vragenlijst invoeren</title>
-	<sort>B</sort>
 	</menu>
 </properties>
 
