@@ -15,7 +15,7 @@
 Met de Online Enquête en vragenlijsten van Hybrid SaaS kunt u klanttevredenheidsonderzoeken uitvoeren, gestandaardiseerde (voor) opnamelijsten en nog veel meer. U heeft de volledige vrijheid om zelf vragen op te stellen en deze te laten beantwoorden door middel van multiplechoice of open antwoorden.
 </description>
 
-#Beheren vragenlijst#
+#Beheren van de vragenlijst#
 
 Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door  via de startknop naar het menu Vragenlijsten te gaan en daar Beheren te selecteren. 
 
