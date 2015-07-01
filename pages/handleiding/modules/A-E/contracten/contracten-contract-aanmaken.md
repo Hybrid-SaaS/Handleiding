@@ -11,19 +11,46 @@
 	</menu>
 </properties>
 
-Ga terug <[Contracten](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/Introductie)>
-
-----------
 
 # Contract aanmaken #
 
 Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de contract gegevens en de contractregels. Het resultaat van deze 2 kan je terugvinden in de planning. De overige tabbladen zijn informatief en ondersteunend.
 
+----------
+#Start#
+![](images/contract-start.JPG)
+#Actieve contracten#
+![](images/contract-buttonbalk.jpg)
 
-**Tabblad Contract** 
+**Acties**
+
+- Toevoegen
+- Bewerken
+- Verwijderen
+- Vernieuwen
+- Document opmaken
+- Excel
+
+**Acties**
+
+- Dupliceren
+- Genereren
+
+**Koppelingen**
+
+- Facturen
+- Details
+- Regels inzien
+
+**Printen**
+
+- Op scherm
+- Op printer
+
+#Tabblad Contract#
 ![](images/contract-hoofdpagina.jpg) 
 
-*Stamgegevens*
+**Stamgegevens**
 
 - Entiteit
 	- Dit is de administratie waar dit contract onder valt (over het algemeen wordt er met 1 entiteit gewerkt)
@@ -45,7 +72,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - T.a.v.
 	- Hier kan je zelf een persoon of functie toevoegen, bijvoorbeeld Hoof administratie of Dhr. J. Janssen.
 
-*Contract instellingen*
+**Contract instellingen**
 
 - Contractnummer
 	- Dit is een vrij in te voeren veld. Je kan deze ook via een volgnummer laten oplopen, dit gebeurt dan bij het opslaan.
@@ -69,7 +96,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 	- Hiermee geef je aan wat de output van dit contract wordt. Dit is vaak een nieuwe factuur, maar kan ook een nieuwe order, extern contract of nieuwe factuur(regels) zijn. Dit is een **verplicht veld**
 - Uitstellen met
 
-*Plannings interval*
+**Plannings interval**
 
 - Niet meer genereren
 	- Als je een contract wilt beëindigen, dan kan je dit vinkje aanzetten dan wordt het contract niet meer in de planning geplaatst en ook niet meer gegenereerd.
@@ -89,7 +116,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Einddatum 
 - Automatisch verlengen
 
-*Uitvoer instellingen*
+**Uitvoer instellingen**
 
 - Factuurmoment
 	- Je kan een factuur/order vooraf of achteraf laten genereren. Dit kan je hier ingeven.
@@ -98,24 +125,24 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Contractwaarde
 	- De waarde die wordt ingegeven bij de contractregels wordt weergegeven in deze waarde. dit kan zijn jaar, maand, week of dag. 
 
-**Tabblad Contract regels**
+#Tabblad Contract regels#
  
 ![](images/contract-regels.jpg) 
 
-*Aan te maken regels*
+**Aan te maken regels**
 
 - Toevoegen zie [contract regel aanmaken](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-regel-aanmaken)
  
-*Eenmalige kosten*
+**Eenmalige kosten**
 
 - Entiteit
 
 
-**Tabblad Planning**
+#Tabblad Planning#
  
 ![](images/contract-planning.jpg)
 
-*Gepland*
+**Gepland**
 
 - Regels inzien
 	- Klik hier om de regels in te zien
@@ -123,14 +150,14 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-*Voltooid*
+**Voltooid**
 
 - Verwijderen
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
 
-**Tabblad Commissies**
+#Tabblad Commissies#
  
 ![](images/contract-commissies.jpg)
 
@@ -142,7 +169,7 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-**Tabblad Digitale kopie**
+#Tabblad Digitale kopie#
  
 ![](images/contract-digitale-kopie.jpg)
 
@@ -158,32 +185,32 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 	- Om het document in te zoemen klikt u op de button Zoom in.
 
 
-**Tabblad Online bestanden**
+#Tabblad Online bestanden#
  
 ![](images/contract-online-bestanden.jpg)
 
-**Tabblad Opmerking**
+#Tabblad Opmerking#
  
 ![](images/contract-opmerking.jpg)
 
-*Opmerking*
+**Opmerking**
 
 - Om een datum aan de opmerking toe te voegen klikt u op de button Datum.
 
-*Interne Opmerking*
+**Interne Opmerking**
 
 - Om een datum aan de interne opmerking toe te voegen klikt u op de button Datum.
 
 
-**Tabblad Historie**
+#Tabblad Historie#
  
 ![](images/contract-historie.jpg)
 
-**Tabblad Vervallen**
+#Tabblad Vervallen#
  
 ![](images/contract-vervallen.jpg)
 
-*Commissie regels*
+**Commissie regels**
 
 - Commissie afdracht naar
 - Commissie werkcode
@@ -192,10 +219,9 @@ Tijdens het aanmaken van een contract zijn er 2 belangrijke zaken (tabbladen) de
 - Laatst gegenereerd
 - Frequentie
 
-*Werkbonnen koppelen aan een specifieke locatie*
+**Werkbonnen koppelen aan een specifieke locatie**
 
 - Plattegrond
-
 
 ----------
 

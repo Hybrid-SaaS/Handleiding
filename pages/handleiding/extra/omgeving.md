@@ -17,7 +17,7 @@
 
 
 #Stap 1#
-Het [Instaleren](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser) van HybridSaaS, Word add-in en Outlook add-in
+Het [Instaleren](http://hybridsaas.support/pages/handleiding/extra/installeren-hybrid%20SaaS-browser) van HybridSaaS, [Word add-in](http://download.hybridsaas.com/install/word/setup.exe) en [Outlook add-in](http://download.hybridsaas.com/install/office/outlook/)
 
 #Stap 2#
 Het invullen van de [Entiteit](http://hybridsaas.support/pages/handleiding/extra/entiteit).
@@ -32,7 +32,7 @@ Een gebruiker aan een [Beveiligingsgroep](http://hybridsaas.support/pages/handle
 Bij de [Afdelingen](http://hybridsaas.support/pages/handleiding/extra/afdelingen) het email adres toepassen voor de ontvangen e-mails
 
 #Stap 6#
-Het downloaden van Word add-in en een [Word sjablonen](http://hybridsaas.support/pages/handleiding/extra/wordsjabloon) maken voor de facturatie en orders
+Het downloaden van [Word add-in](http://download.hybridsaas.com/install/word/setup.exe) en een [Word sjablonen](http://hybridsaas.support/pages/handleiding/extra/wordsjabloon) maken voor de facturatie en orders
 
 #Stap 7#
 Het downloaden van [Outlook add-in](http://download.hybridsaas.com/install/office/outlook/) en bij de [Email sjablonen](http://hybridsaas.support/pages/handleiding/extra/emailsjabloon) de [SPF instellen](http://hybridsaas.support/pages/handleiding/onderdeel/spf-record/toevoegen) en het voorwoord aanpassen
@@ -58,14 +58,13 @@ Een [Projecten](http://hybridsaas.support/pages/handleiding/modules/P-Z/projecte
 Op een project; Op een werkcode; Op een gebruiker, is het uurtarief niet op het project ingevuld word er naar de werkcode gekeken is deze ook niet ingevuld word er naar de gebruiker gekeken.
 
 #Stap 1.2#
-Een [Ticket]() aanmaken dit kan handmatig en via de outlook add-in
-handmatig via mail en via outlook add in
+Een [Ticket](http://hybridsaas.support/pages/handleiding/modules/P-Z/tickets/ticket-aanmaken) aanmaken dit kan handmatig en via de outlook add-in
 
 #Stap 1.3#
-tijdregistratie aanmaken
+[Tijdregistratie](http://hybridsaas.support/pages/handleiding/modules/P-Z/tijdregistratie/invoerscherm-tijdregistratie) aanmaken
 
 #Stap 1.4#
-Prepaid kaarten aanmaken
+[Prepaid kaarten](http://hybridsaas.support/pages/handleiding/modules/P-Z/prepaid-kaarten/prepaidkaart) aanmaken
 
 #Stap 1.5#
-Contracten aanmaken 
+[Contract](http://hybridsaas.support/pages/handleiding/modules/A-E/contracten/contracten-contract-aanmaken) aanmaken 
