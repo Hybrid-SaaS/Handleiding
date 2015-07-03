@@ -6,11 +6,10 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>Dns instellen</title>
-		<sort>g</sort>
+		<sort>b</sort>
 	</menu>
 </properties>
-
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+#Dns instellen#
 
 ----------
 
@@ -55,4 +54,4 @@ Nadat je de aanpassingen hebt ingevoerd, kan het tot 24 uur duren voor je domein
 
 ----------
 
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+Ga terug [Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)

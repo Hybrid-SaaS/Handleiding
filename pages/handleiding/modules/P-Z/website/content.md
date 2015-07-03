@@ -1,32 +1,27 @@
 <properties>
 	<page>
-		<title>Content-Templates</title>
-		<description>Content-Templates</description>
+		<title>Content</title>
+		<description>Content</description>
 		<context>content*</context>
 	</page>
 	<menu>
 		<position>Handleiding / Webshop</position>
-		<title>Content-Templates</title>
-		<sort>bb</sort>
+		<title>Content</title>
+		<sort>e</sort>
 	</menu>
 </properties>
 
-Ga terug <[URl](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
+#Content#
 
 ----------
 
-#Website content aanmaken#
-Zoek in start naar content
+#Start#
+![](images/content-start.JPG)
+#Content#
+![](images/content-buttonbalk.JPG)
 
-![](images/start-content.JPg)
-
-![](images/content-alle.JPG)
-
-Om een pad aan te maken klik op Toevoegen
-
-**Content**
-
-![](images/content.JPg)
+#Toevoegen#
+![](images/content-content.JPg)
 
 - Website
 - ID
@@ -36,37 +31,8 @@ Om een pad aan te maken klik op Toevoegen
 - Keywords
 
 - Bewerk content 
-
+	- Hiermee kan je het content nog extra bewerken en kom je in het volgende scherm
+		![](images/content-bewerk.JPg)	
+		
 ----------
-
-Ga terug 
-<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
-<[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
-
-----------
-
-#Website templates aanmaken#
-Zoek in start naar template
-
-![](images/start-template.JPg)
-
-![](images/template-alle.JPg)
-
-Om een pad aan te maken klik op Toevoegen
-
-**Template**
-
-![](images/template.JPg)
-
-- Naam
-- Opmerking
-- Raw content head
-- Raw content body
-- Content (content in pagina)
-- Niet gebruiken
-
-
-----------
-
-Ga terug <[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
-<[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)

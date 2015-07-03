@@ -6,33 +6,41 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>Website menu</title>
-		<sort>bd</sort>
+		<sort>h</sort>
 	</menu>
 </properties>
 
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/website)>
+#Website menu#
 
 ----------
 
-#Website menu#
-Zoek in start naar menu
+#Start#
+![](images/menu-start.JPg)
+#Website menu's#
+![](images/menu-buttonbalk.JPg)
 
-![](images/start-website-menu.JPg)
+**Acties**
 
-![](images/menu.JPg)
+- Toevoegen
+- Bewerken
+- Verwijderen
+- Vernieuwen
 
-Om een menu aan te maken klik op Toevoegen
+**Acties**
 
-**Tabblad Algemeen**
+- Bezoek
 
-![](images/menu-tablad.JPG)
+#Algemeen#
+![](images/menu-algemeen.JPG)
 
 - Bovenliggend menu
 	- Hier kan je een menu kiezen waar van je wilt waar het moet komen keuze hieruit zijn:
-		- ![](images/bovenliggende-menu.JPG) deze dien je dan ook aan te maken
+		![](images/menu-bovenliggendmenu.JPG) deze dien je dan ook aan te maken
 <div class="warning">De id moet gelijk zijn aan: bottom - left - top - footertop, alle met kleine letters dit is voorgeprogrammeerd voor waar het moet komen op de site </div>
-- 		Het kan ook zijn dat je hem onder een andere pagina wilt, dit is ook mogelijk voorbeeld: 
-- 		![](images/bovenliggend-menu.JPG)
+
+Het kan ook zijn dat je hem onder een andere pagina wilt, dit is ook mogelijk voorbeeld:
+
+![](images/menu-bovenliggendmenu-andere.JPG)
 
 - Id
 	- Hier vul je de id in
@@ -53,7 +61,7 @@ Om een menu aan te maken klik op Toevoegen
 - Link target
 - Beschrijving
 
-*Sub items*
+**Sub items**
 
 Hier kan je een andere menu koppelen doormidden van toevoegen
 
@@ -65,15 +73,8 @@ Hier kan je een andere menu koppelen doormidden van toevoegen
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-**Tabblad Raw content**
-
+#Raw content#
 ![](images/menu-rawcontent.JPG)
 
-
 ----------
-
-Next <[Producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Product)>
-
-----------
-
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)

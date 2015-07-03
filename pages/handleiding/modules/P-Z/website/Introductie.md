@@ -10,16 +10,17 @@
 		<sort>A</sort>
 	</menu>
 </properties>
+
 #Website#
 #Start#
-![](images/start-website.JPG)
+![](images/website-start.JPG)
 
 #Websites#
-![](images/buttonbalk.JPG)
+![](images/website-buttonbalk.JPG)
 
 **Acties**
 
-- Toevoegen.
+- Toevoegen
 - Bewerken
 - Verwijderen
 - Vernieuwen
@@ -34,11 +35,9 @@
 **Koppelingen**
 
 - Paden
-	- Hiermee ga je naar de [menupaden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)
 - Menu's
-	- Hiermee ga je naar de [menu's](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website-menu)
 - Producten
-	- Hiermee ga je naar de [producten](http://hybridsaas.support/pages/handleiding/modules/P-Z/producten/Introductie)
+
 
 **Koppelingen oud**
 
@@ -46,7 +45,7 @@
 - Promotie codes
 - Product groepen
 
-#De website leeg#
+#De uitstraling van de website#
 ![](images/website-website.jpg)
 
 

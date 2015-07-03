@@ -16,7 +16,7 @@
 
 #Start#
 ![](images/gebruikers-start.JPG)
-#Entiteiten#
+#Gebruikers wijzigen#
 ![](images/gebruikers-buttonbalk2.JPG)
 
 **Acties**

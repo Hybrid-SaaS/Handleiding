@@ -7,29 +7,35 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>Menu paden</title>
-		<sort>bc</sort>
+		<sort>f</sort>
 	</menu>
 </properties>
 
-Ga terug <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)> 
+#Menu paden#
+Een menu pad heeft een menu nodig,
+het pad verwijst je door naar de pagina waar je producten instaan, maar de naam uit het menu word op de site geplaatst.
 
 ----------
 
-#Menu paden aanmaken#
-Een menupad heeft een menu nodig,
-het pad verwijst je door naar de pagina wat bedoelt is maar de naam uit het menu word op de site geplaatst.
+#Start#
+![](images/paden-start.JPg)
+#Website paden#
+![](images/paden-buttonbalk.JPg)
 
-Zoek in start naar menu paden
+**Acties**
 
-![](images/start-website-paden.JPg)
+- Toevoegen
+- Bewerken
+- Verwijderen
+- Vernieuwen
+- Excel
 
-![](images/menupaden.JPg)
+**Acties**
 
-Om een pad aan te maken klik op Toevoegen
+- Bezoek
 
-**Tabblad Algemeen**
-
-![](images/menupaden-algemeen.JPg)
+#Algemeen#
+![](images/paden-algemeen.JPg)
 
 - Website
 	- Hier geef je aan voor welke website het pad bedoeld is
@@ -45,10 +51,10 @@ Om een pad aan te maken klik op Toevoegen
 	- Deze word overgenomen van de naam met / (tenzij je het aanpast)
 - Type weergave
 	- Hier kan je de type weergave aangeven keuze uit:
-		- Standaard
-		![](images/menupad-standaard.jpg)
-		- Gekoppelde weergave
-		![](images/menupad-gekoppelde.JPg)
+		- Standaard (je krijgt gelijk je producten te zien)
+		![](images/paden-standaard-website.jpg)
+		- Gekoppelde weergave ( je krijgt eerst nog een keuze veld met verschillende paden)
+		![](images/paden-gekoppelde-website.JPg)
 - Product hoofdgroep
 	- Hier kan je het pad koppelen aan een hoofdgroep
 - Product subgroep
@@ -71,10 +77,9 @@ Om een pad aan te maken klik op Toevoegen
 - Belangrijkheid
 - Opmerking
 
-**Tabblad Gekoppelde gegevens**
-
+#Gekoppelde gegevens#
 Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de paden aangeven welke gekoppeld moeten worden aan deze pad
-![](images/menupaden-gekoppeldegegevens.JPg)
+![](images/paden-gekoppeldegegevens.JPg)
 
 - Website pad
 	- Om toe te voegen klikt u op de button.
@@ -85,7 +90,7 @@ Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de p
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-Door op de regel dubbel te klikken kan je een sortering aangeven
+Door op de regel dubbel te klikken kan je een sorteringswaarde aangeven
 hij plaatst het altijd:
 
 - 1	2
@@ -93,27 +98,24 @@ hij plaatst het altijd:
 - 5 6
 - enzo
 
-![](images/gekoppelde-weergave-sortering.JPG)
+![](images/paden-gekoppeldegegevens-sortering.JPG)
 
-**Tabblad Extra**
-
-![](images/menupaden-extra.JPG)
+#Extra#
+![](images/paden-extra.JPG)
 
 - Extra menu's
 - Boven content
-	- ![](images/boven-content.JPg)
-		- ![](images/boven-content-website.JPg)
+	![](images/paden-extra-bovencontent.JPG)
+	![](images/paden-extra-bovencontent-website.JPG)
 - Onder content
-	- ![](images/onder-content.JPG)
-		- ![](images/onder-content-website.JPg)
+	![](images/paden-extra-ondercontent.JPG)
+	![](images/paden-extra-ondercontent-website.JPG)
 
-**Tabblad Raw content**
+#Raw content#
+![](images/paden-rawcontent.JPG)
 
-![](images/menupaden-rawcontent.JPG)
-
-**Tabblad Template items**
-
-![](images/menupaden-template.JPG)
+#Template items#
+![](images/paden-template.JPG)
 
 - Bewerken
 	- Om te bewerken klikt u op de button Bewerken.
@@ -122,13 +124,4 @@ hij plaatst het altijd:
 - Exporteren
 
 ----------
-
-Next
-<[Templates](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)>
-<[Website Menu](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website-menu)>
-
-----------
-
-Ga terug
-<[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
-<[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)

@@ -6,25 +6,18 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>Website</title>
-		<sort>b</sort>
+		<sort>c</sort>
 	</menu>
 </properties>
 
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)>
+#Website#
 
 ----------
 
-#Website#
-Zoek in start naar menu paden
+#Start#
+![](images/websites-start.JPG)
 
-![](images/start-websites.JPG)
-
-![](images/website.JPG)
-
-Om een website aan te maken klik op Toevoegen
-
-**Tabblad Algemeen**
-
+#Algemeen#
 ![](images/website-algemeen.JPG)
 
 - Test mode
@@ -42,7 +35,7 @@ Om een website aan te maken klik op Toevoegen
 - Entiteit
 	- Hier geef je aan van welke entiteit je een website van wilt aanmaken
 
-*URL per taal*
+**URL per taal**
 
 - Toevoegen zie [URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)
 	- Om toe te voegen klikt u op de button Toevoegen.
@@ -52,8 +45,7 @@ Om een website aan te maken klik op Toevoegen
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-**Tabblad Raw content**
-
+#Raw content#
 ![](images/website-rawcontent.JPG)
 
 - Raw content head
@@ -61,13 +53,9 @@ Om een website aan te maken klik op Toevoegen
 - Raw content body
 - Product details
 
+#Raw content head#
 ![](images/website-rawcontent-zichtbaar.JPG)
 
 
 ----------
-
-Next <[URL](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/URL)>
-
-----------
-
-Ga terug <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)

@@ -7,19 +7,15 @@
 	<menu>
 		<position>Handleiding / Webshop</position>
 		<title>URL</title>
-		<sort>ba</sort>
+		<sort>d</sort>
 	</menu>
 </properties>
 
-Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)>
+#URL#
 
 ----------
 
-
-#URL Toevoegen#
-
-**Tabblad Algemeen**
-
+#Algemeen#
 ![](images/url-algemeen.JPg)
 
 - Nieuwe handler
@@ -53,9 +49,7 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 - Pad order geplaatst
 	- Hier kan je een pad van order geplaatst toevoegen zie ook [menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)
 
-
-**Tabblad Prefix**
-
+#Prefix#
 ![](images/url-prefix.JPG)
 
 - Toevoegen
@@ -66,21 +60,11 @@ Ga terug <[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/webs
 	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
 - Exporteren
 
-**Tabblad Raw content**
-
+#Raw content#
 ![](images/url-rawcontent.JPG)
 
 - Raw content head
 - Raw content body
 
-
 ----------
-
-Next
-<[Content](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/content)> of 
-<[Menu paden](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/menupaden)>
-
-----------
-
-Ga terug 
-<[Website](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Website)> <[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)> 
+[Introductie](http://hybridsaas.support/pages/handleiding/modules/P-Z/website/Introductie)
