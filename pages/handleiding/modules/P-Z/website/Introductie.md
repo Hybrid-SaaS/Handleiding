@@ -19,7 +19,7 @@
 
 **Acties**
 
-- Toevoegen
+- Toevoegen.
 - Bewerken
 - Verwijderen
 - Vernieuwen
