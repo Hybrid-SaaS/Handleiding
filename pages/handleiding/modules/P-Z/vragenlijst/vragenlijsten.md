@@ -21,7 +21,7 @@ Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe 
 
 ![](images/vragenlijst-beheer.jpg) 
 
-Door middel van de knop Toevoegen kan je een nieuwe vragenlijst maken. 
+Door middel van de knop "Toevoegen" kan je een nieuwe vragenlijst maken. 
 
 ![](images/toevoegen.jpg) 
 
