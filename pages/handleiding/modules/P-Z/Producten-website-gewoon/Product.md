@@ -158,7 +158,7 @@ Voor meer informatie over import/export zie [Importeren](http://hybridsaas.suppo
 **Afwijkende prijsmodellen voor dit product**
 
 - <span style="color: red">Toevoegen</span>
-  - Door op de knop toevoegen te klikken kan je een teovoegen zie [Prijsmodel](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-prijsmodel)
+  - Door op de knop toevoegen te klikken kan je een toevoegen zie [Prijsmodel](http://hybridsaas.support/pages/handleiding/modules/P-Z/Producten-website-gewoon/Producten-prijsmodel)
 - Bewerken
 	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
 - Verwijderen
