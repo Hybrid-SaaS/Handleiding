@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position>
 		<title>E-mail Sjablonen</title>
-		<sort></sort>
+		<sort>h</sort>
 	</menu>
 </properties>
 

@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position> 
 		<title>Gebruikers</title>
-		<sort></sort>
+		<sort>d</sort>
 	</menu>
 </properties>
 

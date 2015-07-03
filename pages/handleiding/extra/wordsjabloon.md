@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position>
 		<title>Word Sjablonen</title>
-		<sort></sort>
+		<sort>g</sort>
 	</menu>
 </properties>
 

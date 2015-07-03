@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position>
 		<title>Beveiligingsgroepen</title>
-		<sort></sort>
+		<sort>e</sort>
 	</menu>
 </properties>
 

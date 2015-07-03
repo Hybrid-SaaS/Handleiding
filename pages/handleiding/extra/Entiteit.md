@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position>
 		<title>Entiteit</title>
-		<sort></sort>
+		<sort>c</sort>
 	</menu>
 </properties>
 

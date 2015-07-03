@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position>
 		<title>Afdelingen</title>
-		<sort></sort>
+		<sort>f</sort>
 	</menu>
 </properties>
 

@@ -7,7 +7,7 @@
 	<menu>
 		<position>Handleiding / Extra</position>
 		<title>Omgeving</title>
-		<sort></sort>
+		<sort>a</sort>
 	</menu>
 </properties>
 

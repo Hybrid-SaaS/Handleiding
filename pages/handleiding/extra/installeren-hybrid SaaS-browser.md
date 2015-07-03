@@ -5,6 +5,7 @@
 	<menu>
 		<position>Handleiding / Extra</position> 
 		<title>Installeren Hybrid SaaS</title>
+		<sort>b</sort>
 	</menu>
 </properties>
 
