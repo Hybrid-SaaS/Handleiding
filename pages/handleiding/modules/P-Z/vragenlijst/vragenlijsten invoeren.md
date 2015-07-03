@@ -61,3 +61,25 @@ Met de ![](images/mob-plus.jpg) knop kan je een nieuw adres toevoegen
 Bij contact gegevens kan je door middel van de ![](images/mob-potlood.jpg) knop een contact bewerken of verwijderen. Je kan een telefoon, mobiel, emial, fax, website, IM of socialmedia wijzigen en je kan een opmerking toevoegen. Verder kan je afhankelijk van het contact direct bellen, mail, de website bezoeken, etc.
    
 Ook hier kann je met de ![](images/mob-plus.jpg) knop kan je een nieuw contact toevoegenadres toevoegen
+
+#Knop menu#
+
+![](images/mob-knop-menu.jpg)
+
+Door deze knop te gebruiken krijg je de mogelijkheden die je kan uitvoeren. Deze verschillen per categorie (relaties, personen en projecten). Als je een klant, persoon of project hebt geselecteerd en dan de knop menu kiest, zie je onderliggende niveau met de aantallen.
+
+![](images/mob-knop-menu-aantal.jpg)
+
+Kies nu voor vragenlijst, je ziet dat er al 6 verschillende vragenlijsten zijn. 
+
+![](images/mob-knop-menu-vragenlijst.jpg)
+
+Als je nu op één van de vragenlijsten drukt, dan wordt deze geopend en kan je de vragen gaan invoeren. Je kan de ![](images/mob-knop-menu.jpg) knop selecteren en daaronder staan de al eerder ingevoerde vragenlijsten.
+
+![](images/mob-knop-menu-vragenlijst-1.jpg)  
+
+Je kan nu naar de klant, ja kan naar 
+
+![](images/mob-knop-menu-ingevuld-vragenlijst.jpg)
+
+![](images/mob-knop-menu-ingevuld-vragenlijst-1.jpg)
