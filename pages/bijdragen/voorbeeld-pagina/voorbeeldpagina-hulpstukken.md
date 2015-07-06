@@ -6,7 +6,7 @@
 	</page>
 	<menu>
 		<position>Handleiding / Bijdragen /Voorbeeld</position>
-		<title>voorbeeldpagina hulpstukken</title>
+		<title>Voorbeeldpagina  hulpstukken</title>
 		<sort>A</sort>
 	</menu>
 </properties>
