@@ -11,7 +11,7 @@
 	</menu>
 </properties>
 
-##De properties van de pagina:##
+##De properties van de pagina::##
 
     <properties>
     	<page>
