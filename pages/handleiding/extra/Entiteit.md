@@ -83,10 +83,48 @@
 - Reiskosten werkcode
 - Toeslagen werkcode
 
-
-
 #Boekhouding#
-![](images/entiteit-document.JPg)
+![](images/entiteit-boekhouding.jpg)
+
+**Verkoop instellingen voor de boekhouding**
+
+- Debiteuren dagboek
+- Debiteuren grootboek
+- Betalingskorting
+- Betalingsreductie
+- Afrondingverschillen
+- Order betalingen
+- Crediteuren dagboek
+- Crediteuren grootboek
+
+**Instellingen export naar boekhouding**
+
+- Administratie code
+- Project dagboek
+- Loonkosten dagboek
+- Memoriaal dagboek
+- Toevoegingen op grootboek per entiteit
+
+**Nummer reeksen beheren**
+
+- Volgend factuur nummer
+- Volgend credit factuur nummer
+- Volgend consignatie nummer
+- Volgend offerte nummer
+- Volgend order nummer
+- Volgend project nummer
+- Volgend inkoop factuur nummer
+- Volgend order nummer is offerte nummer
+
+**Gekoppelde bankrekeningen**
+
+- Afletteren
+- Orderbetalingen
+- Crediteurbetalingen
+
+**Incasso**
+
+- Incasso naar
 
 #Periodes#
 ![](images/entiteit-periodes.jpg)

@@ -24,7 +24,8 @@
     		<title>Voorbeeldpagina</title>
     		<sort>A</sort>
     	</menu>
-    </properties>
+      </properties>
+
 ----------
 
 ##Woorden en zinnen benadrukken:##
