@@ -5,7 +5,7 @@
 		<context></context>
 	</page>
 	<menu>
-		<position>Handleiding / Bijdragen </position>
+		<position>Handleiding / Bijdragen /Voorbeeld</position>
 		<title>Voorbeeldpagina</title>
 		<sort>B</sort>
 	</menu>
