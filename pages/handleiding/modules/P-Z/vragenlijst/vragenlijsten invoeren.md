@@ -70,7 +70,7 @@ Door deze knop te gebruiken krijg je de mogelijkheden die je kan uitvoeren. Deze
 
 ![](images/mob-knop-menu-aantal.jpg)
 
-Kies nu voor vragenlijst, je ziet dat er al 6 verschillende vragenlijsten zijn. 
+Kies nu voor vragenlijst, je ziet dan de verschillende vragenlijsten. 
 
 ![](images/mob-knop-menu-vragenlijst.jpg)
 
