@@ -97,5 +97,3 @@ Onderaan de pagina kan je de link zetten naar Home en eventueel naar de pagina d
 
 > - [Home](http://hybridsaas.support/pages)
 > - [Voorbeeld](http://hybridsaas.support/pages/bijdragen/voorbeeld-pagina/voorbeeldpagina)
-
-xx
