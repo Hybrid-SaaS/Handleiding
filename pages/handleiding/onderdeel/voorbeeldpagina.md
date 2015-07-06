@@ -26,7 +26,7 @@
 
 ----------
 
-#Woorden en zinnen benadrukken:
+#Woorden en zinnen benadrukkenx:
 
 Je kan op verschillende manieren woorden of zinnen benadrukken zie hieronder van welke:
 
@@ -36,7 +36,7 @@ Je kan op verschillende manieren woorden of zinnen benadrukken zie hieronder van
     - **Vetgedrukte letters**
     - *Schuine letters*
     
-    Je kan ook een balk invoeren hier zijn 3 varianten van:
+    Je kan ook extra informatie blokken ingeven hier zijn 3 varianten van:
     
     <div class="tip">Een Tip is blauw</div>
     <div class="info">Een Info is groen</div>
@@ -48,7 +48,7 @@ Opsommingstekens:
 - **Vetgedrukte letters**
 - *Schuine letters*
 
-Je kan ook een balk invoeren hier zijn 3 varianten van:
+Je kan ook extra informatie blokken ingeven hier zijn 3 varianten van:
 
 <div class="tip">Een Tip is blauw</div>
 <div class="info">Een Info is groen</div>
