@@ -34,6 +34,7 @@
 
 
 ## Link toevoegen##
+
     Om een link toe te voegen gebruik je
     [Gedeelte laten uitlichten](http://hybridsaas.support/pages/bijdragen/afbeeldingen-bewerken/afbeeldingen)
 
@@ -97,3 +98,4 @@ Onderaan de pagina kan je de link zetten naar Home en eventueel naar de pagina d
 > - [Home](http://hybridsaas.support/pages)
 > - [Voorbeeld](http://hybridsaas.support/pages/bijdragen/voorbeeld-pagina/voorbeeldpagina)
 
+xx
