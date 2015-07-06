@@ -11,18 +11,6 @@
 	</menu>
 </properties>
 
-    <properties>
-    	<page>
-    		<title>voorbeeldpagina</title>
-    		<description>voorbeeldpagina</description>
-    		<context></context>
-    	</page>
-    	<menu>
-    		<position>Handleiding / Bijdragen </position>
-    		<title>Voorbeeldpagina</title>
-    		<sort>A</sort>
-    	</menu>
-    </properties>
 
 ----------
 
