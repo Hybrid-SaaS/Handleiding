@@ -32,7 +32,7 @@ En verder worden er een aantal vragen toegevoegd.
 
 Dit doe je met de knop toevoegen. Als je in een bestaande vragenlijst aan het werken bent, kan je hier ook vragen bewerken en/of verwijderen.
 
-Er zijn 3 soorten vragen 
+Er zijn 3 soorten vragen:
 
 - Enkele tekstregel
 - Meerdere tekstregels
