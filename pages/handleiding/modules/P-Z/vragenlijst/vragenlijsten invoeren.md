@@ -89,8 +89,13 @@ Je kan een eerder ingevulde vragenlijst openen door deze te selecteren. Je komt 
 
 **Document inzien**
 -
+Met de knop "Document inzien" kan je de vragenlijst op je scherm openen en je kan deze ook opslaan.
+
+ 
 ![](images/mob-vragenlijst-inzien.jpg)
 
 **Verstuur email**
 -
-Je kan alleen een email versturen naar personen die je vooraf hebt gedefinieerd bij de klant 
+Je kan alleen een email versturen naar personen die je vooraf hebt gedefinieerd bij de klant of bij het project. Vink de juiste personen aan, je kan dan nog kiezen of je iemand een BCC wilt sturen en druk op de knop versturen. De mail wordt dan verstuurd met de tekst die in de email sjabloon is vastgelegd en de vragenlijst wordt als bijlage meegestuurd.
+
+![](images/mob-vragenlijst-versturen.jpg)
