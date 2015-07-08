@@ -50,9 +50,11 @@ Er verschijnt een standaard scherm waarbij je kan inloggen met de gegevens die j
 ![](images/extranet.jpg)
 
 
-Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbehorende gegevens te zien. In dit voorbeeld heb je rechten op zowel klanten (2 stuks) en personen (1 stuks). 
+Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbehorende gegevens te zien. In dit voorbeeld heb je rechten op klanten, personen en projecten. Deze staan bovenaan in het scherm genoemd. 
 
 ![](images/extranet-inlog.jpg)
 
-Kies voor klanten of personen en selecteer daar dan diegene uit waarvan je een vragenlijst wilt invoeren. 
+Ga naar [Vragenlijst invoeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/vragenlijst/vragenlijsten%20invoeren)
+
+ 
 
