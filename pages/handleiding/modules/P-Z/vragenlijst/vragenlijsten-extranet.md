@@ -24,7 +24,6 @@ Ga naar [gebruiker-aanmaken-wijzigen](http://hybridsaas.support/pages/handleidin
 Voor een gebruiker die alleen via het extranet vragenlijsten gaat invoeren is onderstaande inrichting voldoende
 Het vinkje "Gebruiker mag niet inloggen op Hybrid SaaS" moet aan staan. Hiermee geef je aan dat dit alleen een extranet gebruiker is. (De kosten zijn hierdoor ook lager).
 
-
 - Inlognaam: dit is je gebruikersnaam voor het inloggen
 - Weergave naam: zo wordt je in de applicatie weergegeven
 - Functie: niet verplicht
