@@ -16,7 +16,6 @@ In de release notes staan de wijzigingen voor de volgende productieversie van Hy
 <div class="warning">
 De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende release van Hybrid SaaS zal deze functionaliteiten bevatten.
 </div>
- 
 
 
 ## Balans & Winst en verliesrekening ##
@@ -30,8 +29,6 @@ Ontbreekt er een nummer, dan zal dit worden aangegeven en moeten worden opgelost
 
 ![](images/boekstuknummercontrole.png)
 
-
- 
 ## E-mail feedback ##
 
 <div class="tag-fix"></div>
