@@ -131,3 +131,4 @@ deze grootboek kan je instellen op in het entiteit-scherm
 Het verwijderen van een bankrekeningimport gaf een foutmelding dat de periode was geblokkeerd, deze melding was niet terecht.
 
 
+
