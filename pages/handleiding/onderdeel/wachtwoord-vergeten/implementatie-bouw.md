@@ -40,17 +40,21 @@ Nu ben je klaar om als extranet gebruiker in te loggen en vragenlijsten in te vu
 
 Ga naar een browser en tik onderstaande URL in.
 
-**https://{databasenaam}.hybridsaas.com/Extranet-revisited**
+**https://{bedrijfsnaam}.hybridsaas.com/extranet/login/login.asp**
 
-voorbeeld https://bronbouw.hybridsaas.com/Extranet-revisited
+voorbeeld https://bronbouw.hybridsaas.com/Extranet/login/login.asp
 
-Er verschijnt een standaard scherm waarbij je aan de rechterkant kan zien dat je nog niet bent ingelogd. Dit doe je met de knop "Inloggen" en met de gegevens die je via de mail hebt ontvangen.  
+![](images/extranet-inlog-1.jpg)
+
+Er verschijnt een standaard scherm waarbij je kan inloggen met de gegevens die je via de mail hebt ontvangen.  
 ![](images/extranet.jpg)
 
 
-Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbehorende gegevens te zien. In dit voorbeeld heb je rechten op zowel klanten (2 stuks) en personen (1 stuks). 
+Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbehorende gegevens te zien. In dit voorbeeld heb je rechten op klanten, personen en projecten. Deze staan bovenaan in het scherm genoemd. 
 
 ![](images/extranet-inlog.jpg)
 
-Kies voor klanten of personen en selecteer daar dan diegene uit waarvan je een vragenlijst wilt invoeren. 
+Ga naar [Vragenlijst invoeren](http://hybridsaas.support/pages/handleiding/modules/P-Z/vragenlijst/vragenlijsten%20invoeren)
+
+ 
 
