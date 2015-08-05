@@ -63,6 +63,21 @@ Het is nu mogelijk om in de ticket historie tekst te selecteren en te kopiëren.
 
 
 
+
+
+<div class="tag-fix"></div>
+
+**Vanuit projecten naar openstaande tickets**
+
+Als je vanuit een project naar de openstaande tickets van dat project gaat en je maakt een nieuw ticket aan, dan zal naast het project ook automatisch het gekoppelde bedrijf worden gekoppeld bij dit nieuwe ticket. Dit scheelt weer een handeling.
+
+
+
+
+
+
+
+
 <div class="tag-fix"></div>
 
 **XSS bij aanlevering vanuit e-mail**
