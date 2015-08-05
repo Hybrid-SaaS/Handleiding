@@ -80,7 +80,6 @@ Het is nu mogelijk om in de ticket historie tekst te selecteren en te kopiëren.
 Het kon voorkomen dat een xss werd doorgelaten indien een ticket was aangemaakt dmv een email. Dit is nu ondervangen.  
 
 
-
 <div class="tag-fix"></div>
 
 **Control characters vanuit e-mail**
