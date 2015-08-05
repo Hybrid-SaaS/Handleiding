@@ -114,3 +114,20 @@ Na het inlezen van de banktransacties zullen de aangeboden automatische incasso'
 deze grootboek kan je instellen op in het entiteit-scherm
 
 ![](images/entiteit-instelling-grootboek-betalingskorting.jpg)
+
+
+
+
+
+
+
+
+
+## Bankrekening ##
+<div class="tag-fix"></div>
+
+**Verwijderen van bankrekening import**
+
+Het verwijderen van een bankrekeningimport gaf een foutmelding dat de periode was geblokkeerd, deze melding was niet terecht.
+
+
