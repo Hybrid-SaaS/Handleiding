@@ -18,6 +18,7 @@ Uitgebracht op 10 augustus 2015
 <div class="tag-update"></div>
 
 **Bestelling plaatsen via de website**
+
 ![](images/offerte.png)
 
 Als er een bestelling geplaatst werd via de website, kwam de status van de order automatisch op geaccepteerd te staan.
@@ -28,7 +29,9 @@ Er is nu een onderscheid gemaakt:
 - Als de betaling via iDeal of met een andere betaalmogelijkheid is verricht, zal de status op *geaccepteerd* worden gezet
 
 
-**Product data**
 <div class="tag-fix"></div>
+
+**Product data**
+
 
 De data endpoint /data/product/{product}/related-products kon een dubbeling van producten geven.  
