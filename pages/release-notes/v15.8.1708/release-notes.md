@@ -4,7 +4,7 @@
 	</page>
 	<menu>
 		<position>Release notes</position>
-		<title>Laatste versie (10-08-2015)</title>
+		<title>Laatste versie 15.8.1708 (10-08-2015)</title>
 	</menu>
 </properties>
 
