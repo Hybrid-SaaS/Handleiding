@@ -34,4 +34,4 @@ Er is nu een onderscheid gemaakt:
 **Product data**
 
 
-De data endpoint /data/product/{product}/related-products kon een dubbeling van producten geven.  
+De data-endpoint */data/product/{product}/related-products* kon een dubbeling van producten geven. Dit is verholpen.  
