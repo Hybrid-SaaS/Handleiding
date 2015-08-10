@@ -17,7 +17,6 @@ In de release notes staan de wijzigingen voor de volgende productieversie van Hy
 De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende release van Hybrid SaaS zal deze functionaliteiten bevatten.
 </div>
 
-
 ## Bestelling plaatsen via de website ##
 
 <div class="tag-update"></div>
