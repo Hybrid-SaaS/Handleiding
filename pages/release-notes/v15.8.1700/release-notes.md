@@ -3,8 +3,8 @@
 		<title>Versie 15.8.1700</title>
 	</page>
 	<menu>
-		<position>Release notes</position>
-		<title>Laatste versie (05-08-2015)</title>
+		<position>Release notes / Vorige versies</position>
+		<title>Versie 15.8.1700 (05-08-2015)</title>
 	</menu>
 </properties>
 
