@@ -22,9 +22,9 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 <div class="tag-update"></div>
 ![](images/offerte.png)
 
-Als er een bestelling geplaatst werd via de website, kwam de status van de orde automatisch op geaccepteerd te staan.
+Als er een bestelling geplaatst werd via de website, kwam de status van de order automatisch op geaccepteerd te staan.
 
 Er is nu een onderscheid gemaakt:
 
-- Als de bestelling *op rekening* of *handmatig* word aangemaakt dan krijgt het de status *offerte*,
-- Als de betaling via ideal of andere betaalmogelijkheiden verricht is zal krijgt het de status *geaccepteerd*
+- Als de bestelling de betaalmethode *op rekening* of *handmatige* (overboeking) bevat, zal de status *offerte* worden geselecteerd
+- Als de betaling via iDeal of met een andere betaalmogelijkheid is verricht, zal de status op *geaccepteerd* worden gezet
