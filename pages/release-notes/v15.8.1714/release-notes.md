@@ -10,6 +10,12 @@
 </properties>
 
 
+<div class="info">
+Er is een nieuwe versie van Hybrid SaaS uitgebracht. De belangrijkste wijzigingen in deze versie hebben we in de release notes beschreven.
+</div>
+
+
+
 # Versie 15.8.1714 #
 Uitgebracht op 12 augustus 2015
 
