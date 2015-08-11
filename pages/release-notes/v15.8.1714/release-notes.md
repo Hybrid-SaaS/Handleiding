@@ -11,7 +11,7 @@
 
 
 <div class="info">
-Er is een nieuwe versie van Hybrid SaaS uitgebracht. De belangrijkste wijzigingen in deze versie hebben we in de release notes beschreven.
+Er is een nieuwe versie van Hybrid SaaS uitgebracht. De belangrijkste wijzigingen in deze versie hebben we in deze release notes beschreven.
 </div>
 
 
