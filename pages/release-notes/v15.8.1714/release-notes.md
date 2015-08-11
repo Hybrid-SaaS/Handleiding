@@ -16,10 +16,10 @@ Uitgebracht op 12 augustus 2015
 
 ## Tickets ##
 
-<div class="tag-update"></div>
+<div class="tag-fix"></div>
 
-**Ticket aanmaken, aangemaakt door naam**
+**Ticket aanmaken, 'aangemaakt door'**
 
 ![](images/ticket-aangemaakt-door.jpg)
 
-Als er een nieuwe ticket werd aangemaakt, werd de aangemaakt door weergavenaam niet ingevuld. Na deze update zal wel automatisch de naam worden ingevuld.
+Als er een nieuwe ticket door een gebruiker werd aangemaakt, werd de 'aangemaakt door' kolom niet gevuld. Na deze update zal wel automatisch de naam van de gebruiker worden ingevuld.
