@@ -15,7 +15,6 @@ Er is een nieuwe versie van Hybrid SaaS uitgebracht. De belangrijkste wijziginge
 </div>
 
 
-
 # Versie 15.8.1714 #
 Uitgebracht op 12 augustus 2015
 
