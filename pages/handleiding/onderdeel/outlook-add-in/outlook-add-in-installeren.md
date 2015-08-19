@@ -10,7 +10,7 @@
 
 # Outlook Add-in #
 
-Door middel van de Outlook Add-in krijg je de mogelijkheid om e-mails uit je Microsoft Outlook mailbox om te zetten in tickets. Op deze manier kan je je mailbox leeg houden en sla je e-mails netjes op bij de juiste relaties en/ of projecten.
+Door middel van de Outlook add-in krijg je de mogelijkheid om e-mails vanuit Microsoft Outlook mailbox om te zetten in tickets. Op deze manier kan je je mailbox leeg houden en sla je e-mails netjes op bij de juiste relaties en/ of projecten.
 
 ## Downloaden van de Outlook Add-in ##
 
@@ -30,7 +30,7 @@ Verschijnt deze niet? Kan dan op [deze](https://support.office.com/nl-nl/article
 </div>
 
 
-Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com en geef de API ID en API KEY in.
+Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" je bedrijfsnaam in) en geef de API ID en API KEY in.
 
 
 ![Instellingen wijzigen Outlook Add-in ](images/instellingen.jpg)
