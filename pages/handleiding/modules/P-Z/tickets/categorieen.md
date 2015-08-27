@@ -12,10 +12,15 @@
 </properties>
 
 #Tickets Categorieën#
+
 ----------
-#Start#
+
+# Start #
+
 ![](images/categorieen-start.JPg)
-#Ticket categorieen#
+
+# Ticket categorieen #
+
 ![](images/categorieen-buttonbalk.jpg)
 
 **Acties**
@@ -33,7 +38,8 @@
 
 - Filter wijzigen
 
-#Instellingen#
+# Instellingen #
+
 ![](images/categorieen-instellingen.jpg)
 
 - Niet weergeven
