@@ -52,7 +52,7 @@ Het BTW nummer op het tabblad "stamgegevens" mag vanaf nu punten en spaties als 
 
 <div class="tag-update"></div>
 
-**BTW-nummer notatie**
+**Aanmaakdatum ticket**
 
 ![](images/aangemaakt_op.jpg)
 
