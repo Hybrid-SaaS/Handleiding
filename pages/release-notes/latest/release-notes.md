@@ -34,7 +34,7 @@ Indien het wachtwoord is vergeten dient de gebruiker zijn e-mailadres in te geve
 
 ![](images/gebruiker_archiveren.jpg)
 
-Het is niet meer mogelijk om een extranet gebruiker op de relatie kaart (definitief) te verwijderen. Indien een gebruiker niet meer actief is dient het vinkje aangezet te worden bij "Mag niet meer inloggen"
+Het is niet meer mogelijk om een extranet gebruiker op de relatiekaart (definitief) te verwijderen. Indien een gebruiker niet meer actief is dient het vinkje aangezet te worden bij "Mag niet meer inloggen"
 
 Op deze manier blijft de gebruiker en zijn historie bestaan, maar kan deze niet meer inloggen op het Extranet of een extern portaal.
 
@@ -50,8 +50,6 @@ Bij het opvragen van een nieuw wachtwoord op de gebruikerskaart wordt gecheckt o
 
 <div class="tag-update"></div>
 
-
-<div class="tag-fix"></div>
 
 
 **BTW-nummer notatie**
