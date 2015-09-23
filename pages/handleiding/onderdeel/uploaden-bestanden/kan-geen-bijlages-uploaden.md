@@ -11,7 +11,7 @@
 # Kan geen bijlagen uploaden #
 
 
-Het komt wel eens voor dat het uploaden van bijlagen niet meer goed werkt of helemaal niet meer werkt. Om probleem te verhelpen moet de Hybrid SaaS service herstart worden.
+Het komt wel eens voor dat het uploaden van bijlagen niet meer goed werkt of helemaal niet meer werkt. Om het probleem te verhelpen moet de Hybrid SaaS service herstart worden.
 
 <div class="info">
 Hybrid SaaS gebruikt lokaal op de computer een [service](https://nl.wikipedia.org/wiki/Service) waardoor het uploaden van bestanden mogelijk is.
