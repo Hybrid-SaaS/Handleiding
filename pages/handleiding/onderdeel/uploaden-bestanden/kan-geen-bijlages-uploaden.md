@@ -14,7 +14,7 @@
 Het komt wel eens voor dat het uploaden van bijlagen niet meer goed werkt of helemaal niet meer werkt. Om het probleem te verhelpen moet de Hybrid SaaS service herstart worden.
 
 <div class="info">
-Hybrid SaaS gebruikt lokaal op de computer een [service](https://nl.wikipedia.org/wiki/Service) waardoor het uploaden van bestanden mogelijk is.
+Hybrid SaaS gebruikt lokaal op de computer een [service](https://en.wikipedia.org/wiki/Windows_service) waardoor het uploaden van bestanden mogelijk is.
 </div>
 
 **De stappen voor het herstarten van de Hybrid SaaS Service**
