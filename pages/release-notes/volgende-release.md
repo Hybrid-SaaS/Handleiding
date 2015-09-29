@@ -17,4 +17,10 @@ In de release notes staan de wijzigingen voor de volgende productieversie van Hy
 De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende release van Hybrid SaaS zal deze functionaliteiten bevatten.
 </div>
 
-Er is nog geen functionaliteit gereed voor de volgende versie. 
+## Modules ##
+
+<div class="tag-fix"></div>
+
+**Uitzetten module**
+
+Bij het uitzetten van een module werden soms de rechten niet correct aangepast. Na deze update zullen de juiste rechten aangepast worden.

@@ -10,12 +10,26 @@
 
 # Outlook Add-in #
 
-Door middel van de Outlook Add-in krijg je de mogelijkheid om e-mails uit je Microsoft Outlook mailbox om te zetten in tickets. Op deze manier kan je je mailbox leeg houden en sla je e-mails netjes op bij de juiste relaties en/ of projecten.
+Door middel van de Outlook add-in krijg je de mogelijkheid om e-mails vanuit Microsoft Outlook mailbox om te zetten in tickets. Op deze manier kan je je mailbox leeg houden en sla je e-mails netjes op bij de juiste relaties en/ of projecten.
 
 ## Downloaden van de Outlook Add-in ##
 
 De outlook Add-in kan je [hier](http://download.hybridsaas.com/install/office/outlook/) downloaden. Of kijk op onze [website](http://hybridsaas.com/downloads)
 
+
+## Add-in installeren ##
+
+Nadat de download is voltooid dient deze geïnstalleerd te worden. Hiervoor klik je op het bestand wat zojuist is gedownload. 
+
+<div class="info">
+Afhankelijk van de internetbrowser waarin het bestand is gedownload verschijnt deze onderin de taakbalk van de browser. Indien deze niet wordt weergegeven open dan de map "downloads" op je PC. 
+</div>
+
+<div class="info">
+Indien er bij het installeren een foutmelding verschijnt, dient de installatie als "administrator" uitgevoerd te worden. Klik hiervoor met de rechtermuisknop op het "setup.exe" bestand en kies voor de optie: "Uitvoeren als administrator". 
+</div>
+
+![Invoegtoepassingen in Microsoft Outlook](images/uitvoeren-als-administrator.jpg)
 
 ## Add-in instellen ##
 
@@ -30,7 +44,7 @@ Verschijnt deze niet? Kan dan op [deze](https://support.office.com/nl-nl/article
 </div>
 
 
-Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com en geef de API ID en API KEY in.
+Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" je bedrijfsnaam in) en geef de API ID en API KEY in.
 
 
 ![Instellingen wijzigen Outlook Add-in ](images/instellingen.jpg)
