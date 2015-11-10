@@ -24,3 +24,12 @@ De beschreven aanpassingen zijn nog niet algemeen beschikbaar. De volgende relea
 **Uitzetten module**
 
 Bij het uitzetten van een module werden soms de rechten niet correct aangepast. Na deze update zullen de juiste rechten aangepast worden.
+
+## Ticket ##
+
+<div class="tag-fix"></div>
+
+**Het vergoten van de melding**
+
+Er is een mogelijkheid gemaakt om het scherm van de melding te kunnen vergroten zodat de tekst beter leesbaar is.
+![](images/vergoten-melding.JPG)
