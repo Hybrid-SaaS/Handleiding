@@ -34,3 +34,13 @@ Bij het uitzetten van een module werden soms de rechten niet correct aangepast. 
 
 Er is een mogelijkheid gemaakt om het scherm van de melding te kunnen vergroten zodat de tekst beter leesbaar is.
 ![](images/vergoten-melding.png)
+
+## Tijdregistratie ##
+
+<div class="tag-fix"></div>
+
+
+**Reisduur werd meegerekend in de totale interne uren**
+
+Bij het aanmaken van een Tijdregistratie werd de reisduur meegerekend bij de interne uren, deze werden ook doorberekend op de factuur. Dit is verholpen. 
+Je kan de duur registeren, alleen de reiskosten die ingevuld worden, worden nu door belast, en eventuele kilometer vergoeding. De reisduur is voor intern gebruik.
