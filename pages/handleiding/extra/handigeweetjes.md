@@ -12,6 +12,7 @@
 
 ----------
 
+
 ## Word sjablonen ##
 
 **Bedrag weergeven met komma's en punten (€ 00.000,00)**
