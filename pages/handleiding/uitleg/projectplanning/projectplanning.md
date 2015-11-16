@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-#Project planning#
+##Project planning##
 
 Deze planning bestaan uit een aantal onderdelen.
 
@@ -180,7 +180,7 @@ Resultaat is dat er 2 nieuwe blokken van 2 dagen worden gevormd.
 
 ![](images/21.png)
 
- 
+--------------
 
 
 
