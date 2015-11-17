@@ -4,7 +4,7 @@
 		<description>Uitleg</description>
 	</page>
 	<menu>
-		<position>Uitleg</position>
+		<position>Uitleg / Mandagenstaat</position>
 		<title>Verwerking verschillende overuren</title>
 	</menu>
 </properties>

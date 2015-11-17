@@ -4,7 +4,7 @@
 		<description>Uitleg</description>
 	</page>
 	<menu>
-		<position>Uitleg</position>
+		<position>Uitleg / Projectbeheer</position>
 		<title>Projectplanning</title>
 	</menu>
 </properties>
