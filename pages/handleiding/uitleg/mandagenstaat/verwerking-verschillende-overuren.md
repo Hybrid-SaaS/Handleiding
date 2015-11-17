@@ -5,11 +5,11 @@
 	</page>
 	<menu>
 		<position>Uitleg</position>
-		<title>Projectplanning</title>
+		<title>Verwerking verschillende overuren</title>
 	</menu>
 </properties>
 
-##Uitleg verschillende overuren ##
+##Verwerking verschillende overuren##
 
 Voorbeeld met 2 registraties op vrijdag en zaterdag
  
