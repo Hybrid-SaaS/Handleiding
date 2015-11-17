@@ -85,7 +85,6 @@ Resultaat is zichtbaar in het bakje: Totaal van overuren en toeslagen – verwer
 * Het aantal boven overuren is omlaag (was 2.00 is nu 1.30 ; min 0.30)
 
 ![](images/13.jpeg)
- 
 
 Met de knop Overurentoeslag kan je naar de registraties per datum
 
@@ -95,7 +94,6 @@ Je ziet op datum 03-06-2015 nu geregistreerd 0, dit komt door de creditering.
 Door op de knop Tijdregistratie te drukken krijg je deze registraties te zien.
 
 ![](images/15.jpeg)
-
 
 --------------
 
