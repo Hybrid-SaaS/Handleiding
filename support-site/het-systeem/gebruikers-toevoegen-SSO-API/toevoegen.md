@@ -79,3 +79,5 @@ Klik op toevoegen om een nieuwe extranet gebruiker aan te te maken
 <div class="info">
 De procedure voor het aanmaken is voor alle bovengenoemde gebruikers hetzelfde. Het enige verschil is dat Telecommanagers facturen van het bedrijf mogen inzien. Hiervoor dient het vinkje bij "Facturen inzien" aangevinkt te worden.
 </div>
+
+----------
