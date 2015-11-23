@@ -1,7 +1,7 @@
 <properties>
 	<page>
-		<title>uitleg</title>
-		<description>Uitleg</description>
+		<title>Overwerk</title>
+		<description>Overwerk</description>
 	</page>
 	<menu>
 		<position>Modules / Tijdregistratie</position>

@@ -1,6 +1,6 @@
 <properties>
 	<page>
-		<title>Vragenlijst beheren</title>
+		<title>Een tekening toevoegen</title>
 	</page>
 	<menu>
 		<position>Modules / Vragenlijst & Equattes </position> 

@@ -1,7 +1,7 @@
 <properties>
 	<page>
-		<title>uitleg</title>
-		<description>Uitleg</description>
+		<title>Verwerking verschillende overuren</title>
+		<description>Verwerking verschillende overuren</description>
 	</page>
 	<menu>
 		<position>Modules / Tijdregistratie</position>
