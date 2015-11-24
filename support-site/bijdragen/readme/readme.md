@@ -25,7 +25,7 @@ Het maken van een kopie is een makkelijke handeling. Als je langs de vreemde ter
 1.  Maak een [GitHub-account](https://github.com/) aan en log in.
 
 2.  *Fork* [deze *repository*](https://github.com/HybridSaaS/Handleiding). Dit doe je door in GitHub op de '*fork*' knop rechtsboven te klikken.  
-![](images/github/fork-a-repo.gif "class: no-shadow|Een repository forken is eigenlijk een ander woord voor bestanden kopiëren")  
+![](images/fork-a-repo.gif "class: no-shadow|Een repository forken is eigenlijk een ander woord voor bestanden kopiëren")  
 
 3.  Je kan op een bestand klikken om het te bekijken. In je eigen *fork* kan je ook op de 'edit' knop klikken om het in je browser te bewerken.
 
