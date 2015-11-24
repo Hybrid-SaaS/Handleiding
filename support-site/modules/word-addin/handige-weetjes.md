@@ -55,3 +55,22 @@ Voorbeeld zonder: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE \* MERGEFORMAT}`
 Voorbeeld met: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE / size=100 \* MERGEFORMAT}`
 
 ----------
+
+**Een tabel opnieuw laten beginnen om een pagina**
+
+Het komt wel eens voor dat je meerdere orderregels of diverse in een tabel heb, als de tabel dan onder aan de pagina uitvalt wil hij hem wel eens opsplitsen in 2e naar de volgende pagina.
+
+![](images/3.jpg)
+
+Dit kan je ook uitzetten dat het een nieuwe tabel word op een volgende pagina.
+(via rechtermuisknop op het kruisje van de tabel)
+
+Het vinkje staat over het algemeen aan. Als je deze uitzet word er een nieuwe tabel weergegeven op een volgende pagina. 
+
+![](images/1.jpg)
+
+Uitslag:
+
+![](images/2.jpg)
+
+----------

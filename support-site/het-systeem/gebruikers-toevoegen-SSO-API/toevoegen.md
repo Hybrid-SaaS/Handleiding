@@ -3,7 +3,7 @@
 		<title>Gebruikers toevoegen externe portal</title>
 	</page>
 	<menu>
-		<position>Het systeem </position> 
+		<position>Het Systeem </position> 
 		<title>Gebruikers toevoegen externe portal</title>
 	</menu>
 </properties>
