@@ -10,7 +10,8 @@
 	</menu>
 </properties>
 
-#Een order afhandelen met voorraad#
+## Een order afhandelen met voorraad ##
+
 In dit artikel wordt het proces voor het afhandelen van een nieuwe order met voorraad beschreven.
 
 Je zoekt je order op in

@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-#Importeren Producten#
+## Importeren Producten ##
 
 Zoek in start naar Importeren
 
@@ -52,7 +52,7 @@ Je kan nu in HybridSaas bij de producten de geïmporteerde gegevens terugvinden.
 
 ----------
 
-#Importeren cms#
+# Importeren cms #
 
 Hier wordt uitgelegd hoe je eenvoudig de CMS gegevens van producten kan importeren.
 

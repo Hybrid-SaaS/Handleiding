@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Inkoopfacturen via SEPA##
+## Inkoopfacturen via SEPA ##
 
 Proces automatiseren, van handmatig naar automatisch
 
@@ -43,8 +43,6 @@ Je kan ook in 1 keer alles goed keuren, dan kies je alleen het vinkje dat boven 
 Als dit is gebeurt dan verdwijnt de factuur uit “Goed te keuren voor betaling” en komt hij in “Exporteren naar SEPA”.
 Exporteren naar SEPA: (inkoopfacturen exporteren naar SEPA bestand)
  
-![](images/7.jpg)
-
 Met de knop Totalen kan je zien hoeveel de waarde is van de geselecteerde rijen. Je kan zo bepalen hoeveel je wilt gaan betalen.
  
 ![](images/8.jpg)
@@ -55,7 +53,7 @@ De knop Saldo info geeft je een overzicht van je saldo als je de geselecteerde r
 
  Selecteer de regels en druk op de knop *Transacties exporteren*  
 
-![](images/10.jpg)
+![](images/7.jpg)
 
 Er wordt een SEPA bestand aangemaakt die je zelf kan downloaden, naar een zelf te kiezen locatie.
 

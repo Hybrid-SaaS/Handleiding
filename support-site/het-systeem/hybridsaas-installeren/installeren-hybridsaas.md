@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Installeren Hybrid SaaS##
+## Installeren Hybrid SaaS ##
 
 Hoe installeer ik de Hybrid SaaS browser om mijn werkplek. 
 

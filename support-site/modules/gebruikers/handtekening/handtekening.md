@@ -2,16 +2,15 @@
 	<page>
 		<title>handtekening</title>
 		<description>handtekening</description>
-		<context></context>
 	</page>
 	<menu>
-		<position Modules / Gebruikers </position> 
+		<position>Modules / Gebruikers </position>
 		<title>Handtekening</title>
-		<sort></sort>
 	</menu>
 </properties>
 
-# Handtekening #
+## Handtekening ##
+
 Je kan in het systeem een digitale handtekening plaatsen en deze op verschillende plaatsen onder documenten laten terugkomen. Hier wordt uitgelegd hoe je dat kan doen.
 
 **Uploaden van een handtekening** 

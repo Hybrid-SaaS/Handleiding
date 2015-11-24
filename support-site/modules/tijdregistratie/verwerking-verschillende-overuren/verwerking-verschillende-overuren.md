@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Verwerking verschillende overuren##
+## Verwerking verschillende overuren ##
 
 Voorbeeld met 2 registraties op vrijdag en zaterdag
  

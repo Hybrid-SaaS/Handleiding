@@ -11,15 +11,15 @@
 	</menu>
 </properties>
 
-#Menu paden#
+# Menu paden #
 Een menu pad heeft een menu nodig,
 het pad verwijst je door naar de pagina waar je producten instaan, maar de naam uit het menu word op de site geplaatst.
 
-#Start#
+# Start #
 
 ![](images/paden-start.JPg)
 
-#Website paden#
+# Website paden #
 
 ![](images/paden-buttonbalk.JPg)
 
@@ -35,7 +35,7 @@ het pad verwijst je door naar de pagina waar je producten instaan, maar de naam 
 
 - Bezoek
 
-#Algemeen#
+# Algemeen #
 
 ![](images/paden-algemeen.JPg)
 
@@ -79,7 +79,8 @@ het pad verwijst je door naar de pagina waar je producten instaan, maar de naam 
 - Belangrijkheid
 - Opmerking
 
-#Gekoppelde gegevens#
+# Gekoppelde gegevens #
+
 Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de paden aangeven welke gekoppeld moeten worden aan deze pad
 ![](images/paden-gekoppeldegegevens.JPg)
 
@@ -102,7 +103,8 @@ hij plaatst het altijd:
 
 ![](images/paden-gekoppeldegegevens-sortering.JPG)
 
-#Extra#
+# Extra #
+
 ![](images/paden-extra.JPG)
 
 - Extra menu's
@@ -113,10 +115,12 @@ hij plaatst het altijd:
 	![](images/paden-extra-ondercontent.JPG)
 	![](images/paden-extra-ondercontent-website.JPG)
 
-#Raw content#
+# Raw content #
+
 ![](images/paden-rawcontent.JPG)
 
-#Template items#
+# Template items #
+
 ![](images/paden-template.JPG)
 
 - Bewerken

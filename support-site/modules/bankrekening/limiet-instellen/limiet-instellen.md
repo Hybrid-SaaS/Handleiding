@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-#Automatische incasso limieten instellen#
+## Automatische incasso limieten instellen ##
 
 Het is mogelijk om een controle te laten plaatsvinden van de waarde van de automatische incasso's.
 
@@ -38,7 +38,7 @@ Als je de eigenschappen van de bankrekening aanpast, kan je de beperkingen inste
 
 ![](images/limiet-instellen-incasso-bankrekening.jpg)
 
-#Foutmelding tijdens aanmaken automatische incasso download#
+# Foutmelding tijdens aanmaken automatische incasso download #
 
 Indien er tijdens het aanmaken van het incassobestand één van de limieten is overschreden zal dit in het resultaatvenster worden weergegeven:
 

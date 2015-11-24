@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-#De kas als bankrekening aanmaken#
+## De kas als bankrekening aanmaken ##
 
 In dit artikel wordt het proces om de kas als bankrekening aan te maken beschreven. Met een kas als bankrekening kunt u handmatige transacties inboeken en verwerken.
 
@@ -50,3 +50,6 @@ In dit artikel wordt het proces om de kas als bankrekening aan te maken beschrev
 - Maximaal bedrag per transactie
 - Maximaal bedrag per batch
 - Maximaal bedrag per bestand
+
+
+----------

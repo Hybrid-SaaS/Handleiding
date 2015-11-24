@@ -10,7 +10,7 @@
 	</menu>
 </properties>
 
-#Een offerte of order aanmaken#
+## Een offerte of order aanmaken ##
 
 In dit artikel wordt het proces voor het aanmaken van een nieuwe offerte/order beschreven.
 

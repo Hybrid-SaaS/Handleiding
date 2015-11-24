@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Product toevoegen aan je tijdregistratie##
+## Product toevoegen aan je tijdregistratie ##
 
 ![](images/1.png)
 

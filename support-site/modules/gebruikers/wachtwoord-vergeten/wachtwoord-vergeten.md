@@ -4,13 +4,13 @@
 		<description>Uitleg over hoe je wachtwoord te herstellen als je deze niet meer weet.</description>
 	</page>
 	<menu>
-		<position>Het Systeem</position>
+		<position>Modules / Gebruikers </position>
 		<title>Wachtwoord vergeten</title>
 	</menu>
 </properties>
 
 
-##Wachtwoord vergeten##
+## Wachtwoord vergeten ##
 
 Het kan natuurlijk altijd voorkomen dat je je wachtwoord of je inlognaam bent vergeten en daardoor niet meer kunt inloggen in je Hybrid SaaS omgeving. Je kunt zelf met je e-mailadres een nieuw wachtwoord aanvragen. Met deze procedure kan je ook je inlognaam achterhalen.
 
@@ -19,7 +19,7 @@ Het kan natuurlijk altijd voorkomen dat je je wachtwoord of je inlognaam bent ve
 <div class="info">Hybrid SaaS medewerkers voeren uit veiligheidsoverwegingen geen wachtwoord reset acties uit.</div>
 
 
-##Wachtwoord herstellen procedure starten##
+## Wachtwoord herstellen procedure starten ##
 
 Om deze procedure te starten klik je op de link **"wachtwoord vergeten?"** op het inlogscherm van je Hybrid SaaS omgeving.   
 
@@ -41,7 +41,7 @@ Binnen enkele momenten ontvang je een e-mail van Hybrid SaaS.
 
 <div class="info">De ontvangst van deze e-mail kan enkele minuten duren.</div>
 
-##Ontvangst van de e-mail##
+## Ontvangst van de e-mail ##
 
 ![](images/e-mail-wachtwoord-herstel.jpg)
 
@@ -57,7 +57,7 @@ Binnen enkele momenten ontvang je wederom een nieuwe e-mail met daarin je nieuwe
 <div class="info">Indien je meerdere Hybrid SaaS accounts hebt ontvang je voor elk account een aparte e-mail. In het onderwerp van deze e-mails kan je de inlognaam vinden.</div>
 
 
-##Opnieuw inloggen met je nieuwe (tijdelijke) wachtwoord##
+## Opnieuw inloggen met je nieuwe (tijdelijke) wachtwoord ##
 
 Ga terug naar de *Hybrid SaaS browser* en klik indien nodig op de **inloggen** knop om weer terug te komen bij het inlogscherm. Je kan nu inloggen met je inlognaam en het nieuwe wachtwoord.
 
@@ -71,7 +71,7 @@ Het makkelijkste is om het wachtwoord middels kopiëren / plakken ( <strong>Cont
 </div>
 
 
-##Wachtwoord wijzigen##
+## Wachtwoord wijzigen ##
 
 Nadat je bent ingelogd moet je een nieuw wachtwoord verzinnen. Geef het tijdelijke wachtwoord in en voer 2 keer je nieuwe wachtwoord in.
 

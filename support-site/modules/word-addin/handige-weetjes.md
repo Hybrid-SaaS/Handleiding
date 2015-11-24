@@ -12,7 +12,7 @@
 
 ## Handige weetjes ##
 
-**Bedrag weergeven met komma's en punten (€ 00.000,00)**
+# Bedrag weergeven met komma's en punten (€ 00.000,00) #
 
 In het Word Document het betreffende MERGEFIELD veld opzoeken
 
@@ -22,7 +22,7 @@ Voorbeeld met € 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# .0,00 M
 
  
 
-**Engelse bedragen werken met een andere duizendtal notatie**
+# Engelse bedragen werken met een andere duizendtal notatie #
 
 *Als het een Engels document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
 
@@ -32,7 +32,7 @@ Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# ,0.00 M
 
 ----------
 
-**Een maat aan de afbeelding geven**
+# Een maat aan de afbeelding geven #
 
 Door middel van een size toe te voegen aan de MERGEFIELD veld kan je een afbeelding op de order ander document groter of kleiner maken
 
@@ -56,7 +56,7 @@ Voorbeeld met: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE / size=100 \* MERGEFORMAT}`
 
 ----------
 
-**Een tabel opnieuw laten beginnen om een pagina**
+# Een tabel opnieuw laten beginnen om een pagina #
 
 Het komt wel eens voor dat je meerdere orderregels of diverse in een tabel heb, als de tabel dan onder aan de pagina uitvalt wil hij hem wel eens opsplitsen in 2e naar de volgende pagina.
 

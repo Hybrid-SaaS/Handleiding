@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Nieuw rooster aanmaken.##
+## Nieuw rooster aanmaken. ##
 
 Ga via start naar: Roosters.
 
@@ -32,7 +32,6 @@ Voorbeeld:
 Klik nu op de knop “Genereer data”
 
 Nu wordt het rooster aangemaakt met alle dagen in de gekozen periode. De knop genereer data verdwijnt, omdat je dit maar één kan doen.
-
 
 Aanpassen van het rooster comfort vrije dagen, weekenden en werktijden.
 
@@ -74,7 +73,7 @@ Doe dit voor alle wettelijke feestdagen zoals Pasen, Pinksteren, kerstmis, konin
 
 En sla dit rooster op.
 
-##Toevoegen aan de medewerker##
+## Toevoegen aan de medewerker ##
 
 Ga naar via start naar: Alle medewerkers
 Selecteer de juiste medewerker en ga naar het tabblad Verlof

@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-#Overzichten verkochte producten per jaar#
+## Overzichten verkochte producten per jaar ##
 
 Ga naar:   Overzichten / Management overzichten
 Kies voorraad overzicht

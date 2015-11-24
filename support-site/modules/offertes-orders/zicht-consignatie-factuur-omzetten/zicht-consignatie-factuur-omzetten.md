@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-#Zicht-Consignatie factuur omzetten naar Retour/Factuur#
+## Zicht-Consignatie factuur omzetten naar Retour/Factuur ##
 
 Een consignatie factuur is een factuur waarbij je goederen tijdelijk op een andere locatie worden geplaatst. Deze goederen worden uiteindelijk verkocht of retour gegeven. 
 Een consignatie factuur vertegenwoordigd wel een waarde maar deze waarde wordt pas berekend op het moment dat er iets met de goederen gebeurt. Wel wordt de voorraad afgeboekt.

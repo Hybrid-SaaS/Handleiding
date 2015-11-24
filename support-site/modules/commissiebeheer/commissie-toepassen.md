@@ -10,7 +10,8 @@
 	</menu>
 </properties>
 
-#Commsissie toepassen#
+## Commsissie toepassen ##
+
 Hier wordt beschreven welke stappen je moet doorlopen om commissie in te richten.
 
 **Rechten aanpassen**

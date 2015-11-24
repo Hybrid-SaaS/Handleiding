@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-#Zicht-Consignatie factuur#
+## Zicht-Consignatie factuur ##
 
 Voor het aanmaken van een consignatie factuur zijn er wat standaard inrichtingen nodig. Zo is er een document schema nodig waarin je aangeeft dat de facturen op consignatie komen te staan. Vaak zit hier ook een andere factuur layout bij waarbij geen totaal prijzen en BTW worden getoond (Alleen aantallen en stuks prijzen)
 

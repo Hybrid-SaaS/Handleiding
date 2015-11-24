@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Reiskosten doorbelasten##
+## Reiskosten doorbelasten ##
 
 Je kan op 2 manieren de reiskosten automatisch laten verrekenen.
 

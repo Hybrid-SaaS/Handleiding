@@ -9,7 +9,7 @@
 	</menu>
 </properties>
 
-##Project planning##
+## Project planning ##
 
 Deze planning bestaan uit een aantal onderdelen.
 
@@ -68,7 +68,7 @@ Uitleg verschillende velden
 	
 ![](images/7.jpeg)
 
-#Hoe plan ik:#
+# Hoe plan ik: #
 
 * Open project planning
 * Zet vinkje “Vergrendeling” uit.
@@ -83,7 +83,7 @@ Het aantal dagen is verminderd met 3 (31,3 is nu 28,3)
 
 ![](images/9.jpeg)
 
-#Je kan nu de medewerker(s) op verschillende manieren door plannen:#
+# Je kan nu de medewerker(s) op verschillende manieren door plannen: #
 
 *keuze 1*
 
@@ -119,7 +119,7 @@ Voorbeeld: Jan de Vertegenwoordiger plannen op 12-10, 13-10 en 16-10.
 
 ![](images/14.jpeg)
  
-#Meerdere medewerkers voor langere periode inplannen.#
+# Meerdere medewerkers voor langere periode inplannen. #
 
 Plaats de medewerkers op de dag in het project dat ze gaan starten. 
 Houdt de SHIFT toets vast en selecteer de medewerkers. De geselecteerde medewerker blokjes worden lichtblauw. 
@@ -132,12 +132,12 @@ Resultaat: d.m.v. slepen
 
 ![](images/16.jpeg)
  
-#Verplaatsen van geplande dagen#
+# Verplaatsen van geplande dagen #
 
 Je kan individuele dagen of blokken van dagen met je muis oppakken en deze verslepen naar een ander dag. Pak het blokje op en versleep deze naar de gewenste datum.
 LET OP: het is niet mogelijk een blok naar een al bestaande blok datum te verplaatsen. Het blok wordt dan op de originele plaats terug gezet.
 
-#Verwijderen van geplande dagen#
+# Verwijderen van geplande dagen #
 
 Dit kan ook op verschillende manieren.
 
@@ -165,7 +165,7 @@ Resultaat:
  
 ![](images/19.jpeg)
 
-#Als je één of meerdere dagen in een geplande week wilt weghalen#
+# Als je één of meerdere dagen in een geplande week wilt weghalen #
 
 Als je binnen een blok één dag wilt verwijderen dan doe je dit NIET met je rechter muis knop, omdat je dan het hele blok weggooit.
 Dit doe je door middel van de CTRL toets. Houdt de CTRL toets en sleep het blokje, de dag eruit.
