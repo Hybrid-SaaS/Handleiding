@@ -1,11 +1,10 @@
 <properties>
 	<page>
 		<title>voorbeeldpagina-hulpstukken</title>
-		<description>voorbeeldpagina-hulpstukken</description>
 	</page>
 	<menu>
-		<position>Bijdragen /Voorbeeld</position>
-		<title>hulpstukken</title>
+		<position>Bijdragen / Voorbeeld</position>
+		<title>Hulpstukken</title>
 	</menu>
 </properties>
 
@@ -13,7 +12,7 @@
 
 ## De properties van de pagina: ##
 
-    <properties>
+       <properties>
     	<page>
     		<title>voorbeeldpagina-hulpstukken</title>
     		<description>voorbeeldpagina-hulpstukken</description>
