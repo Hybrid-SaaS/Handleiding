@@ -5,6 +5,7 @@
 	<menu>
 		<position>Modules / Vragenlijsten</position>
 		<title>Implementatie </title>
+		<sort>a</sort>
 	</menu>
 </properties>
 
