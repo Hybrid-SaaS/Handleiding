@@ -3,13 +3,13 @@
 		<title>Vragenlijst beheren</title>
 	</page>
 	<menu>
-		<position>Modules / Vragenlijst & Equattes </position> 
+		<position>Modules / Vragenlijsten</position> 
 		<title>Vragenlijst beheren</title>
 	<sort>B</sort>
 	</menu>
 </properties>
 
-#Beheren van de vragenlijst#
+## Beheren van de vragenlijst ##
 
 Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door  via de startknop naar het menu Vragenlijsten te gaan en daar Beheren te selecteren. 
 

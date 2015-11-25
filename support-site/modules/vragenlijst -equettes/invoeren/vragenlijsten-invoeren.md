@@ -3,13 +3,13 @@
 		<title>Vragenlijst invoeren</title>
 	</page>
 	<menu>
-		<position>Modules / Vragenlijst & Equettes</position> 
+		<position>Modules / Vragenlijsten</position> 
 		<title>Vragenlijst invoeren</title>
 	<sort>B</sort>
 	</menu>
 </properties>
 
-#Vragenlijst invoeren op je mobiel#
+## Vragenlijst invoeren op je mobiel ##
 
 <description>Je kan op verschillende manieren een vragenlijst invoeren. een van de manieren is om dit op je mobile telefoon te doen. ga dan naar een browser en voor onderstaande URL in **https://{bedrijfsnaam}.hybridsaas.com/extranet/login/login.asp** . (sla deze als favoriet (bladwijzer) op). </description>
 Voer de ontvangen gebruikersnaam en bijbehorende wachtwoord in en druk op de knop Inloggen.  
@@ -61,7 +61,7 @@ Bij contact gegevens kan je door middel van de ![](images/mob-potlood.jpg) knop 
    
 Ook hier kan je met de ![](images/mob-plus.jpg) knop kan je een nieuw contact toevoegen.
 
-#Knop menu#
+# Knop menu #
 
 ![](images/mob-knop-menu.jpg)
 
@@ -85,12 +85,12 @@ Je kan een eerder ingevulde vragenlijst openen door deze te selecteren. Je komt 
 
 ![](images/mob-knop-menu-ingevuld-vragenlijst-1.jpg)
 
-#Document inzien#
+# Document inzien #
 Met de knop "Document inzien" kan je de vragenlijst op je scherm openen en je kan deze ook opslaan.
 
 ![](images/mob-vragenlijst-inzien.jpg)
 
-#Verstuur email#
+# Verstuur email #
 Je kan alleen een email versturen naar personen die je vooraf hebt gedefinieerd bij de klant of bij het project. Vink de juiste personen aan, je kan dan nog kiezen of je iemand een BCC wilt sturen en druk op de knop versturen. De mail wordt dan verstuurd met de tekst die in de email sjabloon is vastgelegd en de vragenlijst wordt als bijlage meegestuurd.
 
 ![](images/mob-vragenlijst-versturen.jpg)

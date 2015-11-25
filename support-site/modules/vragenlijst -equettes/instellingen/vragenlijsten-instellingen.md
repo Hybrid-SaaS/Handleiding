@@ -3,13 +3,13 @@
 		<title>Instellen Vragenlijsten</title>
 	</page>
 	<menu>
-		<position>Modules / Vragenlijst & Equattes </position> 
+		<position>Modules / Vragenlijsten</position> 
 		<title>Instellen Vragenlijsten</title>
 	<sort>B</sort>
 	</menu>
 </properties>
 
-#Het instellen van de vragenlijst#
+## Het instellen van de vragenlijst ##
 
 Ga via start naar vragenlijst beheren
 Open de gewenste vragenlijst en ga naar het tabblad *instellingen*.

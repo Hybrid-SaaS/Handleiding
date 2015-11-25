@@ -3,13 +3,13 @@
 		<title>Een tekening toevoegen</title>
 	</page>
 	<menu>
-		<position>Modules / Vragenlijst & Equattes </position> 
+		<position>Modules / Vragenlijsten</position> 
 		<title>Een tekening toevoegen</title>
 	<sort>B</sort>
 	</menu>
 </properties>
 
-#Een tekening toevoegen aan de vragenlijst#
+## Een tekening toevoegen aan de vragenlijst ##
 
 Er is een nieuw type vraag bij gekomen: Tekening
 

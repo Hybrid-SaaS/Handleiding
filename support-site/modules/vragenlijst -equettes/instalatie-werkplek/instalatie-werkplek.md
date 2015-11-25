@@ -3,12 +3,12 @@
 		<title>Implementatie bouw</title>
 			</page>
 	<menu>
-		<position>Modules / Vragenlijsten & Equettes </position>
+		<position>Modules / Vragenlijsten</position>
 		<title>Implementatie </title>
 	</menu>
 </properties>
 
-##Implementatie##
+## Implementatie ##
 
 Als je overeen bent gekomen dat je met Hybrid SaaS gaat werken dan staan hieronder de stappen beschreven om aan de slag te gaan.
 Als eerste maakt Hybrid SaaS een omgeving aan. Deze krijgt de naam van het bedrijf. Er wordt dan ook de eerste gebruiker aangemaakt en de gegevens (id + wachtwoord) worden gemaild naar deze gebruiker.
@@ -33,7 +33,7 @@ Zodra dit alles in ingericht kan je gebruikers
 
 Ga naar  [Extranet gebruiker + rechten](http://hybridsaas.support/support-site/modules/vragenlijst-equettes/via-extranet/vragenlijsten-extranet)
 
-#Klaar om te starten#
+# Klaar om te starten #
 
 Nu ben je klaar om als extranet gebruiker in te loggen en vragenlijsten in te vullen.
 
@@ -53,7 +53,9 @@ Als je ingelogd bent krijg je, afhankelijk van de rechten die je hebt, de bijbeh
 
 ![](images/extranet-inlog.jpg)
 
-Ga naar [Vragenlijst invoeren](http://hybridsaas.support/support-site/modules/vragenlijst-equettes/invoeren/vragenlijst-invoeren)
+
+----------
+
 
  
 

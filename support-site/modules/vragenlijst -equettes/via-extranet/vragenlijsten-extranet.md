@@ -3,18 +3,18 @@
 		<title>Vragenlijst</title>
 	</page>
 	<menu>
-		<position>Modules / Vragenlijst & Equettes</position> 
+		<position>Modules / Vragenlijsten</position> 
 		<title>Vragenlijst extranet</title>
 	<sort>B</sort>
 	</menu>
 </properties>
 
-#Vragenlijst extranet#
+## Vragenlijst extranet ##
 
 <description>Het invullen van een vragen lijst kan door iedere gebruiker gedaan worden via het extranet. Het extranet is een module die het mogelijk maakt om op mobiele devices informatie te halen of in te voeren.
 </description>
 
-#Hoe log ik in op extranet#
+# Hoe log ik in op extranet #
 
 Maak een gebruiker aan die alleen via extranet kan inloggen. Geef deze gebruiker de juiste rechten. dit doe je door middel van een beveiligingsgroep aan te maken en deze aan de gebruiker te koppelen.
 
@@ -43,7 +43,7 @@ Voorbeeld : zoeken op het woord "bewerken" heeft als resultaat
 ![](images/gebruikers-rechten-zoeken.jpg)  
 
 Verder kan je ook per module zoeken en dan de rechten aan- of uitvinken. Klik dan op de module aan de linkerkant. Alle mogelijke rechten binnen deze module worden dan zichtbaar.
-Voorbeeld module Extranet. Met de scrollbar kan je alle rechten zien.
+Voorbeeld module Extranet. Met de scrolbar kan je alle rechten zien.
 
 ![](images/gebruikers-rechten-module.jpg)  
 
@@ -88,6 +88,6 @@ Afhankelijk van deze keuzes worden rechten toebedeeld.
 
 Informeer nu deze gebruiker door hem zijn id en wachtwoord te versturen.
 
-Ga naar  [Wachtwoord versturen](http://hybridsaas.support/support-site/modules/gebruikers/wachtwoord-versturen/wachtwoord-versturen)  
+Ga naar  [Wachtwoord versturen](http://hybridsaas.support/pages/support-site/modules/gebruikers/wachtwoord-versturen/wachtwoord-versturen)  
 
 ----------
