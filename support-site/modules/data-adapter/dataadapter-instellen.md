@@ -10,20 +10,20 @@
 
 # DataAdapter #
 
-Door middel van de Hybrid SaaS DataAdapter krijg je de mogelijkheid om externe gegevens in Hybrid SaaS te importeren. Denk hierbij aan het importeren van facturen, inkoopfacturen, orders e.d. De data kan vanuit een database, Excelsheet of via een XML bestand worden geïmporteerd. 
+De Hybrid SaaS DataAdapter geeft de mogelijkheid om externe gegevens in Hybrid SaaS te importeren. Denk hierbij aan het importeren van facturen, inkoopfacturen, orders e.d. De data kan vanuit een database, Excelsheet of via een XML bestand worden geïmporteerd. 
 
 ## DataAdapter Downloaden ##
 
-De DataAdapter kan je [hier](http://hybridsaas.com/support) downloaden.
+DataAdapter kan hier [hier](http://hybridsaas.com/support) worden gedownload.
 
 ## DataAdapter uitpakken ##
 
-Nadat de download is voltooid dient het bestand te worden uitgepakt. Het bestand vind je terug in de map "download op je computer.
+Nadat de download is voltooid dient het bestand te worden uitgepakt. Het bestand is terug te vinden in de map "downloads" op je computer.
 
 ![Download](images/dowload-dataadapter.jpg) 
 
 <div class="info">
-Voor het uitpakken van het bestand dien je een programma te hebben om waarmee je dit kunt doen. Wij raden aan om [7-zip](http://www.7-zip.org/download.html) te gebruiken. 
+Voor het uitpakken van het bestand dient een programma te zijn geïnstalleerd. Wij raden aan om 7-Zip (www.7-zip.org/download.html) of een soortgelijk programma te gebruiken. 
 </div>
 
 ![Map uitpakken](images/map-uitpakken.jpg)
@@ -35,21 +35,21 @@ Indien er bij het openen een foutmelding verschijnt, dient het openen als "admin
 ![Invoegtoepassingen in Microsoft Outlook](images/uitvoeren-als-administrator.jpg)
 
 <div class="info">
-Wil je in de tokemst de DataAdapter automatisch als "administrator" uitvoeren? Klik met de rechtermuisknop op "HybridSaaS_DataAdapter.exe". Ga naar "Eigenschappen" > Tabblad "Compatibiliteit" en zet het vinkje aan bij "Uitvoeren als administrator"
+DataAdapter voortaan automatisch als "administrator" uitvoeren? Klik met de rechtermuisknop op "HybridSaaS_DataAdapter.exe". Ga naar "Eigenschappen" > Tabblad "Compatibiliteit" en zet het vinkje aan bij "Uitvoeren als administrator"
 </div>
 
 ## DataAdapter instellen ##
 
-Om de DataAdapter te kunnen gebruiken dient deze ingestald te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "instellingen" en vervolgens op "Toevoegen" om de API gegevens in te vullen
+Om de DataAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "instellingen" en vervolgens op "Toevoegen" om de API gegevens in te vullen
 
 ![Invoegtoepassingen in Microsoft Outlook](images/instellingen.jpg)
 
-Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" je bedrijfsnaam in) en geef de API ID en API KEY in.
+Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" de bedrijfsnaam in) en geef de API ID en API KEY in.
 
 ![Instellingen wijzigen Outlook Add-in ](images/API-gegevens-invullen.jpg)
 
 <div class="info">
-API ID en API KEY kunnen worden aangemaakt in Hybrid SaaS. Zie de onderstaande beschrijving hoe je deze aanmaakt.
+API ID en API KEY kunnen worden aangemaakt in Hybrid SaaS. Zie de onderstaande beschrijving hoe deze aangemaakt dient te worden.
 </div>
 
 ## API sleutel aanmaken ##
@@ -111,14 +111,14 @@ Importeren en modificeren:
 	- BTW percentage
 	- Leveranciers code
 
-Sla het document op
+- Sla het document op
 
-tabblad: Excel 
-dropdown :inkoopfacturen
+	- tabblad: Excel
+	- dropdown :inkoopfacturen
 
-Selecteer de Excelfile (zorg ervoor dat de file gesloten is)
-Klik op bestand ophalen
-Selecteer de juiste kolommen en klik op verzend
+- Selecteer de Excelfile (zorg ervoor dat de file gesloten is)
+- Klik op bestand ophalen
+- Selecteer de juiste kolommen en klik op verzend
 
-Open Hybrid SaaS en check de inkoopfactuur
+- Open Hybrid SaaS en check de inkoopfactuur
 </div> 
