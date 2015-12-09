@@ -4,11 +4,15 @@
 	</page>
 	<menu>
 		<position>Het Systeem </position> 
-		<title>Laad scherm blijft staan</title>
+		<title>Hybrid SaaS Service resetten</title>
 	</menu>
 </properties>
 
-# Kan geen bijlagen uploaden #
+# Hybrid SaaS Service resetten #
+
+<div class="warning">
+Om dit te kunnen uitvoeren dien je administrator te zijn van de computer waar je gebruik van maakt
+</div
 
 Het komt wel eens voor dat het uploaden van bijlagen niet meer goed werkt of helemaal niet meer werkt. Om het probleem te verhelpen moet de Hybrid SaaS service herstart worden.
 
