@@ -12,7 +12,7 @@
 
 ## Handige weetjes ##
 
-#Speciale tekens#
+# Speciale tekens #
 
 Om speciale tekens of accolade te gebruiken in de e-mail template, moet er goed gekeken worden of deze juist word overgenomen in de broncode van de template. als het hierin niet correct ingevuld staat kan het voorkomen dat het anders word weergegeven dan bedoeld
 
