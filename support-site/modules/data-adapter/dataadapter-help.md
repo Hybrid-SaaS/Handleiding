@@ -36,6 +36,7 @@ Gebruik **CTRL+H** om tekst te vervangen.
 
 <div class="info">
 Voor dit voorbeeld willen we "><" vervangen voor ">
+
 <". 
 </div>
 
