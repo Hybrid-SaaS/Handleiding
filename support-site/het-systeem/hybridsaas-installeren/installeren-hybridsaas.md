@@ -13,7 +13,7 @@
 
 Hoe installeer ik de Hybrid SaaS browser om mijn werkplek. 
 
-Ga naar [Installeren](http://http://hybridsaas.com/support) op de website
+Ga naar de website van Hybrid SaaS [www.hybridsaas.com](http://hybridsaas.com/support), en ga naar Support
 
 Er staan 3 download opties
 
