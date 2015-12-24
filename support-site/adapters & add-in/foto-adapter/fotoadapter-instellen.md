@@ -3,7 +3,7 @@
 		<title>FotoAdapter instellen</title>
 	</page>
 	<menu>
-		<position>Modules / FotoAdapter </position> 
+		<position>Adapters & add-in / FotoAdapter </position> 
 		<title>FotoAdapter instellen</title>
 	</menu>
 </properties>
@@ -13,7 +13,7 @@
 De Hybrid SaaS FotoAdapter geeft de mogelijkheid om productafbeeldingen en foto's bij producten Hybrid SaaS te importeren. Door de bestandsnaam van de afbeelding het productnummer te geven zal deze automatisch bij het juiste product worden toegevoegd.
 ## DataAdapter Downloaden ##
 
-FotoAdapter kan hier [hier](http://hybridsaas.com/support) worden gedownload.
+FotoAdapter kan [hier](https://downloadsite.blob.core.windows.net/hybrid-saas-tools/tools.exe) worden gedownload. Of via onze [website](http://hybridsaas.com/support). 
 
 ## FotoAdapter instellen ##
 
