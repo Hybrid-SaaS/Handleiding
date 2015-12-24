@@ -17,7 +17,7 @@ FotoAdapter kan [hier](https://downloadsite.blob.core.windows.net/hybrid-saas-to
 
 ## FotoAdapter instellen ##
 
-Om de FotoAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "**instellingen**" om de API gegevens in te vullen
+Om de FotoAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "**instellingen**" om de API gegevens in te vullen.
 
 Vul bij de gegevens in. Hybrid SaaS URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" de bedrijfsnaam in) en geef de API ID en API KEY in.
 
