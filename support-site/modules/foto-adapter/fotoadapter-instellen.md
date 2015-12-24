@@ -3,7 +3,7 @@
 		<title>FotoAdapter instellen</title>
 	</page>
 	<menu>
-		<position>Modules / Fo </position> 
+		<position>Modules / FotoAdapter </position> 
 		<title>FotoAdapter instellen</title>
 	</menu>
 </properties>
@@ -19,7 +19,7 @@ FotoAdapter kan hier [hier](http://hybridsaas.com/support) worden gedownload.
 
 Om de FotoAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "instellingen" om de API gegevens in te vullen
 
-Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" de bedrijfsnaam in) en geef de API ID en API KEY in.
+Vul bij de gegevens in. Hybrid SaaS URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" de bedrijfsnaam in) en geef de API ID en API KEY in.
 
 ![Instellingen wijzigen FotoAdapter ](images/API_instellingen.jpg)
 
@@ -35,65 +35,50 @@ Klik op toevoegen om een nieuwe sleutel aan te maken.
 
 ![Nieuwe API sleutel toevoegen](images/toevoegen.jpg)
 
-Geef de sleutel een naam door bij "Naam" bijvoorbeeld "DataAdapter" in te vullen.
+Geef de sleutel een naam door bij "Naam" bijvoorbeeld "FotoAdapter" in te vullen.
 
 Klik één maal op "Opslaan" zodat de API gegevens worden aangemaakt. Klik nogmaals op "Opslaan" om het scherm af te sluiten
 
 ![E-mailadres instellen bij e-mailsjabloon](images/API-gegevens-aanmaken.jpg)
 
 
-# DataAdapter #
+# FotoAdapter #
 
-Er zijn verschillende mogelijkheden om data te importeren. Hieronder leggen we uit hoe je data vanuit een Excelsheet kunt importeren.
+Er zijn verschillende mogelijkheden om afbeeldingen te importeren.
 
-## Bestand selecteren ##
+## Bestand(en) selecteren ##
 
-Klik op het tabblad "Excel" en klik op "Openen" en selecteer het bestand wat geïmporteerd dient te worden.
+Klik Importeren > Producten > Foto's importeren.
 
-![Selecteer bestand](images/selecteer-bestand.jpg)
+![Foto's importeren](images/fotos_importeren.jpg)
 
-Klik na de selectie op de knop "Data ophalen"
+Selecteer de map waar de betreffende foto's staan opgeslagen"
 
-![Data ophalen](images/data-ophalen.jpg)
+![Map Selecteren](images/map_selecteren.jpg)
 
 <div class="info">
-LET OP! Het bestand wat geïmporteerd wordt dient niet open te staan op de computer.
+De bestandsnaam van de afbeeldingen dient gelijk te zijn aan de productcode in de Hybrid SaaS productcatalogus.
 </div>
 
-## Datakolommen selecteren ##
+## Selecteer Zoekveld ##
 
-Nadat de data is opgehaald verschijnt er een venster waarin de benodigde data kan worden geselecteerd. Naast de verschillende velden uit Hybrid SaaS kan de gewenste data uit de Excelsheet worden geselecteerd. In de dropdown worden de kolomnamen van de Excelsheet weergegeven. 
+Selcteer de juiste zoeknaam waarop de afbeeldingen geimporteerd dienen te worden. 
 
-Klik nadat alle benodigde data is geselecteerd op "Verzenden" De data zal nu worden aangemaakt in Hybrid SaaS.
+Kies hierbij uit:
+- barcode
+- GUID ID
+- productcode
 
-![Data verzenden](images/Verzend.jpg)
+![Zoekveld selecteren](images/zoekveld_selecteren.jpg)
+
+Klik vervolgens op "Importeren"
+
+## Import controleren ##
+
+Na het importeren kan in het log worden nagekeken of alle foto's correct zijn geimporteerd.
+
+![Import controleren](images/import_controleren.jpg)
 
 <div class="info">
-GEAVANCEERD: Wil je bijvoorbeeld inkoopfacturen direct aan contracten koppelen ga dan als volgt te werk:
-
-- Zorg dat de externe referentie bekend is op het contract
-- Zorg dat de leverancierscodes zijn ingesteld
-
-
-Importeren en modificeren:
-
-- Open het Excelbestand van de leverancier
-- Eventuele beveiligingen opheffen
-- Overbodige rij(en) verwijderen
-- Alle aantallen op 1 zetten
-- Kolommen toevoegen:
-	- Grootboekrekening
-	- BTW percentage
-	- Leveranciers code
-
-- Sla het document op
-
-	- tabblad: Excel
-	- dropdown :inkoopfacturen
-
-- Selecteer de Excelfile (zorg ervoor dat de file gesloten is)
-- Klik op bestand ophalen
-- Selecteer de juiste kolommen en klik op verzend
-
-- Open Hybrid SaaS en check de inkoopfactuur
-</div> 
+Indien het log "<not found>" weer geeft is de betreffende afbeelding niet gevonden in de Hybrid SaaS productcatalogus. Pas de bestandsnaam aan en doe de import opnieuw. De huidige import blijft gewoon van kracht.
+</div>
