@@ -3,7 +3,7 @@
 		<title>FotoAdapter instellen</title>
 	</page>
 	<menu>
-		<position>Adapters & add-in / FotoAdapter </position> 
+		<position>Modules / FotoAdapter </position> 
 		<title>FotoAdapter instellen</title>
 	</menu>
 </properties>
@@ -17,7 +17,7 @@ FotoAdapter kan [hier](https://downloadsite.blob.core.windows.net/hybrid-saas-to
 
 ## FotoAdapter instellen ##
 
-Om de FotoAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "instellingen" om de API gegevens in te vullen
+Om de FotoAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "**instellingen**" om de API gegevens in te vullen
 
 Vul bij de gegevens in. Hybrid SaaS URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" de bedrijfsnaam in) en geef de API ID en API KEY in.
 
@@ -42,17 +42,15 @@ Klik één maal op "Opslaan" zodat de API gegevens worden aangemaakt. Klik nogma
 ![E-mailadres instellen bij e-mailsjabloon](images/API-gegevens-aanmaken.jpg)
 
 
-# FotoAdapter #
-
-Er zijn verschillende mogelijkheden om afbeeldingen te importeren.
+# Afbeeldingen importeren #
 
 ## Bestand(en) selecteren ##
 
-Klik Importeren > Producten > Foto's importeren.
+Klik **Importeren** > **Producten** > **Foto's importeren**
 
 ![Foto's importeren](images/fotos_importeren.jpg)
 
-Selecteer de map waar de betreffende foto's staan opgeslagen"
+Selecteer de map waar de betreffende foto's staan opgeslagen
 
 ![Map Selecteren](images/map_selecteren.jpg)
 
@@ -62,7 +60,7 @@ De bestandsnaam van de afbeeldingen dient gelijk te zijn aan de productcode in d
 
 ## Selecteer Zoekveld ##
 
-Selcteer de juiste zoeknaam waarop de afbeeldingen geimporteerd dienen te worden. 
+Selecteer de juiste zoeknaam waarop de afbeeldingen geïmporteerd dienen te worden. 
 
 Kies hierbij uit:
 - barcode
@@ -71,11 +69,11 @@ Kies hierbij uit:
 
 ![Zoekveld selecteren](images/zoekveld_selecteren.jpg)
 
-Klik vervolgens op "Importeren"
+Klik vervolgens op "**Importeren**"
 
 ## Import controleren ##
 
-Na het importeren kan in het log worden nagekeken of alle foto's correct zijn geimporteerd.
+Na het importeren kan in het log worden nagekeken of alle foto's correct zijn geïmporteerd.
 
 ![Import controleren](images/import_controleren.jpg)
 
