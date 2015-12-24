@@ -3,7 +3,7 @@
 		<title>FotoAdapter instellen</title>
 	</page>
 	<menu>
-		<position>Adapters-add-in / FotoAdapter </position> 
+		<position>Modules / FotoAdapter </position> 
 		<title>FotoAdapter instellen</title>
 	</menu>
 </properties>
