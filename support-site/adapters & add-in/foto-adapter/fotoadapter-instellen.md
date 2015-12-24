@@ -37,7 +37,7 @@ Klik op toevoegen om een nieuwe sleutel aan te maken.
 
 Geef de sleutel een naam door bij "Naam" bijvoorbeeld "FotoAdapter" in te vullen.
 
-Klik één maal op "Opslaan" zodat de API gegevens worden aangemaakt. Klik nogmaals op "Opslaan" om het scherm af te sluiten
+Klik één maal op "Opslaan" zodat de API gegevens worden aangemaakt. Klik nogmaals op "Opslaan" om het scherm af te sluiten.
 
 ![E-mailadres instellen bij e-mailsjabloon](images/API-gegevens-aanmaken.jpg)
 
