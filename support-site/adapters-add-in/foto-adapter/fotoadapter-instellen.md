@@ -3,7 +3,7 @@
 		<title>FotoAdapter instellen</title>
 	</page>
 	<menu>
-		<position>Modules / FotoAdapter </position> 
+		<position>Adapters-add-in / FotoAdapter </position> 
 		<title>FotoAdapter instellen</title>
 	</menu>
 </properties>
@@ -78,5 +78,5 @@ Na het importeren kan in het log worden nagekeken of alle foto's correct zijn ge
 ![Import controleren](images/import_controleren.jpg)
 
 <div class="info">
-Indien het log "<not found>" weer geeft is de betreffende afbeelding niet gevonden in de Hybrid SaaS productcatalogus. Pas de bestandsnaam aan en doe de import opnieuw. De huidige import blijft gewoon van kracht.
+Indien het log "not found" weer geeft is de betreffende afbeelding niet gevonden in de Hybrid SaaS productcatalogus. Pas de bestandsnaam aan en doe de import opnieuw. De huidige import blijft gewoon van kracht.
 </div>
