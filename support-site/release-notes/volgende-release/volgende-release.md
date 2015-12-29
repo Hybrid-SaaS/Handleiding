@@ -71,4 +71,15 @@ Er zijn aanpassingen gedaan in de changelog
 
 Er is een mogelijkheid om een query mee te geven met het verzenden van een factuur. Dit was een een CSV tekst bestand en dat is nu omgezet naar een Excel bestand met cijfers. Deze word in de bijlage van de mail toegevoegd met als naam export.xlsx mist je geen andere naam hebt doorgegeven 
 
+## Algemeen ##
+
+**Hybrid SaaS op 2 schermen openen**
+
+![](images/1.png)
+
+Het is nu mogelijk om je omgeving op je 2e scherm ook te openen, dit door middel van je rechtermuisknop in de balk.
+Hierin kan je een 2e sessie openen
+
+LET OP! je kan geen vensters verslepen van het ene scherm naar het andere scherm. het is bedoeld om verschillende schermen open te kunnen hebben staan
+
 ---
