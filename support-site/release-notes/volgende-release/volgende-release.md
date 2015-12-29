@@ -64,3 +64,11 @@ Je kan de duur registeren, alleen de reiskosten die ingevuld worden, worden nu d
 
 Bestanden in de cloud weergave werden niet goed geopend op mobiele apparaten omdat de mimetype niet gezet was.
 Er zijn aanpassingen gedaan in de changelog
+
+## Word sjablonen ##
+
+**CSV bestand is nu een Excel bestand**
+
+Er is een mogelijkheid om een query mee te geven met het verzenden van een factuur. Dit was een een CSV tekst bestand en dat is nu omgezet naar een Excel bestand met cijfers. Deze word in de bijlage van de mail toegevoegd met als naam export.xlsx mist je geen andere naam hebt doorgegeven 
+
+---
