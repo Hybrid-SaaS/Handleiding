@@ -1,83 +1,72 @@
 <properties>
 	<page>
-		<title>handige-weetjes</title>
-		<description>handige-weetjes</description>
+		<title>Externe-factuurkoppeling</title>
+		<description>Externe-factuurkoppeling</description>
 	</page>
 	<menu>
-		<position>Modules / Word Add-In</position>
-		<title>Handige weetjes</title>
+		<position>Modules / Externe-factuurkoppeling</position>
+		<title>Externe Factuurkoppeling</title>
 		<sort>a</sort>
 	</menu>
 </properties>
 
-## Handige weetjes ##
+# Externe productkoppeling #
+Met externe productkoppeling van Hybrid SaaS is het mogelijk uw productcatalogus en voorraadinformatie te delen met externe partijen. Momenteel bieden wij ondersteunen wij de volgende partijen:
+•	Bol.com
+•	Beslist.nl
+•	Google
 
-# Met Nederlandse of daarop lijkende bedragen (€ 00.000,00) #
+Tevens is het mogelijk om ruwe productsheets aan te leveren aan andere externe partijen.
+Voordat u aan de slag gaat dient u eerst e.e.a. af te stemmen met de partij waar u een koppeling mee wilt realiseren. Denk hierbij bijvoorbeeld aan het afstemmen van eventuele product- of productgroep benamingen. Tevens dient u zogenoemde FTP inloggegevens te verkrijgen. 
 
-In het Word Document het betreffende MERGEFIELD veld opzoeken
+## Toevoegen externe productkoppeling ##
+Klik op start en zoek naar “externe productkoppeling”
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+Klik op toevoegen om een nieuwe externe productkoppeling toe te voegen
 
-Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# .0,00 MERGEFORMAT}` 
+![Externe factuurkoppeling toevoegen](images/externe_productkoppeling_toevoegen.jpg)
 
+Selecteer het “type koppeling” welke u wilt aanmaken
 
-# Met Engelse bedragen (€ 00,000.00) #
+Vul de verkregen FTP gegevens in bestaande uit een gebruikersnaam en wachtwoord.
 
-*Als het een Engels document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
+![Type en FTP gegevens invullen](images/type_FTP_gegevens.jpg)
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+## Selecteer website ##
+Selecteer bij “Alleen voor website” de website waar de productkoppeling betrekking op heeft. 
 
-Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# ,0.00 MERGEFORMAT}`
+![Website selcteren](images/website_selecteren.jpg)
 
-# Met Franse bedragen(€ 00000,00)  #
+<div class="info">
+Indien er nog geen website te selecteren is dient deze aangemaakt te worden. Zoek in het menu voor “websites” waar u in een paar stappen een nieuwe website aan kunt maken.
+</div>
 
-*Als het een Frans document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
+## Prijsafspraken vastleggen ##
+Selecteer bij “prijzen van organisatie” de organisatie waarmee u de koppeling wilt realiseren.
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+![Prijsafspraken selecteren](images/prijsafspraak_selecteren.jpg)
 
-Voorbeeld met € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# 0.00 MERGEFORMAT}`
+<div class="info">
+Indien er geen prijsafspraken zijn vastgelegd dienen deze eerst aangemaakt te worden. Op de relatiekaart van de betreffende organisatie kunnen deze worden vastgelegd  op het tabblad “prijsafspraken”
+</div>
 
-----------
+## Productkenmerken vastleggen ##
 
-# Een maat aan de afbeelding geven #
+Selecteer bij “welke productkenmerken worden meegenomen” de productkenmerken welke meegenomen dienen te worden in de product feed.
 
-Door middel van een size toe te voegen aan de MERGEFIELD veld kan je een afbeelding op de order ander document groter of kleiner maken
+![Productkenmerken selecteren](images/productkenmerken_selecteren.jpg)
 
-*Bij orders:*
+<div class="info">
+Er kunnen meerdere productkenmerken worden geselecteerd. Afhankelijk met de afspraken welke zijn gemaakt met de ontvangende partijen kunnen kenmerken worden toegevoegd.
+</div>
 
-Voorbeeld zonder: `{MERGEFIELD IMAGES:QUESTION_ATTACHMENT_IMAGES \* MERGEFORMAT}`
+## Productkenmerken aanmaken ##
+Om niet alle producten mee te nemen in de product feed kan er een kenmerk worden aangemaakt. Alle producten welke in gedeeld dienen te worden vervolgens gekoppeld dat het betreffende kenmerk.
+Klik op start en zoek “Productkenmerken” 
+Klik op toevoegen om een nieuw kenmerk toe te voegen
 
-Voorbeeld met: `{MERGEFIELD IMAGES:QUESTION_ATTACHMENT_IMAGES / size=100 \* MERGEFORMAT}`
+![Productkenmerken aanmaken](images/kenmerken_aanmaken.jpg)
 
-*Bij facturen:*
+Koppel de producten welke in de feed naar voren dienen te komen aan het betreffende kenmerken. Het is mogelijk om meerdere producten tegelijk aan een kenmerk te koppelen. Uiteraard is het ook mogelijk om de kenmerken per stuk aan een product te koppelen.
 
-Voorbeeld zonder: `{MERGEFIELD IMAGE:ORDER_LINE_1_IMAGE \* MERGEFORMAT}`
-
-Voorbeeld met: `{MERGEFIELD IMAGE:ORDER_LINE_1_IMAGE / size=100 \* MERGEFORMAT}`
-
-*Bij vragenlijsten:*
-
-Voorbeeld zonder: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE \* MERGEFORMAT}`
-
-Voorbeeld met: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE / size=100 \* MERGEFORMAT}`
-
-----------
-
-# Een tabel opnieuw laten beginnen om een pagina #
-
-Het komt wel eens voor dat je meerdere orderregels of diverse in een tabel heb, als de tabel dan onder aan de pagina uitvalt wil hij hem wel eens opsplitsen in 2e naar de volgende pagina.
-
-![](images/3.jpg)
-
-Dit kan je ook uitzetten dat het een nieuwe tabel word op een volgende pagina.
-(via rechtermuisknop op het kruisje van de tabel)
-
-Het vinkje staat over het algemeen aan. Als je deze uitzet word er een nieuwe tabel weergegeven op een volgende pagina. 
-
-![](images/1.jpg)
-
-Uitslag:
-
-![](images/2.jpg)
-
-----------
+![Producten selecteren](images/producten_selecteren.jpg)
