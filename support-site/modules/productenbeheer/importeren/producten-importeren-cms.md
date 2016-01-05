@@ -58,7 +58,7 @@ Tabblad staat aangegeven tussen de ()
 
 ![](images/export1.JPG)
 
-- ReacordIndex
+- RecordIndex
 	- Identieke nummer van het product
 - Search field
 	- Veld om op te zoeken
