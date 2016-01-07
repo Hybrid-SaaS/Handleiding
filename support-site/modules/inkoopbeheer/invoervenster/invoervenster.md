@@ -62,5 +62,7 @@ Boekingsregels toevoegen
 	
 Daarnaast kan je de regel nog koppelen aan verschillende onderdelen o.a. een factuur; product; project; contract; inventaris 
 
+Door een boekstuknummer te kunnen geven aan de inkoopfactuur dien je de factuur goed te keuren. deze heeft 3 stappen, deze kan onderverdeeld zijn onder meerdere medewerkers
+Bij de tapblad interne opmerking kan je zien wie de inkoop geeft goed gekeurd of eventueel heeft afgekeurd 
 
 ----------
