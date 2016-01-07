@@ -1,11 +1,11 @@
 <properties>
 	<page>
-		<title>Btw aanpassen</title>
-		<description>Btw aanpassen</description>
+		<title>Btw</title>
+		<description>Btw</description>
 	</page>
 	<menu>
 		<position>Modules / Balans</position>
-		<title>Btw aanpassen</title>
+		<title>Btw</title>
 		<sort>e</sort>
 	</menu>
 </properties>
