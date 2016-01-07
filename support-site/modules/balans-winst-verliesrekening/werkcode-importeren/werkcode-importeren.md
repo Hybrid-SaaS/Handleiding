@@ -1,10 +1,10 @@
 <properties>
 	<page>
-		<title>Btw aanpassen</title>
-		<description>Btw aanpassen</description>
+		<title>Werkcodes importeren</title>
+		<description>Werkcodes importeren</description>
 	</page>
 	<menu>
-		<position>Modules / Bankrekeningen </position> 
+		<position>Modules / Balans, Winst & Verliesrekening </position> 
 		<title>Werkcodes importeren</title>
 		<sort>e</sort>
 	</menu>

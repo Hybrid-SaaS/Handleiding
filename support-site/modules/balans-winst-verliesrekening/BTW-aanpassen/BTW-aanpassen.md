@@ -4,7 +4,7 @@
 		<description>Btw aanpassen</description>
 	</page>
 	<menu>
-		<position>Modules / Bankrekeningen </position> 
+		<position>Modules / Balans, Winst & Verliesrekening </position>
 		<title>Btw aanpassen</title>
 		<sort>e</sort>
 	</menu>
