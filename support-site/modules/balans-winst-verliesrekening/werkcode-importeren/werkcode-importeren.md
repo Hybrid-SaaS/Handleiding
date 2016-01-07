@@ -4,7 +4,7 @@
 		<description>Werkcodes importeren</description>
 	</page>
 	<menu>
-		<position>Modules / Balans, Winst & Verliesrekening </position> 
+		<position>Modules / Balans</position> 
 		<title>Werkcodes importeren</title>
 		<sort>e</sort>
 	</menu>
