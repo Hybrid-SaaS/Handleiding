@@ -23,7 +23,7 @@ Selecteer het betreffende sjabloon en klik op bewerken
 
 Microsoft Word zal worden geopend en het geselecteerde sjabloon zal worden weergegeven. Aan de rechterkant verschijnt een overzicht van alle velden welke ingevoegd kunnen worden. Afhankelijk van het type "tabel" welke is geselecteerd bij het sjabloon worden de mogelijke velden weergegeven.
 
-![Samenvoegvelden binnen Hybrid SaaS](images/Samenvoegvelden toevoegen.jpg)
+![Samenvoegvelden binnen Hybrid SaaS](images/samenvoegvelden_toevoegen.jpg)
 
 <div class="info">
 In het zoekveld kan worden gezocht op velden welke ingevoegd dienen te worden. Alle benamingen zijn in het Engels. Mocht je een veld niet kunnen vinden neem dan contact met ons op.
@@ -40,78 +40,61 @@ Klik hiervoor in het Word document op "Save & Store Template"
 
 ![Sjabloon opslaan in Hybrid SaaS](images/save_and_store_template.jpg)
 
+## Basis weetjes voor het bewerken van documenten ##
 
 
-## Basis weetjes weetjes ##
+ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
+CTRL+ENTER 	| Nieuwe Pagina invoegen
+CTRL+A		| Alles Selecteren
+CTRL+C		| Selectie Kopiëren
+CTRL+V		| Selectie Plakken (Met de rechtermuisknop kan ook "speciaal" worden geplakt. Eventuele opmaak van de bron kan dan worden behouden)
+
+## Tabellen weergeven ##
+Om alle informatie op het document netjes onder elkaar weer te geven zal met tabellen gewerkt dienen te worden. Echter is het niet altijd wenselijk om de tabel daadwerkelijk weer te geven op de documentuitvoer.
+
+In Word is de tabel onzichtbaar en is bijvoorbeeld het onderstaande zichtbaar.
+![Sjabloon opslaan in Hybrid SaaS](images/kolommen_niet_zichtbaar.jpg)
+
+Om de tabellen weer te geven selecteer de optie zoal hieronder weergegeven
+![Sjabloon opslaan in Hybrid SaaS](images/tabellen_weergeven.jpg)
+
+De tabellen (lees rasterlijnen) zullen worden weergegeven. Voer bovenstaande bewerking nogmaals uit om de weergave te herstellen
+![Sjabloon opslaan in Hybrid SaaS](images/kolommen_zichtbaar.jpg)
 
 
-ALT+F9 | Hiermee kunnen onzichtbare onderdelen zichtbaar worden gemaakt. Bijvoorbeeld `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
-
-
-
-## Angelsaksische en Engelse notatie ##
+## Aanpassen getalnotatie (Angelsaksische en Engelse notatie) ##
 
 Getalnotaties voor bijvoorbeeld valuta kunnen op diverse manieren worden weergegeven. Hierin wordt onderscheid gemaakt tussen het het karakter voor het scheiden van duizendtallen en het karakter om decimalen weer te geven. In Nederland maken wij gebruik van de Angelsaksische notatie waarbij duizendtallen worden gescheiden dmv een "." (punt) en decimalen dmv een "," (komma). In de Engelse notatie worden deze karakters andersom gebruikt.
 
 Bij de uitvoer van documenten met verschillende talen is het belangrijk dat de documenten goed worden ingesteld. 
 
-# Voorkeursnotatie  #
+### Voorkeursnotatie  ###
 
 Ga naar de betreffende MERGEFIELD
 
 Plaats de volgende notatie `\# "§0¤00"` vóór `\*` in het MERGEFIELD
 
-§ = MERGEFIELDS: CURRENCY GROUP SEPARATOR
-¤ = MERGEFIELDS: CURRENCY DECIMAL SEPARATOR
+§ = `MERGEFIELDS: CURRENCY GROUP SEPARATOR`
+¤ = `MERGEFIELDS: CURRENCY DECIMAL SEPARATOR`
 
 Voorbeeld zonder voorkeursnotatie € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
 
-Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
+Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT **\# "§0¤00"** \* MERGEFORMAT}`
+
+Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT **\# "§0¤00"** \* MERGEFORMAT}`
 
 
-# Engelse getalnotatiegebruik ( 00,000.00) #
+## Afbeeling een vaste afmeting geven ##
 
-*Als het een Engels document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
+Door middel van een "size" `/ size=100` toe te voegen aan de MERGEFIELD kan een gefixeerde grootte krijgen
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+Voorbeeld zonder: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES \* MERGEFORMAT}`
 
-Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# ,0.00 MERGEFORMAT}`
-
-# Met Franse bedragen(€ 00000,00)  #
-
-*Als het een Frans document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
-
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
-
-Voorbeeld met € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# 0.00 MERGEFORMAT}`
+Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES **/ size=100** \* MERGEFORMAT}`
 
 ----------
 
-# Een maat aan de afbeelding geven #
-
-Door middel van een size toe te voegen aan de MERGEFIELD veld kan je een afbeelding op de order ander document groter of kleiner maken
-
-*Bij orders:*
-
-Voorbeeld zonder: `{MERGEFIELD IMAGES:QUESTION_ATTACHMENT_IMAGES \* MERGEFORMAT}`
-
-Voorbeeld met: `{MERGEFIELD IMAGES:QUESTION_ATTACHMENT_IMAGES / size=100 \* MERGEFORMAT}`
-
-*Bij facturen:*
-
-Voorbeeld zonder: `{MERGEFIELD IMAGE:ORDER_LINE_1_IMAGE \* MERGEFORMAT}`
-
-Voorbeeld met: `{MERGEFIELD IMAGE:ORDER_LINE_1_IMAGE / size=100 \* MERGEFORMAT}`
-
-*Bij vragenlijsten:*
-
-Voorbeeld zonder: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE \* MERGEFORMAT}`
-
-Voorbeeld met: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE / size=100 \* MERGEFORMAT}`
-
-----------
-
-# Een tabel opnieuw laten beginnen om een pagina #
+# Koppen van een tabel herhalen op volgende pagina #
 
 Het komt wel eens voor dat je meerdere orderregels of diverse in een tabel heb, als de tabel dan onder aan de pagina uitvalt wil hij hem wel eens opsplitsen in 2e naar de volgende pagina.
 
