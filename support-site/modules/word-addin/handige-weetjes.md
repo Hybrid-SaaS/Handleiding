@@ -88,7 +88,36 @@ Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOI
 
 Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT **\# "§0¤00"** \* MERGEFORMAT}`
 
-## Afbeeling een vaste afmeting geven ##
+
+## Informatie weergeven indien er daadwerkelijk iets weer te geven is ##
+
+Het kan voorkomen dat iets niet weergegeven dient te worden indien geen data van is. Bijvoorbeeld een "ter attentie van" in een adres. Om er voor te zorgen dat er geen regel wordt weergegeven is het mogelijk om informatie weg te laten indien er geen data is. Dit kan worden opgelost door een zogenoemd "IF" functie (in het Nederlands ALS). Kort gezegd "als waarde X is, dan moet Y worden weergeven"
+
+Onderstaande afbeelding laat zien dat er een lege regel wordt weergegeven omdat de "t.a.v." niet is ingevuld
+![Weergave met lege regel](images/weergaven_met_lege_regel.jpg)
+
+### ALS functie invoegen ###
+
+**CTRL+F9**
+
+`{ IF "«INVOICE_HEADER»" <> "" "«INVOICE_HEADER»" }` 
+
+<div class="info">
+<> 	= ongelijk aan
+<	= kleiner dan
+>	= groter dan
+""	= Tekst altijd tussen " (quotes)
+</div>
+
+
+Na het toevoegen van de ALS functie zal de lege regel niet worden weergegeven zoals hieronder weergegeven.
+![Weergave zonder lege regel](images/weergaven_zonder_lege_regel.jpg)
+
+<div class="info">
+De ALS functie kan voor talloze doeleinden worden gebruikt. Het is ook mogelijk om meerdere ALS functies in elkaar te gebruiken.
+</div>
+ 
+## Afbeelding een vaste afmeting geven ##
 
 Door middel van een "size" `/ size=100` toe te voegen aan de MERGEFIELD kan een gefixeerde grootte krijgen
 
@@ -96,23 +125,10 @@ Voorbeeld zonder: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES \* MERGEFORMAT}`
 
 Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES **/ size=100** \* MERGEFORMAT}`
 
+## Koppen van een tabel herhalen op volgende pagina ##
 
+De kop van een tabel kan in de Kop- en voettekst van een document worden weergegeven. Echter is het ook mogelijk om de bovenste rij(en) op iedere pagina te herhalen.
 
-# Koppen van een tabel herhalen op volgende pagina #
+Klik met de rechtermuisknop op de rij welke herhaald dient te worden. Ga naar **Tabeleigenschappen** > Tabblad Rij > Zet het vinkje aan voor **Rij als veldnamenrij herhalen bovenaan op iedere pagina**
 
-Het komt wel eens voor dat je meerdere orderregels of diverse in een tabel heb, als de tabel dan onder aan de pagina uitvalt wil hij hem wel eens opsplitsen in 2e naar de volgende pagina.
-
-![](images/3.jpg)
-
-Dit kan je ook uitzetten dat het een nieuwe tabel word op een volgende pagina.
-(via rechtermuisknop op het kruisje van de tabel)
-
-Het vinkje staat over het algemeen aan. Als je deze uitzet word er een nieuwe tabel weergegeven op een volgende pagina. 
-
-![](images/1.jpg)
-
-Uitslag:
-
-![](images/2.jpg)
-
-----------
+![Eerste rij op elke pagina herhalen](images/eerste_rij_weergeven_op_volgende_pagina.jpg)
