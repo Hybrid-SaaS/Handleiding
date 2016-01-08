@@ -85,9 +85,9 @@ Plaats de volgende notatie `\# "§0¤00"` vóór `\*` in het MERGEFIELD
 
 Voorbeeld zonder voorkeursnotatie € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
 
-Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT **\# "§0¤00"** \* MERGEFORMAT}`
+Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
 
-Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT **\# "§0¤00"** \* MERGEFORMAT}`
+Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
 
 
 ## Informatie weergeven indien er daadwerkelijk iets weer te geven is ##
@@ -127,7 +127,7 @@ Door middel van een "size" `/ size=100` toe te voegen aan de MERGEFIELD kan een 
 
 Voorbeeld zonder: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES \* MERGEFORMAT}`
 
-Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES **/ size=100** \* MERGEFORMAT}`
+Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES / size=100 \* MERGEFORMAT}`
 
 ## Koppen van een tabel herhalen op volgende pagina ##
 
