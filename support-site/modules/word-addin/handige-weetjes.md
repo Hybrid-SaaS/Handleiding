@@ -43,22 +43,27 @@ Klik hiervoor in het Word document op "Save & Store Template"
 ## Basis weetjes voor het bewerken van documenten ##
 
 
-ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
-CTRL+ENTER 	| Nieuwe Pagina invoegen
-CTRL+A		| Alles Selecteren
-CTRL+C		| Selectie Kopiëren
-CTRL+V		| Selectie Plakken (Met de rechtermuisknop kan ook "speciaal" worden geplakt. Eventuele opmaak van de bron kan dan worden behouden)
+- ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
+- CTRL+ENTER 	| Nieuwe Pagina invoegen
+- CTRL+A		| Alles Selecteren
+- CTRL+C		| Selectie Kopiëren
+- CTRL+V		| Selectie Plakken (Met de rechtermuisknop kan ook "speciaal" worden geplakt. Eventuele opmaak van de bron kan dan worden behouden)
 
 ## Tabellen weergeven ##
 Om alle informatie op het document netjes onder elkaar weer te geven zal met tabellen gewerkt dienen te worden. Echter is het niet altijd wenselijk om de tabel daadwerkelijk weer te geven op de documentuitvoer.
 
 In Word is de tabel onzichtbaar en is bijvoorbeeld het onderstaande zichtbaar.
+
 ![Sjabloon opslaan in Hybrid SaaS](images/kolommen_niet_zichtbaar.jpg)
 
+<div class="info">
 Om de tabellen weer te geven selecteer de optie zoal hieronder weergegeven
+</div>
+
 ![Sjabloon opslaan in Hybrid SaaS](images/tabellen_weergeven.jpg)
 
 De tabellen (lees rasterlijnen) zullen worden weergegeven. Voer bovenstaande bewerking nogmaals uit om de weergave te herstellen
+
 ![Sjabloon opslaan in Hybrid SaaS](images/kolommen_zichtbaar.jpg)
 
 
@@ -83,7 +88,6 @@ Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOI
 
 Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT **\# "§0¤00"** \* MERGEFORMAT}`
 
-
 ## Afbeeling een vaste afmeting geven ##
 
 Door middel van een "size" `/ size=100` toe te voegen aan de MERGEFIELD kan een gefixeerde grootte krijgen
@@ -92,7 +96,7 @@ Voorbeeld zonder: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES \* MERGEFORMAT}`
 
 Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES **/ size=100** \* MERGEFORMAT}`
 
-----------
+
 
 # Koppen van een tabel herhalen op volgende pagina #
 
