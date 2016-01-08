@@ -10,18 +10,66 @@
 	</menu>
 </properties>
 
-## Handige weetjes ##
+# Handige weetjes #
+In deze rubriek laten we aan aantal voorbeelden zien voor het aanpassen van documentsjablonen in Hybrid SaaS. Denk hierbij aan factuursjabloon, ordersjabloon, herinneringen enz. Hybrid SaaS maakt gebruik van Microsoft Word voor de opmaak van documenten. Binnen Word zijn tal van mogelijkheden. Wij zullen een aantal functies uitleggen die makkelijk zijn om zelf sjablonen aan te passen.
 
-# Met Nederlandse of daarop lijkende bedragen (€ 00.000,00) #
+# Document bewerken, toevoegen en opslaan #
 
-In het Word Document het betreffende MERGEFIELD veld opzoeken
+Zoek "Wordsjablonen"
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+Selecteer het betreffende sjabloon en klik op bewerken
 
-Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# .0,00 MERGEFORMAT}` 
+![Wordsjablonen bewerken](images/wordsjaboon_bewerken.jpg)
+
+Microsoft Word zal worden geopend en het geselecteerde sjabloon zal worden weergegeven. Aan de rechterkant verschijnt een overzicht van alle velden welke ingevoegd kunnen worden. Afhankelijk van het type "tabel" welke is geselecteerd bij het sjabloon worden de mogelijke velden weergegeven.
+
+![Samenvoegvelden binnen Hybrid SaaS](images/Samenvoegvelden toevoegen.jpg)
+
+<div class="info">
+In het zoekveld kan worden gezocht op velden welke ingevoegd dienen te worden. Alle benamingen zijn in het Engels. Mocht je een veld niet kunnen vinden neem dan contact met ons op.
+</div>
+<div class="info">
+Er zijn twee verschillende soorten velden:
+- Velden welke op zichzelf staan zoals "ADRES", "FACTUURNUMMER", "FACTUURTOTAAL"
+- Velden welke herhaald worden zoals "FACTUURREGELS" en "ORDERREGELS". Deze velden vallen onder een zogenaamde herhalingstabel. Dit betekent dat deze velden enkel werken als deze in een tabel staan en dat de tabel een `MERGEFIELD TABLESTART:` en `MERGEFIELD TABLEEND:` bevat.
+</div>
+
+Indien het document naar wens ia aangepast dient het document worden geüpload in Hybrid SaaS.
+
+Klik hiervoor in het Word document op "Save & Store Template" 
+
+![Sjabloon opslaan in Hybrid SaaS](images/save_and_store_template.jpg)
 
 
-# Met Engelse bedragen (€ 00,000.00) #
+
+## Basis weetjes weetjes ##
+
+
+ALT+F9 | Hiermee kunnen onzichtbare onderdelen zichtbaar worden gemaakt. Bijvoorbeeld `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
+
+
+
+## Angelsaksische en Engelse notatie ##
+
+Getalnotaties voor bijvoorbeeld valuta kunnen op diverse manieren worden weergegeven. Hierin wordt onderscheid gemaakt tussen het het karakter voor het scheiden van duizendtallen en het karakter om decimalen weer te geven. In Nederland maken wij gebruik van de Angelsaksische notatie waarbij duizendtallen worden gescheiden dmv een "." (punt) en decimalen dmv een "," (komma). In de Engelse notatie worden deze karakters andersom gebruikt.
+
+Bij de uitvoer van documenten met verschillende talen is het belangrijk dat de documenten goed worden ingesteld. 
+
+# Voorkeursnotatie  #
+
+Ga naar de betreffende MERGEFIELD
+
+Plaats de volgende notatie `\# "§0¤00"` vóór `\*` in het MERGEFIELD
+
+§ = MERGEFIELDS: CURRENCY GROUP SEPARATOR
+¤ = MERGEFIELDS: CURRENCY DECIMAL SEPARATOR
+
+Voorbeeld zonder voorkeursnotatie € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+
+Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
+
+
+# Engelse getalnotatiegebruik ( 00,000.00) #
 
 *Als het een Engels document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
 
