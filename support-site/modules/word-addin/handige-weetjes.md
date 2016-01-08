@@ -36,7 +36,7 @@ Er zijn twee verschillende soorten velden:
 
 Indien het document naar wens ia aangepast dient het document worden geüpload in Hybrid SaaS.
 
-Klik hiervoor in het Word document op "Save & Store Template" 
+Klik hiervoor in het Word document op "**Save & Store Template**" 
 
 ![Sjabloon opslaan in Hybrid SaaS](images/save_and_store_template.jpg)
 
@@ -44,6 +44,7 @@ Klik hiervoor in het Word document op "Save & Store Template"
 
 
 - ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
+- CTRL+F9		| Lege veldcode invoegen
 - CTRL+ENTER 	| Nieuwe Pagina invoegen
 - CTRL+A		| Alles Selecteren
 - CTRL+C		| Selectie Kopiëren
@@ -98,14 +99,17 @@ Onderstaande afbeelding laat zien dat er een lege regel wordt weergegeven omdat 
 
 ### ALS functie invoegen ###
 
-**CTRL+F9**
+Voeg een lege veldcode in met **CTRL+F9**
 
 `{ IF "«INVOICE_HEADER»" <> "" "«INVOICE_HEADER»" }` 
 
 <div class="info">
 <> 	= ongelijk aan
+
 <	= kleiner dan
+
 >	= groter dan
+
 ""	= Tekst altijd tussen " (quotes)
 </div>
 
