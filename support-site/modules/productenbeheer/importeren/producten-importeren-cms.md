@@ -10,7 +10,12 @@
 	</menu>
 </properties>
 
-## Importeren Producten ##
+## Producten Importeren  ##
+
+<description>Om op een eenvoudige manier producten in de database te krijgen is er een import module aanwezig. Hiermee kan je eenvoudig nieuwe producten toevoegen of bestaande producten aanpassen. Dit doe je niet als je voor één producten iets wilt aanpassen maar vaak als je een massa mutatie gaat uitvoeren, waarbij je bijvoorbeeld bij iedere producten iets wilt toevoegen en/of wijzigen.
+</description>
+
+**Om bestaande producten te veranderen heb je de juiste productcode nodig. deze zal dan overschreden worden met de nieuwe informatie**
 
 Zoek in start naar Importeren
 
@@ -23,8 +28,6 @@ De geëxporteerde excel sheet bevat meerdere tabbladen,
 Kies het juiste tabblad de rest kan je verwijderen
 
 ![](images/import-tabblad.JPG)
-
-
 
 **In de kolom Search_Field word aangegeven naar welk veld het systeem moet kijken tijdens het inlezen, in het tabel onder Search_field kan je de naam van de kolom ingeven** *Over het algemeen worden de velden productcode of recordindex gebruikt*
 
@@ -50,11 +53,14 @@ Na de import verschijnt er een internet pagina met daarin het resultaat van de i
 
 Je kan nu in Hybrid SaaS bij de producten de geïmporteerde gegevens terugvinden.
 
+
+----------
+
 ## De kolommen ##
 
-# Blad Products #
+Tabblad staat aangegeven tussen de () en de veldnaam is **dik** gedrukt
 
-Tabblad staat aangegeven tussen de ()
+# Blad Products #
 
 ![](images/export1.JPG)
 
@@ -93,7 +99,7 @@ Tabblad staat aangegeven tussen de ()
 	- *(Prijzen)* **Voorgestelde verkoopprijs**
 - Vat
 	- *(Prijzen) (Verkoopprijs)* **BTW** 
-		- Alleen in te vullen met: De orginele benaming zoals in het systeem aangegeven
+		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
 - Category
 	- *(Informatie) (Subgroep)* **Hoofdgroep**
 		- Bestaande worden overgenomen. Nieuwe worden aangemaakt (!Let op hoofdletters en kleine letters)
@@ -132,7 +138,6 @@ Tabblad staat aangegeven tussen de ()
 		- Bestaande worden overgenomen. Nieuwe worden aangemaakt (!Let op hoofdletters en kleine letters)
 			- Via deze kolom worden alle bestaande kenmerken verwijders uit het product en toegevoegd aan het kenmerk wat je hier invult
 - Part of productcode
-	- 
 
 ![](images/export3.JPG)
 
@@ -145,22 +150,30 @@ Tabblad staat aangegeven tussen de ()
 		- Bestaande worden overgenomen. Nieuwe worden aangemaakt (!Let op hoofdletters en kleine letters)
 - Product seasonality
 	- *(Seizoenen)* **Seizoenen**
-		- Alleen in te vullen met: De orginele benaming zoals in het systeem aangegeven
+		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
 - Product brand
 	- *(Informatie)* **Merk**
 		- Bestaande worden overgenomen. Nieuwe worden aangemaakt (!Let op hoofdletters en kleine letters)
 - Stockitem
 	- *(Informatie)* **Voorraadverwerking vinkje**
-		- Alleen in te vullen met: WAAR is vinkje aan/ONWAAR is vinkje uit
+		- Aan te geven met de volgende waarde:
+			- WAAR Vinkje aan
+			- ONWAAR Vinkje uit
 - Hidden
 	- *(Informatie)* **Gearchiveerd vinkje**
-		- Alleen in te vullen met: WAAR is vinkje aan/ONWAAR is vinkje uit
+		- Aan te geven met de volgende waarde:
+			- WAAR Vinkje aan
+			- ONWAAR Vinkje uit
 - Fixed price
 	- *(Instellingen)* **Variable verkoop prijs uitschakelen voor dit product vinkje**
-		- Alleen in te vullen met: WAAR is vinkje aan/ONWAAR is vinkje uit
+		- Aan te geven met de volgende waarde:
+			- WAAR Vinkje aan
+			- ONWAAR Vinkje uit
 - Fixed purchase price
 	- *(Instellingen)* **Variable inkoop prijs uitschakelen voor dit product vinkje**
-		- Alleen in te vullen met: WAAR is vinkje aan/ONWAAR is vinkje uit
+		- Aan te geven met de volgende waarde:
+			- WAAR Vinkje aan
+			- ONWAAR Vinkje uit
 - Base selling price
 	- *(Instellingen)* **Basis verkoop prijs**
 - Base purchase price
@@ -173,7 +186,6 @@ Tabblad staat aangegeven tussen de ()
 - Height
 	- *(Instellingen)* **Hoogte (cm)**
 - Fixed discount
-	- 
 
 ![](images/export4.JPG)
 
@@ -186,12 +198,12 @@ Tabblad staat aangegeven tussen de ()
 - Pre sale product
 - Webshop
 	- *(Informatie)* **Weergeven op webshop vinkje**
-
-
+- Stock valuation factor
+	- *(Prijzen)* **Waarderingsfactor**
 
 ----------
 
-# Blad Product NL#
+# Blad Product NL #
 
 ![](images/nl-kolomen.PNG)
 
@@ -216,6 +228,7 @@ Tabblad staat aangegeven tussen de ()
 	- *(Titel)* **Details**
 - CMS url NL
 	- *(Titel)* **URL**
+		- LET OP! hierin geen spaties, hoofdletters of tekens gebruiken.
 - CMS title NL
 	- *(Titel)* **Titel**
 - CMS keywords NL
@@ -224,22 +237,57 @@ Tabblad staat aangegeven tussen de ()
 	- *(Titel)* **CSS class website**
 
 ----------
-# Blad Prices#
+
+# Blad Prices #
 
 ![](images/price-tabblad.PNG)
 
 Om deze te kunnen gebruiken moet je tabblad Product NL laten staan en deze sorteren op productcode
 in het blad prices verwijder je de kolom recordindex
 
-!LET OP, na elke inlezing van het importscript word er een nieuwe prijsmodel aangemaakt, je kan hem dus niet aanpassen op deze manier
+Als de product code bekend is zal hij de bestaande regel vernieuwen
 
 - RecordIndex
 	- Identieke nummer van het product
+- Group
+	- *(Prijzen)(Afwijkende prijsmodel)* **Groep**
+		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
 - Productcode
 	- *(Informatie)* **Productcode**
-		- deze moet gelijk zijn aan het product welke al bekend is in het systeem
+		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
+- Use purchase price
+	- *(Prijzen)(Afwijkende prijsmodel)* **Gebruik inkoopprijs**
+		- Aan te geven met de volgende waarde:
+			- 0 Vinkje aan
+			- 1 Vinkje uit
+- Use selling price
+	- *(Prijzen)(Afwijkende prijsmodel)* **Gebruik verkoopprijs**
+		- Aan te geven met de volgende waarde:
+			- 0 Vinkje aan
+			- 1 Vinkje uit
+- Use retail price
+	- *(Prijzen)(Afwijkende prijsmodel)* **Gebruik advies verkoopprijs**
+		- Aan te geven met de volgende waarde:
+			- 0 Vinkje aan
+			- 1 Vinkje uit
+- Use suggested retail price
+	- *(Prijzen)(Afwijkende prijsmodel)* **Gebruik voorgestelde advies verkoopprijs**
+		- Aan te geven met de volgende waarde:
+			- 0 Vinkje aan
+			- 1 Vinkje uit
+- Remove vat
+	- *(Prijzen)(Afwijkende prijsmodel)* **Verwijder btw uit berekening**
+		- Aan te geven met de volgende waarde:
+			- 0 Vinkje aan
+			- 1 Vinkje uit
+- Vat rate
+	- *(Prijzen)(Afwijkende prijsmodel)* **BTW % verwerkt in prijs**
+		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
 - Factor
 	- *(Prijzen)(Afwijkende prijsmodel)* **Factor**
+
+![](images/price-tabblad2.PNG)
+
 - Division
 	- *(Prijzen)(Afwijkende prijsmodel)* **Deler**
 - Discount
@@ -248,8 +296,21 @@ in het blad prices verwijder je de kolom recordindex
 	- *(Prijzen)(Afwijkende prijsmodel)* **Originele prijs**
 - Selling price
 	- *(Prijzen)(Afwijkende prijsmodel)* **Verkoopprijs**
+- Currency
+	- *(Prijzen)(Afwijkende prijsmodel)* **Valuta**
+		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
+- Rounding tactic
+	- *(Prijzen)(Afwijkende prijsmodel)* **Afronding**
+		- Aan te geven met de volgende waarde:
+			- 0 Geen afronding
+			- 1 Dichtstbijzijnde heel
+			- 2 Dichtstbijzijnde half
+			- 3 Naar boven
+			- 4 Naar beneden
+- Rounding ajust
+	- *(Prijzen)(Afwijkende prijsmodel)* **Prijs bijstellen**
 - Ammount
 	- *(Prijzen)(Afwijkende prijsmodel)* **Vanaf aantal**
-- Name
-	- *(Prijzen)(Afwijkende prijsmodel)* **Groep**
-		- Alleen in te vullen met: De orginele benaming zoals in het systeem aangegeven, anders blijft het leeg
+
+
+----------

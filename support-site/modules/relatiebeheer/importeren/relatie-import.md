@@ -12,56 +12,115 @@
 
 ## Relatie importeren ##
 
-<description>Om op een eenvoudige manier relaties in de database te krijgen is er een import module aanwezig. Hiermee kan je eenvoudig nieuwe relaties toevoegen of bestaande relaties aanpassen. Dit doe je niet als je voor één relatie iets wilt aanpassen maar vaak als je een massa mutatie gaat uitvoeren, waarbij je bijvoorbeeld bij iedere relatie iets wilt toevoegen en/of wijzigen.
+<description>Om op een eenvoudige manier relaties in de database te krijgen is er een import module aanwezig. Hiermee kan je eenvoudig nieuwe relaties toevoegen of bestaande relaties aanpassen. Dit doe je niet als je voor één relaties iets wilt aanpassen maar vaak als je een massa mutatie gaat uitvoeren, waarbij je bijvoorbeeld bij iedere relaties iets wilt toevoegen en/of wijzigen.
 </description>
 
-**Voorbereiden en aanmaken importbestand**
+**Om bestaande relaties te veranderen heb je de juiste relatiecode nodig. deze zal dan overschreden worden met de nieuwe informatie**
 
-Als je via de START knop naar Extra, Importeren gegevens gaat dan krijg je een scherm waarbij je een 4-tal imports kan kiezen.
+Zoek in start naar Importeren
 
-![](images/import-start.jpg)
+Om te importeren klik je eerst op 
+*Bedrijven importeren - Voorbeeldsheet*
 
-Voor de relaties kies je "Bedrijven importeren".
-Als je dit voor het eerst doet, dan begin je met het downloaden van de voorbeeld sheet. Er wordt dan een excel sheet geopend.
+Je krijgt een hele lijst met kolommen, Zie voor uitleg kolommen hieronder
 
-![](images/import-scherm.jpg)
+Nu kan je het exportbestand opslaan op je bureaublad en afsluiten.
 
-Hierin krijg je horizontaal alle mogelijke velden die je kan invullen en daarna importeren. Vul handmatig of kopieer de gewenste velden in dit importbestand.
+**Importeren**
 
-![](images/import-voorbeeld-excel.jpg)
+Gebruik nu de knop "Klik hier om bedrijven te importeren" om de bedrijven te importeren. 
+Zoek het juiste bestand op en selecteer deze.
+Na de import verschijnt er een internet pagina met daarin het resultaat van de import.
 
-In onderstaande matrix zie je welk importveld correspondeert met het database veld uit Hybrid SaaS.
- 
-- Veld bestand			
-	- Veldnaam uit de het bestand (Engels)
-- Tabel
-	- De tabel waar de data wordt weggeschreven (Bedrijf en Persoon)
-- Scherm tabblad
-	- Het tabblad in het relatie scherm waar de gegevens zichtbaar worden
-- Scherm blok
-	- Het gedeelte binnen het tabblad waar de gegevens zichtbaar worden
-- Scherm veld
-	- Het daadwerkelijke veld op het scherm waar de gegevens zichtbaar worden
+<div class="info"> Je moet het Excel bestandje sluiten voordat je hem gaat importeren anders zal die een fout melding aangeven </div>
 
-![](images/import-matrix.jpg)
-
-**Importeren van het importbestand**
-
-Zodra je alle gegevens in het importbestand hebt verwerkt en dit bestand hebt opgeslagen kan je deze gaan importeren. Dit doe je door in het "Importeren Data" scherm de knop "Klik hier om bedrijven te importeren". Zoek het juiste importbestand en klik op "Openen". Het bestand wordt ingelezen.
-
-![](images/import-import.jpg)
-
-<div class="info">
-LET OP: het bestand mag niet geopend zijn op het moment dat je gaat importeren. Dan geeft het systeem een ERROR.</div>
-
-Als de import is uitgevoerd wordt er in je Internet Explorer een rapport getoond. Hierin staan als het goed is geen fouten. Mochten er toch fouten in het rapport voorkomen, pas dan het initiële importbestand aan en lees het bestand opnieuw in.
-
-**Voorbeeld Rapport**
-
-- Shipping_cost = verkeerd formaat ingevoerd
-- Accountmanager = De ingevoerde accountmanager bestaat niet in het systeem. (validatie op tabel "accountmanager")
-
-![](images/import-rapport.jpg)
+Je kan nu in Hybrid SaaS bij de Relaties de geïmporteerde gegevens terugvinden.
 
 ----------
 
+## De kolommen ##
+
+Tabblad staat aangegeven tussen de () en de veldnaam is **dik** gedrukt
+
+# Blad Products #
+
+![](images/01.PNG)
+
+- Organization address work country
+- Organization status
+	- *(N.A.W.)* **Status**
+- Organization legal name
+- Person recordGUID
+	- **Persoonlijke recordnummer**
+- Person registration number
+	- *(Registratie/Familie)* **Registratienummer**
+- Person lastname
+	- *(N.A.W.)* **achternaam**
+- Person middlename
+	- *(N.A.W.)* **t.v.**
+- Person firstname
+	- *(N.A.W.)* **Voornaam**
+
+![](images/02.PNG)
+
+- Person initials
+	- *(N.A.W.)* **Initialen**
+- Person usual Name
+	- *(N.A.W.)* **Roepnaam**
+- Person gender
+	- *(N.A.W.)* **Geslacht**
+- Person mobile
+	- *(N.A.W.)* **Mobiel**
+- Person email
+	- *(N.A.W.)* **E-mail**
+- Person fax
+	- *(N.A.W.)* **Fax**
+- Person address street
+	- *(N.A.W.)* **Straat**
+- Person address number
+	- *(N.A.W.)* **Nummer**
+- Person address postal code
+	- *(N.A.W.)* **Postcode**
+- Person address city
+	- *(N.A.W.)* **Plaats**
+
+![](images/03.PNG)
+
+- Person address
+- Person website
+	- *(N.A.W.)* **Website**
+- Person instant messenger
+	- *(N.A.W.)* **Messenger**
+- Person social media
+	- *(N.A.W.)* **Sociale media**
+- Person SSN
+	- *(Registratie/Familie)* **BSN nummer**
+- Person Birthday
+	- *(Registratie/Familie)* **Geboortedatum**
+- Organization person function
+	- *(N.A.W.)* **Functie**
+- Bankaccount holder
+	- *(Stamgegevens)* **Rekeninghouder**
+- Bankaccount number
+	- *(Stamgegevens)* **Oud rekeningnummer**
+- Account manager
+	- *(Stamgegevens)* **Account manager**
+- Groups
+	- *(Groepen)* **Groep**
+
+![](images/04.PNG)
+
+- Vat
+	- *(Stamgegevens)* **Verkoop btw**
+- Shipping cost
+	- *(Stamgegevens)* **Verzendkosten**
+- Invoice reminder schedule
+	- *(Stamgegevens)* **Document schema**
+- Language
+	- *(Stamgegevens)* **Taalcode**
+- Currency
+	- *(Stamgegevens)* **Valuta**
+- Discount
+	- *(Stamgegevens)* **Korting**
+
+----------
