@@ -10,74 +10,129 @@
 	</menu>
 </properties>
 
-## Handige weetjes ##
+# Handige weetjes #
+In deze rubriek laten we aan aantal voorbeelden zien voor het aanpassen van documentsjablonen in Hybrid SaaS. Denk hierbij aan factuursjabloon, ordersjabloon, herinneringen enz. Hybrid SaaS maakt gebruik van Microsoft Word voor de opmaak van documenten. Binnen Word zijn tal van mogelijkheden. Wij zullen een aantal functies uitleggen die makkelijk zijn om zelf sjablonen aan te passen.
 
-# Met Nederlandse of daarop lijkende bedragen (€ 00.000,00) #
+# Document bewerken, toevoegen en opslaan #
 
-In het Word Document het betreffende MERGEFIELD veld opzoeken
+Zoek "Wordsjablonen"
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+Selecteer het betreffende sjabloon en klik op bewerken
 
-Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# .0,00 MERGEFORMAT}` 
+![Wordsjablonen bewerken](images/wordsjaboon_bewerken.jpg)
+
+Microsoft Word zal worden geopend en het geselecteerde sjabloon zal worden weergegeven. Aan de rechterkant verschijnt een overzicht van alle velden welke ingevoegd kunnen worden. Afhankelijk van het type "tabel" welke is geselecteerd bij het sjabloon worden de mogelijke velden weergegeven.
+
+![Samenvoegvelden binnen Hybrid SaaS](images/samenvoegvelden_toevoegen.jpg)
+
+<div class="info">
+In het zoekveld kan worden gezocht op velden welke ingevoegd dienen te worden. Alle benamingen zijn in het Engels. Mocht je een veld niet kunnen vinden neem dan contact met ons op.
+</div>
+<div class="info">
+Er zijn twee verschillende soorten velden:
+- Velden welke op zichzelf staan zoals "ADRES", "FACTUURNUMMER", "FACTUURTOTAAL"
+- Velden welke herhaald worden zoals "FACTUURREGELS" en "ORDERREGELS". Deze velden vallen onder een zogenaamde herhalingstabel. Dit betekent dat deze velden enkel werken als deze in een tabel staan en dat de tabel een `MERGEFIELD TABLESTART:` en `MERGEFIELD TABLEEND:` bevat.
+</div>
+
+Indien het document naar wens ia aangepast dient het document worden geüpload in Hybrid SaaS.
+
+Klik hiervoor in het Word document op "**Save & Store Template**" 
+
+![Sjabloon opslaan in Hybrid SaaS](images/save_and_store_template.jpg)
+
+## Basis weetjes voor het bewerken van documenten ##
 
 
-# Met Engelse bedragen (€ 00,000.00) #
+- ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
+- CTRL+F9		| Lege veldcode invoegen
+- CTRL+ENTER 	| Nieuwe Pagina invoegen
+- CTRL+A		| Alles Selecteren
+- CTRL+C		| Selectie Kopiëren
+- CTRL+V		| Selectie Plakken (Met de rechtermuisknop kan ook "speciaal" worden geplakt. Eventuele opmaak van de bron kan dan worden behouden)
 
-*Als het een Engels document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
+## Tabellen weergeven ##
+Om alle informatie op het document netjes onder elkaar weer te geven zal met tabellen gewerkt dienen te worden. Echter is het niet altijd wenselijk om de tabel daadwerkelijk weer te geven op de documentuitvoer.
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+In Word is de tabel onzichtbaar en is bijvoorbeeld het onderstaande zichtbaar.
 
-Voorbeeld met € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# ,0.00 MERGEFORMAT}`
+![Sjabloon opslaan in Hybrid SaaS](images/kolommen_niet_zichtbaar.jpg)
 
-# Met Franse bedragen(€ 00000,00)  #
+<div class="info">
+Om de tabellen weer te geven selecteer de optie zoal hieronder weergegeven
+</div>
 
-*Als het een Frans document bevat (wat is aangegeven bij de localisatie in het Word document) dien je het volgende toe te voegen*
+![Sjabloon opslaan in Hybrid SaaS](images/tabellen_weergeven.jpg)
 
-Voorbeeld zonder € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
+De tabellen (lees rasterlijnen) zullen worden weergegeven. Voer bovenstaande bewerking nogmaals uit om de weergave te herstellen
 
-Voorbeeld met € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# 0.00 MERGEFORMAT}`
+![Sjabloon opslaan in Hybrid SaaS](images/kolommen_zichtbaar.jpg)
 
-----------
 
-# Een maat aan de afbeelding geven #
+## Aanpassen getalnotatie (Angelsaksische en Engelse notatie) ##
 
-Door middel van een size toe te voegen aan de MERGEFIELD veld kan je een afbeelding op de order ander document groter of kleiner maken
+Getalnotaties voor bijvoorbeeld valuta kunnen op diverse manieren worden weergegeven. Hierin wordt onderscheid gemaakt tussen het het karakter voor het scheiden van duizendtallen en het karakter om decimalen weer te geven. In Nederland maken wij gebruik van de Angelsaksische notatie waarbij duizendtallen worden gescheiden dmv een "." (punt) en decimalen dmv een "," (komma). In de Engelse notatie worden deze karakters andersom gebruikt.
 
-*Bij orders:*
+Bij de uitvoer van documenten met verschillende talen is het belangrijk dat de documenten goed worden ingesteld. 
 
-Voorbeeld zonder: `{MERGEFIELD IMAGES:QUESTION_ATTACHMENT_IMAGES \* MERGEFORMAT}`
+### Voorkeursnotatie  ###
 
-Voorbeeld met: `{MERGEFIELD IMAGES:QUESTION_ATTACHMENT_IMAGES / size=100 \* MERGEFORMAT}`
+Ga naar de betreffende MERGEFIELD
 
-*Bij facturen:*
+Plaats de volgende notatie `\# "§0¤00"` vóór `\*` in het MERGEFIELD
 
-Voorbeeld zonder: `{MERGEFIELD IMAGE:ORDER_LINE_1_IMAGE \* MERGEFORMAT}`
+§ = `MERGEFIELDS: CURRENCY GROUP SEPARATOR`
+¤ = `MERGEFIELDS: CURRENCY DECIMAL SEPARATOR`
 
-Voorbeeld met: `{MERGEFIELD IMAGE:ORDER_LINE_1_IMAGE / size=100 \* MERGEFORMAT}`
+Voorbeeld zonder voorkeursnotatie € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
 
-*Bij vragenlijsten:*
+Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
 
-Voorbeeld zonder: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE \* MERGEFORMAT}`
+Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
 
-Voorbeeld met: `{MERGEFIELD IMAGE:INVOICE_LINE_IMAGE / size=100 \* MERGEFORMAT}`
 
-----------
+## Informatie weergeven indien er daadwerkelijk iets weer te geven is ##
 
-# Een tabel opnieuw laten beginnen om een pagina #
+Het kan voorkomen dat iets niet weergegeven dient te worden indien geen data van is. Bijvoorbeeld een "ter attentie van" in een adres. Om er voor te zorgen dat er geen regel wordt weergegeven is het mogelijk om informatie weg te laten indien er geen data is. Dit kan worden opgelost door een zogenoemd "IF" functie (in het Nederlands ALS). Kort gezegd "als waarde X is, dan moet Y worden weergeven"
 
-Het komt wel eens voor dat je meerdere orderregels of diverse in een tabel heb, als de tabel dan onder aan de pagina uitvalt wil hij hem wel eens opsplitsen in 2e naar de volgende pagina.
+Onderstaande afbeelding laat zien dat er een lege regel wordt weergegeven omdat de "t.a.v." niet is ingevuld
+![Weergave met lege regel](images/weergaven_met_lege_regel.jpg)
 
-![](images/3.jpg)
+### ALS functie invoegen ###
 
-Dit kan je ook uitzetten dat het een nieuwe tabel word op een volgende pagina.
-(via rechtermuisknop op het kruisje van de tabel)
+Voeg een lege veldcode in met **CTRL+F9**
 
-Het vinkje staat over het algemeen aan. Als je deze uitzet word er een nieuwe tabel weergegeven op een volgende pagina. 
+`{ IF "«INVOICE_HEADER»" <> "" "«INVOICE_HEADER»" }` 
 
-![](images/1.jpg)
+<div class="info">
+<> 	= ongelijk aan
 
-Uitslag:
+<	= kleiner dan
 
-![](images/2.jpg)
+>	= groter dan
 
-----------
+""	= Tekst altijd tussen " (quotes)
+</div>
+
+
+Na het toevoegen van de ALS functie zal de lege regel niet worden weergegeven zoals hieronder weergegeven.
+![Weergave zonder lege regel](images/weergaven_zonder_lege_regel.jpg)
+
+<div class="info">
+De ALS functie kan voor talloze doeleinden worden gebruikt. Het is ook mogelijk om meerdere ALS functies in elkaar te gebruiken.
+</div>
+ 
+## Afbeelding een vaste afmeting geven ##
+
+Door middel van een "size" `/ size=100` toe te voegen aan de MERGEFIELD kan een gefixeerde grootte krijgen
+
+Voorbeeld zonder: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES \* MERGEFORMAT}`
+
+Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES / size=100 \* MERGEFORMAT}`
+
+## Koppen van een tabel herhalen op volgende pagina ##
+
+De kop van een tabel kan in de Kop- en voettekst van een document worden weergegeven. Echter is het ook mogelijk om de bovenste rij(en) op iedere pagina te herhalen.
+
+Klik met de rechtermuisknop op de rij welke herhaald dient te worden. Ga naar **Tabeleigenschappen** > Tabblad Rij > Zet het vinkje aan voor **Rij als veldnamenrij herhalen bovenaan op iedere pagina**
+
+![Eerste rij op elke pagina herhalen](images/eerste_rij_weergeven_op_volgende_pagina.jpg)
