@@ -31,6 +31,7 @@ In het zoekveld kan worden gezocht op velden welke ingevoegd dienen te worden. A
 <div class="info">
 Er zijn twee verschillende soorten velden:
 - Velden welke op zichzelf staan zoals "ADRES", "FACTUURNUMMER", "FACTUURTOTAAL"
+
 - Velden welke herhaald worden zoals "FACTUURREGELS" en "ORDERREGELS". Deze velden vallen onder een zogenaamde herhalingstabel. Dit betekent dat deze velden enkel werken als deze in een tabel staan en dat de tabel een `MERGEFIELD TABLESTART:` en `MERGEFIELD TABLEEND:` bevat.
 </div>
 
@@ -48,10 +49,17 @@ Klik hiervoor in het Word document op "**Save & Store Template**"
 - CTRL+ENTER 	| Nieuwe Pagina invoegen
 - CTRL+A		| Alles Selecteren
 - CTRL+C		| Selectie Kopiëren
-- CTRL+V		| Selectie Plakken (Met de rechtermuisknop kan ook "speciaal" worden geplakt. Eventuele opmaak van de bron kan dan worden behouden)
+- CTRL+V		| Selectie Plakken (Met de rechtermuisknop kan ook "speciaal" worden geplakt. Eventuele opmaak van de bron kan dan worden behouden 
+
+## Veldcodes weergeven en bewerken ##
+
+Met ALT+F9 is het mogelijk om de veldcodes weer te geven. Echter is het niet altijd wenselijk om alle codes uit het gehele document weer te geven. Door op een veldcode met de rechtermuisknop te klikken en voor de optie "Andere veldweergave" kan de veldcode zichtbaar worden gemaakt.
+
 
 ## Tabellen weergeven ##
 Om alle informatie op het document netjes onder elkaar weer te geven zal met tabellen gewerkt dienen te worden. Echter is het niet altijd wenselijk om de tabel daadwerkelijk weer te geven op de documentuitvoer.
+
+![Veldcode weergeven](images/andere_veldweergave.jpg)
 
 In Word is de tabel onzichtbaar en is bijvoorbeeld het onderstaande zichtbaar.
 
@@ -67,6 +75,11 @@ De tabellen (lees rasterlijnen) zullen worden weergegeven. Voer bovenstaande bew
 
 ![Sjabloon opslaan in Hybrid SaaS](images/kolommen_zichtbaar.jpg)
 
+## Tabellen vast breedte laten behouden ##
+
+Om er voor te zorgen dat de kolommen een vaste breedte behouden en niet van afmeting veranderen kan de kolombreedte vastgezet worden.
+
+![Vaste kolombreedte](images/vaste_kolombreedte.jpg)
 
 ## Aanpassen getalnotatie (Angelsaksische en Engelse notatie) ##
 
@@ -81,6 +94,7 @@ Ga naar de betreffende MERGEFIELD
 Plaats de volgende notatie `\# "§0¤00"` vóór `\*` in het MERGEFIELD
 
 § = `MERGEFIELDS: CURRENCY GROUP SEPARATOR`
+
 ¤ = `MERGEFIELDS: CURRENCY DECIMAL SEPARATOR`
 
 Voorbeeld zonder voorkeursnotatie € 12345,67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \* MERGEFORMAT}` 
@@ -90,7 +104,7 @@ Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOI
 Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
 
 
-## Informatie weergeven indien er daadwerkelijk iets weer te geven is ##
+## Informatie verbergen ##
 
 Het kan voorkomen dat iets niet weergegeven dient te worden indien geen data van is. Bijvoorbeeld een "ter attentie van" in een adres. Om er voor te zorgen dat er geen regel wordt weergegeven is het mogelijk om informatie weg te laten indien er geen data is. Dit kan worden opgelost door een zogenoemd "IF" functie (in het Nederlands ALS). Kort gezegd "als waarde X is, dan moet Y worden weergeven"
 
@@ -136,3 +150,28 @@ De kop van een tabel kan in de Kop- en voettekst van een document worden weergeg
 Klik met de rechtermuisknop op de rij welke herhaald dient te worden. Ga naar **Tabeleigenschappen** > Tabblad Rij > Zet het vinkje aan voor **Rij als veldnamenrij herhalen bovenaan op iedere pagina**
 
 ![Eerste rij op elke pagina herhalen](images/eerste_rij_weergeven_op_volgende_pagina.jpg)
+
+## Sjablonen testen ##
+
+Soms is het niet duidelijk of een wijziging goed is doorgevoerd, of waarom bepaalde data niet correct wordt weergegeven. Het is mogelijk om vanuit Hybrid SaaS een document op te maken in Word.
+
+Klik op een record en kies vervolgens voor "**Document opmaken**" 
+
+![Document opmaken](images/document_opmaken.jpg)
+
+Klik op het sjabloon welke getest dient te worden
+
+![Selecteer sjabloon](images/sjabloon_selecteren.jpg)
+
+<div class="info">
+Het sjabloon waar een vinkje voor staat is het sjabloon wat standaard wordt gebruikt bij de geselecteerde relatie.
+</div>
+
+Zet het vinkje voor "**Microsoft Word**", kies het bestandstype "**Word Document (*.docx)**" en klik vervolgens op "**Start Samenvoeging**"
+
+![Word Samenvoeging starten](images/start_word_samenvoeging.jpg)
+
+<div class="info">
+Naast de uitvoer in Word is het ook mogelijk om bijvoorbeeld PDF als uitvoer te kiezen.
+</div>
+
