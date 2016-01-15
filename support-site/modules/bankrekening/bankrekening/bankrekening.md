@@ -52,7 +52,7 @@ Doormiddel van de knop toevoegen kan je een rekening aanmaken
 
 - **Incasso crediteur identificatie**
 - **Maximaal aantal transacties per batch**
-- ** Maximaal bedrag per transactie**
+- **Maximaal bedrag per transactie**
 - **Maximaal bedrag per batch**
 - **Maximaal bedrag per bestand**
 
