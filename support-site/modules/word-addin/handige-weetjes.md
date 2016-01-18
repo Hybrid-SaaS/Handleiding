@@ -15,9 +15,9 @@ In deze rubriek laten we aan aantal voorbeelden zien voor het aanpassen van docu
 
 # Document bewerken, toevoegen en opslaan #
 
-Zoek "Wordsjablonen"
+Zoek "**Wordsjablonen**"
 
-Selecteer het betreffende sjabloon en klik op bewerken
+Selecteer het betreffende sjabloon en klik op "**Bewerken**"
 
 ![Wordsjablonen bewerken](images/wordsjaboon_bewerken.jpg)
 
@@ -30,6 +30,7 @@ In het zoekveld kan worden gezocht op velden welke ingevoegd dienen te worden. A
 </div>
 <div class="info">
 Er zijn twee verschillende soorten velden:
+
 - Velden welke op zichzelf staan zoals "ADRES", "FACTUURNUMMER", "FACTUURTOTAAL"
 
 - Velden welke herhaald worden zoals "FACTUURREGELS" en "ORDERREGELS". Deze velden vallen onder een zogenaamde herhalingstabel. Dit betekent dat deze velden enkel werken als deze in een tabel staan en dat de tabel een `MERGEFIELD TABLESTART:` en `MERGEFIELD TABLEEND:` bevat.
@@ -37,7 +38,7 @@ Er zijn twee verschillende soorten velden:
 
 Indien het document naar wens ia aangepast dient het document worden geüpload in Hybrid SaaS.
 
-Klik hiervoor in het Word document op "**Save & Store Template**" 
+Klik rechtsboven in  het Word document op "**Save & Store Template**" 
 
 ![Sjabloon opslaan in Hybrid SaaS](images/save_and_store_template.jpg)
 
@@ -45,7 +46,7 @@ Klik hiervoor in het Word document op "**Save & Store Template**"
 
 
 - ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
-- CTRL+F9		| Lege veldcode invoegen
+- CTRL+F9		| Lege (nieuwe)veldcode invoegen
 - CTRL+ENTER 	| Nieuwe Pagina invoegen
 - CTRL+A		| Alles Selecteren
 - CTRL+C		| Selectie Kopiëren
@@ -55,11 +56,10 @@ Klik hiervoor in het Word document op "**Save & Store Template**"
 
 Met ALT+F9 is het mogelijk om de veldcodes weer te geven. Echter is het niet altijd wenselijk om alle codes uit het gehele document weer te geven. Door op een veldcode met de rechtermuisknop te klikken en voor de optie "Andere veldweergave" kan de veldcode zichtbaar worden gemaakt.
 
+![Veldcode weergeven](images/andere_veldweergave.jpg)
 
 ## Tabellen weergeven ##
 Om alle informatie op het document netjes onder elkaar weer te geven zal met tabellen gewerkt dienen te worden. Echter is het niet altijd wenselijk om de tabel daadwerkelijk weer te geven op de documentuitvoer.
-
-![Veldcode weergeven](images/andere_veldweergave.jpg)
 
 In Word is de tabel onzichtbaar en is bijvoorbeeld het onderstaande zichtbaar.
 
@@ -77,7 +77,7 @@ De tabellen (lees rasterlijnen) zullen worden weergegeven. Voer bovenstaande bew
 
 ## Tabellen vast breedte laten behouden ##
 
-Om er voor te zorgen dat de kolommen een vaste breedte behouden en niet van afmeting veranderen kan de kolombreedte vastgezet worden.
+Om er voor te zorgen dat de kolommen een vaste breedte behouden en niet van afmeting veranderen kan de kolombreedte vastgezet worden. Klik op de tabel zodat er links bovenin de tabel een een icoontje met een kruisje verschijnt. Klik met de **rechtermuisknop** op het icoontje en kies vervolgens "**AutoAanpassen**" en daarna "V**aste kolombreedte**"
 
 ![Vaste kolombreedte](images/vaste_kolombreedte.jpg)
 
@@ -109,6 +109,7 @@ Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_T
 Het kan voorkomen dat iets niet weergegeven dient te worden indien geen data van is. Bijvoorbeeld een "ter attentie van" in een adres. Om er voor te zorgen dat er geen regel wordt weergegeven is het mogelijk om informatie weg te laten indien er geen data is. Dit kan worden opgelost door een zogenoemd "IF" functie (in het Nederlands ALS). Kort gezegd "als waarde X is, dan moet Y worden weergeven"
 
 Onderstaande afbeelding laat zien dat er een lege regel wordt weergegeven omdat de "t.a.v." niet is ingevuld
+
 ![Weergave met lege regel](images/weergaven_met_lege_regel.jpg)
 
 ### ALS functie invoegen ###
@@ -129,6 +130,7 @@ Voeg een lege veldcode in met **CTRL+F9**
 
 
 Na het toevoegen van de ALS functie zal de lege regel niet worden weergegeven zoals hieronder weergegeven.
+
 ![Weergave zonder lege regel](images/weergaven_zonder_lege_regel.jpg)
 
 <div class="info">
@@ -170,6 +172,8 @@ Het sjabloon waar een vinkje voor staat is het sjabloon wat standaard wordt gebr
 Zet het vinkje voor "**Microsoft Word**", kies het bestandstype "**Word Document (*.docx)**" en klik vervolgens op "**Start Samenvoeging**"
 
 ![Word Samenvoeging starten](images/start_word_samenvoeging.jpg)
+
+Door de veldcodes (door middel van ALT+F9) weer te geven kan worden bekeken waarom een bepaald veld een bepaalde waarde geeft.
 
 <div class="info">
 Naast de uitvoer in Word is het ook mogelijk om bijvoorbeeld PDF als uitvoer te kiezen.
