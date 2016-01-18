@@ -21,7 +21,7 @@ Klik op "**Toevoegen**" om een nieuwe inventarisatie te starten.
 
 ![Lopende Inventarisaties](images/lopende_inventarisaties.jpg)
 
-Selecteer de juiste **voorraadlocatie ** en klik vervolgens op "**Starten**"
+Selecteer de juiste **Voorraadlocatie** en klik vervolgens op "**Starten**"
 
 ![Inventarisatie starten](images/inventarisatie_starten.jpg)
 
@@ -36,28 +36,27 @@ Het is mogelijk om meerdere inventarisaties te starten. Zo kunnen meerdere medew
 
 ## Producten scannen ##
 
-![Inventarisatie starten](images/inventarisatie_starten.jpg)
-
-<div class="info">
-Barcode of productcode? Indien de producten worden ingegeven (al dan niet via een scanner) kan dit op barcode of productcode. 
-</div>
-
 Zet de cursor in het veld achter "scanner invoer" en scan de barcode van het betreffende product.
 
 ![Product scannen](images/producten_scannen.jpg)
 
 <div class="info">
 Er zijn 3 mogelijkheden om de producten te inventariseren.
-- U scant alle producten
-- U telt het aantal producten en vult het aantal getelde producten bij de barcode in met een + en scant daarna het product. Bijvoorbeeld: U heeft 10 producten geteld, u vult bij barcode in 10+ en scant het product.
-- U telt het aantal producten en vult het aantal getelde producten bij de barcode in met een + en typt daarna de barcode van het product in. Bijvoorbeeld: U heeft 10 producten geteld, u vult bij barcode in 10+H10205566.
-</div>
 
-Nadat het product is gescand wordt er een korte samenvatting over het product en een getal weergegeven. Het getal geeft het aantal gescande eenheden weer van het betreffende product in deze lopende inventarisatie.
+- Scan alle producten
+
+- Scan het aantal producten en vul het aantal getelde producten bij de barcode in met een + en scan daarna het product. Bijvoorbeeld: Er zijn 10 producten geteld, vul dan bij barcode in 10+ en scan het product.
+
+- Tel het aantal producten en vul het aantal getelde producten bij de barcode in met een + en typ daarna de barcode van het product in. Bijvoorbeeld: Er zijn 10 producten geteld, vul bij barcode in 10+H10205566.
+</div>
 
 <div class="info">
-Nadat u het product gescand heeft worden de product gegevens weergeven. Door deze informatie in de gaten te houden kan u gelijk controleren of de producten op de juiste locatie liggen. Elke keer nadat u een product heeft gescand gaat de teller lopen van 1 t/m 10. Zo kan u meetellen met het geluid van de scanner. Wanneer de scanner de code niet goed heeft gelezen verschijnt er ERROR in het venster (zie onderstaande afbeelding). Wij raden u ook aan om de inventarisatie in setjes van 2 personen te doen. De eerste persoon scant te producten en de tweede persoon kijkt of het product daadwerkelijk gescand word.
+Barcode of productcode? Indien de producten worden ingegeven (al dan niet via een scanner) kan dit op barcode of productcode. 
 </div>
+
+ Het getal geeft het aantal gescande eenheden weer van het betreffende product in deze lopende inventarisatie.
+
+Nadat het product is gescand wordt er een korte samenvatting over het product en een getal weergegeven. Door deze informatie in de gaten te houden kan worden gecontroleerd of de producten op de juiste locatie liggen. Elke keer nadat een product is gescand gaat de teller lopen van 1 t/m 10. Zo is het mogelijk om mee te tellen met het geluid van de scanner. Wanneer de scanner de code niet goed heeft gelezen verschijnt er ERROR in het venster (zie onderstaande afbeelding). Wij raden aan om de inventarisatie in setjes van 2 personen te doen. De eerste persoon scant te producten en de tweede persoon kijkt of het product daadwerkelijk gescand wordt.
 
 ![Scan Oranje](images/scan_oranje.jpg)
 
@@ -94,7 +93,7 @@ Het is mogelijk om de inventarisatie tussentijds te controleren. Klik hiervoor o
 
 Wanneer de inventarisatie is afgerond kan deze worden afgerond door op de knop "**Stoppen**" te klikken. De betreffende inventarisatie zal worden afgerond
 
-![Veldcode weergeven](images/andere_veldweergave.jpg)
+![Inventarisatie stoppen](images/inventarisatie_stoppen.jpg)
 
 
 # Inventarisatie afronden en verwerken #
@@ -105,7 +104,7 @@ De laatste stap is het verwerken/ muteren van huidige voorraad met de geïnventa
 LET OP! Wij raden te allen tijde aan om eerste een backup te maken huidige voorraad. Ga hiervoor naar "**Managementoverzichten**" en kies voor "**Voorraadoverzicht**" en selecteer de juiste datum. Sla de Excelsheet op.
 </div>
 
-![Voorraad muteren](images/voorraad_muteren.jpg)
+![Voorraad mutatie doorvoeren](images/voorraad_mutaties_doorvoeren.jpg)
 
 Nadat er is gekozen voor het muteren zal het systeem om een bevestiging vragen. Alle weergegeven inventarisaties, welke zijn gestopt, zullen worden verwerkt. **Neem notie van de onderstaande opmerkingen zodat er geen verrassingen zijn na de verwerking**. 
 
@@ -124,5 +123,3 @@ Melding bij voorraadhistorie “*Alleen toevoegen – inventarisatie*”
 **Vinkje uit:** Bij het muteren worden de voorraadstand van de inventarisatie overgenomen. Dit betekent dat de voorraad van artikelen op "0" wordt gezet indien deze niet in de inventarisatie naar voren zijn gekomen.
 Melding bij voorraadhistorie “*Niet tegengekomen bij inventarisatie*” 
 </div>
-
-
