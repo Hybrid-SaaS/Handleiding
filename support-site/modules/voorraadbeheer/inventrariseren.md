@@ -104,7 +104,7 @@ De laatste stap is het verwerken/ muteren van huidige voorraad met de geïnventa
 LET OP! Wij raden te allen tijde aan om eerste een backup te maken huidige voorraad. Ga hiervoor naar "**Managementoverzichten**" en kies voor "**Voorraadoverzicht**" en selecteer de juiste datum. Sla de Excelsheet op.
 </div>
 
-![Voorraad mutatie doorvoeren](images/voorraad_mutaties_doorvoeren.jpg)
+![Voorraad mutatie doorvoeren](images/voorraad_muteren.jpg)
 
 Nadat er is gekozen voor het muteren zal het systeem om een bevestiging vragen. Alle weergegeven inventarisaties, welke zijn gestopt, zullen worden verwerkt. **Neem notie van de onderstaande opmerkingen zodat er geen verrassingen zijn na de verwerking**. 
 
