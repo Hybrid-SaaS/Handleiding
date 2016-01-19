@@ -22,7 +22,8 @@ Wij adviseren om bij producten met een combinatie tussen maten en kleuren eerst 
 
 In de volgende instructievideo wordt uitgelegd hoe producten kunnen worden onderverdeeld in verschillende kleuren. 
 
-<iframe src="https://player.vimeo.com/video/152269969" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/152274908" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 ## Producten Onderdelen op maat  ##
 
