@@ -1,16 +1,31 @@
 <properties>
 	<page>
-		<title>Onderverdelen</title>
-		<description>Onderverdelen</description>
+		<title>producten-onderverdelen</title>
+		<description>producten-onderverdelen</description>
 	</page>
 	<menu>
-		<position>Modules / Onderverdelen</position>
+		<position>Modules / Productenbeheer</position>
 		<title>Producten Onderverdelen</title>
 		<sort>D</sort>
 	</menu>
 </properties>
 
+# Producten onderverdelen #
+
+Indien de producten in de productencatalogus uit kleuren, maten of wellicht een combinatie van beide bestaat is het mogelijk deze met een paar stappen aan te maken. De onderverdeling zal worden gedaan op basis van een hoofdproduct welke zal worden onderverdeelt. Doordat de producten vanuit een hoofdproduct worden aangemaakt zijn de producten aan elkaar gekoppeld.
+
+<div class="info">
+Wij adviseren om bij producten met een combinatie tussen maten en kleuren eerst de producten op kleur onder te verdelen. 
+</div>
+
 ## Producten Onderdelen op kleur  ##
 
+In de volgende instructievideo wordt uitgelegd hoe producten kunnen worden onderverdeeld in verschillende kleuren. 
+
 <iframe src="https://player.vimeo.com/video/152269969" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/152269969">Onderverdelen op kleur</a> from <a href="https://vimeo.com/user47993493">Hybrid SaaS</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Producten Onderdelen op maat  ##
+
+In de volgende instructievideo wordt uitgelegd hoe producten kunnen worden onderverdeeld in verschillende maten. 
+
+<iframe src="https://player.vimeo.com/video/152273424" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
