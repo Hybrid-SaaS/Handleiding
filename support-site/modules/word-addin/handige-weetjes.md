@@ -149,9 +149,18 @@ Voorbeeld met: `{MERGEFIELD IMAGES:ORGANIZATION_IMAGES / size=100 \* MERGEFORMAT
 
 De kop van een tabel kan in de Kop- en voettekst van een document worden weergegeven. Echter is het ook mogelijk om de bovenste rij(en) op iedere pagina te herhalen.
 
-Klik met de rechtermuisknop op de rij welke herhaald dient te worden. Ga naar **Tabeleigenschappen** > Tabblad Rij > Zet het vinkje aan voor **Rij als veldnamenrij herhalen bovenaan op iedere pagina**
+Klik met de rechtermuisknop op de rij welke herhaald dient te worden. Ga naar **Tabeleigenschappen** > Tabblad **Rij** > Zet het vinkje aan voor **Rij als veldnamenrij herhalen bovenaan op iedere pagina**
 
 ![Eerste rij op elke pagina herhalen](images/eerste_rij_weergeven_op_volgende_pagina.jpg)
+
+## Tekstterugloop bij tabellen ##
+Het kan voorkomen dat een tabel niet op de juiste plek of soms helemaal niet wordt weergegeven, wanneer deze wordt omgezet naar een PDF.
+
+Om dit voorkomen dient de tekstterugloop van de tabel uitgeschakeld te worden.
+
+Klik met de rechtermuisknop op de tabel. Ga naar **Tabeleigenschappen** > Tabblad **Tabel** > Selecteer bij tekstterugloop **"Geen"**
+
+![Geen tekstterugloop](images/geen_tekstterugloop.jpg)
 
 ## Sjablonen testen ##
 
