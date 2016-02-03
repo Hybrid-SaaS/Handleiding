@@ -29,8 +29,6 @@ Als je een update verstuurd van een ticket zien klanten deze regel boven aan in 
 ![](images/instellingen.png)
 
 
-----------
-
 ## Functies uitschakelen, maar omgeving actief ##
 
 Je kan de omgeving voor een aantal maanden op non-actief laten zetten, hier kan een bedrag voor worden afgesproken i.p.v. het volledige maandbedrag. dit kan je aanvragen bij de afdeling administratie
@@ -40,3 +38,5 @@ Hiervoor word het omgeving zo ingesteld dat je wel alles nog kan zien maar niks 
 **Voor de beheerder:**
 
 ![](images/instellingen-disabled.png)
+
+----------
