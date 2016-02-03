@@ -26,6 +26,9 @@ Als je een update verstuurd van een ticket zien klanten deze regel boven aan in 
 
 **Voor de beheerder:**
 
+- Ticket - Reply header
+	- Hier de tekst neer zetten
+
 ![](images/instellingen.png)
 
 
@@ -37,6 +40,22 @@ Hiervoor word het omgeving zo ingesteld dat je wel alles nog kan zien maar niks 
 
 **Voor de beheerder:**
 
+- Disabled
+	- 0 = uit
+	- 1 = aan
+
 ![](images/instellingen-disabled.png)
+
+## Relatiecode laten doorlopen ##
+
+Het volgnummer van klanten en personen op één manier laten oplopen. Er mogen geen dubbele nummer ontstaan.
+Dit omdat er een export naar bijvoorbeeld exact online plaatsvindt, en je geen dubbele nummers wilt hebben
+
+**Voor de beheerder:**
+
+- Last organization _ code and person _ registration number
+	- Hier het eerstvolgende nummer neer zetten
+
+![](images/naamloos.png)
 
 ----------

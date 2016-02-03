@@ -96,6 +96,14 @@ Door op de knop Tijdregistratie te drukken krijg je deze registraties te zien.
 
 ![](images/15.jpeg)
 
+
+Om de dagstaten in het menu te activeren moet je het recht :** menuoverwerk schemas** beheren aan zetten.
+
+![](images/recht.png)
+
+het resultaat is dan:
+
+![](images/dagstaat.png)
 --------------
 
 
