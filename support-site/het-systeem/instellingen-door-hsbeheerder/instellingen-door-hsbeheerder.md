@@ -1,14 +1,14 @@
 <properties>
 	<page>
-		<title>Instelingen door hsbeheerder</title>
+		<title>Instellingen door hsbeheerder</title>
 	</page>
 	<menu>
 		<position>Het Systeem </position> 
-		<title>instelingen door hsbeheerder</title>
+		<title>Instellingen door hsbeheerder</title>
 	</menu>
 </properties>
 
-# Instelingen door HS beheerder #
+# Instellingen door HS beheerder #
 
 Hieronder zullen diverse onderdelen beschreven worden welke alleen in te stellen zijn door de beheerders van Hybrid SaaS.
 
