@@ -4,7 +4,7 @@
 		<description>Externe-factuurkoppeling</description>
 	</page>
 	<menu>
-		<position>Modules / productenbeheer</position>
+		<position>Modules / Productenbeheer</position>
 		<title>Externe Factuurkoppeling</title>
 		<sort>a</sort>
 	</menu>
