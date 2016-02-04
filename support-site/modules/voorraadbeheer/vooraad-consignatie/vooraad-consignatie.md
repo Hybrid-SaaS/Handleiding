@@ -1,16 +1,17 @@
 <properties>
 	<page>
-		<title>vooraad-consignatie</title>
+		<title>Vooraad consignatie</title>
 		<description>vooraad-consignatie</description>
 	</page>
 	<menu>
 		<position>Modules / Voorraadbeheer</position>
-		<title>vooraad-consignatie</title>
+		<title>Vooraad consignatie</title>
 		<sort>a</sort>
 	</menu>
 </properties>
 
 # Werking consignatie facturen en voorraad #
+
 De consignatie facturen wordt nu als voorraad geboekt, op dit te activeren dien je een magazijn aan voor de consignatie
 
 ![](images/1.png) 

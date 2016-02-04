@@ -110,3 +110,6 @@ Loop daarna het te bestellen bakje door, je krijgt de keuze om de goederen als n
 Wat niet meer besteld mag worden bij de leverancier zul je moeten annuleren.
  
 ![](images/18.png)
+
+
+----------

@@ -1,10 +1,10 @@
 <properties>
 	<page>
-		<title>Externe-factuurkoppeling</title>
+		<title>Externe productkoppeling</title>
 		<description>Externe-factuurkoppeling</description>
 	</page>
 	<menu>
-		<position>Modules / Externe-factuurkoppeling</position>
+		<position>Modules / productenbeheer</position>
 		<title>Externe Factuurkoppeling</title>
 		<sort>a</sort>
 	</menu>
