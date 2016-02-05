@@ -9,89 +9,121 @@
 	</menu>
 </properties>
 
-## Exporteren van een Jupa bestand ##
+# Exporteren facturen naar Jupa #
 
-Hier word in uitlegt wat er in werking gezet moet worden om een Jupa bestandje te kunnen maken
+In dit artikel zal worden beschreven welke stappen er gevolgd dienen te worden om facturen via een bestand aan Jupa (Eijssink afrekensustemen http://www.eijsink.nl/Jupa/jupa.html) 
 
-## Het instellen voor de Jupa koppeling ##
+## Instellen stamgegevens ##
 
-- Het invullen van de afkorting op de **Entiteit**
-	- Gebruik hiervoor HOOFDLETTERS 
+Wanneer je gebruik gaat maken van de koppeling zal Eijssink een leverancierscode verstrekken. Dit leveranciersnummer is een uniek kenmerk waarmee je organisatie bekent staat bij Eijssink. 
 
-![](images/entiteit.png)
+Vul de leverancierscode in bij **Entiteiten**
 
-- Het email adres aanvinken welke geschikt is voor Jupa op de **Relatiekaart**
-	- Dit kan je doen door middel van de communicatie email te openen en het vinkje **export naar extern systeem ; Jupa** aan te zetten
+<div class="info">
+Gebruik hiervoor HOOFDLETTERS
+</div>
 
-![](images/bedrijf.png)
+![Leverancierscode bij entiteiten invullen ](images/entiteit.png)
 
-- Als deze stappen zijn ingevuld zullen de facturen van deze klant in het bakje **Facturen exporteren naar extern systeem** komen. Hierin kan je de factuur selecteren en de button **exporteer selectie** gebruiken.
+## Instellen e-mailadres bij relatie ##
 
-![](images/exporteer.png)
+Voor iedere afzonderlijke relatie, waar de facturen van naar Jupa gezonden dienen te worden, dient een e-mailadres ingesteld te worden. Dit adres kan bij betreffende relatie of bij Eijssink worden opgevraagd.
 
-- Via de button **Financiële exports** kom je in het bakje waar nu de factuur klaar staat om gedownload te worden
-	- Deze is ook te vinden via start het bakje heet: **Financiële exports**
+Ga naar de contactgegevens van de relatie en voeg een e-mailadres toe. Zet het vinkje aan voor "Export naar extern systeem"  en kies in het dropdownmenu voor **Jupa**
 
-![](images/financielleexport.png)
+![E-mailadres aanmaken bij relatie](images/bedrijf.png)
 
-- Hier kan je de regel selecteren en het bestand downloaden via de button **Download bestand**
+## Facturen Exporteren ##
 
-![](images/download.png)
+Ga naar **Facturen exporteren naar extern systeem**. In dit venster zullen alle facturen worden weergegeven welke nog niet zijn geëxporteerd. Selecteer de facturen welke geëxporteerd dienen te worden en klik op **exporteer selectie**
 
-- Er zal nu een tekst bestand uitkomen welke geschikt is voor Jupa.
+<div class="info">
+Het versturen van de facturen naar Jupa is een hamdmatige actie. Het systeem stuurt dus niet automatisch de facturen naar Jupa.
+</div>
 
-## Beschrijving van het tekst bestandje ##
+![Facturen exporteren naar Jupa](images/exporteer.png)
 
-Hier zal beschreven worden welke gegevens er in het bestandje zitten verwerkt
+## Exports bekijken ##
 
-- Lees de rode vlakken van links naar recht 
-	- welk veld het is in Hybrid SaaS staan eronder aangegeven *(Dialoog - Tabblad - Veldnaam)*
+Via de button **Financiële exports** is het mogelijk om de geëxporteerde bestanden te bekijken en indien wenselijk te controleren.
+
+![Financiële exports bekijken](images/financielleexport.png)
+
+Selecteer de factuur en klik **Download bestand** om de betreffende export te downloaden.
+
+![Export bestand downloaden](images/download.png)
+
+<div class="info">
+Het bestandsformaat betreft een zogenaamd " ascii bestand" . Het is gewoon mogelijk om deze met bijvoorbeeld " notepad" te openen.
+</div>
+
+## Beschrijving van de content van de export ##
+
+Op het eerste gezicht is het lastig om te kijken welke gegevens er in de export te zien zijn. In deze rubriek zal worden uitgelegd wat alle genoemde onderdelen betekenen. Op deze manier is het mogelijk om het bestand te begrijpen bij eventuele onduidelijkheden.
+
+1. Er volgt eerst een uitsnede van een voorbeeldregel van de export
+2. Het gemarkeerde gebied is uitgerust met een nummer
+3. Aan de hand van het nummer wordt de beschrijving weergegeven
+4. Onderaan de beschrijving wordt de locatie binnen Hybrid SaaS aangegeven *(Dialoog - Tabblad - Veldnaam)*
+
+<div class="info">
+Niet alle beschikbare velden welke in Jupa worden gebruikt, worden ook in Hybrid SaaS gebruikt. In dit geval zal het betreffende item leeg zijn.
+</div>
 
 ![](images/export1.png)
 
-Van links naar recht
-
-- **Begin van de export**
-- **Code in de Entiteit**
-	- *(Entiteit - Instellingen - Afkorting)*
-- **Factuurnummer**
-	- *(Factuur - Factuur - Factuurnummer)*
-- **Factuurnummer regel in de export**
-- **Valuta**
-- **Laatste 4 cijfers van de klantcode**
-	- *(Relatiekaart - N.A.W. - Code)*
-
-![](images/export2.png)
-
-- **2e regel van de export**
-- **Code van de Entiteit**
-	- *(Entiteit - Instellingen - Afkorting)*
-- **Factuurnummer**
-	- *(Factuur - Factuur - Factuurnummer)*
-- **Factuurnummer regel in de export**
-- **Totaal bedrag van de factuur**
-	- *(Factuur - Factuur - Totaal incl. BTW)*
-
-![](images/export3.png)
-
-1. **Vervolgregels van de export**
+1. **Recordbeschrijving** *(Recordbeschrijving - Factuurrecord)*
 2. **Leverancierscode**
 	(Entiteit - Instellingen - Afkorting)
 3. **Factuurnummer**
 	(Factuur - Factuurkaart - Factuurnummer)
-4. **Factuurregelnummer in de export**
+4. **Regelvolgnummer in de export**
+5. **Factuurdutum**
+	(Factuur - Factuurkaart - Factuurdatum)
+6. **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+7. **Valuta**
+8. **Klantnummer** *(Laatste 4 cijfers van de klantcode)*
+	(Relaties - Relatiekaart - N.A.W. - Code)
+
+![](images/export2.png)
+
+
+1. **Recordbeschrijving** *(Recordbeschrijving - Totaalrecord)*
+2. **Leverancierscode**
+	(Entiteit - Instellingen - Afkorting)
+3. **Factuurnummer**
+	(Factuur - Factuurkaart - Factuurnummer)
+4. **Regelvolgnummer in de export**
+5. **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+6. **Datum kredietbeperking** *(Niet in gebruik binnen Hybrid SaaS)*
+7. **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+8. **Totaal BTW bedrag** 
+	(Factuur - Factuurkaart - BTW)
+9. **Totaal factuur bedrag** *(Totaal bedrag incl BTW)*
+	(Factuur - Factuurkaart - Totaal incl. BTW)
+10. **Kredietbeperking** *(Niet in gebruik binnen Hybrid SaaS)*
+
+
+![](images/export3.png)
+
+1. **Recordbeschrijving** *(Recordbeschrijving - Volgregels (factuurregels))*
+2. **Leverancierscode**
+	(Entiteit - Instellingen - Afkorting)
+3. **Factuurnummer**
+	(Factuur - Factuurkaart - Factuurnummer)
+4. **Regelvolgnummer in de export**
 5. **Leveringsnummer** *(Niet in gebruik binnen Hybrid SaaS)*
 6. **Aantal van het product**
 	(Factuur - Factuurkaart - Factuurregel - Aantal)
-7.  **Productcode** *(Artikelnummer leverancier)*
+7.  **Productcode** ***(Artikelnummer leverancier)***
 	*(Producten - Productkaart - Productcode)*
-8.  **Gewicht** *(In grammen vb 0069 6,9 gram)*
+8.  **Gewicht** ***(In grammen vb 0069 6,9 gram)***
 	(Producten - Productkaart - Instellingen - Productonderdeel - aantal (vinkje dit is een gewicht))
-9.  **Basis verkoopprijs** *(Prijs per stuk excl. metaal)*
+9.  **Basis verkoopprijs** ***(Prijs per stuk excl. metaal)***
 	(Producten - Productkaart - Instellingen - Basis verkoop prijs)
-10.  **Verkoopprijs** *(Prijs per stuk incl. metaal)*
+10.  **Verkoopprijs** ***(Prijs per stuk incl. metaal)***
 	(Producten - Productkaart - Prijzen - Verkoopprijs)
-11.  **Korting** *(Korting per stuk)*
+11.  **Korting** ***(Korting per stuk)***
 	(Factuur - Factuurkaart - Factuurregel - korting (kortingspercentage * verkoopprijs)
 12.  **Omschrijving van het product**
 	(Producten - Productkaart - Informatie - Beschrijving)
@@ -99,7 +131,7 @@ Van links naar recht
 14.  **Advies verkoopprijs**
 	(Producten - Productkaart - Prijzen - Advies verkoopprijs)
 15.  **Barcode** *(Niet in gebruik)*
-16.  **Artikelstatus** *(E-Eigendom, Z-zicht, C-consignatie)*
+16.  **Artikelstatus** ***(E-Eigendom, Z-zicht, C-consignatie)***
 17.  **Extra productcode** *(Niet in gebruik)*
 18.  **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
 19.  **Ordernummer Jupa**
@@ -109,8 +141,22 @@ Van links naar recht
 22.  **Standaard artikel** *(indien niet beschikbaar 'N')* *(Niet in gebruik binnen Hybrid SaaS)*
 23.  **Advies voorraadaantal** *(Niet in gebruik binnen Hybrid SaaS)*
 	
-- **Export**
+![](images/export4.png)
 
-
-
-----------
+1. **Vervolgregels van de export**
+2. **Leverancierscode**
+	(Entiteit - Instellingen - Afkorting)
+3. **Factuurnummer**
+	(Factuur - Factuurkaart - Factuurnummer)
+4. **Regelvolgnummer in de export**
+5. **Leveringsnummer** *(Niet in gebruik binnen Hybrid SaaS)*
+6. **Aantal van het product**
+	(Factuur - Factuurkaart - Factuurregel - Aantal)
+7.  **Type** ***(bijv. verzendkosten)***
+	*(Producten - Productkaart - Instellingen)*
+8.  **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+9.  **Basis verkoopprijs** ***(Prijs per stuk excl. metaal)***
+	(Producten - Productkaart - Instellingen - Basis verkoopprijs)
+10.  **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+11.  **Omschrijving van het product**
+	(Producten - Productkaart - Informatie - Beschrijving)
