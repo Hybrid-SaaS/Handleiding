@@ -3,7 +3,7 @@
 		<title>Een inkoopfactuur afletteren op:</title>
 	</page>
 	<menu>
-		<position>Modules / Facturatie </position> 
+		<position>Modules / Inkoopbeheer </position> 
 		<title>Een inkoopfactuur afletteren op:</title>
 		<sort>a</sort>
 	</menu>
