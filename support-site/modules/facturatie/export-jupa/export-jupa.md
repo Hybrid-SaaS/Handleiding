@@ -70,6 +70,8 @@ Op het eerste gezicht is het lastig om te kijken welke gegevens er in de export 
 Niet alle beschikbare velden welke in Jupa worden gebruikt, worden ook in Hybrid SaaS gebruikt. In dit geval zal het betreffende item leeg zijn.
 </div>
 
+### Kopregel export factuurrecord en Totaalrecord ###
+
 ![](images/export1.png)
 
 1. **Recordbeschrijving** *(Recordbeschrijving - Factuurrecord)*
@@ -103,6 +105,7 @@ Niet alle beschikbare velden welke in Jupa worden gebruikt, worden ook in Hybrid
 	(Factuur - Factuurkaart - Totaal incl. BTW)
 10. **Kredietbeperking** *(Niet in gebruik binnen Hybrid SaaS)*
 
+### Factuurregels ###
 
 ![](images/export3.png)
 
