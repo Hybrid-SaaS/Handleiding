@@ -74,27 +74,41 @@ Van links naar recht
 
 ![](images/export3.png)
 
-- **Vervolgregels van de export**
-- **Code van de Entiteit**
-	- *(Entiteit - Instellingen - Afkorting)*
-- **Factuurnummer**
-	- *(Factuur - Factuur - Factuurnummer)*
-- **Factuurnummer regel in de export**
-- **Aantal van het product**
-	- *(Factuur - Factuur - Factuurregel - Aantal)*
-- **Productcode**
-	- *(Producten - Informatie - Productcode)*
-- **Aantal gewicht in onderdeel**
-	- *(Producten - Instellingen - Productonderdeel - aantal (vinkje dit is een gewicht))*
-- **Basis verkoopprijs**
-	- *(Producten - Instellingen - Basis verkoop prijs)*
-- **Verkoopprijs**
-	- *(Producten - Prijzen - Verkoopprijs)*
-- **Afgeronde verkoopprijs**
-- **Omschrijving van het product**
-	- *(Producten - Informatie - Beschrijving)*
-- **Advies verkoopprijs**
-	- *(Producten - Prijzen - Advies verkoop prijs)*
+1. **Vervolgregels van de export**
+2. **Leverancierscode**
+	(Entiteit - Instellingen - Afkorting)
+3. **Factuurnummer**
+	(Factuur - Factuurkaart - Factuurnummer)
+4. **Factuurregelnummer in de export**
+5. **Leveringsnummer** *(Niet in gebruik binnen Hybrid SaaS)*
+6. **Aantal van het product**
+	(Factuur - Factuurkaart - Factuurregel - Aantal)
+7.  **Productcode** *(Artikelnummer leverancier)*
+	*(Producten - Productkaart - Productcode)*
+8.  **Gewicht** *(In grammen vb 0069 6,9 gram)*
+	(Producten - Productkaart - Instellingen - Productonderdeel - aantal (vinkje dit is een gewicht))
+9.  **Basis verkoopprijs** *(Prijs per stuk excl. metaal)*
+	(Producten - Productkaart - Instellingen - Basis verkoop prijs)
+10.  **Verkoopprijs** *(Prijs per stuk incl. metaal)*
+	(Producten - Productkaart - Prijzen - Verkoopprijs)
+11.  **Korting** *(Korting per stuk)*
+	(Factuur - Factuurkaart - Factuurregel - korting (kortingspercentage * verkoopprijs)
+12.  **Omschrijving van het product**
+	(Producten - Productkaart - Informatie - Beschrijving)
+13.  **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+14.  **Advies verkoopprijs**
+	(Producten - Productkaart - Prijzen - Advies verkoopprijs)
+15.  **Barcode** *(Niet in gebruik)*
+16.  **Artikelstatus** *(E-Eigendom, Z-zicht, C-consignatie)*
+17.  **Extra productcode** *(Niet in gebruik)*
+18.  **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
+19.  **Ordernummer Jupa**
+20.  **Advies verkoopprijs**
+	(Producten - Productkaart - Prijzen - Advies verkoopprijs)
+21.  **Standaard artikel** *(indien niet beschikbaar 'N')* *(Niet in gebruik binnen Hybrid SaaS)*
+22.  **Standaard artikel** *(indien niet beschikbaar 'N')* *(Niet in gebruik binnen Hybrid SaaS)*
+23.  **Advies voorraadaantal** *(Niet in gebruik binnen Hybrid SaaS)*
+	
 - **Export**
 
 
