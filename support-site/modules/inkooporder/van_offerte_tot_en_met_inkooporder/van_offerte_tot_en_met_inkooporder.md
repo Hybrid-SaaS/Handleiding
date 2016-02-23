@@ -11,7 +11,9 @@
 
 # Van verkooporder tot inkooporder #
 
-Deze rubriek geeft een beschrijving van het proces vanaf een verkooporder tot en met een inkooporder. Het proces is in verschillende stappen beschreven.
+Deze rubriek geeft een beschrijving van het proces vanaf een verkooporder tot en met een inkooporder. Het proces is in verschillende stappen beschreven zoals hieronder is weergegeven.
+
+![Het hele proces vanaf een offerte t/m een inkooporder](images/proces_offerte_order_inkooporder.jpg)
 
 ## STAP 1: Nieuwe order aanmaken ##
 
