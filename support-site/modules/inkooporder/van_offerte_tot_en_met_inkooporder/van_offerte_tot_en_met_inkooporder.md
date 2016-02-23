@@ -91,7 +91,7 @@ Indien alle producten in en order worden geannuleerd zal de order automatisch wo
 </div>
 
 <div class="info">
-Vergeet niet de klant op de hoogte te brengen wanneer regels worden geannuleerd!
+Vergeet niet de klant op de hoogte te brengen wanneer regels worden geannuleerd! 
 </div>
 
 
