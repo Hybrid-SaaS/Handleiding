@@ -44,3 +44,14 @@ Als je op de H toets drukt dan verspringt de computer naar de eerst volgende ser
 
 ----------
 
+Komen de problemen vaker voor en moet je regelmatig de service herstarten, dan kan je ook het volgende zip [bestandje downloaden](images/TerminalServerFix.zip)
+
+Als je de exe in de zipfile uitvoert op de server (onder het administrator account/of door een gebruiker met deze rechten). Zal er een taak worden aangemaakt die de service elke nacht automatisch herstart.
+
+![](images/1.png)
+
+![](images/2.png)
+
+De fix is ook weer te verwijderen door hem nog een keer uit te voeren:
+
+![](images/3.png)
