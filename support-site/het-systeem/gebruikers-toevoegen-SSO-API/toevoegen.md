@@ -44,7 +44,7 @@ Klik op toevoegen om een nieuwe gebruiker toe te voegen. Via het onderstaande sc
 ![Gebruikers toevoegen](images/gebruikers-instellingen.jpg)
 
 <div class="info">
-Let op! Vink alle opties aan zoals hierboven is weergegeven.  
+Let op! Vink alle opties aan zoals hierboven is weergegeven.
 </div>
 
 <div class="info">
@@ -56,6 +56,10 @@ Gebruik voor de inlognaam het e-mailadres van de gebruiker. Het e-mailadres mag 
 Koppel de gebruiker aan de juiste beveiligingsgroep. 
 
 ![Gebruikers koppelen aan beveiligingsgroep](images/gebruiker_koppelen_aan_beveiligingsgroep.jpg)
+
+<div class="info">
+Indien gebruiker niet aan een beveiligingsgroep is gekoppeld zal er extern gaan data worden weergegeven.
+</div>
 
 <div class="info">
 De procedure voor het aanmaken is voor alle bovengenoemde gebruikers hetzelfde. Het enige verschil is dat Direct sales medewerkers en Indirect sales medewerker als accountmanager aan een bedrijf gekoppeld dienen te worden. Wordt een gebruiker niet aan een bedrijf gekoppeld wordt deze automatisch als Operations medewerkers aangemerkt. Dit houdt in dat deze gebruiker alle informatie van alle relaties in de portal kan raadplegen.
