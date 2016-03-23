@@ -48,6 +48,11 @@ Op de factuur worden de reiskosten los weergegeven
 
 ![](images/6.jpg)
 
+Als je de reisuren niet apart wilt door belasten dien je de volgende vinkjes aan te zetten 
+bij de gebruiker op de projectkaart of op het adres kaart van de relatie
+
+![](images/12.jpg)
+
 --------------
 
 
