@@ -44,7 +44,9 @@ Als je op de H toets drukt dan verspringt de computer naar de eerst volgende ser
 
 ----------
 
-Komen de problemen vaker voor en moet je regelmatig de service herstarten, dan kan je ook het volgende zip [bestandje downloaden](images/TerminalServerFix.zip)
+Komen de problemen vaker voor en moet je regelmatig de service herstarten, dan is het aan te raden om het volgende bestandje te installeren om je computer.
+
+Via de website [](http://hybridsaas.com/support) onder downloads kan je het bestandje **TerminalServerFix** vinden om te downloaden
 
 Als je de exe in de zipfile uitvoert op de server (onder het administrator account/of door een gebruiker met deze rechten). Zal er een taak worden aangemaakt die de service elke nacht automatisch herstart.
 
