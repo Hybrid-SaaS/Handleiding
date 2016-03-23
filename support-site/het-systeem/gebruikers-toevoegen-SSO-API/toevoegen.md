@@ -51,6 +51,12 @@ Let op! Vink alle opties aan zoals hierboven is weergegeven.
 Gebruik voor de inlognaam het e-mailadres van de gebruiker. Het e-mailadres mag maar één keer voorkomen. Dit o.a. in verband met het opvragen van een wachtwoord. 
 </div>
 
+## Gebruiker koppelen aan Beveiligingsgroep ##
+
+Koppel de gebruiker aan de juiste beveiligingsgroep. 
+
+![Gebruikers koppelen aan beveiligingsgroep](images/gebruiker_koppelen_aan_beveiligingsgroep.jpg)
+
 <div class="info">
 De procedure voor het aanmaken is voor alle bovengenoemde gebruikers hetzelfde. Het enige verschil is dat Direct sales medewerkers en Indirect sales medewerker als accountmanager aan een bedrijf gekoppeld dienen te worden. Wordt een gebruiker niet aan een bedrijf gekoppeld wordt deze automatisch als Operations medewerkers aangemerkt. Dit houdt in dat deze gebruiker alle informatie van alle relaties in de portal kan raadplegen.
 </div>
