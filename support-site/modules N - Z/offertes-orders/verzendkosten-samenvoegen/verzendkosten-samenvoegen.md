@@ -4,7 +4,7 @@
 		<description>verzendkosten-samenvoegen</description>
 	</page>
 	<menu>
-		<position>Modules  N - Z / Offertes en orders</position>
+		<position>Modules N - Z / Offertes en orders</position>
 		<title>Meedere verzendkosten</title>
 		<sort>B</sort>
 	</menu>

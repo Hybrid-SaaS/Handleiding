@@ -3,7 +3,7 @@
 		<title>Offerte en Order</title>
 	</page>
 	<menu>
-		<position>Modules  N - Z / Offertes en orders</position> 
+		<position>Modules N - Z / Offertes en orders</position> 
 		<title>Zicht-Consignatie factuur aanmaken</title>
 	<sort>B</sort>
 	</menu>

@@ -4,7 +4,7 @@
 		<description>Orders zonder voorraad</description>
 	</page>
 	<menu>
-		<position>Modules  N - Z / Offertes en orders</position> 
+		<position>Modules N - Z / Offertes en orders</position> 
 		<title>Afhandelen zonder voorraad</title>
 		<sort>B</sort>
 	</menu>

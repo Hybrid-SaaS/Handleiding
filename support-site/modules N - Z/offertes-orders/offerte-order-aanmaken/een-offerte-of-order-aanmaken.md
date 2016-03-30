@@ -4,7 +4,7 @@
 		<description>Offerte en Order aanmaken</description>
 	</page>
 	<menu>
-		<position>Modules  N - Z / Offertes en orders</position>
+		<position>Modules N - Z / Offertes en orders</position>
 		<title>Offerte en Order aanmaken</title>
 		<sort>B</sort>
 	</menu>

@@ -3,7 +3,7 @@
 		<title>Betaalwijze aanpassen</title>
 	</page>
 	<menu>
-		<position>Modules  N - Z/ Offertes en orders </position> 
+		<position>Modules N - Z/ Offertes en orders </position> 
 		<title>Betaalwijze aanpassen</title>
 	</menu>
 </properties>
