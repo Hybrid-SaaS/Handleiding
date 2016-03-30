@@ -4,7 +4,7 @@
 		<description>inkooporde-retour-leverancier</description>
 	</page>
 	<menu>
-		<position>Modules / Inkooporder retour leverancier</position> 
+		<position>Modules / Inkooporder</position> 
 		<title>Inkooporde retour leverancier</title>
 	</menu>
 </properties>
