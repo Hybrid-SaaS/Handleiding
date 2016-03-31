@@ -8,7 +8,7 @@
 	</menu>
 </properties>
 
-#Printer instellingen#
+## Printer instellingen ##
 
 **Word-sjabloon instellingen**
 

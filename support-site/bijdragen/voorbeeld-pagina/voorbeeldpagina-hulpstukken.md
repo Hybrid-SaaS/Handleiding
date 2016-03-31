@@ -1,25 +1,18 @@
 <properties>
 	<page>
 		<title>voorbeeldpagina-hulpstukken</title>
-		<description>voorbeeldpagina-hulpstukken</description>
-		<context></context>
 	</page>
 	<menu>
-		<position>Bijdragen /Voorbeeld</position>
-		<title>Voorbeeldpagina  hulpstukken</title>
-		<sort>A</sort>
+		<position>Bijdragen / Voorbeeld</position>
+		<title>Hulpstukken</title>
 	</menu>
 </properties>
 
-#Voorbeeld pagina hulpstukken#
+# Voorbeeld pagina hulpstukken #
 
+## De properties van de pagina: ##
 
-----------
-
-
-##De properties van de pagina:##
-
-    <properties>
+       <properties>
     	<page>
     		<title>voorbeeldpagina-hulpstukken</title>
     		<description>voorbeeldpagina-hulpstukken</description>
@@ -33,21 +26,22 @@
       </properties>
 
 
-## Link toevoegen##
+## Link toevoegen ##
 
     Om een link toe te voegen gebruik je
     [Gedeelte laten uitlichten](http://hybridsaas.support/pages/bijdragen/afbeeldingen-bewerken/afbeeldingen)
 
 
-##Afbeelding toevoegen##
+## Afbeelding toevoegen ##
+
     ![voorbeeld-uitlichten](images/voorbeeld-uitlichten.jpg)
 
-##Woorden en zinnen benadrukken:##
+## Woorden en zinnen benadrukken: ##
 
 Je kan op verschillende manieren woorden of zinnen benadrukken zie hieronder van welke:
 
-    #Hoofdkop#
-    ##Kop##
+    # Hoofdkop #
+    ## Kop ##
     Opsommingstekens:
     
     - <span style="color: red">Rood</span>
@@ -65,8 +59,8 @@ Je kan op verschillende manieren woorden of zinnen benadrukken zie hieronder van
     <div class="info">Een Info</div>
     <div class="warning">Een Warning</div>
 
-#Hoofdkop#
-##Kop##
+# Hoofdkop #
+## Kop ##
 Opsommingstekens:
 
 
@@ -85,5 +79,8 @@ Je kan ook extra informatie blokken ingeven hier zijn 3 varianten van:
 <div class="tip">Een Tip</div>
 <div class="info">Een Info</div>
 <div class="warning">Een Warning</div>
+
+Verbetering: `<div class="tag-update"></div>`
+Foutoplossing: `<div class="tag-fix"></div>`
 
 ----------

@@ -8,7 +8,8 @@
 	</menu>
 </properties>
 
-##Conventies voor github##
+
+## Conventies voor github ##
 
 **Definities**
 

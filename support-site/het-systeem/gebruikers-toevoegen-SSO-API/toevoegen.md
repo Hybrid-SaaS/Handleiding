@@ -3,7 +3,7 @@
 		<title>Gebruikers toevoegen externe portal</title>
 	</page>
 	<menu>
-		<position>Het systeem </position> 
+		<position>Het Systeem </position> 
 		<title>Gebruikers toevoegen externe portal</title>
 	</menu>
 </properties>
@@ -44,11 +44,21 @@ Klik op toevoegen om een nieuwe gebruiker toe te voegen. Via het onderstaande sc
 ![Gebruikers toevoegen](images/gebruikers-instellingen.jpg)
 
 <div class="info">
-Let op! Vink alle opties aan zoals hierboven is weergegeven.  
+Let op! Vink alle opties aan zoals hierboven is weergegeven.
 </div>
 
 <div class="info">
 Gebruik voor de inlognaam het e-mailadres van de gebruiker. Het e-mailadres mag maar één keer voorkomen. Dit o.a. in verband met het opvragen van een wachtwoord. 
+</div>
+
+## Gebruiker koppelen aan Beveiligingsgroep ##
+
+Koppel de gebruiker aan de juiste beveiligingsgroep. 
+
+![Gebruikers koppelen aan beveiligingsgroep](images/gebruiker_koppelen_aan_beveiligingsgroep.jpg)
+
+<div class="info">
+Indien gebruiker niet aan een beveiligingsgroep is gekoppeld zal er extern gaan data worden weergegeven.
 </div>
 
 <div class="info">

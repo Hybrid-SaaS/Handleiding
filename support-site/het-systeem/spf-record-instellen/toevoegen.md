@@ -51,6 +51,19 @@ Vul in het tekstveld het gedeelte in achter het apenstaartje (@). van het e-mail
 Na het klikken op de knop krijg je de inhoud van het spf-record van je domein te zien.
 </div>
 
+##  Hier op letten i.c.m Office365 ##
+
+[Support microsoft](https://support.microsoft.com/en-us/kb/2723654)
+
+Set-ExecutionPolicy RemoteSigned
+
+$UserCredential = Get-Credential
+
+$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection
+Import-PSSession $Session
+
+Set-DistributionGroup "info@info.com" -ReportToManagerEnabled $true
+
 
 ----------
 
