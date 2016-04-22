@@ -39,6 +39,8 @@ De volgende gebruikers worden aangemaakt als Hybrid SaaS extranet gebruikers:
 - Direct sales medewerkers
 - Indirect sales medewerker
 
+Ga naar "Gebruikers wijzigen"
+
 Klik op toevoegen om een nieuwe gebruiker toe te voegen. Via het onderstaande scherm kan er een nieuwe gebruiker worden toegevoegd.
 
 ![Gebruikers toevoegen](images/gebruikers-instellingen.jpg)
@@ -69,7 +71,11 @@ De procedure voor het aanmaken is voor alle bovengenoemde gebruikers hetzelfde. 
 
 Door een gebruiker als accountmanager aan een bedrijf te koppelen zal deze enkel de bedrijven zijn waar hij/zij aan gekoppeld is. Alle andere bedrijven en informatie zal voor deze gebruikers niet zichtbaar zijn.
 
-Voeg de gebruiker toe op de relatiekaart
+Ga naar "Relaties"
+
+Open het betreffende bedrijf waar de accountmanager aan gekoppeld dient te worden.
+
+Voeg de gebruiker toe op de relatiekaart op het tabblad "stamgegevens"
 
 ![Accountmanager toevoegen](images/accountmanager-toevoegen.jpg)
 
