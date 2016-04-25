@@ -16,11 +16,7 @@ Het contractbeheer van Hybrid SaaS is uitgebreid met vele functies. Sommige func
 ## Importeren van een order in een contract ##
 Door middel van een paar stappen is het mogelijk om een order om te zetten in een contract. 
 
-Keur de order goed door op "Goedkeuren" te klikken
-
-Handel de order af door op "Afhandelen" te klikken
-
-Klik op "contract" om de order om te zetten in een contract.
+Keur de order goed door op **Goedkeuren** te klikken, handel de order af door op **Afgehandeld** te klikken, klik vervolgens op **Contract** om de order om te zetten in een contract.
 
 ![Order omzetten in een contract](images/order_omzetten_in_een_contract.png)
 
@@ -32,7 +28,7 @@ Nee: Op basis van order zal een nieuw contract worden aangemaakt.
 
 
 ### Looptijden contractregel vastleggen op orderregel ###
-Op de orderregel is het mogelijk om de looptijd (begin- en eindtijd) vast te leggen. Ga naar het tabblad Productie/tijdregistratie
+Op de orderregel is het mogelijk om de looptijd (begin- en eindtijd) vast te leggen. Ga naar het tabblad **Productie/tijdregistratie**
 
 ![Looptijden op de orderregel vastleggen](images/looptijden_bij_orderregels_vastleggen.png)
 
@@ -51,10 +47,14 @@ Bij het importeren van een order in een contract zal het aantal van de orderrege
 ### Product aanmerken als repeterende kosten (maandelijks terugkerende kosten) ###
 Producttype vastleggen. Een product kan als eenmalige maar ook als repeterend worden aangemerkt. Geef op de productkaart aan of het product repeterend is door het vinkje aan te zetten.
 
+Ga naar et tabblad **Prijzen**, zet het vinkje aan bij **Repeterende kosten**
+
 ![Producten instellen als repeterende kosten](images/product_aanmerken_als_repeterend.png)
 
 ### Product uitsluiten om te importeren in een contract ###
 Het is mogelijk om producten uit te sluiten om te importeren in een contract. Op deze manier blijven de producten op de order staan maar worden deze niet meegenomen op het contact.
+
+Ga naar et tabblad **Prijzen**, zet het vinkje aan bij **Niet importeren in contract**
 
 ![Producten uitsluiten voor import naar contract](images/product_uitsluiten_voor_contract.png)
 
