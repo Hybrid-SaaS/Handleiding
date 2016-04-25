@@ -63,19 +63,20 @@ Indien er met bijvoorbeeld prepaidkaarten wordt gewerkt dienen er eenheden worde
 
 Bij het splitsen op prijs blijft het aantal handhaaft en wordt de prijs aangepast. 
 
-## Generatiemomenten voor Facturatie instellen ##
+## Generatiemomenten voor facturatie instellen ##
 
+Het is mogelijk om de generatiemomenten voor de facturatie precies in te stellen zoals je dat zelf wilt. Hiervoor zijn drie variabelen nodig; "Moment", "Interval" en Contractwaarde. Hieronder zijn een aantal voorbeeld gegeven van Facturatiemomenten ten opzichte van de contractwaarde. 
 
+![Generatiemoment bepalen ten op zichten van contractwaarde ](images/facturatiemoment_bepalen.png)
 
+**Contractwaarde per jaar - Facturatie per kwartaal**
 
-**Per 4 weken**
+![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_jaar_facturatie_per_kwartaal.png)
 
-Je kan een periode van 4 weken inrichten waarop de factuur wordt gemaakt. Je geeft dan een contractprijs per week op en een interval van 4 (4 weken)
- 
-![](images/1.png)
+**Contractwaarde per maand - Facturatie per kwartaal**
 
-In de planning komen dat periodes van 4 weken waarop de factuur wordt gegenereerd.
+![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_maand_facturatie_per_kwartaal.png)
 
-![](images/2.png)
+**Contractwaarde per week - Facturatie per 4 weken**
 
-----------
+![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_week_facturatie_per_4_weken.png)
