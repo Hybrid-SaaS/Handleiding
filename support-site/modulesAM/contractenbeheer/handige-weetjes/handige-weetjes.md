@@ -84,6 +84,8 @@ Het is mogelijk om de generatiemomenten voor de facturatie precies in te stellen
 
 ![Generatiemoment bepalen ten op zichten van contractwaarde ](images/facturatiemoment_bepalen.png)
 
+Hieronder zullen een aantal voorbeelden worden gegeven van de facturatiemomenten ten opzichte van de contractwaarde.
+
 ### Contractwaarde per jaar - Facturatie per kwartaal ###
 
 ![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_jaar_facturatie_per_kwartaal.png)
@@ -114,5 +116,5 @@ Er zijn 3 verschillende methoden om facturen op te maken op basis van contracten
 ![Facturen opmaken vanuit planningsoverzicht contract](images/factuur_aanmaken_via_planning.png)
 
 <div class="info">
-In alle bovenstaande gevallen zal de factuur worden weergegeven bij Nieuwe facturen.
+In alle bovenstaande gevallen zal de factuur worden weergegeven bij Nieuwe facturen. 
 </div>
