@@ -53,15 +53,13 @@ Hieronder wordt een voorbeeld gegeven van een contract met 10 producten per maan
 
 **Splitsen op aantal** 
 
-**Stuks (per maand)	Stuks per kwartaal	Prijs	Totaal	Periode **
-10					30					€ 25,-	€ 750,-	01-01-2016-31-03-2016
+![Contractregel splitsen op aantal voorbeeld](images/splitsen_op_aantal.png)
 
 Indien er met bijvoorbeeld prepaidkaarten wordt gewerkt dienen er eenheden worden opgeboekt. In dit geval dient het aantal vermenigvuldigd met de interval zodat deze correct worden verwerkt.
 
 **Splitsen op prijs**
 
-**Stuks (per maand)	Stuks per kwartaal	Prijs	Totaal	Periode **
-10					10					€ 75,-	€ 750,-	01-01-2016-31-03-2016
+![Contractregel splitsen op prijs voorbeeld](images/splitsen_op_prijs.png)
 
 Bij het splitsen op prijs blijft het aantal handhaaft en wordt de prijs aangepast. 
 
