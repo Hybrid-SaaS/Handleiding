@@ -11,10 +11,25 @@
 </properties>
 
 # Handige weetjes #
-In deze rubriek zal alles worden beschreven wat je dient te weten over het contractbeheer. 
+Het contractbeheer van Hybrid SaaS is uitgebreid met vele functies. Sommige functies zullen makkelijker te begrijpen zijn dan andere. Deze rubriek zal antwoord geven op de meest voorkomende functies zodat het contactbeheer perfect kan worden ingericht en worden afgestemd op de organisatie.
 
 ## Importeren van een order in een contract ##
-Door middel van een paar stappen is het mogelijk om een order om te zetten in een contract. In feite worden alle orderregels in een contract omgezet.
+Door middel van een paar stappen is het mogelijk om een order om te zetten in een contract. 
+
+Keur de order goed door op "Goedkeuren" te klikken
+
+Handel de order af door op "Afhandelen" te klikken
+
+Klik op "contract" om de order om te zetten in een contract.
+
+![Order omzetten in een contract](images/order_omzetten_in_een_contract.png)
+
+<div class="info">
+Indien er een contract wordt gevonden van dezelfde relatie zal de volgende melding worden weergegeven: "Er zijn lopende contracten gevonden wilt u deze order hier aan toevoegen?".
+Ja: Kies het contract waar de order aan toegevoegd dient te worden. De orderregels zullen aan het lopende contract worden toegevoegd.
+Nee: Op basis van order zal een nieuw contract worden aangemaakt.
+</div>
+
 
 ### Looptijden contractregel vastleggen op orderregel ###
 Op de orderregel is het mogelijk om de looptijd (begin- en eindtijd) vast te leggen. Ga naar het tabblad Productie/tijdregistratie
@@ -69,14 +84,14 @@ Het is mogelijk om de generatiemomenten voor de facturatie precies in te stellen
 
 ![Generatiemoment bepalen ten op zichten van contractwaarde ](images/facturatiemoment_bepalen.png)
 
-**Contractwaarde per jaar - Facturatie per kwartaal**
+### Contractwaarde per jaar - Facturatie per kwartaal ###
 
 ![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_jaar_facturatie_per_kwartaal.png)
 
-**Contractwaarde per maand - Facturatie per kwartaal**
+### Contractwaarde per maand - Facturatie per kwartaal ###
 
 ![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_maand_facturatie_per_kwartaal.png)
 
-**Contractwaarde per week - Facturatie per 4 weken**
+### Contractwaarde per week - Facturatie per 4 weken ###
 
 ![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_week_facturatie_per_4_weken.png)
