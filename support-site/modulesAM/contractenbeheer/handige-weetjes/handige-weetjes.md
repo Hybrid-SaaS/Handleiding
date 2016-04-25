@@ -54,7 +54,7 @@ Ga naar et tabblad **Prijzen**, zet het vinkje aan bij **Repeterende kosten**
 ### Product uitsluiten om te importeren in een contract ###
 Het is mogelijk om producten uit te sluiten om te importeren in een contract. Op deze manier blijven de producten op de order staan maar worden deze niet meegenomen op het contact.
 
-Ga naar et tabblad **Prijzen**, zet het vinkje aan bij **Niet importeren in contract**
+Ga naar het tabblad **Prijzen**, zet het vinkje aan bij **Niet importeren in contract**
 
 ![Producten uitsluiten voor import naar contract](images/product_uitsluiten_voor_contract.png)
 
@@ -95,3 +95,24 @@ Het is mogelijk om de generatiemomenten voor de facturatie precies in te stellen
 ### Contractwaarde per week - Facturatie per 4 weken ###
 
 ![Contractwaarde per jaar met facturatie per kwartaal](images/waarde_per_week_facturatie_per_4_weken.png)
+
+
+## Facturen opmaken (genereren) vanuit contracten ##
+
+Er zijn 3 verschillende methoden om facturen op te maken op basis van contracten.
+
+**Optie 1:** Ga naar **Contracten genereren**, Selecteer de **datum** tot wanneer de contracten verwerkt dienen te worden, klik **Verwerken**
+
+![Facturen als batch verwerken op basis van verwerkingsdatum](images/contracten_opmaken_contracten_genereren.png)
+
+**Optie 2:** Selecteer een of meerdere contracten in het contractoverzicht , klik op **Genereren**
+
+![Facturen opmaken vanuit contractoverzicht](images/contracten_opmaken_vanuit_contractoverzicht.png)
+
+**Optie 3:** Open het contract, ga naar het tabblad **Planning**, **selecteer** de facturatiemomenten, klik op **Opmaken**
+
+![Facturen opmaken vanuit planningsoverzicht contract](images/factuur_aanmaken_via_planning.png)
+
+<div class="info">
+In alle bovenstaande gevallen zal de factuur worden weergegeven bij Nieuwe facturen.
+</div>
