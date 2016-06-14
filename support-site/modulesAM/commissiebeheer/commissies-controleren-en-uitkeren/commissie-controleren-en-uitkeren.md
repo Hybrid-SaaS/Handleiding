@@ -24,23 +24,15 @@ Alle nieuwe commissies worden per partner en per type weergegeven.
 
 Van links naar rechts wordt de volgende data weergegeven.
 
-Leverancier:	Naam van de partner
-
-Subtotaal:		Subtotaal van alle facturen waar commissie over berekend is
-
-Gem%:			Gemiddelde commissiepercentage (commissiebedrag/subtotaal)
-
-Commissie:		Totale commissiebedrag
-
-Commissietype:	Het type commissie (dit kan handmatig worden ingesteld op de commissieregels)
-
-Gedrag:			Waarop is de commissie berekend (Orders of Facturen)
-
-Regels:			Het aantal regels waarover de commissie is berkend
-
-van:			Datum van de eerste order- of factuurregel waar nog geen commissie over uitbetaald is
-
-t/m:			Datum van de laatste order- of factuurregel waar nog geen commissie over uitbetaald is
+- **Leverancier**:	Naam van de partner
+- **Subtotaal**:		Subtotaal van alle facturen waar commissie over berekend is
+- **Gem%**:			Gemiddelde commissiepercentage (commissiebedrag/subtotaal)
+- **Commissie**:		Totale commissiebedrag
+- **Commissietype**:	Het type commissie (dit kan handmatig worden ingesteld op de commissieregels)
+- **Gedrag**:			Waarop is de commissie berekend (Orders of Facturen)
+- **Regels**:			Het aantal regels waarover de commissie is berkend
+- **van**:			Datum van de eerste orderof factuurregel waar nog geen commissie over uitbetaald is
+- **t/m**:			Datum van de laatste orderof factuurregel waar nog geen commissie over uitbetaald is
 
 ![Uitleg content commissieoverzicht](images/nieuwe_commissieafdracht_contentbeschrijving.jpg)
 
@@ -50,22 +42,51 @@ Bovenin wordt het onderstaande actielint weergegeven
 
 Van links naar rechts worden de volgende actieknoppen weergegeven.
 
-Vernieuwen:			Data op het scherm verversen (let op hiermee worden de commissies niet opnieuw uitgerekend)
+- **Vernieuwen**:			Data op het scherm verversen (let op hiermee worden de commissies niet opnieuw uitgerekend)
+- **Facturen**:			Alle facturen waarover commissie is berekend (Let op! enkel zichtbaar na selectie van commissieregel)
+- **Inkoop**:				Alle inkoopfacturen (commissieoverzichten) welke de status "Te verzenden" hebben
+- **Zonder commissie**:	Alle facturen waarover geen commissie is berekend
+- **Met commissie**:		Alle facturen waarover commissie is berekend
+- **Geen commissie**:		Alle facturen waarbij is gekozen om geen commissie uit te keren
+- **Afromen**:			Met deze knop is het mogelijk om de uitgerekende commissies om te zetten naar een commissieoverzicht (proforma inkoopfactuur) (Let op! enkel zichtbaar na selectie van commissieregel(s))
 
-Facturen:			Alle facturen waarover commissie is berekend (Let op! enkel zichtbaar na selectie van commissieregel)
 
-Inkoop:				Alle inkoopfacturen (commissieoverzichten) welke de status "Te verzenden" hebben
+### Commissie herberekenen en niet meer weergeven ###
 
-Zonder commissie:	Alle facturen waarover geen commissie is berekend
+Door op één van de onderstaande knoppen te klikken worden details weergegeven. 
 
-Met commissie:		Alle facturen waarover commissie is berekend
+![Details inzien van de commissieregel](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
 
-Geen commissie:		Alle facturen waarbij is gekozen om geen commissie uit te keren
+Wanneer één of meerdere regels worden geselecteerd zullen de onderstaande actieknoppen worden weergegeven
 
-Afromen:			Met deze knop is het mogelijk om de uitgerekende commissies om te zetten naar een commissieoverzicht (proforma inkoopfactuur) (Let op! enkel zichtbaar na selectie van commissieregel(s))
+![Commissies niet meer weergeven en herberekenen](images/herberekenen_niet_meer_weergeven.jpg)
+
+- **Niet meer weergeven**:	Hiermee worden de betreffende facturen uitgesloten van commissies (de facturen zullen worden weergegeven bij "Geen commissie"
+- **Herberekenen commissies**: Hiermee kunnen alle commissies worden herberekend van de geselecteerde regels.
+
+### Commissies afromen ###
+
+Met de knop **Afromen ** is het mogelijk om de berekende commissies binnen een bepaalde datumreeks om te zetten in een commissieoverzicht.
+
+![Commissies afromen en op commissieoverzicht plaatsen](images/commissies_afromen.jpg)
+
+Selecteer één of meerdere commissieregels
+
+Klik op de knop **Afromen**
+
+Het systeem vraagt om goedkeuring. Kies voor **Ja**
+
+Er verschijnt een venster ten behoeve van de datum reeks
+
+![Selecteer datum ten behoeve van het afromen van de commissies](images/selecteer_datum.jpg)
+
 
 <div class="info">
-Voorbeeld
+Automatisch: De commissie zal worden uitgerekend t/m de datum van vandaag
+</div>
+
+<div class="info">
+Afwijkend: Kies de datum t/m de commissie uitgerekend dient te worden en klik op de knop "afwijkend" 
 </div>
 
 
