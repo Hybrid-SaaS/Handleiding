@@ -1,11 +1,11 @@
 <properties>
 	<page>
 		<title>Commissie instellen</title>
-		<description>Commissie toepassen</description>
+		<description>Commissie instellen</description>
 	</page>
 	<menu>
 		<position>Modules A - M /Commissiebeheer</position>
-		<title>Commissie toepassen</title>
+		<title>Commissie instellen</title>
 		<sort>B</sort>
 	</menu>
 </properties>
