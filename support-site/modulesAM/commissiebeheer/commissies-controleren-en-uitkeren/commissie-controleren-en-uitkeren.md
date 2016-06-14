@@ -20,7 +20,7 @@ Zoek vanuit het startmenu naar **Nieuwe commissieafdracht**
 
 Alle nieuwe commissies worden per partner en per type weergegeven.
 
-![Overzicht met alle nieuwe commissies](images/nieuwe_commissieafdracht.jpg)
+![Uitleg content commissieoverzicht](images/nieuwe_commissieafdracht_contentbeschrijving.jpg)
 
 Van links naar rechts wordt de volgende data weergegeven.
 
@@ -34,7 +34,7 @@ Van links naar rechts wordt de volgende data weergegeven.
 - **van**:			Datum van de eerste orderof factuurregel waar nog geen commissie over uitbetaald is
 - **t/m**:			Datum van de laatste orderof factuurregel waar nog geen commissie over uitbetaald is
 
-![Uitleg content commissieoverzicht](images/nieuwe_commissieafdracht_contentbeschrijving.jpg)
+
 
 Bovenin wordt het onderstaande actielint weergegeven
 
@@ -89,4 +89,38 @@ Automatisch: De commissie zal worden uitgerekend t/m de datum van vandaag
 Afwijkend: Kies de datum t/m de commissie uitgerekend dient te worden en klik op de knop "afwijkend" 
 </div>
 
+## Commissieoverzicht ##
 
+Na het verwerken van de commissie wordt er een commissieoverzicht aangemaakt in de vorm van een inkoopfactuur.
+
+De de inkoopfacturen zijn te vinden bij de inkoopfacturen bij de partner of via het menuitem "**te verzenden naar onderaannemer**"
+
+![Inkoopfactuur bij onderaannemer](images/te_verzenden_naar_onderaannemer.jpg)
+
+<div class="info">
+Indien de inkoopfactuur wordt verwijderd zal de berekening worden teruggedraaid en zal deze weer terug te vinden zijn bij "Nieuwe commissieafdracht"
+</div>
+
+### Details commissieoverzicht inzien ###
+
+Vanuit de inkoopfactuur (commissieoverzicht) is het mogelijk om de details in te zien. Wanneer "Op scherm" wordt gekozen is het mogelijk om het overzicht weer te geven via een voorgedefinieerd template in PDF formaat.
+
+![Details commissieoverzicht inzien](images/details_commissieoverzicht_inzien.jpg)
+
+Tevens is het mogelijk om de details per regel in te zien. Open hiervoor de factuurkaart en open de regel.
+
+![Details commissieoverzicht inzien](images/details_commissieregel_inzien.jpg)
+
+### Commissieoverzicht versturen ###
+
+Via de knop "Per e-mail" is het mogelijk om het commissieoverzicht per e-mail met een voorgedefinieerd template in PDF formaat te verzenden naar de partner ter controle.
+
+![Commissieoverzicht per e-mail versturen](images/commissieoverzicht_versturen.jpg)
+
+Nadat het overzicht is verzonden zal deze terug te vinden zijn "wachtend op factuur"
+
+![Commissieoverzicht per e-mail versturen](images/commissieoverzicht_versturen.jpg)
+
+<div class="info">
+In dit stadium is de inkoopfactuur (commissieoverzicht) nog niet definitief. Nadat de inkoopfactuur door de partner is gefiatteerd dient deze goedgekeurd te worden. Open hiervoor de inkoopfactuur en klik op de groene vink bij "goedkeuren" Op deze manier is het commissieoverzicht definitief gemaakt en kan deze niet wijzigen. 
+</div>
