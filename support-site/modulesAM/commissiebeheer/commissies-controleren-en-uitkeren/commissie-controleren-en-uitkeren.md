@@ -112,7 +112,7 @@ Regels inzien: Overzicht van alle van alle regels zal worden weergegeven
 </div>
 
 <div class="info">
-Factuur rapportage: Overzicht van alle factuurregels zal worden weergeven in .XLS formaat
+Factuur rapportage: Overzicht van alle factuurregels zal worden weergeven in .XLS formaat.
 </div>
 
 Tevens is het mogelijk om de details per regel in te zien. Open hiervoor de factuurkaart en open de regel.
