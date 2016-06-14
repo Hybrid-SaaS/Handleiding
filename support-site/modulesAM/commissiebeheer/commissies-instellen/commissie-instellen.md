@@ -12,23 +12,25 @@
 
 # Commsissies instellen #
 
-Deze rubriek zal meer duidelijkheid te geven over het beheren van commissies met commissiebeheer van Hybrid SaaS. Synoniemen voor commissies zijn onder ander provisies, courtage en procura. In deze beschrijving zal veelal “commissies” worden gebruikt.
+Deze rubriek zal meer duidelijkheid te geven over het beheren van commissies met commissiebeheer van Hybrid SaaS. Synoniemen voor commissies zijn onder ander provisies, courtage en procura. In deze beschrijving zal veelal het woord “commissies” worden gebruikt.
 
 Om geen misverstanden te krijgen worden eerst enkele definities benoemd:
 
-**Revenu share** (variabele prijs) : Commissie op basis van een percentage van gerealiseerde omzet (facturen) Voorbeeld:
+**Revenu share** (variabele prijs) : Commissie op basis van een percentage van gerealiseerde omzet (facturen)
+Voorbeeld:
 Product A	€100,-- (per maand)
 Percentage	15%
-100 * 15% = €15,--
+Resultaat: 100 * 15% = €15,--
 
-**Lumpsum** (vastgestelde prijs): Commissies op basis van een percentage van orders. De som van alles orders maakt de contractwaarde. Lumpsum is het resultaat van de orderregeltotaal * looptijd * commissies percentage. Voorbeeld: 
+**Lumpsum** (vastgestelde prijs): Commissies op basis van een percentage van orders. De som van alles orders maakt de contractwaarde. Lumpsum is het resultaat van de orderregeltotaal * looptijd * commissies percentage.
+Voorbeeld: 
 Product A	€100,-- (per maand)
 Looptijd 	24 maanden
 Percentage	15%
-100 * 24 * 15% = €360,--
+Resultaat: 100 * 24 * 15% = €360,--
 
-## Commissiesets aanmaken ##
-In een commissieset wordt een verzameling met afspraken vastgelegd voor de berekening van commissies op facturen en orders. In de set wordt het percentage en de onderdelen waarop deze van toepassing zijn vastgelegd. Tevens kunnen hier targets worden vastgelegd waar de set betrekking op heeft. 
+## Commissie sets aanmaken ##
+In een commissie set wordt een verzameling met afspraken vastgelegd voor de berekening van commissies op facturen en orders. In de set wordt het percentage en de onderdelen waarop deze van toepassing zijn vastgelegd. Tevens kunnen hier targets worden vastgelegd waar de set betrekking op heeft. 
 
 Zoek vanuit het startmenu naar **Commissie set** > **Toevoegen**
 
@@ -36,11 +38,11 @@ Zoek vanuit het startmenu naar **Commissie set** > **Toevoegen**
 
 ### Basisgegevens commissies invullen ###
 
-Selecteer de juiste grootboekrekening (GL-code)
+Selecteer de juiste **grootboekrekening** (GL-code)
 
-Geef een duidelijke omschrijving 
+Geef een duidelijke **omschrijving** 
 
-Kies het gedrag waarop het percentage dient plaats te vinden 
+Kies het **gedrag** waarop het percentage toegepast dient te worden 
 -	Revshare (Factuur)
 -	Lumpsum (Order)
 
@@ -49,15 +51,16 @@ Vul het commissiepercentage in
 ![Commissie set gegevens invullen](images/commissie_set_gegevens_invullen.jpg)
 
 <div class="info">
-Info: Korting verdelen. Indien er korting wordt gegeven aan de klant is het mogelijk deze korting te verdelen met de partner. Bij het invullen van een percentage zal een voorbeeld worden weergegeven.
+Korting verdelen: Indien er korting wordt gegeven aan de klant is het mogelijk deze korting te delen met de partner. Bij het invullen van een percentage zal een voorbeeldberekening worden weergegeven.
 </div>
 
 
 <div class="info">
-Target. Bij Target kan het target percentage worden vastgelegd. Voorbeeld:
+Target. Bij Target kan het target percentage worden vastgelegd. 
+Voorbeeld:
 Target 1000 stuks
 Min 35% max 80%
-Vanaf 350 stuks – t/m 800 stuks
+Resultaat: vanaf 350 stuks t/m 800 stuks
 </div>
 
 ### Commissieregels toevoegen aan commissieafspraken ###
@@ -83,12 +86,12 @@ Veelal zal de commissie van toepassing zijn op een product, productsubgroep of p
 </div>
 
 <div class="info">
-Selecteer een bedrijf indien een speciale afspraak van toepassing bij een specifieke klant.
+Selecteer een klant bij "bedrijf selecteren" indien een speciale afspraak van toepassing is bij een specifieke klant.
 </div>
 
 ### Afwijkende voorwaarden instellen op regelniveau ###
 
-Het is mogelijk om afwijkende voorwaarden te laten prevaleren boven de voorwaarden welke in de set zijn vastgelegd.
+Het is mogelijk om afwijkende voorwaarden te laten prevaleren boven de voorwaarden welke in de set zijn vastgelegd. De afwijkende voorwaarden zullen worden gebruikt bij de berekening van de commissie.
 
 ![Afwijkende voorwaarden vastleggen](images/afwijkende_voorwaarden_vastleggen.jpg) 
 
@@ -98,30 +101,30 @@ Nadat set is aangemaakt dient deze aan de juiste partner(s) gekoppeld te worden.
 
 Zoek vanuit het startmenu naar **Leveranciers**
 
-Open de relatiekaart van de betreffende partner door dubbel op de naam te klikken
+Open de relatiekaart van de betreffende partner
 
 Ga naar het tabblad **Commissies**
 
-Klik op **Toevoegen** om een set te selecteren
+Klik op **Toevoegen** om een commissie set te selecteren
 
 ![Commissie sets koppelen aan partner(s)](images/Commissie_sets_koppelen.jpg) 
 
 Selecteer de betreffende accountmanager 
 
 <div class="info">
-Indien deze nog niet is aangemaakt raadpleeg de volgende handleiding http://hybridsaas.support/pages/support-site/het-systeem/gebruikers-toevoegen-SSO-API/toevoegen 
+Indien deze nog niet is aangemaakt raadpleeg de volgende [handleiding](http://hybridsaas.support/pages/support-site/het-systeem/gebruikers-toevoegen-SSO-API/toevoegen "Nieuwe gebruikers toevoegen (autorisatie afhankelijk)")  
 </div>
 
-Selecteer de commissie set
+Selecteer de **commissie set**
 
-Selecteer de startdatum en einddatum van de commissieovereenkomst
+Selecteer de **startdatum** en **einddatum** welke is terug te vinden in de partnerovereenkomst
 
 ![Contractafspraken vastleggen](images/contractafspraken_vastleggen.jpg) 
 
 <div class="info">
-Wachten op betaling: Indien deze optie is gekozen zal de commissie pas worden uitgekeerd indien de factuur van de klant is voldaan.
+Wachten op betaling: Indien deze optie is geselecteerd zal de commissie pas worden uitgekeerd indien de factuur door de klant is voldaan.
 </div>
 
 <div class="info">
-Gearchiveerd: Indien deze optie is gekozen zal de commissieafspraak op inactief worden gezet, waarbij de gekoppelde data zal worden bewaard.
+Gearchiveerd: Indien deze optie is geselecteerd zal de commissieafspraak op inactief worden gezet, waarbij de gekoppelde data zal worden bewaard.
 </div>
