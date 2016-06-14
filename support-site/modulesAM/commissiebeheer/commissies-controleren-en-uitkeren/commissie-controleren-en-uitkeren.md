@@ -66,7 +66,7 @@ Wanneer één of meerdere regels worden geselecteerd zullen de onderstaande acti
 
 ### Commissies afromen ###
 
-Met de knop **Afromen ** is het mogelijk om de berekende commissies binnen een bepaalde datumreeks om te zetten in een commissieoverzicht.
+Met de knop **Afromen** is het mogelijk om de berekende commissies binnen een bepaalde datumreeks om te zetten in een commissieoverzicht.
 
 ![Commissies afromen en op commissieoverzicht plaatsen](images/commissies_afromen.jpg)
 
@@ -107,6 +107,14 @@ Vanuit de inkoopfactuur (commissieoverzicht) is het mogelijk om de details in te
 
 ![Details commissieoverzicht inzien](images/details_commissieoverzicht_inzien.jpg)
 
+<div class="info">
+Regels inzien: Overzicht van alle van alle regels zal worden weergegeven
+</div>
+
+<div class="info">
+Factuur rapportage: Overzicht van alle factuurregels zal worden weergeven in .XLS formaat
+</div>
+
 Tevens is het mogelijk om de details per regel in te zien. Open hiervoor de factuurkaart en open de regel.
 
 ![Details commissieoverzicht inzien](images/details_commissieregel_inzien.jpg)
@@ -119,7 +127,7 @@ Via de knop "Per e-mail" is het mogelijk om het commissieoverzicht per e-mail me
 
 Nadat het overzicht is verzonden zal deze terug te vinden zijn "wachtend op factuur"
 
-![Commissieoverzicht per e-mail versturen](images/commissieoverzicht_versturen.jpg)
+![Commissieoverzicht wachtend op factuur van partner](images/wachtend_op_factuur.jpg)
 
 <div class="info">
 In dit stadium is de inkoopfactuur (commissieoverzicht) nog niet definitief. Nadat de inkoopfactuur door de partner is gefiatteerd dient deze goedgekeurd te worden. Open hiervoor de inkoopfactuur en klik op de groene vink bij "goedkeuren" Op deze manier is het commissieoverzicht definitief gemaakt en kan deze niet wijzigen. 
