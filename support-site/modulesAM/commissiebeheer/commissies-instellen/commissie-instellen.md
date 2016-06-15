@@ -18,16 +18,20 @@ Om geen misverstanden te krijgen worden eerst enkele definities benoemd:
 
 **Revenu share** (variabele prijs) : Commissie op basis van een percentage van gerealiseerde omzet (facturen)
 Voorbeeld:
-Product A	€100,-- (per maand)
-Percentage	15%
-Resultaat: 100 * 15% = €15,--
+- Product A	€100,-	(per maand)
+- Percentage		15%
+- Resultaat: 100 * 15% = €15,--
 
 **Lumpsum** (vastgestelde prijs): Commissies op basis van een percentage van orders. De som van alles orders maakt de contractwaarde. Lumpsum is het resultaat van de orderregeltotaal * looptijd * commissies percentage.
 Voorbeeld: 
-Product A	€100,-- (per maand)
-Looptijd 	24 maanden
-Percentage	15%
-Resultaat: 100 * 24 * 15% = €360,--
+
+- Product A	€100,-	(per maand)
+
+- Looptijd 			24 maanden
+
+- Percentage		15%
+
+- Resultaat: 100 * 24 * 15% = €360,--
 
 ## Commissie sets aanmaken ##
 In een commissie set wordt een verzameling met afspraken vastgelegd voor de berekening van commissies op facturen en orders. In de set wordt het percentage en de onderdelen waarop deze van toepassing zijn vastgelegd. Tevens kunnen hier targets worden vastgelegd waar de set betrekking op heeft. 
@@ -58,20 +62,20 @@ Korting verdelen: Indien er korting wordt gegeven aan de klant is het mogelijk d
 <div class="info">
 Target. Bij Target kan het target percentage worden vastgelegd. 
 Voorbeeld:
-Target 1000 stuks
-Min 35% max 80%
-Resultaat: vanaf 350 stuks t/m 800 stuks
+- Target 1000 stuks
+- Min 35% max 80%
+- Resultaat: vanaf 350 stuks t/m 800 stuks
 </div>
 
 ### Commissieregels toevoegen aan commissieafspraken ###
 
-Klik op **Toevoegen** om commissieregels toe te voegen aan de set
+Klik op **Toevoegen** om commissieregels toe te voegen aan de set.
 
 ![Commissieregels toevoegen aan set](images/commissieregels_toevoegen_aan_set.jpg)
 
 ## Commissieregels beheren ##
 
-Wanneer de commissieregel wordt toegevoegd verschijnt het volgende scherm
+Wanneer de commissieregel wordt toegevoegd verschijnt het volgende scherm.
 
 ![Commissieregels beheren](images/commissieregels_beheren.jpg)
 
@@ -107,7 +111,7 @@ Ga naar het tabblad **Commissies**
 
 Klik op **Toevoegen** om een commissie set te selecteren
 
-![Commissie sets koppelen aan partner(s)](images/Commissie_sets_koppelen.jpg) 
+![Commissie sets koppelen aan partner(s)](images/commissie_sets_koppelen.jpg) 
 
 Selecteer de betreffende accountmanager 
 
