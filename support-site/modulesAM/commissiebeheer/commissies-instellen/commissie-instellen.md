@@ -26,11 +26,8 @@ Voorbeeld:
 Voorbeeld: 
 
 - Product A	€100,-	(per maand)
-
 - Looptijd 			24 maanden
-
 - Percentage		15%
-
 - Resultaat: 100 * 24 * 15% = €360,--
 
 ## Commissie sets aanmaken ##
