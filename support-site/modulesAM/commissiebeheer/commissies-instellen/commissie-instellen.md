@@ -43,7 +43,7 @@ Selecteer de juiste **grootboekrekening** (GL-code)
 
 Geef een duidelijke **omschrijving** 
 
-Kies het **gedrag** waarop het percentage toegepast dient te worden 
+Kies het **gedrag** waarop het percentage toegepast dient te worden:
 -	Revshare (Factuur)
 -	Lumpsum (Order)
 
