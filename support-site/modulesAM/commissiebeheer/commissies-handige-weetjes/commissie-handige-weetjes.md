@@ -129,6 +129,6 @@ Nadat het overzicht is verzonden zal deze terug te vinden zijn "wachtend op fact
 
 ![Commissieoverzicht wachtend op factuur van partner](images/wachtend_op_factuur.jpg)
 
-<div class="warning">
+<div class="info">
 In dit stadium is de inkoopfactuur (commissieoverzicht) nog niet definitief. Nadat de inkoopfactuur door de partner is gefiatteerd dient deze goedgekeurd te worden. Open hiervoor de inkoopfactuur en klik op de groene vink bij "goedkeuren" Op deze manier is het commissieoverzicht definitief gemaakt en kan deze niet wijzigen. 
 </div>
