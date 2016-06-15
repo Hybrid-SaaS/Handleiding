@@ -22,13 +22,17 @@ Het is mogelijk om (reeds uitgekeerde) commissies te herberekenen op basis van a
 
 Percentages en voorwaarden op kunnen op een aantal verschillende manieren worden aangepast:
 
-**Partner koppelen aan commissie set**
+- Partner koppelen aan commissie set
+- Commissieset percentage aanpassen
+- Percentage op commissieregel aanpassen
+
+### Partner koppelen aan commissie set ###
 ![Partner koppelen aan commissie set](images/commissieset_wijzigen_bij_partner.jpg)
 
-**Commissieset percentage aanpassen**
+### Commissieset percentage aanpassen ###
 ![Commissieset percentage aanpassen](images/commissiepercentage_aanpassen_in_commissie_set.jpg)
 
-**Percentage op commissieregel aanpassen**
+### Percentage op commissieregel aanpassen ###
 ![Percentage op commissieregel aanpassen](images/commissiepercentage_aanpassen_in_commissieregel.jpg)
 
 
@@ -36,17 +40,21 @@ Percentages en voorwaarden op kunnen op een aantal verschillende manieren worden
 
 Nadat het percentage is aangepast dienen de commissies herberekend te worden. Hiervoor zijn een aantal verschillende manieren:
 
-**Herberekenen op factuur- en orderniveau**
+- Herberekenen op factuur- en orderniveau
+- Herberekenen op bulkniveau factuur en order
+- Herberekenen vanuit commissieafspraak bij partner
 
-Factuur
+### Herberekenen op factuur- en orderniveau ###
+
+**Factuur**
 
 ![Percentage herberekenen op factuurniveau](images/commisie_herberkenen_factuurniveau.jpg)
 
-Order
+**Order**
 
 ![Percentage herberekenen op orderniveau](images/commisie_herberkenen_orderniveau.jpg)
 
-**Herberekenen op bulkniveau factuur en order**
+### Herberekenen op bulkniveau factuur en order ###
 
 Ga naar "nieuwe commissieafdracht". Klik op één van de actieknoppen.
 
@@ -57,7 +65,7 @@ Selecteer één of meerdere facturen en klik op herberekenen.
 ![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
-**Herberekenen vanuit commissieafspraak bij partner**
+### Herberekenen vanuit commissieafspraak bij partner ###
 
 Ga naar de commissieafspraken op de relatiekaart van de partner. Selecteer een commissieafspraak en kies voor Inzien.
 
