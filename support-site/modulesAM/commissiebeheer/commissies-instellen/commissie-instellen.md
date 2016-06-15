@@ -100,6 +100,8 @@ Het is mogelijk om afwijkende voorwaarden te laten prevaleren boven de voorwaard
 
 Nadat set is aangemaakt dient deze aan de juiste partner(s) gekoppeld te worden.
 
+### Set toevoegen ###
+
 Zoek vanuit het startmenu naar **Leveranciers**
 
 Open de relatiekaart van de betreffende partner
@@ -109,6 +111,8 @@ Ga naar het tabblad **Commissies**
 Klik op **Toevoegen** om een commissie set te selecteren
 
 ![Commissie sets koppelen aan partner(s)](images/commissie_sets_koppelen.jpg) 
+
+### Set definiëren ###
 
 Selecteer de betreffende accountmanager 
 
