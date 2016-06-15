@@ -6,7 +6,7 @@
 	<menu>
 		<position>Modules A - M /Commissiebeheer</position>
 		<title>Commissie toepassen</title>
-		<sort>B</sort>
+		<sort>D</sort>
 	</menu>
 </properties>
 

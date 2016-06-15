@@ -6,15 +6,16 @@
 	<menu>
 		<position>Modules A - M /Commissiebeheer</position>
 		<title>Commissie handige weetjes</title>
-		<sort>C</sort>
+		<sort>D</sort>
 	</menu>
 </properties>
 
-# Overzicht van nieuwe commissies #
+# Algemene informatie commissie #
 
 Deze rubriek zullen handige weetjes worden beschreven over commissiebeheer van Hybrid SaaS. Synoniemen voor commissies zijn onder ander provisies, courtage en procura. In deze beschrijving zal veelal het woord “commissies” worden gebruikt.
 
-## Nieuwe commissieafdracht ##
+## Commissie raadplegen op factuurniveau ##
+
 
 
 ![Uitleg content commissieoverzicht](images/nieuwe_commissieafdracht_contentbeschrijving.jpg)
@@ -28,3 +29,20 @@ Test info
 <div class="warning">
 test warning
 </div>
+
+# Commissieproces #
+
+Commissie wordt pas aangeboden voor afroming indien de verkoopfactuur is goedgekeurd en verzonden
+Commissie is pas definitief indien de inkoopfactuur (lees: commissieoverzicht) minimaal is gefiatteerd door manager
+
+# Commissies herberekenen met aangepaste percentages #
+
+Het is mogelijk om (reeds uitgekeerde) commissies te herberekenen op basis van aangepaste percentages.
+
+## Percentages aanpassen ##
+
+Percentages en voorwaarden op kunnen op een aantal verschillende manieren worden aangepast:
+- Partner koppelen aan commissie set
+- Commissieset percentage aanpassen
+- Percentage op commissieregelniveau aanpassen
+
