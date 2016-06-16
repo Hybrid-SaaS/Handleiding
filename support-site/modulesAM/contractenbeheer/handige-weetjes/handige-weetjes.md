@@ -1,11 +1,11 @@
 <properties>
 	<page>
-		<title>Handige weetjes</title>
+		<title>Algemeen gebruik</title>
 		<description>Alles wat je over contracten moet weten</description>
 	</page>
 	<menu>
 		<position>Modules A - M /Contractbeheer</position>
-		<title>Handige weetjes</title>
+		<title>Algemeen gebruik</title>
 		<sort>a</sort>
 	</menu>
 </properties>
@@ -30,7 +30,6 @@ Nee: Op basis van order zal een nieuw contract worden aangemaakt.
 ### Looptijden contractregel vastleggen in order ###
 
 Het is mogelijk om de looptijd (begin- en einddatum) vast te leggen.
-
 
 <div class="info">
 Door een bestaand contract te koppelen in de order is het mogelijk om de begin-, einddatum en voorwaarden over te nemen.

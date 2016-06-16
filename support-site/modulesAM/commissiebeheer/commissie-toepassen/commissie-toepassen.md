@@ -1,13 +1,5 @@
 <properties>
-	<page>
-		<title>Commissie toepassen</title>
-		<description>Commissie toepassen</description>
-	</page>
-	<menu>
-		<position>Modules A - M /Commissiebeheer</position>
-		<title>Commissie toepassen</title>
-		<sort>D</sort>
-	</menu>
+
 </properties>
 
 ## Commsissie toepassen ##

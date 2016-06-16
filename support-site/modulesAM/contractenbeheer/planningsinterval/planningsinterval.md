@@ -1,13 +1,5 @@
 <properties>
-	<page>
-		<title>Planningsinterval</title>
-		<description>Planningsinterval</description>
-	</page>
-	<menu>
-		<position>Modules A - M /Contractbeheer</position>
-		<title>Planningsinterval</title>
-		<sort>a</sort>
-	</menu>
+
 </properties>
 
 ## Plannings interval ##
