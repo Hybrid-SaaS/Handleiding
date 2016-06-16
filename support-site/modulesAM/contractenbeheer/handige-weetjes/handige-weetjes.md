@@ -40,7 +40,9 @@ Door een bestaand contract te koppelen in de order is het mogelijk om de begin-,
 
 <div class="info">
 Begindatum: Vul hier de datum in waarop de contractregel van kracht dient te gaan
+
 Einddatum: Vul hier de datum in waarop de contractregel dient te eindigen. Indien er geen datum wordt ingevuld zal de contractregel oneindig doorlopen.
+
 Automatisch verlengen: Vink deze optie indien de contractregel door dient te lopen nadat de einddatum is verstreken.
 </div>
 
@@ -51,8 +53,10 @@ Open de orderegel en ga naar het tabblad **Productie/tijdregistratie**
 ![Afwijkende voorwaarden instellen op de orderregel vastleggen](images/looptijden_bij_orderregels_vastleggen.jpg)
 
 <div class="info">
-Begindatum: Indien het veld wordt leeg gelaten zal de datum op het hoofd tabblad worden overgenomen 
+Begindatum: Indien het veld wordt leeg gelaten zal de datum op het hoofd tabblad worden overgenomen
+
 Einddatum: Indien het veld wordt leeg gelaten zal de datum op het hoofd tabblad worden overgenomen
+
 Automatisch verlengen: Vink deze optie indien de contractregel door dient te lopen nadat de einddatum is verstreken.
 </div>
 
