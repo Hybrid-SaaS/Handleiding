@@ -76,13 +76,20 @@ Selecteer één of meerdere regels en klik op herberekenen.
 ![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
+<div class="info">
+Alle commissies in de geselecteerde facturen zullen worden herberekend indien deze zijn aangepast.
+</div>
+
 ## Facturen uitsluiten voor commissie ##
 
 Het is mogelijk om facturen en orders uit te sluiten voor commissies. Hiervoor zijn een aantal manieren.
-- Individueel uitsluiten
+- Individueel uitsluiten per factuur of order
 - Uitsluiten op bulkniveau
 
 ### Individueel uitsluiten ###
+
+Selecteer de hieronder weergegeven opties.
+
 **Factuur**
 ![Commissie uitsluiten op factuurniveau](images/commisie_uitsluiten_factuurniveau.jpg)
 
@@ -93,7 +100,7 @@ Het is mogelijk om facturen en orders uit te sluiten voor commissies. Hiervoor z
 
 ### Uitsluiten op bulkniveau ###
 
-Ga naar "Nieuwe commissieafdracht". Klik op één van de actieknoppen.
+Ga naar **Nieuwe commissieafdracht**. Klik op één van de actieknoppen.
 
 ![Facturen partner inzien](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
 
@@ -116,6 +123,6 @@ Selecteer een commissieregel en klik op **Inzien** om de details van de regel in
 Commissie wordt pas aangeboden voor afroming indien de verkoopfactuur is goedgekeurd en verzonden.
 </div>
 
-<div class="info">
+<div class="warning">
 Commissie is pas definitief indien de inkoopfactuur (lees: commissieoverzicht) minimaal is gefiatteerd door manager.
 </div>

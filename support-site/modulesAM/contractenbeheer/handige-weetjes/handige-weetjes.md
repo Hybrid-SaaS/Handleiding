@@ -14,15 +14,18 @@
 Het contractbeheer van Hybrid SaaS is uitgebreid met vele functies. Sommige functies zullen makkelijker te begrijpen zijn dan andere. Deze rubriek zal antwoord geven op de meest voorkomende functies zodat het contactbeheer perfect kan worden ingericht en worden afgestemd op de organisatie.
 
 ## Importeren van een order in een contract ##
-Door middel van een paar stappen is het mogelijk om een order om te zetten in een contract. 
+Door middel van een paar stappen is het mogelijk om een order om te zetten in een (bestaand) contract. 
 
 Keur de order goed door op **Goedkeuren** te klikken, handel de order af door op **Afgehandeld** te klikken, klik vervolgens op **Contract** om de order om te zetten in een contract.
 
 ![Order omzetten in een contract](images/order_omzetten_in_een_contract.png)
 
 <div class="info">
-Indien er een contract wordt gevonden van dezelfde relatie zal de volgende melding worden weergegeven: "Er zijn lopende contracten gevonden wilt u deze order hier aan toevoegen?".
+Indien er een contract wordt gevonden van dezelfde relatie zal de volgende melding worden weergegeven: 
+"Er zijn lopende contracten gevonden wilt u deze order hier aan toevoegen?".
+
 Ja: Kies het contract waar de order aan toegevoegd dient te worden. De orderregels zullen aan het lopende contract worden toegevoegd.
+
 Nee: Op basis van order zal een nieuw contract worden aangemaakt.
 </div>
 
@@ -31,7 +34,7 @@ Nee: Op basis van order zal een nieuw contract worden aangemaakt.
 
 Het is mogelijk om de looptijd (begin- en einddatum) vast te leggen.
 
-<div class="info">
+<div class="tip">
 Door een bestaand contract te koppelen in de order is het mogelijk om de begin-, einddatum en voorwaarden over te nemen.
 </div>
 
@@ -65,19 +68,23 @@ Indien gewenst is het mogelijk om de de factor aan te passen. De factor is het a
 
 
 ### Aantal van orderregel wordt als losse regels opgeslagen ###
-Bij het importeren van een order in een contract zal het aantal van de orderregel als losse regels worden geïmporteerd onder het tabblad variabele looptijden. Op deze manier kan ieder product afzonderlijk worden beheert op begin- en eindtijden.
+Bij het importeren van een order in een contract zal het aantal van de orderregel als losse regels worden geïmporteerd onder het tabblad variabele looptijden. Op deze manier kan ieder product afzonderlijk worden beheert op begin- en einddatum.
 
 ![Orderregels worden als losse regels opgeslagen in het contract](images/losse_contractregels_na_importeren_order.png)
 
 ### Product aanmerken als repeterende kosten (maandelijks terugkerende kosten) ###
-Producttype vastleggen. Een product kan als eenmalige maar ook als repeterend worden aangemerkt. Geef op de productkaart aan of het product repeterend is door het vinkje aan te zetten.
+Een product kan als eenmalige maar ook als repeterend worden aangemerkt. Geef op de productkaart aan of het product repeterend is door het vinkje aan te zetten.
 
 Ga naar et tabblad **Prijzen**, zet het vinkje aan bij **Repeterende kosten**
 
 ![Producten instellen als repeterende kosten](images/product_aanmerken_als_repeterend.png)
 
+<div class="info">
+Indien deze functie is aangevinkt zal het product als eenmalige kosten worden toegevoegd op het contract.
+</div>
+
 ### Product uitsluiten om te importeren in een contract ###
-Het is mogelijk om producten uit te sluiten om te importeren in een contract. Op deze manier blijven de producten op de order staan maar worden deze niet meegenomen op het contact.
+Het is mogelijk om producten uit te sluiten om te importeren in een contract. Op deze manier blijven de producten op de order staan maar worden deze bij de import niet meegenomen naar het contact.
 
 Ga naar het tabblad **Prijzen**, zet het vinkje aan bij **Niet importeren in contract**
 
@@ -140,6 +147,6 @@ Er zijn 3 verschillende methoden om facturen op te maken op basis van contracten
 
 ![Facturen opmaken vanuit planningsoverzicht contract](images/factuur_aanmaken_via_planning.png)
 
-<div class="info">
+<div class="warning">
 In alle bovenstaande gevallen zal de factuur worden weergegeven bij Nieuwe facturen. 
 </div>
