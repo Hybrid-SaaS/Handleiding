@@ -133,3 +133,32 @@ Wachten op betaling: Indien deze optie is geselecteerd zal de commissie pas word
 <div class="info">
 Gearchiveerd: Indien deze optie is geselecteerd zal de commissieafspraak op inactief worden gezet, waarbij de gekoppelde data zal worden bewaard.
 </div>
+
+## Lumpsum instellingen op orders ##
+
+Door middel van lumpsum kunnen commissies worden uitgerekend op basis van: Aantal * Prijs * Looptijd * Percentage.
+
+Bij het aanmaken van een nieuwe order kunnen looptijden worden ingevuld. Door middel van de begin- en einddatum kan worden bepaald wat de looptijd is voor de berekening van de commissies.
+
+Maak een nieuwe order aan
+
+Vul de begin en einddatum in
+
+![Contractafspraken vastleggen op order](images/contractinstellingen_op_order.jpg) 
+
+
+<div class="info">
+Indien een bestaand contract wordt gekoppeld zullen de looptijden uit het contract worden overgenomen.
+</div>
+
+<div class="info">
+Indien gewenst is het mogelijk om de de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
+</div>
+
+<div class="warning">
+Let op dat bij het importeren de begindatum correct staat ingevuld. Deze begin datum zal worden gebruikt bij het aanmaken van de factuurregels.
+</div>
+
+<div class="tip">
+De order kan worden geïmporteerd in een nieuw of bestaand contract. Zie voor meer informatie deze handleiding. http://hybridsaas.support/pages/support-site/modulesAM/contractenbeheer/handige-weetjes/handige-weetjes 
+</div>

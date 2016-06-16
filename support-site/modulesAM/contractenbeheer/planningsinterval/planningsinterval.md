@@ -1,11 +1,11 @@
 <properties>
 	<page>
-		<title>Plannings interval</title>
-		<description>Plannings interval</description>
+		<title>Planningsinterval</title>
+		<description>Planningsinterval</description>
 	</page>
 	<menu>
 		<position>Modules A - M /Contractbeheer</position>
-		<title>Plannings interval</title>
+		<title>Planningsinterval</title>
 		<sort>a</sort>
 	</menu>
 </properties>

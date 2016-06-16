@@ -27,15 +27,37 @@ Nee: Op basis van order zal een nieuw contract worden aangemaakt.
 </div>
 
 
-### Looptijden contractregel vastleggen op orderregel ###
-Op de orderregel is het mogelijk om de looptijd (begin- en eindtijd) vast te leggen. Ga naar het tabblad **Productie/tijdregistratie**
+### Looptijden contractregel vastleggen in order ###
 
-![Looptijden op de orderregel vastleggen](images/looptijden_bij_orderregels_vastleggen.png)
+Het is mogelijk om de looptijd (begin- en einddatum) vast te leggen.
+
+
+<div class="info">
+Door een bestaand contract te koppelen in de order is het mogelijk om de begin-, einddatum en voorwaarden over te nemen.
+</div>
+
+![Looptijden en voorwaarden uit contract overnemen](images/contractinstellingen_op_order.jpg)
 
 <div class="info">
 Begindatum: Vul hier de datum in waarop de contractregel van kracht dient te gaan
 Einddatum: Vul hier de datum in waarop de contractregel dient te eindigen. Indien er geen datum wordt ingevuld zal de contractregel oneindig doorlopen.
 Automatisch verlengen: Vink deze optie indien de contractregel door dient te lopen nadat de einddatum is verstreken.
+</div>
+
+Eventueel is het mogelijk om afwijkende voorwaarden in te stellen op orderregelniveau
+
+Open de orderegel en ga naar het tabblad **Productie/tijdregistratie**
+
+![Afwijkende voorwaarden instellen op de orderregel vastleggen](images/looptijden_bij_orderregels_vastleggen.jpg)
+
+<div class="info">
+Begindatum: Indien het veld wordt leeg gelaten zal de datum op het hoofd tabblad worden overgenomen 
+Einddatum: Indien het veld wordt leeg gelaten zal de datum op het hoofd tabblad worden overgenomen
+Automatisch verlengen: Vink deze optie indien de contractregel door dient te lopen nadat de einddatum is verstreken.
+</div>
+
+<div class="info">
+Indien gewenst is het mogelijk om de de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
 </div>
 
 

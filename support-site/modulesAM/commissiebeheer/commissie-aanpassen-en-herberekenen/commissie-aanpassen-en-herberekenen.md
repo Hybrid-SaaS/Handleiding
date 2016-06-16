@@ -12,31 +12,31 @@
 
 # Algemene informatie commissie #
 
-Deze rubriek zal o.a. worden beschreven hoe commissies aangepast en herberekend dienen te worden. Tevens zullen wat algemene onderdelen worden beschreven.
+In deze rubriek zal o.a. worden beschreven hoe commissies aangepast en herberekend dienen te worden. Tevens zullen algemene zaken worden besproken voor optimaal gebruik van commissiebeheer.
 
-# Commissies herberekenen met aangepaste percentages #
+# Commissiepercentages aanpassen en herberekenen #
 
 Het is mogelijk om (reeds uitgekeerde) commissies te herberekenen op basis van aangepaste percentages.
 
 ## Percentages aanpassen ##
 
-Percentages en voorwaarden op kunnen op een aantal verschillende manieren worden aangepast:
+Percentages en voorwaarden kunnen op een aantal verschillende manieren worden aangepast:
 
 - Partner koppelen aan commissie set
-- Commissieset percentage aanpassen
+- Commissie set percentage aanpassen
 - Percentage op commissieregel aanpassen
 
 ### Partner koppelen aan commissie set ###
 ![Partner koppelen aan commissie set](images/commissieset_wijzigen_bij_partner.jpg)
 
-### Commissieset percentage aanpassen ###
+### Commissie set percentage aanpassen ###
 ![Commissieset percentage aanpassen](images/commissiepercentage_aanpassen_in_commissie_set.jpg)
 
 ### Percentage op commissieregel aanpassen ###
 ![Percentage op commissieregel aanpassen](images/commissiepercentage_aanpassen_in_commissieregel.jpg)
 
 
-## Percentages herberekenen ##
+## Herberekenen met aangepast percentages ##
 
 Nadat het percentage is aangepast dienen de commissies herberekend te worden. Hiervoor zijn een aantal verschillende manieren:
 
@@ -56,52 +56,66 @@ Nadat het percentage is aangepast dienen de commissies herberekend te worden. Hi
 
 ### Herberekenen op bulkniveau factuur en order ###
 
-Ga naar "nieuwe commissieafdracht". Klik op één van de actieknoppen.
+Ga naar "nieuwe commissieafdracht". Klik op één van de koppelingen.
 
 ![Facturen partner inzien](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
 
-Selecteer één of meerdere facturen en klik op herberekenen.
+Selecteer één of meerdere regels en klik op herberekenen.
 
 ![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
 ### Herberekenen vanuit commissieafspraak bij partner ###
 
-Ga naar de commissieafspraken op de relatiekaart van de partner. Selecteer een commissieafspraak en kies voor Inzien.
+Ga naar de commissieafspraken op de relatiekaart van de partner. Selecteer een commissieafspraak en kies voor **Inzien**.
 
 ![Facturen en Orders inzien via commissieafspraak partner](images/facturen_orders_inzien_via_commissieset.jpg)
 
-Selecteer één of meerdere facturen en klik op herberekenen.
+Selecteer één of meerdere regels en klik op herberekenen.
 
 ![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
 ## Facturen uitsluiten voor commissie ##
 
+Het is mogelijk om facturen en orders uit te sluiten voor commissies. Hiervoor zijn een aantal manieren.
+- Individueel uitsluiten
+- Uitsluiten op bulkniveau
+
+### Individueel uitsluiten ###
+**Factuur**
+![Commissie uitsluiten op factuurniveau](images/commisie_uitsluiten_factuurniveau.jpg)
 
 
-## Commissie raadplegen op factuurniveau ##
+**Order**
+![Commissie uitsluiten op orderniveau](images/commisie_uitsluiten_orderrniveau.jpg)
 
 
+### Uitsluiten op bulkniveau ###
 
-![Uitleg content commissieoverzicht](images/nieuwe_commissieafdracht_contentbeschrijving.jpg)
+Ga naar "Nieuwe commissieafdracht". Klik op één van de actieknoppen.
 
+![Facturen partner inzien](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
+
+Selecteer één of meerdere regels en klik op herberekenen.
+
+![Commissie uitsluiten op bulkactie](images/commisie_uitsluiten_bulkniveau.jpg)
+
+
+## Details commissieregel inzien ##
+
+Selecteer een commissieregel en klik op **Inzien** om de details van de regel in te zien. Vanuit dit venster kan men naar de verschillende onderdelen.
+
+
+![Details van commissie inzien](images/commissieregeldetails_inzien.jpg)
+
+
+# Belangrijke weetjes #
 
 <div class="info">
-Test info
+Commissie wordt pas aangeboden voor afroming indien de verkoopfactuur is goedgekeurd en verzonden.
 </div>
 
-
-<div class="warning">
-test warning
+<div class="info">
+Commissie is pas definitief indien de inkoopfactuur (lees: commissieoverzicht) minimaal is gefiatteerd door manager.
 </div>
-
-# Commissieproces #
-
-Commissie wordt pas aangeboden voor afroming indien de verkoopfactuur is goedgekeurd en verzonden
-Commissie is pas definitief indien de inkoopfactuur (lees: commissieoverzicht) minimaal is gefiatteerd door manager
-
-
-
- 
-
