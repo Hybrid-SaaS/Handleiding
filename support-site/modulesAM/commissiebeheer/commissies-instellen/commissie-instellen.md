@@ -157,6 +157,10 @@ Vul de begin en einddatum in
 Indien een bestaand contract wordt gekoppeld zullen de looptijden uit het contract worden overgenomen.
 </div>
 
+<div class="tip">
+Nog geen contract? Bij het selecteren van een contract is het ook mogelijk om direct een nieuwe aan te maken. Vul alvast de looptijden in zodat deze worden overgenomen op de order.
+</div>
+
 <div class="info">
 Indien gewenst is het mogelijk om de de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
 </div>
