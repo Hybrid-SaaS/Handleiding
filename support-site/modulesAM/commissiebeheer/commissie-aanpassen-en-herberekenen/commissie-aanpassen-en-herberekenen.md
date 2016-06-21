@@ -116,6 +116,9 @@ Selecteer een commissieregel en klik op **Inzien** om de details van de regel in
 
 ![Details van commissie inzien](images/commissieregeldetails_inzien.jpg)
 
+Indien de commissie wordt herberekend zal er een groen vinkje worden weergegeven. Wanneer de details worden ingezien zal worden weergegeven welke gebruiker en wanneer de actie is gedaan.
+
+![Details van commissie inzien na herberekenen](images/details_bij_herberekende_commissies.jpg)
 
 # Belangrijke weetjes #
 
