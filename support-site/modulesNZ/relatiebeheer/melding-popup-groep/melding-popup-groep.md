@@ -50,7 +50,7 @@ Zodra je nu een order invoert op één van deze klanten verschijn onderstaand Po
 
 ![](images/9.PNG)
  
-##Verwijderen van relaties uit een groep.##
+## Verwijderen van relaties uit een groep. ##
 
 Ga naar groepen:
 
