@@ -30,15 +30,16 @@ Zoek in het startmenu naar **Website paden** en klik op **Toevoegen**
 - **Pad (url)** : Geef padnaam (voorbeeld.nl/**padnaam**) in van het pad (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.) 
 
 
+## Weergavetype ##
+
 ![Algemene instellingen padnamen](images/type_weergave_instellen.jpg)
 
 - **Type weergave**: Er kan worden gekozen uit twee verschillende weergave type. De weergave bepaald hoe producten worden weergegeven.
 
-**Standaard (De producten worden met deze weergave direct getoond)**
+### Standaard (De producten worden met deze weergave direct getoond) ###
 ![Standaard weergave](images/paden-standaard-website.jpg)
 
-
-**Gekoppelde weergave (Er wordt eerst een keuzeveld getoond met verschillende paden)**
+### Gekoppelde weergave (Er wordt eerst een keuzeveld getoond met verschillende paden) ###
 ![Gekoppelde weergave](images/paden-gekoppelde-website.jpg)
 
 ## Onderdeel koppelen ##
