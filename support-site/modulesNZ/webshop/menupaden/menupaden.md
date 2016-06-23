@@ -12,44 +12,53 @@
 </properties>
 
 # Menu paden #
-Een menu pad heeft een menu nodig,
-het pad verwijst je door naar de pagina waar je producten instaan, maar de naam uit het menu word op de site geplaatst.
+In deze rubriek zal worden beschreven hoe menupaden aangemaakt dienen te worden ten behoeve van de webshop.
 
-![](images/paden-algemeen.JPg)
+Een menupad heeft een menu nodig. Het pad verwijst door naar de pagina waar de producten instaan echter wordt de naam uit het menu op de site weergegeven.
 
-- Website
-	- Hier geef je aan voor welke website het pad bedoeld is
-- Taal
-	- Hier geef je de taal aan
-- Template
-	- Hier kan je de template kiezen
-- Naam
-	- Hier vul je de naam van het pad in
-- Omschrijving
-	- Deze word overgenomen van de naam (tenzij je het aanpast)
-- Pad (url)
-	- Deze word overgenomen van de naam met / (tenzij je het aanpast)
-- Type weergave
-	- Hier kan je de type weergave aangeven keuze uit:
-		- Standaard (je krijgt gelijk je producten te zien)
-		![](images/paden-standaard-website.jpg)
-		- Gekoppelde weergave ( je krijgt eerst nog een keuze veld met verschillende paden)
-		![](images/paden-gekoppelde-website.JPg)
-- Product hoofdgroep
-	- Hier kan je het pad koppelen aan een hoofdgroep
-- Product subgroep
-	- Hier kan je het pad koppelen aan een subgroep
-- Product kenmerk
-	- Hier kan je het pad koppelen aan een kenmerk
-- Product
-	- Hier kan je het pad koppelen aan een product
-- Redirect Permanent
-- Pagina titel
-	- Deze word overgenomen van de naam (tenzij je het aanpast)
-- Meta description
-	- Deze word overgenomen van de naam (tenzij je het aanpast)
-- Meta keywords
-	- Deze word overgenomen van de naam (tenzij je het aanpast)
+Zoek in het startmenu naar **Website paden** en klik op **Toevoegen**
+
+## Algemene instellingen ##
+
+![Algemene instellingen padnamen](images/padnaam_instellingen_algemeen.jpg)
+
+- **Website**: Selecteer de website waar het pad in aangemaakt dient te worden
+- **Taal**: Selecteer de taal van de website
+- **Template**: Selecteer het template
+- **Naam**: Geef de naam van het pad op
+- **Omschrijving**: Geef een omschrijving in van het pad (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
+- **Pad (url)** : Geef padnaam (voorbeeld.nl/**padnaam**) in van het pad (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.) 
+
+
+![Algemene instellingen padnamen](images/type_weergave_instellen.jpg)
+
+- **Type weergave**: Er kan worden gekozen uit twee verschillende weergave type. De weergave bepaald hoe producten worden weergegeven.
+
+**Standaard (De producten worden met deze weergave direct getoond)**
+![Standaard weergave](images/paden-standaard-website.jpg)
+
+
+**Gekoppelde weergave (Er wordt eerst een keuzeveld getoond met verschillende paden)**
+![Gekoppelde weergave](images/paden-gekoppelde-website.jpg)
+
+## Onderdeel koppelen ##
+
+![Onderdeel Selecteren](images/onderdeel_selecteren.jpg)
+
+Selecteer het onderdeel waar het pad aan gekoppeld dient te worden. Let op dit kan slechts één onderdeel zijn. De keuze bestaat uit:
+
+- **Product hoofdgroep**
+- **Product subgroep**
+- **Product kenmerk**
+- **Product**
+- **Redirect Permanent**
+
+
+![Titel en meta invullen](images/titel_meta.jpg)
+
+- **Pagina titel**: Vul hier de paginatitel in (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
+- **Meta description**: Vul hier de meta tekst in (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
+- **Meta keywords**: Vul hier de keywords in (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
 
 # Gekoppelde gegevens #
 
