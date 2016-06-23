@@ -55,6 +55,8 @@ Selecteer het onderdeel waar het pad aan gekoppeld dient te worden. Let op dit k
 - **Redirect Permanent**
 
 
+## Paginatitel en metateksten ##
+
 ![Titel en meta invullen](images/titel_meta.jpg)
 
 - **Pagina titel**: Vul hier de paginatitel in (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
