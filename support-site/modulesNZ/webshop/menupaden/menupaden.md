@@ -34,7 +34,7 @@ Zoek in het startmenu naar **Website paden** en klik op **Toevoegen**
 
 ![Algemene instellingen padnamen](images/type_weergave_instellen.jpg)
 
-- **Type weergave**: Er kan worden gekozen uit twee verschillende weergave type. De weergave bepaald hoe producten worden weergegeven.
+- **Type weergave**: Er kan worden gekozen uit twee verschillende weergavetype. De weergave bepaald hoe producten worden weergegeven.
 
 ### Standaard (De producten worden met onderstaande weergave direct getoond) ###
 ![Standaard weergave](images/paden-standaard-website.jpg)
@@ -80,19 +80,19 @@ Door de regel te bewerken is het mogelijk om de sortering aan te passen. Met de 
 
 ![Sorteerwaarde instellen](images/paden-gekoppeldegegevens-sortering.jpg)
 
-Standaard loopt de sortering van link naar rechts en boven naar beneden. Zie onderstaand voorbeeld.
+Standaard is de sortering van link naar rechts en boven naar beneden. Zie onderstaand voorbeeld.
 
 ![Voorbeeld sortering](images/sortering.jpg)
 
 
 # Extra #
 
-Het is mogelijk om boven en onder de productafbeeldingen een tekst te plaatsen. Ga hiervoor naar het tabblad extra.
+Het is mogelijk om boven en onder de productafbeeldingen een tekst te plaatsen. Ga hiervoor naar het tabblad **Extra**.
 
 ![Extra instellingen](images/paden-extra.jpg)
 
-Tekst ingeven voor boven de afbeeldingen
+Tekst ingegeven voor boven de afbeeldingen
 ![Voorbeeld tekst](images/paden-extra-bovencontent.jpg)
 
-Voorbeeld ingeven tekst op website
+Voorbeeld ingegeven tekst op website
 ![Voorbeeld ](images/paden-extra-bovencontent-website.jpg)
