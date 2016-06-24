@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>Website menu items</title>
-		<description>Website menu items</description>
-		<context>website-menuitem</context>
+		<title>menu items</title>
+		<description>menu items</description>
+		<context>menuitem</context>
 	</page>
 	<menu>
 		<position>Modules N - Z / Webshop</position>
-		<title>Website menu items</title>
+		<title>menu items</title>
 		<sort>f</sort>
 	</menu>
 </properties>
