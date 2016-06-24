@@ -1,12 +1,12 @@
 <properties>
 	<page>
-		<title>menu items</title>
-		<description>menu items</description>
-		<context>menuitem</context>
+		<title>Menu items</title>
+		<description>Menu items</description>
+		<context>Menuitem</context>
 	</page>
 	<menu>
 		<position>Modules N - Z / Webshop</position>
-		<title>menu items</title>
+		<title>Menu items</title>
 		<sort>f</sort>
 	</menu>
 </properties>
@@ -15,7 +15,7 @@
 
 In deze rubriek zal worden bescheven hoe navigatie menus worden aangemaakt. Afhankelijk van de website kunnen de menus op verschillende plaatsen worden weergegeven (bijv. links, boven en beneden).
 
-##vIntroductie menuitems ##
+## Introductie menuitems ##
 
 Het idee bij het aanleggen van een menu is dat van groot naar klein wordt gedacht. Bijvoorbeeld: 
 - Menu Links
