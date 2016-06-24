@@ -36,10 +36,10 @@ Zoek in het startmenu naar **Website paden** en klik op **Toevoegen**
 
 - **Type weergave**: Er kan worden gekozen uit twee verschillende weergave type. De weergave bepaald hoe producten worden weergegeven.
 
-### Standaard (De producten worden met deze weergave direct getoond) ###
+### Standaard (De producten worden met onderstaande weergave direct getoond) ###
 ![Standaard weergave](images/paden-standaard-website.jpg)
 
-### Gekoppelde weergave (Er wordt eerst een keuzeveld getoond met verschillende paden) ###
+### Groep weergave - Gekoppelde weergave (Er wordt eerst een keuzeveld getoond met verschillende paden) ###
 ![Gekoppelde weergave](images/paden-gekoppelde-website.jpg)
 
 ## Onderdeel koppelen ##
@@ -63,40 +63,36 @@ Selecteer het onderdeel waar het pad aan gekoppeld dient te worden. Let op dit k
 - **Meta description**: Vul hier de meta tekst in (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
 - **Meta keywords**: Vul hier de keywords in (deze wordt automatisch overgenomen van de naam, tenzij deze handmatig wordt aangepast.)
 
-# Gekoppelde gegevens #
+### Weergave type Groep weergave - Gekoppelde gegevens ###
 
-Als je een gekoppelde weergave heb aangegeven bij type weergave kan je hier de paden aangeven welke gekoppeld moeten worden aan deze pad
-![](images/paden-gekoppeldegegevens.JPg)
+Indien bij weergavetype is gekozen voor "Groep weergave - Gekoppelde weergave" is het mogelijk de paden aangeven welke gekoppeld dienen te worden aan dit pad.
 
-- Website pad
-	- Om toe te voegen klikt u op de button.
-- Bewerken
-	- Om te bewerken selecteert u een regel en klikt op de button Bewerken.
-- Inzien
-- Verwijderen
-	- Om te verwijderen selecteert u een regel en klikt op de button Verwijderen.
-- Exporteren
+![Gekoppelde gegevens](images/paden-gekoppeldegegevens.jpg)
 
-Door op de regel dubbel te klikken kan je een sorteringswaarde aangeven
-hij plaatst het altijd:
+- **Website pad**: Hiermee is het mogelijk om een pad te selecteren en te koppelen.
+- **Bewerken**: Selecteer het gewenste pad om sorteerwaarde aan te passen. 
+- **Inzien**: Selecteer het gewenste pad om deze in te zien
+- **Verwijderen**: Selecteer het gewenste pad om deze te verwijderen
+- **Exporteren**: Hiermee kunnen alle regels worden geëxporteerd naar Excel
 
-- 1	2
-- 3	4
-- 5 6
-- enzo
 
-![](images/paden-gekoppeldegegevens-sortering.JPG)
+Door de regel te bewerken is het mogelijk om de sortering aan te passen. Met de sortering kan de positie van de afbeeldingen worden bepaald.
+
+![Sorteerwaarde instellen](images/paden-gekoppeldegegevens-sortering.jpg)
+
+Standaard loopt de sortering van link naar rechts en boven naar beneden. Zie onderstaand voorbeeld.
+
+![Voorbeeld sortering](images/sortering.jpg)
+
 
 # Extra #
 
-![](images/paden-extra.JPG)
+Het is mogelijk om boven en onder de productafbeeldingen een tekst te plaatsen. Ga hiervoor naar het tabblad extra.
 
-- Extra menu's
-- Boven content
-	![](images/paden-extra-bovencontent.JPG)
-	![](images/paden-extra-bovencontent-website.JPG)
-- Onder content
-	![](images/paden-extra-ondercontent.JPG)
-	![](images/paden-extra-ondercontent-website.JPG)
+![Extra instellingen](images/paden-extra.jpg)
 
-----------
+Tekst ingeven voor boven de afbeeldingen
+![Voorbeeld tekst](images/paden-extra-bovencontent.jpg)
+
+Voorbeeld ingeven tekst op website
+![Voorbeeld ](images/paden-extra-bovencontent-website.jpg)
