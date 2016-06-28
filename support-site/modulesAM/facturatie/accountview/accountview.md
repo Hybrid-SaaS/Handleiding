@@ -9,69 +9,85 @@
 	</menu>
 </properties>
 
-# Mutaties importeren in AccountView vanuit HybridSaas #
+# Mutaties importeren in AccountView vanuit Hybrid SaaS #
 
-Om de mutaties automatisch in te lezen vanuit Hybrird SaaS in AccountView moet op de server aangegeven worden voor welke administratie dit gebeurt. Standaard staat de server ingesteld op het huidige boekjaar van de eerste administratie (als er met meerdere administraties gewerkt word). In AccountView is er de mogelijkheid om te wisselen tussen de verschillende administraties. Hybrid SaaS geeft geen onderscheid in de verschillende administraties op het moment van exporteren.
+Om de mutaties automatisch in te lezen vanuit Hybrid SaaS naar AccountView dient op de server aangegeven te worden voor welke administratie dit dient te gebeuren. Standaard staat de server ingesteld op het huidige boekjaar van de eerste administratie (indien er met meerdere administraties wordt gewerkt). In AccountView is het mogelijk om te wisselen tussen de verschillende administraties. Hybrid SaaS geeft echter geen onderscheid in de verschillende administraties op het moment van exporteren.
 
 ## Export vanuit Hybrid SaaS ##
 
-In Hybrid SaaS zijn er verschillende soorten export beschikbaar, om de juiste gegevens te kunnen exporteren zijn er ook rechten aan verbonden
 
-![rechten](images/rechten.png)
+### Rechten correct instellen ###
+In Hybrid SaaS zijn verschillende soorten exports beschikbaar. Om de juiste gegevens te kunnen exporteren dienen de rechten aangepast te worden.
+
+![Rechten instellen ten behoeve van exports](images/rechten.png)
 
 <div class="warning">
-Let op! Er kan per gebruiker rechten worden aangezet maar ook per beveiligingsgroep, dit is te herkennen door:
-* Als de knopjes voor het recht **groen of rood** zijn, dan word er per gebruiker iets aangepast
-* Als de knopjes voor het recht **wit** zijn, dan word er per beveiligingsgroep iets aangepast, elke medewerker die hieraan gekoppeld is krijgt deze wijziging.
+Let op! De rechten kunnen op het niveau van de beveiligingsgroep naar ook op gebruikersniveau aangepast worden.
+* Indien de knopjes voor het recht **groen of rood** zijn, is deze enkel van toepassing op de geselecteerde gebruiker
+* Indien de knopjes voor het recht **wit** zijn, is deze enkel van toepassing op de gehele beveiligingsgroep. Iedere gebruiker in deze beveiligingsgroep zal het geselecteerde recht hebben.
 </div>
+
+### Verschillende export mogelijkheden ###
 
 Er zijn 3 verschillende menukeuzes: **verkoopfacturen**, **inkoopfacturen** en **memoriaalboekingen**.
 
-![bakjes](images/bakjes.png)
+![Snelkoppelingen op bureaublad](images/bakjes.png)
 
 <div class="tip">
-Het is handig om de verschillende bakjes op het bureaublad te plaatsen, vanuit start met de rechtermuisknop op het bakje dan verschijnt de keuze "Toon op bureaublad", daarnaast is het ook mogelijk om de naam van het bakje te veranderen, door met de rechtermuis knop op het bakje te klikken verschijnt de keuze "Naam wijzigen"</div>
+Het is handig om de verschillende snelkoppelingen op het bureaublad te plaatsen. Klik vanuit het startmenu met de rechtermuisknop op het menu-item. Er verschijnt de keuze "Toon op bureaublad". 
+</div>
 
-Selecteer de regels die geëxporteerd moeten worden en kies voor Accountview.
+<div class="tip">
+Tevens is het mogelijk om de naam van de snelkoppeling te veranderen, door met de rechtermuisknop op de snelkoppeling te klikken verschijnt de keuze "Naam wijzigen" Pas de naam aan en klik op "opslaan". 
+</div>
 
-- **Verkoopfacturen:**
-![verkoop](images/verkoopexport.png)
 
-- **Inkoopfacturen:**
-![inkoop](images/inkoopexport.png)
+### Regels exporteren ###
 
-- **Memoriaalboekingen:**
-![memoriaal](images/memoriaalexport.png)
+Selecteer de regels welke geëxporteerd dienen te worden en klik op de knop **AccountView**.
 
-Vanuit alle 3 de verschillende bakjes verschijnt het onderstaand venster popt up:
+**Verkoopfacturen:**
+![Verkoopregels exporteren naar Accountview](images/verkoopexport.png)
+
+**Inkoopfacturen:**
+![Inkoopfactuurregels exporteren naar Accountview](images/inkoopexport.png)
+
+**Memoriaalboekingen:**
+![Memoriaalboekingen exporteren naar Accountview](images/memoriaalexport.png)
+
+
+### Regels exporteren ###
+
+Nadat de bovenstaande actie is uitgevoerd verschijnt het onderstaande venster
 
 ![Hybrid SaaS exports](images/nieuw.png)
 
-Hierin verschijnen de al geexporteerde bestanden en de nieuwe nog te exporteren bestanden, dit is te herkennen door het gele sterretje dit is het bestand wat net geexporteerd is. Selecteer de regel met het sterretje en kies voor *Download bestand*.
+Alle geëxporteerde bestanden en de (nieuwe) nog te exporteren bestanden weergegeven. Nieuwe bestanden zijn te herkennen aan het gele sterretje.
+Selecteer de regel met het sterretje en kies voor **Download bestand**.
  
-Bij de volgende melding word er gevraagd of het bestand opgeslagen of geopend moet worden, Kies voor opslaan en sla het bestand op in een map. Er word automatisch een naam aan het bestand gegeven welke oplopend is van nummer, bij wens kan er tijdens het opslaan de bestandsnaam veranderd worden.
+Bij de volgende melding wordt er gevraagd of het bestand opgeslagen of geopend dient te worden. Kies voor **opslaan** en sla het bestand op in een map op de computer. 
 
-![opslaan](images/opslaan.png)
+![Opslaan exportbestand](images/opslaan.png)
 
 <div class="tip">
-Indien het gewenst is kan er een map worden aangemaakt op de computer waar deze bestanden in bewaard kunnen worden. Naast dat ze ook in Hybrid SaaS staan is er nog een extra backup aanwezig.
+De exports zullen automatisch worden opgeslagen in Hybrid SaaS. Indien gewenst kunnen bestanden alsnog worden opgeslagen op de computer zodat er een extra back up is.
 </div>
 
-## Importeren in AccountView ##
+## Importeren exports in AccountView ##
 
-Ga nu naar AccountView en kies bij *Bestand* voor *Administraties*.
+Ga naar AccountView en kies bij **Bestand** voor **Administraties**.
 
-![AccountViewbestand](images/avbestand.png)
+![AccountView bestand](images/avbestand.png)
 
-Zorg dat de juiste administratie geselecteerd is en kies bij *Document* voor *Importeren* en dan voor *XML*
+Zorg dat de juiste administratie geselecteerd is en kies bij **Document** voor **Importeren** en vervolgens voor **XML**
 
 ![AccountView import](images/avimport.png)
 
-Om het juiste bestand te kunnen zoeken op de computer kan je het mapje selecteren. Ga naar de map waarin de exports zijn opgelsagen en selecteer het bestand en kies voor *importeren*.
+Selecteer de juiste map om het bestand te selecteren. Ga naar de juiste map (waarin de exports zijn opgeslagen) en selecteer het bestand en kies voor **importeren**.
 
-![import selecteren](images/avimportbestand.png)
+![Importbestand selecteren](images/avimportbestand.png)
 
-Na het importeren kun je het venster administratie sluiten en keer je weer terug naar de administratie die open stond.
+Sluit na het importeren de administratie.
  
 ![AccountView sluiten](images/avsluiten.png)
  
