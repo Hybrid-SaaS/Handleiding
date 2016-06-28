@@ -62,7 +62,7 @@ Nadat de bovenstaande actie is uitgevoerd verschijnt het onderstaande venster
 
 ![Hybrid SaaS exports](images/nieuw.png)
 
-Alle geëxporteerde bestanden en de (nieuwe) nog te exporteren bestanden weergegeven. Nieuwe bestanden zijn te herkennen aan het gele sterretje.
+Hierin zijn alle geëxporteerde bestanden en de (nieuwe) nog te exporteren bestanden weergegeven. Nieuwe bestanden zijn te herkennen aan het gele sterretje.
 Selecteer de regel met het sterretje en kies voor **Download bestand**.
  
 Bij de volgende melding wordt er gevraagd of het bestand opgeslagen of geopend dient te worden. Kies voor **opslaan** en sla het bestand op in een map op de computer. 
