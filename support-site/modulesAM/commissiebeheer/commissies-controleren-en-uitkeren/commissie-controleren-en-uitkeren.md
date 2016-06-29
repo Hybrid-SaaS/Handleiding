@@ -25,7 +25,7 @@ Alle nieuwe commissies worden per partner, type en gedrag weergegeven.
 Van links naar rechts wordt de volgende data weergegeven.
 
 - **Leverancier**:	Naam van de partner
-- **Subtotaal**:		Subtotaal bedrag van alle facturen waar commissie over berekend is in deze periode
+- **Subtotaal**:		Subtotaal bedrag van alle factuur- of orderregels waar commissie over berekend is in deze periode
 - **Gem%**:			Gemiddelde commissiepercentage (commissiebedrag/subtotaal) in deze periode
 - **Commissie**:		Totale commissiebedrag in deze periode
 - **Commissietype**:	Het type commissie (dit kan handmatig worden ingesteld op de commissie set)
