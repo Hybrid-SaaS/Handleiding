@@ -140,6 +140,28 @@ Wachten op betaling: Indien deze optie is geselecteerd zal de commissie worden u
 Gearchiveerd: Indien deze optie is geselecteerd zal de commissieafspraak op inactief worden gezet. De gekoppelde data zal worden bewaard.
 </div>
 
+### Partner koppelen aan organisatie ###
+
+De partner dient enkel commissie te ontvangen van organisaties welke onder zijn/haar account vallen. Door de partner als accountmanager aan een organisatie te koppelen zal de commissie over de facturen, gericht aan deze organisatie, worden toebedeeld aan de partner.
+
+Ga naar de relatiekaart van de betreffende organisatie
+
+Ga naar het tabblad **Stamgegevens**
+
+Klik op **Toevoegen** en selecteer de partner
+
+Klik vervolgens op de optie **Commissie** zodat er een vinkje bij commissie komt te staan
+
+![Accountmanager - Partner vastleggen bij organisatie ](images/partner_koppelen_aan_organisatie.jpg) 
+
+<div class="warning">
+Het vinkje bij commissie dient aan te staan om de commissie aan de juiste partner toe te bedelen.
+</div>
+
+<div class="info">
+Indien er meerdere accountmanagers zijn is het mogelijk om 1 accountmanager als primair aan te wijzen. Klik hiervoor op de optie "Primair"
+</div>
+
 ## Lumpsum instellingen op orders ##
 
 Door middel van lumpsum kunnen commissies worden uitgerekend op basis van: Aantal * Prijs * Looptijd * Percentage.
@@ -172,3 +194,5 @@ Let op dat bij het importeren de begindatum correct staat ingevuld. Deze begin d
 <div class="tip">
 De order kan worden geïmporteerd in een nieuw of bestaand contract. Zie voor meer informatie deze handleiding. http://hybridsaas.support/pages/support-site/modulesAM/contractenbeheer/handige-weetjes/handige-weetjes 
 </div>
+
+-------
