@@ -65,6 +65,16 @@ Selecteer één of meerdere regels en klik op herberekenen.
 ![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
+### Herberekenen op commissieset niveau ###
+
+Ga naar "Commissie set", Selecteer één set en klik op één van de koppelingen.
+
+![Facturen en Orders bij commissie set inzien](images/commisie_herberkenen_commissie_set_niveau.jpg)
+
+Selecteer één of meerdere regels en klik op herberekenen.
+
+![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
+
 ### Herberekenen vanuit commissieafspraak bij partner ###
 
 Ga naar de commissieafspraken op de relatiekaart van de partner. Selecteer een commissieafspraak en kies voor **Inzien**.
