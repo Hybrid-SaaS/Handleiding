@@ -70,6 +70,10 @@ Loop nu het proces door. Goedkeuring aanvraag, goedkeuren manager en als laatste
 De voorraad wordt meteen weer afgeboekt.
 
 ![](images/14.png)
+
+<div class="warning">
+LET OP! Bij "geleverd" dient het aantal stuks in de min "-" weergegeven te worden. Als dit niet het geval is zal de voorraad niet worden verwerkt en worden afgeboekt. 
+</div>
  
 Resultaat is:
 
