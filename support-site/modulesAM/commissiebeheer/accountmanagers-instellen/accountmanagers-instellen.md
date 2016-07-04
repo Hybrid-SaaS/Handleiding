@@ -45,6 +45,10 @@ Vul bij code het partnernummer in waaronder deze partner bekend staat. Eventuele
 Zorg ervoor dat het vinkje bij leverancier staat aangevinkt. Indien dit niet het geval is, kan het mogelijk zijn dat de partner niet correct wordt weergegeven.
 </div>
 
+<div class="warning">
+Selecteer op het tabblad Stamgegevens de juiste BTW code
+</div>
+
 ## Partner aanmaken als gebruiker ##
 
 Zoek via het startmenu naar **Gebruikers wijzigen**
