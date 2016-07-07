@@ -4,8 +4,8 @@
 		<description>Verlof</description>
 	</page>
 	<menu>
-		<position>Modules A - M /HRM</position>
-		<title>Verlof - Basisgegevens</title>
+		<position>Modules A - M /HRM /Verlof</position>
+		<title>Basisgegevens</title>
 		<sort>a</sort>
 	</menu>
 </properties>
@@ -123,7 +123,7 @@ De verschillende verlof type welke aan de medewerker zijn toegevoegd zijn bij de
 
 -------
 
-- Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/aanvragen-verwerken) voor het aanvragen en verwerken of verwijderen van een verlof
-- Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/dagstaten) voor het verwerken van de dagstaten
+- Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken) voor het aanvragen en verwerken of verwijderen van een verlof
+- Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-dagstaten) voor het verwerken van de dagstaten
 
 -------

@@ -4,8 +4,8 @@
 		<description>Verlof</description>
 	</page>
 	<menu>
-		<position>Modules A - M /HRM</position>
-		<title>Verlof - Verwerken verlofaanvraag</title>
+		<position>Modules A - M /HRM /Verlof</position>
+		<title>Verwerken verlofaanvraag</title>
 		<sort>b</sort>
 	</menu>
 </properties>
@@ -42,7 +42,7 @@ Na het toevoegen van een verlof moet deze nog beoordeeld worden. Bij akkoord kan
 
 # Verwijderen van een Verwerkte verlofaanvragen #
 
-Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/dagstaten) voor het verwijderen van een verlofaanvraag in de dagstaten.
+Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-dagstaten) voor het verwijderen van een verlofaanvraag in de dagstaten.
 
 De betreffende verlofaanvraag dient te worden opgezocht in deze lijst. Hier kan hij opnieuw beoordeeld worden en kan er gekozen worden voor afwijzen, er zal een melding komen of het akkoord is dat het saldo weer opgeboekt zal worden. Door het afwijzen van de verlofaanvraag worden automatisch de aangemaakte tijdregistaties ook verwijderd.
 
