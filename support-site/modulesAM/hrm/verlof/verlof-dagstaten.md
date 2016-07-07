@@ -36,7 +36,7 @@ Als de registratie in de bak:
 - **Maandstaten controleren** zit, moet de hele regel **verwijderd worden**
 - **Gecontroleerde dagstaten** zit, moet de juiste datum(s) worden opgezocht en moet deze **verwijderd worden**
 
-Nadat deze handelingen gebeurd zijn kan er verder worden gegaan met het [verwijderen van de verlofaanvraag]http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken). Als de verlofaanvraag word aangepast komt deze weer terecht bij te controleren dagstaten, er kan opnieuw het process worden doorgelopen
+Nadat deze handelingen gebeurd zijn kan er verder worden gegaan met het [verwijderen van de verlofaanvraag](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken). Als de verlofaanvraag word aangepast komt deze weer terecht bij te controleren dagstaten, er kan opnieuw het process worden doorgelopen
 
 ------
 
