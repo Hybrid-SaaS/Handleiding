@@ -11,55 +11,22 @@
 
 ## Inkooporde retour sturen vanuit magazijn aan de leverancier ##
 
-Producten uit het standaard magazijn terugsturen naar de leverancier.
-Ga naar **“Direct overboeken”**.
+Om producten uit het standaard magazijn terugsturen naar de leverancier dient er een overboeking te moeten plaatsvinden dit kan uitgevoerd worden bij **Direct overboeken**.
  
-![](images/1.png)
+![Overboeken](images/overboeken.png)
 
-- Voer het eerste product in.
-- Voer dan de **"van locatie"** en de **"naar locatie"** in en zet de reden in het opmerkingsveld
-- Vul vervolgens het aantal in en druk op de knop **"verplaats voorraad"**
-- Je hoef nu alleen maar voor de volgende producten het productnummer en het aantal in te geven en dan op de knop **"Verplaats voorraad"** te drukken de rest blijft gewoon staan
+- Zoek het juiste product op
+- Voer de **van locatie** en de **naar locatie** in
+- Vul vervolgens het aantal in en druk op de knop **verplaats voorraad**
+- Er hoef nu alleen maar voor de volgende producten het productnummer en het aantal in te geven en dan op de knop **Verplaats voorraad** te drukken de rest blijft gewoon staan, indien er een andere van locatie is dient deze te worden aangegeven.
 
-![](images/2.png)
+Nu zijn de aantallen verplaatst naar het magazijn **Retour leverancier**. Via de voorraadlocatie kunnen de producten op voorraad worden opgevraagd, selecteer de producten en klik op de button **retour leverancier**
 
-Nu heb je de aantallen verplaatst naar het magazijn **“Retour leverancier”** .
-Ik heb het product 27002545 10 stuks verplaatst
-Ik heb het product 27002542 8 stuks verplaatst
+![producten op voorraad per locatie](images/loccatie-voorraad.png)
 
-Ga nu naar de voorraadlocaties.
+Er word nu een scherm getoond waarin er een inkooporder is aangemaakt, open de juiste inkooporder en loop het proces door **Goedkeuring aanvraag**, **goedkeuren manager** en als laatste de knop **Besteld**. De order hoeft niet binnen gemeld of in ontvangst te worden genomen.
+De voorraad wordt meteen weer afgeboekt, en de inkooporder komt na deze stappen als afgehandeld te staan
+
+![inkooporder verwerken](images/inkooporder.png)
  
-![](images/3.png)
-
-![](images/4.png)
-
-Selecteer de voorraadlocatie **“Retour leverancier”** en druk op de knop **“Producten op voorraad”**.
- 
-![](images/5.png)
-
-Selecteer het juiste product en druk op de knop **“Retour naar leverancier”** .
- 
-![](images/6.png)
-
-Je komt nu in de nieuwe inkooporder. Als je meerdere producten wilt terugsturen, ga dan terug naar het producten scherm van het **“Retour leverancier”** en voer de actie opnieuw uit. Alle regels komen dan in één inkooporder terecht. Weliswaar negatief. Je kan ook meerdere regels selecteren en dan op de knop **“Retour leverancier”** drukken
- 
-![](images/7.png)
-
-Open de inkooporder.
-Loop nu het proces door. Goedkeuring aanvraag, goedkeuren manager en als laatste de knop **“Besteld”**. De order hoeft niet binnen gemeld of in ontvangst te worden genomen.
-De voorraad wordt meteen weer afgeboekt.
-
-![](images/8.png)
- 
-Resultaat is:
-
-![](images/9.png)
-
-Voorraad historie:
- 
-![](images/10.png)
-
-Producten zijn nu tijdelijk opgeboekt geweest in het Retour leverancier magazijn en van daaruit weer retour gestuurd. Per saldo dus 0.
-
-
-----------
+ ----------
