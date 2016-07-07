@@ -12,7 +12,7 @@
 
 # Het verwerken van de verlof aanvragen met de dagstaten #
 
-## Dagstaten controleren ##
+### Dagstaten controleren ###
 
 Doordat er tijdregistraties zijn aangemaakt komen ze in beeld bij het controlleren van de dagstaten. Bij het controleren van de dagstaten zal er worden aangegeven dat het rooster bij een normale werkdag hoort en zal de uren van een normale werkdag noteren.
 
@@ -22,11 +22,11 @@ Er zouden geen uren in het tijd voor tijd bakje terecht kunnen komen, is dat wel
 
 Na het controleren van de dagstaat kan deze worden goedgekeurd. het proces van de dagstaten kan zoals bekend verder worden afgewerkt.
 
-# Het verwijderen van verlof aanvragen #
+## Het verwijderen van verlof aanvragen ##
 
 Als er een fout is gemaakt in het aanvragen van de verlofaanvraag kan deze weer ongedaan worden gemaakt. 
 
-## Dagstaten ##
+### Dagstaten ###
 
 Voor het willen terugdraaien van een verlofaanvraag dient deze uit de dagstaten te worden gehaald, hoe verder in het proces van de verwerking hoe meer stappen er ondernomen moeten worden. Ze worden hier vanaf het eind aangegeven.
 
@@ -37,7 +37,6 @@ Als de registratie in de bak:
 - **Gecontroleerde dagstaten** zit, moet de juiste datum(s) worden opgezocht en moet deze **verwijderd worden**
 
 Nadat deze handelingen gebeurd zijn kan er verder worden gegaan met het [verwijderen van de verlofaanvraag](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken). Als de verlofaanvraag word aangepast komt deze weer terecht bij te controleren dagstaten, er kan opnieuw het process worden doorgelopen
-
 
 ------
 
