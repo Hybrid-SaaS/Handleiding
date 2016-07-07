@@ -121,7 +121,6 @@ De verschillende verlof type welke aan de medewerker zijn toegevoegd zijn bij de
 
 ![bedrijfagenda](images/bedrijfagenda.png)
 
-
 -------
 
 - Klik [hier](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken) voor het aanvragen en verwerken of verwijderen van een verlof
