@@ -10,6 +10,7 @@
 	</menu>
 </properties>
 
+
 # Basisgegevens voor het verlof en het verwerken ervan #
 
 Deze rubriek zal meer duidelijkheid geven over de basisgegevens voor het kunnen verwerken van verlofaanvragen, hiervoor zijn de bakjes **Verlof typen, Openstaande en Verwerkte verlofaanvragen en de bedrijfsagenda** nodig, Als er ook gebruik word gemaakt van het verwerken van de dagstaten hebje ook het de bakjes voor de **dagstaten** nodig.
@@ -40,6 +41,7 @@ Dagen die niet worden aangepast worden standaard al roostervrij ingegeven
 
 
 **Daglengte:**
+
 - Er kan voor meerdere dagen worden aangegeven wat de lengte van een dag is,(voorbeeld de werkdag is van 09:00 tot 17:30 met een 00:30 pauze, de totale duur van de werkdag is dan 08:00 uur)
 
 ![Dag lengte](images/daglengte.png)
