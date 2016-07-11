@@ -26,7 +26,7 @@ Er zijn 5 lossen tijdregistraties op dit project gemaakt met als uurtarief van â
 
 ![losse tijdregistraties op project](images/tijdregistratie-los.png)
 
-<div class="Warning">
+<div class="tip">
 De uren zijn nog niet goedgekeurd
 </div>
 
@@ -48,7 +48,7 @@ Ook zijn er kosten gemaakt op de werkbon 1 product van â‚¬15,00 excl btw
 
 ![werkbon aanmaken kosten](images/werkbon-kosten.png)
 
-<div class="Warning">
+<div class="tip">
 De werkbon is nog niet goedgekeurd
 </div>
 
@@ -66,7 +66,7 @@ De werkbon is goedgekeurd tot de laatste stap maar nog niet gefactureerd. Hierdo
 
 ![werkbon goedgekeurd maar nog geen factuur](images/werkbon-goedgekeurd.png)
 
-<div class="Warning">
+<div class="tip">
 De werkbon is goedgekeurd maar er is nog geen factuur van gemaakt
 </div>
 
@@ -87,7 +87,7 @@ Er is nu een factuur aangemaakt van de werkbon. Deze is nog niet goedgekeurd en 
 
 ![factuur van de werkbon](images/werkbon-factuur.png)
 
-<div class="Warning">
+<div class="tip">
 De tijdregistratie en de kosten van de werkbon worden nu gefactureerd
 </div>
 
@@ -109,7 +109,7 @@ De tijdregistratie en de kosten van de werkbon worden nu gefactureerd
 
 ![factuur verzonden marge](images/werbon-verstuurd-marge.png)
 
-<div class="Warning">
+<div class="tip">
 De status van de factuur is nu verstuurd, nu heeft het de waarde van gefactureerd (het is verstuurd naar de klant)
 </div>
 
@@ -134,7 +134,7 @@ De status van de factuur is nu verstuurd, nu heeft het de waarde van gefactureer
 
 ![tijdregistratie goedkeuren ](images/tijdregistratie-los-goedgekeurd.png)
 
-<div class="Warning">
+<div class="tip">
 De tijdregistratie zijn goedgekeurd maar nog niet doorgezet als factuur
 </div>
 
@@ -161,7 +161,7 @@ De tijdregistratie zijn goedgekeurd maar nog niet doorgezet als factuur
 
 ![tijdregistratie goedkeuren ](images/factuur-losse-registraties.png)
 
-<div class="Warning">
+<div class="tip">
 De tijdregistraties zijn verwerkt en hiervan is een factuur gemaakt maar heeft nog niet de status verzonden
 </div>
 
@@ -187,7 +187,7 @@ De tijdregistraties zijn verwerkt en hiervan is een factuur gemaakt maar heeft n
 
 ## Factuur status verstuurd  ##
 
-<div class="Warning">
+<div class="tip">
 Alle facturen hebben de status verstuurd en alle tijdregistraties zijn verwerkt
 </div>
 
