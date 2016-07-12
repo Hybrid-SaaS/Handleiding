@@ -136,6 +136,16 @@ Na het toevoegen van de ALS functie zal de lege regel niet worden weergegeven zo
 <div class="info">
 De ALS functie kan voor talloze doeleinden worden gebruikt. Het is ook mogelijk om meerdere ALS functies in elkaar te gebruiken.
 </div>
+
+## Maximaal aantal karakters vastleggen ##
+
+In bepaalde gevallen kan het makkelijk zijn om het aantal karakter te limiteren. Op deze manier wordt voorkomen dat tekstregels te lang worden en daardoor niet meer op een document passen.
+
+Door middel van een "maxlength" `/ maxlength=20` toe te voegen aan de MERGEFIELD kan het maximaal aantal karakters worden ingesteld.
+
+Voorbeeld zonder: `{MERGEFIELD PRODUCT_NAME \* MERGEFORMAT}`
+
+Voorbeeld met: `{MERGEFIELD PRODUCT_NAME / maxlength=20 \* MERGEFORMAT}`
  
 ## Afbeelding een vaste afmeting geven ##
 
