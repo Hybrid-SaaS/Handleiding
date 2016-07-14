@@ -10,6 +10,8 @@
 	</menu>
 </properties>
 
+![Commissieproces in een notendop](images/commissieproces_visualisatie.jpg)
+
 # Partner aanmaken #
 
 Deze rubriek zal meer duidelijkheid te geven over het aanmaken van nieuwe partners en de instellen welke gedaan dienen te worden om de commissies op de juist manier toe te bedelen.
