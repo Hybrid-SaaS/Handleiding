@@ -3,8 +3,8 @@
 		<title>Export Jupa</title>
 	</page>
 	<menu>
-		<position>Modules A - M / Facturatie </position> 
-		<title>Export Jupa</title>
+		<position>Modules A - M / Facturatie / Exports </position> 
+		<title>Jupa</title>
 		<sort>c</sort>
 	</menu>
 </properties>

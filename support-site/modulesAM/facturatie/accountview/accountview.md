@@ -3,7 +3,7 @@
 		<title>AccountView</title>
 	</page>
 	<menu>
-		<position>Modules A - M / Facturatie </position> 
+		<position>Modules A - M / Facturatie / Exports </position> 
 		<title>AccountView</title>
 		<sort>a</sort>
 	</menu>
