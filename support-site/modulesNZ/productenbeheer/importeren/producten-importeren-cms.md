@@ -4,8 +4,8 @@
 		<description>Importeren</description>
 	</page>
 	<menu>
-		<position>Modules N - Z / Productenbeheer</position>
-		<title>Producten importeren</title>
+		<position>Modules N - Z / Productenbeheer / Importeren</position>
+		<title>via CMS</title>
 		<sort>D</sort>
 	</menu>
 </properties>
