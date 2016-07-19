@@ -14,9 +14,33 @@
 
 Doormiddel van een externe applicatie kunnen er producten worden ingelezen in Hybrid SaaS van een bepaalde leverancier
 
-### De Applicatie  ###
+### Installatie Applicatie  ###
 
-In de applicatie kan de instelling van de omgeving worden ingesteld. In het hoofdscherm is er zichtbaar welke omgeving actief is.
+Na het opstarten van de applicatie moet je deze nog koppelen aan het Hybrid SaaS account:
+
+•	Kies voor de menuoptie **instellingen**
+
+![instellingen van applicatie](images/instellingen.jpg)
+
+•	Kies voor de optie toevoegen
+
+![toevoegen](images/toevoegen.jpg)
+
+•	Vul het volgende scherm in:
+
+![inloggegevens van de gebruiker](images/inloggegevens.png)
+
+o	Het wachtwoord is gelijk aan het Hybrid SaaS wachtwoord
+
+o	De ‘Application name’  komt uit het tabblad Externe applicaties
+
+![gebruiker met de instellingen](images/externe-applicaties.png)
+
+o	Indien er iets niet klopt geeft de applicatie een melding
+
+![medling indien fout](images/melding.jpg)
+
+In het hoofdscherm is er zichtbaar welke omgeving actief is.
 
 ![instellingen van applicatie](images/instellingen.png)
  
@@ -24,7 +48,7 @@ In de applicatie kan de instelling van de omgeving worden ingesteld. In het hoof
 
 Deze omgeving is gekoppeld aan een gebruiker (met wachtwoord) en een externe applicatie. 
 
-![gebruiker met de instellinge](images/externe-applicaties.png)
+![gebruiker met de instellingen](images/externe-applicaties.png)
 
 ### Gekoppeld aan de omgeving  ###
 
