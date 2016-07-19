@@ -30,21 +30,21 @@ Deze omgeving is gekoppeld aan een gebruiker (met wachtwoord) en een externe app
 
 De omgeving is gekoppeld met de gegevens van de gebruiker
 
-![](images/inloggegevens.png)
+![gegevens voor het inloggen](images/inloggegevens.png)
 
-![](images/omgevingen.png)
+![gegevens van de omgeving](images/omgevingen.png)
 
 ### Gegevens ophalen ###
 
 De bestanden kunnen worden opgehaald van de computer 
 
-![](images/bestanden-ophalen.png)
+![bestanden ophalen van computer](images/bestanden-ophalen.png)
 
 Na het kiezen voor verwerken zullen de producten worden geïmporteerd
 
 Tijdens het laden kan je de voortang zien recht onderin
 
-![](images/voortgang-verweringen.png)
+![verwerking kunnen zien](images/voortgang-verweringen.png)
 
 ### Producten  ###
 
@@ -53,13 +53,13 @@ Na verwerken zijn de producten aangemaakt
 <div class="info"> 
 Hier word een voorbeeld van een artikel getoond</div>
 
-![](images/importbestand.jpg)
+![voorbeeld import](images/importbestand.jpg)
 
 Het product is nu toegevoegd in Hybrid SaaS met de volgende eigenschappen:
 
-![](images/producten-kaart.png)
+![producten informatie tabblad](images/producten-kaart.png)
 
-![](images/productenkaart-prijs.png)
+![producten prijzen tabblad](images/productenkaart-prijs.png)
 
 ----------
 
