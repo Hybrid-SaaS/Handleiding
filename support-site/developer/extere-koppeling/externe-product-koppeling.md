@@ -9,6 +9,7 @@
 </properties>
 
 # Externe Productkoppeling op basis van een json file #
+
 Deze handleiding is voor de developer die gebruik gaat maken van deze funcite. Er worden op basis van url gegevens getoond, sommige gegevens worden door de gebruiker in Hybrid SaaS gezet, andere gegegevens worden hard uit het systeem gehaald.
 Hieronder volgt de beschrijven welke url welke informatie laat zien
 
