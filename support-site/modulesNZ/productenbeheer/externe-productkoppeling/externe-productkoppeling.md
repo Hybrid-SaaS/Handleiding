@@ -4,15 +4,14 @@
 		<description>Externe-factuurkoppeling</description>
 	</page>
 	<menu>
-		<position>Modules N - Z / Productenbeheer</position>
-		<title>Externe Factuurkoppeling</title>
+		<position>Modules N - Z / Productenbeheer /Koppelingen</position>
+		<title>Externe Product koppeling</title>
 		<sort>a</sort>
 	</menu>
 </properties>
 
 # Externe productkoppeling #
-Met externe productkoppeling van Hybrid SaaS is het mogelijk uw productcatalogus en voorraadinformatie te delen met externe partijen. Momenteel bieden wij ondersteunen wij de volgende partijen:
-•	Bol.com
+Met externe productkoppeling van Hybrid SaaS is het mogelijk uw productcatalogus en voorraadinformatie te delen met externe partijen. Momenteel bieden wij ondersteunen wij de volgende partijen: •	Bol.com
 •	Beslist.nl
 •	Google
 

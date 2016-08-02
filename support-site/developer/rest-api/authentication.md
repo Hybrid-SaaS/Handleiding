@@ -3,7 +3,7 @@
 		<title>Rest API Authenthication</title>
 	</page>
 	<menu>
-		<position> Organisatie</position> 
+		<position> Developer / Rest Api</position> 
 		<title>Rest  API Authenthication</title>
 	</menu>
 </properties>
