@@ -26,7 +26,7 @@ Er wordt vanuit de beheerder van Hybrid SaaS een URL aangemaakt deze is als met 
 - `{secretId}`
     - Dit is de geheime sleutel van het bestand
 
-Aanvullende delen voor de url:
+Aanvullende delen voor de URL:
 - `{Productcode}`
   - Dit is de productcode uit Hybrid SaaS
 - &detail=1
