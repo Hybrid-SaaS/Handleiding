@@ -3,7 +3,7 @@
 		<title>Bijlages uploaden werkt niet meer</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Resetten</position> 
 		<title>Hybrid SaaS Service resetten</title>
 	</menu>
 </properties>

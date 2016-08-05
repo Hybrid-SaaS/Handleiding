@@ -3,7 +3,7 @@
 		<title>Geschiedenis leegmaken</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Resetten</position> 
 		<title>Geschiedenis leegmaken</title>
 	</menu>
 </properties>

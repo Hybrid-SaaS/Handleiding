@@ -3,7 +3,7 @@
 		<title>E-mailadres genereren</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Mail Instellingen </position> 
 		<title>E-mailadres genereren</title>
 	</menu>
 </properties>

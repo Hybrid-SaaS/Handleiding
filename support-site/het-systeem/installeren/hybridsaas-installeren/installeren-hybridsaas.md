@@ -3,9 +3,9 @@
 		<title>Installeren Hybrid SaaS (Browser)</title>
 			</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Installeren </position> 
 		<title>Installeren Hybrid SaaS</title>
-		<sort>b</sort>
+		<sort>a</sort>
 	</menu>
 </properties>
 

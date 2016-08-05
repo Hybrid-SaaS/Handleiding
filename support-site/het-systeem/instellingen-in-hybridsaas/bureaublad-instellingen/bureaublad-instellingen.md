@@ -3,7 +3,7 @@
 		<title>Bureaublad instellingen</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position>
+		<position>Het Systeem / Diverse Instellingen </position>
 		<title>Bureaublad instellingen</title>
 	</menu>
 </properties>

@@ -3,7 +3,7 @@
 		<title>Begin van het nieuwe jaar</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Modules A - M / Balans</position> 
 		<title>Begin van het nieuwe jaar</title>
 	</menu>
 </properties>

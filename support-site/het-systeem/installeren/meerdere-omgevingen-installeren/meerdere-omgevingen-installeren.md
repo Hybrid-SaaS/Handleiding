@@ -3,9 +3,9 @@
 		<title>meerdere-omgevingen-instellen</title>
 			</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Installeren </position> 
 		<title>Meerdere omgevingen instellen</title>
-		<sort>c</sort>
+		<sort>b</sort>
 	</menu>
 </properties>
 

@@ -4,7 +4,7 @@
 		<description>Uitleg over hoe je je dns moet instellen voor gebruik van de Hybrid SaaS webshop.</description>
 	</page>
 	<menu>
-		<position>Het Systeem </position>
+		<position>Het Systeem / Mail Instellingen </position>
 		<title>Dns instellen</title>
 		<sort>b</sort>
 	</menu>

@@ -3,7 +3,7 @@
 		<title>SPF record toevoegen aan DNS</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Mail Instellingen </position>
 		<title>SPF record toevoegen</title>
 	</menu>
 </properties>

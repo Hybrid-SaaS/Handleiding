@@ -3,7 +3,7 @@
 		<title>Printer instellingen</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position>
+		<position>Het Systeem / Diverse Instellingen </position>
 		<title>Printer instellingen</title>
 	</menu>
 </properties>

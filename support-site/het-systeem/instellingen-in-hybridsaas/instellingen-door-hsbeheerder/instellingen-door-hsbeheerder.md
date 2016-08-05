@@ -3,7 +3,7 @@
 		<title>Instellingen door hsbeheerder</title>
 	</page>
 	<menu>
-		<position>Het Systeem </position> 
+		<position>Het Systeem / Diverse Instellingen </position>
 		<title>Instellingen door hsbeheerder</title>
 	</menu>
 </properties>
