@@ -122,5 +122,4 @@ De telling van de pagina's kan net zo lang doorgaan totdat er geen producten mee
 
 **https://`{domein}`.hybridsaas.com/export/customer-stock-feed/`{koppelingId}`?output=json&secret=`{secretId}`&page=1**
 
-
 ----------
