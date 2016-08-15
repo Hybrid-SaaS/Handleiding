@@ -21,17 +21,17 @@ Dubbel klik op de klant en ga dan naar het tabblad **Stamgegevens**
 
 ![](images/2.PNG)
 
-Selecteer uit de lijst de juiste accountmanager. (dit zijn gebruikers in het systeem)
+Selecteer uit de lijst de juiste accountmanager. (Dit zijn gebruikers in het systeem)
  
 ![](images/3.PNG)
 
 Je kan meerdere accountmanagers op één klant hebben
-Je kan dan d.m.v de knop **Primair** aangeven wie de eerst verantwoordelijk is.
+Je kan dan d.m.v. de knop **Primair** aangeven wie de eerstverantwoordelijk is.
 
 ![](images/4.PNG) 
 
 
-Welke relaties vallen onder welke accountmanager. kan je terug vinden bij **Accountmanager** 
+Welke relaties vallen onder welke accountmanager. Kan je terugvinden bij **Accountmanager** 
  
 ![](images/5.PNG)
 

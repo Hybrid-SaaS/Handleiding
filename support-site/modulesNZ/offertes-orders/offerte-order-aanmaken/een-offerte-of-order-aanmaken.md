@@ -55,13 +55,15 @@ Om een voorraad locatie in te geven bent u verplicht om met voorraad te werken.
 *Toevoegen plakken knop*
 
 - Met deze button word je doorverwezen naar een Exel bestandje dit is makkelijk te gebruiken als je veel 
-verschillende producten in een keer wilt toevoegen.
+Verschillende producten in een keer wilt toevoegen.
 Hier vul je bij de productcode en amount je gegevens in daarna selecteer je alles ook de bovenste rij (barcode/productcode/amount/remark) en die kopieer je, dan kan je weer terug naar je Hybrid SaaS scherm en druk je weer op de plakken button, deze zullen dan bij je regel worden toegevoegd
 
 ![](images/toevoegen-plakken.PNG)
 
 Na het toevoegen van je producten is je offerte/order klaar.
 
-Door direct te "Opslaan" is het een offerte, of door heb te "goedkeuren" en daarna te "Opslaan" is het een order.
+Door direct te "Opslaan" is het een offerte, of door hem te "goedkeuren" en daarna te "Opslaan" is het een order.
 
 ----------
+
+

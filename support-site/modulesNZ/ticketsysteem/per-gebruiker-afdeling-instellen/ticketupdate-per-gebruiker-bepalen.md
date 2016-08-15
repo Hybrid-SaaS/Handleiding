@@ -20,7 +20,7 @@ Selecteer de gebruiker en klik op "Ticket update"
 
 ![Ticketupdate per gebruiker instellen](images/update-instellen-per-gebruiker.jpg)
 
-## Tickets automatisch koppelen aan de juiste afdeling  ##
+## Tickets automatisch koppelen aan de juiste afdeling ##
 
 Het is tevens mogelijk is tickets direct aan een afdeling te koppelen. Wanneer een e-mail aan een specifiek mailadres wordt verzonden kan deze direct aan de juiste afdeling worden gekoppeld.
 
@@ -31,7 +31,7 @@ Vul bij "Email ontvangen" het e-mailadres welke aan de afdeling gekoppeld dient 
 <div class="tip">
 Tevens is mogelijk om bij het e-mailsjabloon het antwoordadres direct door te laten verwijzen naar de afdeling. 
 
-[spf-record toevoegen](http://hybridsaas.support/het-systeem/spf-record-instellen/toevoegen)
+[Spf-record toevoegen](http://hybridsaas.support/het-systeem/spf-record-instellen/toevoegen)
 </div>
 
 ----------

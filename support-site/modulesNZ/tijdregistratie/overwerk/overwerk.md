@@ -11,7 +11,7 @@
 
 ## Overwerk ##
 
-*In dit voorbeeld gebruiken we de gegevens van werkdagen van maandag t/m vrijdag, met een totaal aantal uur per dag van 7.40 met een pauze van 1 uur*
+*In dit voorbeeld gebruiken we de gegevens van werkdagen van maandag t/m vrijdag, met een totaalaantal uur per dag van 7.40 met een pauze van 1 uur*
 
 Een Rooster aanmaken (via de startknop roosters)
 Geef een naam in en druk op de knop genereer data:
@@ -22,7 +22,7 @@ Resultaat:
 
 ![](images/2.jpeg)
 
-Stel nu de juiste daglente in als deze afwijkt van 8 uur. Knop dag lengte
+Stel nu de juiste daglengte in als deze afwijkt van 8 uur. Knop dag lengte
 
 ![](images/3.jpeg)
 
@@ -44,10 +44,10 @@ Hierin leg je vast hoe de verdeling van uren op bepaalde dagen plaats gaat vinde
 
 ![](images/6.jpeg)
 
-Kies een naam, zoals normale werkdag, weekenddag, feestdag, schooldag, etc.  Je voert hier in wat hoe er gewerkt wordt en wanneer er een toeslag plaatsvindt. In dit voorbeeld : Duur werkuren 7.40; gewone uren. Duur overuren 2.10; uren die binnen normaal overwerk vallen, in dit geval zonder extra toeslag (Overuren toeslag). Alles wat hierboven (9.50 uur ) gewerkt wordt krijgt een toeslag van 1.30 per uur.
+Kies een naam, zoals normale werkdag, weekenddag, feestdag, schooldag, etc.  Je voert hierin wat hoe er gewerkt wordt en wanneer er een toeslag plaatsvindt. In dit voorbeeld: Duur werkuren 7.40; gewone uren. Duur overuren 2.10; uren die binnen normaal overwerk vallen, in dit geval zonder extra toeslag (Overuren toeslag). Alles wat hierboven (9.50 uur) gewerkt wordt krijgt een toeslag van 1.30 per uur.
 
-Zet bij de gebruiker een vinkje aan die er voor zorgt dat er toeslagen en overuren worden verwerkt
-(via de startknop Gebruikers wijzigen, tabblad Tijdregistratie).
+Zet bij de gebruiker een vinkje aan die ervoor zorgt dat er toeslagen en overuren worden verwerkt
+(Via de startknop Gebruikers wijzigen, tabblad Tijdregistratie).
 
 ![](images/7.jpeg)
 
@@ -59,7 +59,7 @@ Deze komen dan in het bakje: Te controleren over uren en toeslagen
 
 Alles selecteren en dan kan je ze met de knop goedkeuren allemaal goedkeuren (je kan eventueel nog het schema wijzigen van een bepaalde registratie) 
 
-Ze komen nu in het bakje : Gecontroleerde overuren en toeslagen, hierin kan je ze totaliseren
+Ze komen nu in het bakje: Gecontroleerde overuren en toeslagen, hierin kan je ze totaliseren
 
 ![](images/9.jpeg)
 
@@ -74,7 +74,7 @@ Bij alle tijdregistraties kan je een registratie crediteren
 ![](images/11.jpeg)
 
 Na het crediteren komen ze weer te staan bij: Te controleren overuren en toeslagen.
-Nu kan je deze registratie op de zelfde manier weer goedkeuren.
+Nu kan je deze registratie op dezelfde manier weer goedkeuren.
 
 ![](images/12.jpeg)
 
@@ -82,7 +82,7 @@ Resultaat is zichtbaar in het bakje: Totaal van overuren en toeslagen – verwer
 
 * Het aantal registratie is omhoog (was 5 is nu 6 ; plus 1)
 * Het aantal werkuren is omlaag (was 29.6 is nu 22.2 ; min 7.40)
-* Het aantal overuren is omlaag (was  6.40 is nu 4.30 ; min 2.10 )
+* Het aantal overuren is omlaag (was 6.40 is nu 4.30 ; min 2.10 )
 * Het aantal boven overuren is omlaag (was 2.00 is nu 1.30 ; min 0.30)
 
 ![](images/13.jpeg)
@@ -97,14 +97,17 @@ Door op de knop Tijdregistratie te drukken krijg je deze registraties te zien.
 ![](images/15.jpeg)
 
 
-Om de dagstaten in het menu te activeren moet je het recht :** menuoverwerk schemas** beheren aan zetten.
+Om de dagstaten in het menu te activeren moet je het recht:** menuoverwerk schema’s** beheren aan zetten.
 
 ![](images/recht.png)
 
-het resultaat is dan:
+Het resultaat is dan:
 
 ![](images/dagstaat.png)
+
 --------------
+
+
 
 
 

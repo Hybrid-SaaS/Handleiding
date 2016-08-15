@@ -19,7 +19,7 @@ Je zoekt je order op in
 Alle goederen zijn niet op voorraad, je maakt hier een bestel advies van door middel van het vinkje "Besteladvies"
 ![](images/offertes-zondervoorraad-uitgelicht-besteladvies.JPG)
 
-de Offerte is toegevoegd aan de map "besteld advies", daar vanuit kan je een "inkooporder aanmaken" naar je leverancier
+De Offerte is toegevoegd aan de map "besteld advies", daarvan uit kan je een "inkooporder aanmaken" naar je leverancier
 ![](images/offertes-zondervoorraad-uitgelicht-inkooporde.JPG)
 
 In dit venster wordt het proces voor het bestellen van een inkooporde beschreven.
@@ -27,3 +27,4 @@ In dit venster wordt het proces voor het bestellen van een inkooporde beschreven
 ![](images/inkooporde-uitgelicht-mail.JPG)
 
 ----------
+

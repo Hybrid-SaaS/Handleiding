@@ -15,7 +15,7 @@
 <description>Om op een eenvoudige manier relaties in de database te krijgen is er een import module aanwezig. Hiermee kan je eenvoudig nieuwe relaties toevoegen of bestaande relaties aanpassen. Dit doe je niet als je voor één relaties iets wilt aanpassen maar vaak als je een massa mutatie gaat uitvoeren, waarbij je bijvoorbeeld bij iedere relaties iets wilt toevoegen en/of wijzigen.
 </description>
 
-**Om bestaande relaties te veranderen heb je de juiste relatiecode nodig. deze zal dan overschreden worden met de nieuwe informatie**
+**Om bestaande relaties te veranderen heb je de juiste relatiecode nodig. Deze zal dan overschreden worden met de nieuwe informatie**
 
 Zoek in start naar Importeren
 
@@ -30,9 +30,9 @@ Nu kan je het exportbestand opslaan op je bureaublad en afsluiten.
 
 Gebruik nu de knop "Klik hier om bedrijven te importeren" om de bedrijven te importeren. 
 Zoek het juiste bestand op en selecteer deze.
-Na de import verschijnt er een internet pagina met daarin het resultaat van de import.
+Na de import verschijnt er een internetpagina met daarin het resultaat van de import.
 
-<div class="info"> Je moet het Excel bestandje sluiten voordat je hem gaat importeren anders zal die een fout melding aangeven </div>
+<div class="info"> Je moet het Excel bestandje sluiten voordat je hem gaat importeren anders zal die een foutmelding aangeven </div>
 
 Je kan nu in Hybrid SaaS bij de Relaties de geïmporteerde gegevens terugvinden.
 

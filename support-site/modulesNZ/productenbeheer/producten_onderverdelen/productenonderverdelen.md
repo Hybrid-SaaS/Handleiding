@@ -18,15 +18,17 @@ Indien de producten in de productencatalogus uit kleuren, maten of wellicht een 
 Wij adviseren om bij producten met een combinatie tussen maten en kleuren eerst de producten op kleur onder te verdelen. 
 </div>
 
-## Producten Onderdelen op kleur  ##
+## Producten Onderdelen op kleur ##
 
 In de volgende instructievideo wordt uitgelegd hoe producten kunnen worden onderverdeeld in verschillende kleuren. 
 
 <iframe src="https://player.vimeo.com/video/152274908" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-## Producten Onderdelen op maat  ##
+## Producten Onderdelen op maat ##
 
 In de volgende instructievideo wordt uitgelegd hoe producten kunnen worden onderverdeeld in verschillende maten. 
 
 <iframe src="https://player.vimeo.com/video/152273424" width="500" height="273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+

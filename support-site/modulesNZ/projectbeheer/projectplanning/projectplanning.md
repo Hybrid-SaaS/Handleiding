@@ -42,7 +42,7 @@ Resultaat: 2 projecten met het woord “Project” erin
 ![](images/4.jpeg)
 
 Zoeken naar de juiste medewerker:
-Onder in het scherm staan alle medewerkers gesorteerd op alfabet. Omdat er vele variaties mogelijk zijn hebben we een zoek knop toegevoegd. (naam beginnend met voornaam of met achternaam of soms met bedrijfsnaam, in geval van externe medewerkers).
+Onder in het scherm staan alle medewerkers gesorteerd op alfabet. Omdat er vele variaties mogelijk zijn hebben we een zoekknop toegevoegd. (Naam beginnend met voornaam of met achternaam of soms met bedrijfsnaam, in geval van externe medewerkers).
 Tik in het zoekscherm een gedeelte van de naam en druk op ENTER. 
 Je krijgt de volledige lijst weer terug door het zoekveld leeg te maken en op ENTER te drukken 
 
@@ -54,7 +54,7 @@ Uitleg verschillende velden
 	* Dit is het nummer dat in Hybrid SaaS is aangemaakt.
 	* Let wel: alleen projecten met een bepaalde fase worden hier getoond.
 	* ![](images/6.jpeg)
-	* Project fases beheren: hier moet je het vinkje “Weergeven in voortgang” aan zetten om deze projecten in de project planning terug te zien.
+	* Project fases beheren: hier moet je het vinkje “Weergeven in voortgang” aan zetten om deze projecten in de projectplanning terug te zien.
 * Projectnaam
 	* Dit is de naam die je bij het project onder de “Beschrijving” hebt ingevoerd.
 * Dagen te besteden
@@ -70,7 +70,7 @@ Uitleg verschillende velden
 
 # Hoe plan ik: #
 
-* Open project planning
+* Open projectplanning
 * Zet vinkje “Vergrendeling” uit.
 * Zoek je project (planning)
 * Zoek je medewerker (jan)
@@ -98,7 +98,7 @@ Resultaat:
 
 *Keuze 2*
 
-Klik met je RECHTER muis knop het blokje aan dat wilt verlengen. 2 opties verschijnen. 
+Klik met je RECHTER-muis knop het blokje aan dat wilt verlengen. 2 opties verschijnen. 
 Kies voor de optie “Tot einde week” 
 Invul scherm verschijnt
 
@@ -122,7 +122,7 @@ Voorbeeld: Jan de Vertegenwoordiger plannen op 12-10, 13-10 en 16-10.
 # Meerdere medewerkers voor langere periode inplannen. #
 
 Plaats de medewerkers op de dag in het project dat ze gaan starten. 
-Houdt de SHIFT toets vast en selecteer de medewerkers. De geselecteerde medewerker blokjes worden lichtblauw. 
+Houdt de SHIFT-toets vast en selecteer de medewerkers. De geselecteerde medewerker blokjes worden lichtblauw. 
 
 ![](images/15.jpeg)
  
@@ -135,7 +135,7 @@ Resultaat: d.m.v. slepen
 # Verplaatsen van geplande dagen #
 
 Je kan individuele dagen of blokken van dagen met je muis oppakken en deze verslepen naar een ander dag. Pak het blokje op en versleep deze naar de gewenste datum.
-LET OP: het is niet mogelijk een blok naar een al bestaande blok datum te verplaatsen. Het blok wordt dan op de originele plaats terug gezet.
+LET OP: het is niet mogelijk een blok naar een al bestaande blok datum te verplaatsen. Het blok wordt dan op de originele plaats teruggezet.
 
 # Verwijderen van geplande dagen #
 
@@ -144,14 +144,14 @@ Dit kan ook op verschillende manieren.
 *Keuze 1*
 
 Het hele blok weghalen
-Rechter muis knop op het blok en dan kiezen voor “verwijderen”.
+Rechtermuisknop op het blok en dan kiezen voor “verwijderen”.
 
 ![](images/17.jpeg)
  
 *Keuze 2*
 
 Meerdere blokken verwijderen.
-Eerst met de SHIFT knop de te verwijderen blokken selecteren, deze worden dan lichtblauw en dan met je rechter muis knop “Verwijderen” kiezen.
+Eerst met de SHIFT-knop de te verwijderen blokken selecteren, deze worden dan lichtblauw en dan met je rechtermuisknop “Verwijderen” kiezen.
 
 *Keuze 3*
 
@@ -165,10 +165,10 @@ Resultaat:
  
 ![](images/19.jpeg)
 
-# Als je één of meerdere dagen in een geplande week wilt weghalen #
+# Als je een of meerdere dagen in een geplande week wilt weghalen #
 
-Als je binnen een blok één dag wilt verwijderen dan doe je dit NIET met je rechter muis knop, omdat je dan het hele blok weggooit.
-Dit doe je door middel van de CTRL toets. Houdt de CTRL toets en sleep het blokje, de dag eruit.
+Als je binnen een blok één dag wilt verwijderen dan doe je dit níét met je rechtermuisknop, omdat je dan het hele blok weggooit.
+Dit doe je door middel van de ctrl-toets. Houdt de ctrl-toets en sleep het blokje, de dag eruit.
 
 ![](images/20.jpeg) 
 
@@ -177,6 +177,8 @@ Resultaat is dat er 2 nieuwe blokken van 2 dagen worden gevormd.
 ![](images/21.jpeg)
 
 --------------
+
+
 
 
 

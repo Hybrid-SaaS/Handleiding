@@ -187,7 +187,7 @@ De tijdregistraties zijn verwerkt en hiervan is een factuur gemaakt maar heeft n
 - Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
 - Te fact. Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
 
-## Factuur status verstuurd  ##
+## Factuur status verstuurd ##
 
 <div class="tip">
 Alle facturen hebben de status verstuurd en alle tijdregistraties zijn verwerkt

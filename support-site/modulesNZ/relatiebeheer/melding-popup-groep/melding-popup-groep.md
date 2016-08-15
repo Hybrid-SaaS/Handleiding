@@ -11,10 +11,10 @@
 
 ## Melding pop-up bij een groep ##
 
-**Pop-up laten verschijnen bij order invoer ; actie periode**
+**Pop-up laten verschijnen bij orderinvoer; actie periode**
 
-Je kan eenvoudig een groep aanmaken voor een bepaalde periode met daarin een bepaalde afspraak. Voorbeeld :
-Alle klanten uit Belgie krijgen een bonbon bij hun bestelling.
+Je kan eenvoudig een groep aanmaken voor een bepaalde periode met daarin een bepaalde afspraak. Voorbeeld:
+Alle klanten uit België krijgen een bonbon bij hun bestelling.
 
 Ga naar groepen:
  
@@ -30,7 +30,7 @@ De melding kan je invullen bij het tabblad prijsafspraak
 
 Sla deze groep op.
 
-Nu kunnen we relaties aan deze groep koppelen ga hiervoor naar alle relaties en sorteer deze op land belgie
+Nu kunnen we relaties aan deze groep koppelen ga hiervoor naar alle relaties en sorteer deze op land België
 
 ![](images/4.PNG)
 
@@ -42,11 +42,11 @@ Wij kiezen voor **JA**
 
 ![](images/7.PNG)
 
-Er komt een scherm waar je een groep kan kiezen. Dit is de groep die je gaat toevoegen aan de geselecteerde klanten. (nu is het aantal nog 0)
+Er komt een scherm waar je een groep kan kiezen. Dit is de groep die je gaat toevoegen aan de geselecteerde klanten. (Nu is het aantal nog 0)
 
 ![](images/8.PNG)
 
-Zodra je nu een order invoert op één van deze klanten verschijn onderstaand Pop-Up.
+Zodra je nu een order invoert op een van deze klanten verschijn onderstaand Pop-Up.
 
 ![](images/9.PNG)
  

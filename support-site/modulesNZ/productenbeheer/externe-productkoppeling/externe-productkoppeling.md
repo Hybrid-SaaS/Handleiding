@@ -16,7 +16,7 @@ Met externe productkoppeling van Hybrid SaaS is het mogelijk uw productcatalogus
 •	Google
 
 Tevens is het mogelijk om ruwe productsheets aan te leveren aan andere externe partijen.
-Voordat u aan de slag gaat dient u eerst e.e.a. af te stemmen met de partij waar u een koppeling mee wilt realiseren. Denk hierbij bijvoorbeeld aan het afstemmen van eventuele product- of productgroep benamingen. Tevens dient u zogenoemde FTP inloggegevens te verkrijgen. 
+Voordat u aan de slag gaat dient u eerst e.e.a. af te stemmen met de partij waar u een koppeling mee wilt realiseren. Denk hierbij bijvoorbeeld aan het afstemmen van eventuele product- of productgroep benamingen. Tevens dient u zogenoemde ftp-inloggegevens te verkrijgen. 
 
 ## Toevoegen externe productkoppeling ##
 Klik op start en zoek naar “externe productkoppeling”
@@ -27,14 +27,14 @@ Klik op toevoegen om een nieuwe externe productkoppeling toe te voegen
 
 Selecteer het “type koppeling” welke u wilt aanmaken
 
-Vul de verkregen FTP gegevens in bestaande uit een gebruikersnaam en wachtwoord.
+Vul de verkregen ftp-gegevens in bestaande uit een gebruikersnaam en wachtwoord.
 
-![Type en FTP gegevens invullen](images/type_FTP_gegevens.jpg)
+![Type en ftp-gegevens invullen](images/type_FTP_gegevens.jpg)
 
 ## Selecteer website ##
 Selecteer bij “Alleen voor website” de website waar de productkoppeling betrekking op heeft. 
 
-![Website selcteren](images/website_selecteren.jpg)
+![Website selecteren](images/website_selecteren.jpg)
 
 <div class="info">
 Indien er nog geen website te selecteren is dient deze aangemaakt te worden. Zoek in het menu voor “websites” waar u in een paar stappen een nieuwe website aan kunt maken.
@@ -46,7 +46,7 @@ Selecteer bij “prijzen van organisatie” de organisatie waarmee u de koppelin
 ![Prijsafspraken selecteren](images/prijsafspraak_selecteren.jpg)
 
 <div class="info">
-Indien er geen prijsafspraken zijn vastgelegd dienen deze eerst aangemaakt te worden. Op de relatiekaart van de betreffende organisatie kunnen deze worden vastgelegd  op het tabblad “prijsafspraken”
+Indien er geen prijsafspraken zijn vastgelegd dienen deze eerst aangemaakt te worden. Op de relatiekaart van de betreffende organisatie kunnen deze worden vastgelegd op het tabblad “prijsafspraken”
 </div>
 
 ## Productkenmerken vastleggen ##

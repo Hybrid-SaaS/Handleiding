@@ -24,15 +24,15 @@ Via de voorraad locaties heb je direct inzage in de huidige voorraad via **produ
 
 ![](images/2.jpg)  
 
-Indien je in een service magazijn  zit kun je direct een aantal voorraad acties uitvoeren, 
+Indien je in een service magazijn zit kun je direct een aantal voorraad acties uitvoeren, 
 
 ![](images/3.jpg)  
 
-Overboeken naar een andere locatie, systeem houd rekening gereserveerde voorraad.
+Overboeken naar een andere locatie, systeem houdt rekening gereserveerde voorraad.
 
 ![](images/4.jpg)  
 
-Direct afboeken naar 0, dit is voor handig voor de prullenbak, (werkt alleen in service en retour leverancier magazijnen) **let wel op afboeken gaat wel heel erg makkelijk!!!.**
+Direct afboeken naar 0, dit is voor handig voor de prullenbak, (werkt alleen in service en retour leverancier magazijnen) **let wel op afboeken gaat wel heel erg makkelijk!**
 
 Retour naar leverancier boeken, (werkt alleen in service en retour leverancier magazijnen) 
 Maakt direct een inkoopfactuur aan, je ziet in het voorraad overzicht hoeveel je er al retour hebt gezet.
@@ -54,3 +54,4 @@ De template geeft ook de negatieve aantallen weer.
 
 
 ----------
+

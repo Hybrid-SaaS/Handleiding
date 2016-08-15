@@ -26,7 +26,7 @@ Selecteer de juiste **Voorraadlocatie** en klik vervolgens op "**Starten**"
 ![Inventarisatie starten](images/inventarisatie_starten.jpg)
 
 <div class="info">
-Indien met verschillende productlocaties wordt gewerkt, welke separaat geïnventariseerd dienen te worden, dient deze ook aanvinkt te worden.
+Indien met verschillende productlocaties wordt gewerkt, welke separaat geïnventariseerd dienen te worden, dient deze ook aangevinkt te worden.
 </div>
 
 <div class="info">
@@ -101,7 +101,7 @@ Wanneer de inventarisatie is afgerond kan deze worden afgerond door op de knop "
 De laatste stap is het verwerken/ muteren van huidige voorraad met de geïnventariseerde voorraad. Klik hiervoor op de knop "**Muteren**"
 
 <div class="info">
-LET OP! Wij raden te allen tijde aan om eerste een backup te maken huidige voorraad. Ga hiervoor naar "**Managementoverzichten**" en kies voor "**Voorraadoverzicht**" en selecteer de juiste datum. Sla de Excelsheet op.
+LET OP! Wij raden te allen tijde aan om eerste een back-up te maken huidige voorraad. Ga hiervoor naar "**Managementoverzichten**" en kies voor "**Voorraadoverzicht**" en selecteer de juiste datum. Sla de Excelsheet op.
 </div>
 
 ![Voorraad mutatie doorvoeren](images/voorraad_muteren.jpg)

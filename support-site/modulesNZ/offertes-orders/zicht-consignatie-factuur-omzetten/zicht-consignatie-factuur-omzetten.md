@@ -26,7 +26,7 @@ Op je desktop wordt aangegeven hoeveel consignatie facturen er zijn en ook hoeve
 ![](images/consignatie-factuurregels.jpg) 
 
 Hoe gaan we deze producten retour nemen?
-Dubbelklik op de regel die je retour wilt nemen, je komt dan in de factuur met alle regels. (je kan ook via de consignatiefactuur naar dit scherm). Op dit scherm zie je links onderaan bij de producten 2 grijzen knoppen staan.
+Dubbelklik op de regel die je retour wilt nemen, je komt dan in de factuur met alle regels. (Je kan ook via de consignatiefactuur naar dit scherm). Op dit scherm zie je links onderaan bij de producten 2 grijzen knoppen staan.
 
  **Factureren en Retour.**
 
@@ -36,20 +36,20 @@ Op het moment dat je 1 productregel selecteert worden de knoppen bruikbaar.
 
 **Retour nemen**
 
-Als je alle regels retour wilt nemen dan selecteer je alle regels (dmv ALT of CTRL toetsen) en drukt op de knop Retour.   
+Als je alle regels retour wilt nemen dan selecteer je alle regels (d.m.v. ALT of ctrl-toetsen) en drukt op de knop Retour.   
 ![](images/consignatie-knop-retour.jpg)
 
 Dit resulteert in een nieuwe factuur met een tegenboeking van de aantallen. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur.
 
 ![](images/consignatie-knop-retour-1.jpg)
 
-Als de factuur uiteindelijk wordt verzonden, dan worden de goederen terug geboekt in de voorraad, er verschijnt dan een pop-up scherm.
+Als de factuur uiteindelijk wordt verzonden, dan worden de goederen teruggeboekt in de voorraad, er verschijnt dan een pop-up scherm.
 
 ![](images/consignatie-retour-factuur.jpg)
 
 **Factureren**
 
-Als je alle regels wilt factureren dan selecteer je alle regels (dmv ALT of CTRL toetsen) en drukt op de knop Factureren.   
+Als je alle regels wilt factureren dan selecteer je alle regels (d.m.v. ALT of ctrl-toetsen) en drukt op de knop Factureren.   
 
 ![](images/consignatie-knop-factuur.jpg)
 
@@ -59,11 +59,11 @@ Dit resulteert in een nieuwe factuur. Vul de factuur verder in (Facturatie schem
 
 **Gedeeltelijk retour nemen of factureren**
 
-Het komt ook voor dat je een gedeelte van een productregel retour wilt nemen of wilt factureren. In zo'n geval ga je naar de consignatieregels en selecteert de productregel (dubbel klikken).
+Het komt ook voor dat je een gedeelte van een productregel retour wilt nemen of wilt factureren. In zo'n geval ga je naar de consignatieregels en selecteert de productregel (dubbelklikken).
 
 ![](images/consignatie-gedeeltelijk.jpg)
 
-Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarvan je iets wilt retour nemen. Je ziet dat er voor het veld dat je kan wijzigen **"Facturen / retour"** staat. Er is dus geen apart veld voor retour of factuur. Dit wordt bepaald aan de hand van de knop.
+Pas het aantal aan en sla de regel op. Herhaal dit voor alle productregels waarvan je iets wilt retour nemen. Je ziet dat er voor het veld dat je kan wijzigen **"Facturen/ retour"** staat. Er is dus geen apart veld voor retour of factuur. Dit wordt bepaald aan de hand van de knop.
 
 ![](images/knop.jpg)
 
@@ -74,7 +74,7 @@ Dit doe je dan in 2 stappen.</div>
 
 De aangepaste aantallen komen nu in het **ROOD** zichtbaar in de factuur. 
 Kies nu d.m.v. de knop "Retour" om deze aantallen terug te nemen.
-Dit resulteert in een nieuwe factuur met een tegenboeking van de gewijzigde aantallen. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur. Als de factuur uiteindelijk wordt verzonden, dan worden de goederen terug geboekt in de voorraad, er verschijnt dan een pop-up scherm waarop deze producten staan.
+Dit resulteert in een nieuwe factuur met een tegenboeking van de gewijzigde aantallen. Vul de factuur verder in (Facturatie schema moet opnieuw gekozen worden) en behandel deze als iedere andere factuur. Als de factuur uiteindelijk wordt verzonden, dan worden de goederen teruggeboekt in de voorraad, er verschijnt dan een pop-up scherm waarop deze producten staan.
  
 ![](images/consignatie-gedeeltelijk-retour.jpg)
 
@@ -83,3 +83,5 @@ Als uiteindelijk alle aantallen van de productregels retour genomen of gefacture
 ![](images/consignatie-eind.jpg) 
 
 ----------
+
+

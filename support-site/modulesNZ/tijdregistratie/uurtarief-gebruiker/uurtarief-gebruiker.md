@@ -30,8 +30,8 @@ Afwijking uurtarief voor gekoppelde gebruikers van bovenliggend project
 
 **Niveau 3**
 
-Uur tarief Planning / subsidie / tijdregistratie instellingen op de werkcode van het project
-Uur tarief op indeling werkcode van het project.
+Uurtarief Planning/ subsidie/ tijdregistratie instellingen op de werkcode van het project
+Uurtarief op indeling werkcode van het project.
 
 ![](images/3.png)
 
@@ -47,10 +47,13 @@ Tarief van de toegewezen medewerker op het project
 
 **Niveau 1** 
 
-Uur tarief dat op de gebruikers kaart is ingegeven.
+Uurtarief dat op de gebruikers kaart is ingegeven.
  
 ![](images/7.png)
+
 --------------
+
+
 
 
 

@@ -13,7 +13,7 @@
 
 Per medewerker per dag kunnen inzien waar ze gewerkt hebben en hoeveel uur
 
-Met het bakje **dagstaten controleren** kan je per dag de medewerkers zijn, met de geregistreerde tijd .
+Met het bakje **dagstaten controleren** kan je per dag de medewerkers zijn, met de geregistreerde tijd.
 
 ![](images/dagstaat.png)
 
@@ -26,7 +26,7 @@ Dit heeft hij gedaan d.m.v. 1 registratie.
 Als je de registratie wilt inzien dan selecteer je de rij (deze kleurt dan blauw) en dan druk je op de knop **Tijdregistraties**.
 
 Knop tijdregistraties geeft onderstaand scherm:
-Door op een registratie dubbel te klikken kom je in de registratie en dan kan je zien wat er gebeurt is.
+Door op een registratie dubbel te klikken kom je in de registratie en dan kan je zien wat er gebeurd is.
  
 ![](images/tijdregistratie.png)
 
@@ -36,6 +36,8 @@ Voorbeeld van de registratie:
 
 
 --------------
+
+
 
 
 

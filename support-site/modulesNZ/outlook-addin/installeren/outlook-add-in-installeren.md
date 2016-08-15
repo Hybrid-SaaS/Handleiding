@@ -8,20 +8,20 @@
 	</menu>
 </properties>
 
-# Outlook Add-in #
+# Outlook ADD-in #
 
-Door middel van de Outlook add-in krijg je de mogelijkheid om e-mails vanuit Microsoft Outlook mailbox om te zetten in tickets. Op deze manier kan je je mailbox leeg houden en sla je e-mails netjes op bij de juiste relaties en/ of projecten.
+Door middel van de Outlook ADD-in krijg je de mogelijkheid om e-mails vanuit Microsoft Outlook mailbox om te zetten in tickets. Op deze manier kan je je mailbox leeg houden en sla je e-mails netjes op bij de juiste relaties en/ of projecten.
 
-## Downloaden van de Outlook Add-in ##
+## Downloaden van de Outlook ADD-in ##
 
-De outlook Add-in kan je [hier](http://hybridsaas.com/support) downloaden.
+De outlook ADD-in kan je [hier](http://hybridsaas.com/support) downloaden.
 
-## Add-in installeren ##
+## ADD-in installeren ##
 
 Nadat de download is voltooid dient deze geïnstalleerd te worden. Hiervoor klik je op het bestand wat zojuist is gedownload. 
 
 <div class="info">
-Afhankelijk van de internetbrowser waarin het bestand is gedownload verschijnt deze onderin de taakbalk van de browser. Indien deze niet wordt weergegeven open dan de map "downloads" op je PC. 
+Afhankelijk van de internetbrowser waarin het bestand is gedownload verschijnt deze onderin de taakbalk van de browser. Indien deze niet wordt weergegeven open dan de map "downloads" op je pc. 
 </div>
 
 <div class="info">
@@ -30,11 +30,11 @@ Indien er bij het installeren een foutmelding verschijnt, dient de installatie a
 
 ![Invoegtoepassingen in Microsoft Outlook](images/uitvoeren-als-administrator.jpg)
 
-## Add-in instellen ##
+## ADD-in instellen ##
 
-Om de add-in te activeren in je mailbox dienen er instellingen gewijzigd te worden. Indien Microsoft Outlook nog actief is dient deze eerst afgesloten en opnieuw opgestart te worden.
+Om de ADD-in te activeren in je mailbox dienen er instellingen gewijzigd te worden. Indien Microsoft Outlook nog actief is dient deze eerst afgesloten en opnieuw opgestart te worden.
 
-Afhankelijk van je Outlook versie verschijnt er boven in de taakbalk de optie "invoegtoepassingen". Klik vervolgens op "Instellingen"
+Afhankelijk van je Outlook versie verschijnt erboven in de taakbalk de optie "invoegtoepassingen". Klik vervolgens op "Instellingen"
 
 ![Invoegtoepassingen in Microsoft Outlook](images/invoegtoepassingen.jpg)
 
@@ -44,19 +44,19 @@ Verschijnt deze niet? Kan dan op [deze](https://support.office.com/nl-nl/article
 
 Vul bij de gegevens in. API URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" je bedrijfsnaam in) en geef de API ID en API KEY in.
 
-![Instellingen wijzigen Outlook Add-in ](images/instellingen.jpg)
+![Instellingen wijzigen Outlook ADD-in ](images/instellingen.jpg)
 
 <div class="info">
 API ID en API KEY kunnen worden aangemaakt in Hybrid SaaS. Zie de onderstaande beschrijving hoe je deze aanmaakt.
 </div>
 
-## API sleutel aanmaken ##
+## API-sleutel aanmaken ##
 
-Zoek in Hybrid SaaS naar "API sleutels" 
+Zoek in Hybrid SaaS naar "API-sleutels" 
 
 Klik op toevoegen om een nieuwe sleutel aan te maken. 
 
-![Nieuwe API sleutel toevoegen](images/toevoegen.jpg)
+![Nieuwe API-sleutel toevoegen](images/toevoegen.jpg)
 
 <div class="info">
 Voor iedere gebruiker (medewerker) dient een aparte sleutel aangemaakt te worden.
@@ -64,11 +64,13 @@ Voor iedere gebruiker (medewerker) dient een aparte sleutel aangemaakt te worden
 
 Selecteer bij "Medewerker" de juiste gebruiker. Geef de sleutel een naam door bij "Naam" een naam in te geven.
 
-Klik één maal op "Opslaan" zodat de API gegevens worden aangemaakt.
+Klik eenmaal op "Opslaan" zodat de API-gegevens worden aangemaakt.
 
 ![E-mailadres instellen bij e-mailsjabloon](images/api-aanmaken.jpg)
 
 ----------
+
+
 
 
 

@@ -10,23 +10,23 @@
 	</menu>
 </properties>
 
-# Producten Importeren  #
+# Producten Importeren #
 
 Doormiddel van een externe applicatie kunnen er producten worden ingelezen in Hybrid SaaS van een bepaalde leverancier
 
-### De Applicatie  ###
+### De Applicatie ###
 
 In de applicatie kan de instelling van de omgeving worden ingesteld. In het hoofdscherm is er zichtbaar welke omgeving actief is.
 
 ![instellingen van applicatie](images/instellingen.png)
  
- ### De gebruiker  ###
+ ### De gebruiker ###
 
 Deze omgeving is gekoppeld aan een gebruiker (met wachtwoord) en een externe applicatie. 
 
-![gebruiker met de instellinge](images/externe-applicaties.png)
+![gebruiker met de instellingen](images/externe-applicaties.png)
 
-### Gekoppeld aan de omgeving  ###
+### Gekoppeld aan de omgeving ###
 
 De omgeving is gekoppeld met de gegevens van de gebruiker
 
@@ -46,7 +46,7 @@ Tijdens het laden kan je de voortang zien recht onderin
 
 ![verwerking kunnen zien](images/voortgang-verweringen.png)
 
-### Producten  ###
+### Producten ###
 
 Na verwerken zijn de producten aangemaakt 
 
@@ -62,4 +62,5 @@ Het product is nu toegevoegd in Hybrid SaaS met de volgende eigenschappen:
 ![producten prijzen tabblad](images/productenkaart-prijs.png)
 
 ----------
+
 

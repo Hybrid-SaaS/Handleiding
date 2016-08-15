@@ -23,7 +23,7 @@ Je kan bij de medewerker op de projectkaart een standaard reistijd invoeren,
 ![](images/1.jpg)
 
 
-deze wordt dan bij het tijdschijven automatisch mee gerekend.
+Deze wordt dan bij het tijdschijven automatisch mee gerekend.
 
 ![](images/2.jpg)
 
@@ -34,13 +34,13 @@ Bij het werkadres,
 
 ![](images/3.jpg)
 
-deze wordt dan bij het tijdschijven automatisch mee gerekend.
+Deze wordt dan bij het tijdschijven automatisch mee gerekend.
 
 ![](images/4.jpg) 
 
-Als je hier een reis duur ingeeft dan wordt deze bij de tijdregistratie automatisch gevuld.
+Als je hier een reisduur ingeeft dan wordt deze bij de tijdregistratie automatisch gevuld.
 
-Hierna kan je de tijdregistratie´s verwerken zoals gewenst
+Hierna kan je de tijdregistraties verwerken zoals gewenst
 
 ![](images/5.jpg)
 
@@ -49,11 +49,13 @@ Op de factuur worden de reiskosten los weergegeven
 ![](images/6.jpg)
 
 Als je de reisuren niet apart wilt door belasten dien je de volgende vinkjes aan te zetten 
-bij de gebruiker op de projectkaart of op het adres kaart van de relatie
+Bij de gebruiker op de projectkaart of op het adres kaart van de relatie
 
 ![](images/12.jpg)
 
 --------------
+
+
 
 
 
