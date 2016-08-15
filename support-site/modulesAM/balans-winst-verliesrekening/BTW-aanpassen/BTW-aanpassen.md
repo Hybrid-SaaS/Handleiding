@@ -12,9 +12,9 @@
 
 # Btw aanpassen #
 
-Hoe structureel een btw % te wijzigen :
+Hoe structureel een btw % te wijzigen:
 
-Ga via de startknop naar Grootboek rekeningen & werkcodes, 
+Ga via de startknop naar Grootboekrekeningen & werkcodes, 
 
 ![](images/1.jpg)
 
@@ -26,6 +26,6 @@ Ga naar de werkcode welke moet worden aangepast en selecteer deze.
  
 ![](images/3.jpg)
 
-Verander het btw % naar 21 % en sla deze op. Als je nu in een factuur deze werkcode selecteert dan wordt er 21% berekend ipv de 6%.
+Verander het btw % naar 21 % en sla deze op. Als je nu in een factuur deze werkcode selecteert dan wordt er 21% berekend i.p.v. de 6%.
 
 ----------

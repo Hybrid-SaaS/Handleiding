@@ -54,21 +54,21 @@ Van links naar rechts worden de volgende actieknoppen weergegeven.
 - **Afromen**:			Met deze knop is het mogelijk om de uitgerekende commissies om te zetten naar een commissieoverzicht (proforma inkoopfactuur) (Let op! enkel zichtbaar na selectie van commissieregel(s))
 
 
-### Commissie herberekenen en niet meer weergeven ###
+### Commissie her berekenen en niet meer weergeven ###
 
-Door op één van de onderstaande knoppen te klikken worden details weergegeven. 
+Door op een van de onderstaande knoppen te klikken worden details weergegeven. 
 
 ![Details inzien van de commissieregel](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
 
-Wanneer één of meerdere regels worden geselecteerd zullen de onderstaande actieknoppen worden weergegeven
+Wanneer een of meerdere regels worden geselecteerd zullen de onderstaande actieknoppen worden weergegeven
 
-![Commissies niet meer weergeven en herberekenen](images/herberekenen_niet_meer_weergeven.jpg)
+![Commissies niet meer weergeven en her berekenen](images/herberekenen_niet_meer_weergeven.jpg)
 
 - **Niet meer weergeven**:	Hiermee worden de betreffende facturen uitgesloten van commissies (de facturen zullen worden weergegeven bij "Geen commissie"
-- **Herberekenen commissies**: Hiermee kunnen alle commissies worden herberekend van de geselecteerde regels.
+- **Her berekenen commissies**: Hiermee kunnen alle commissies worden her berekend van de geselecteerde regels.
 
 <div class="tip">
-Zie voor meer informatie over herberekenen en uitsluiten http://hybridsaas.support/pages/support-site/modulesAM/commissiebeheer/commissie-aanpassen-en-herberekenen/commissie-aanpassen-en-herberekenen
+Zie voor meer informatie over her berekenen en uitsluiten http://hybridsaas.support/pages/support-site/modulesAM/commissiebeheer/commissie-aanpassen-en-herberekenen/commissie-aanpassen-en-herberekenen
 </div>
 
 ### Commissies afromen ###
@@ -77,7 +77,7 @@ Met de knop **Afromen** is het mogelijk om de berekende commissies binnen een be
 
 ![Commissies afromen en op commissieoverzicht plaatsen](images/commissies_afromen.jpg)
 
-Selecteer één of meerdere commissieregels
+Selecteer een of meerdere commissieregels
 
 Klik op de knop **Afromen**
 
@@ -100,7 +100,7 @@ Afwijkend: Kies de datum t/m waar de commissie uitgerekend dient te worden en kl
 
 Na het verwerken van de commissie wordt er een commissieoverzicht aangemaakt in de vorm van een inkoopfactuur.
 
-De de inkoopfacturen zijn te vinden bij de inkoopfacturen bij de partner of via het menuitem "**te verzenden naar onderaannemer**"
+De inkoopfacturen zijn te vinden bij de inkoopfacturen bij de partner of via het menu item "**te verzenden naar onderaannemer**"
 
 ![Inkoopfactuur bij onderaannemer](images/te_verzenden_naar_onderaannemer.jpg)
 
@@ -110,7 +110,7 @@ Indien de inkoopfactuur wordt verwijderd zal de berekening worden teruggedraaid 
 
 ### Details commissieoverzicht inzien ###
 
-Vanuit de inkoopfactuur (commissieoverzicht) is het mogelijk om de details in te zien. Wanneer "Op scherm" wordt gekozen is het mogelijk om het overzicht weer te geven via een voorgedefinieerd template in PDF formaat.
+Vanuit de inkoopfactuur (commissieoverzicht) is het mogelijk om de details in te zien. Wanneer "Op scherm" wordt gekozen is het mogelijk om het overzicht weer te geven via een voor gedefinieerd template in pdf-formaat.
 
 ![Details commissieoverzicht inzien](images/details_commissieoverzicht_inzien.jpg)
 
@@ -119,7 +119,7 @@ Regels inzien: Overzicht van alle van alle regels zal worden weergegeven
 </div>
 
 <div class="info">
-Factuur rapportage: Overzicht van alle factuurregels zal worden weergeven in .XLS formaat.
+Factuur rapportage: Overzicht van alle factuurregels zal worden weergeven in .XLS-formaat.
 </div>
 
 Tevens is het mogelijk om de details per regel in te zien. Open hiervoor de factuurkaart en open de regel voor meer informatie.
@@ -128,7 +128,7 @@ Tevens is het mogelijk om de details per regel in te zien. Open hiervoor de fact
 
 ### Commissieoverzicht versturen ###
 
-Via de knop "Per e-mail" is het mogelijk om het commissieoverzicht per e-mail met een voorgedefinieerd template in PDF formaat te verzenden naar de partner ter controle.
+Via de knop "Per e-mail" is het mogelijk om het commissieoverzicht per e-mail met een voor gedefinieerd template in pdf-formaat te verzenden naar de partner ter controle.
 
 ![Commissieoverzicht per e-mail versturen](images/commissieoverzicht_versturen.jpg)
 

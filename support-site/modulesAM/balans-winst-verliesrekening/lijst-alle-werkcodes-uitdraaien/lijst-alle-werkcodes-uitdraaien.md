@@ -12,7 +12,7 @@
 
 ## Lijst van alle transacties per werkcodes uitdraaien  ##
 
-<description>Voor de boekhouder is het soms wel eens van toepassing om een volledige lijst te hebben van alle transacties die er in Hybrid SaaS het jaar door zijn toegevoegd. Deze is te exporteren naar Excel </description>
+<description>Voor de boekhouder is het soms weleens van toepassing om een volledige lijst te hebben van alle transacties die er in Hybrid SaaS het jaar door zijn toegevoegd. Deze is te exporteren naar Excel </description>
 
 Zoek in start naar **Winst & Verliesrekening**
 
@@ -25,7 +25,7 @@ Je komt dan in het volgende scherm uit
 
 ![](images/2.jpg)
 
-Hier kan je de selectie kiezen van de werkcodes welke je wilt hebben. kies voor toepassen en exporteren
+Hier kan je de selectie kiezen van de werkcodes welke je wilt hebben. Kies voor toepassen en exporteren
 
 ![](images/3.jpg)
 

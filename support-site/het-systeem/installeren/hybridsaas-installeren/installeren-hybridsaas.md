@@ -18,11 +18,11 @@ Ga naar de website van Hybrid SaaS [www.hybridsaas.com](http://hybridsaas.com/su
 Er staan 3 download opties
 
 - Hybrid SaaS browser 
-	- Hiermee kan je Hybrid Saas op je werkplek installeren
-- Hybrid SaaS Word add-in
+	- Hiermee kan je Hybrid SaaS op je werkplek installeren
+- Hybrid SaaS Word ADD-in
 	- Hiermee kan je in Hybrid SaaS gebruik maken van WORD om word-sjablonen te maken en of aan te passen 
-- Hybrid SaaS Outlook add-in
-	- Hiermee kan je vanuit je outlook binnengekomen mail converteren naar een ticket tbv van de module "Ticketsysteem" 
+- Hybrid SaaS Outlook ADD-in
+	- Hiermee kan je vanuit je outlook binnengekomen mail converteren naar een ticket t.b.v. van de module "Ticketsysteem" 
 
 Kies de Hybrid SaaS Browser
   
@@ -44,7 +44,7 @@ Klik op akkoord om de licentievoorwaarde te accepteren.
 
 ![](images/download-hs-licentie.jpg)
 
-Bij dit onderdeel staan standaard de Startmenu en Desktop shortcuts aan gevinkt. Het onderdeel Microsoft Word Add-In kan je optioneel aanzetten. Dit doe je als je zelf word-sjablonen gaat maken of aanpassen. En klik op volgende om door te gaan.     
+Bij dit onderdeel staan standaard de Startmenu en Desktop shortcuts aan gevinkt. Het onderdeel Microsoft Word ADD-In kan je optioneel aanzetten. Dit doe je als je zelf word-sjablonen gaat maken of aanpassen. En klik op volgende om door te gaan.     
 
 ![](images/download-hs-onderdeel.jpg)
 
@@ -60,7 +60,7 @@ Op je desktop staat nu het Hybrid SaaS logo, waarmee je de applicatie kan starte
 
 ![](images/download-hs-browser-logo.jpg)
 
-Bij de eerste keer opstarten vraagt het systeem nog om een locatie, dit is het internet-adres van je omgeving.
+Bij de eerste keer opstarten vraagt het systeem nog om een locatie, dit is het internetadres van je omgeving.
 Dit is **bedrijfsnaam** gevolgd door **.hybridsaas.com**.
 
 Gebruik de knop "Sla instellingen op" om deze instelling op te slaan.
@@ -72,3 +72,4 @@ Nu kan je de applicatie starten. (Mits je in het bezit bent van geldige inlognaa
 ![](images/download-hs-browser-inlog.jpg)
 
 ---------
+

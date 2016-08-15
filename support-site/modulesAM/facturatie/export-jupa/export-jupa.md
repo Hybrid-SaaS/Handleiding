@@ -11,7 +11,7 @@
 
 # Exporteren facturen naar Jupa #
 
-In dit artikel zal worden beschreven welke stappen er gevolgd dienen te worden om facturen via een bestand aan Jupa (Eijssink afrekensustemen http://www.eijsink.nl/Jupa/jupa.html) 
+In dit artikel zal worden beschreven welke stappen er gevolgd dienen te worden om facturen via een bestand aan Jupa (Eijssink afrekensystemen http://www.eijsink.nl/Jupa/jupa.html) 
 
 ## Instellen stamgegevens ##
 
@@ -29,7 +29,7 @@ Gebruik hiervoor HOOFDLETTERS
 
 Voor iedere afzonderlijke relatie, waar de facturen van naar Jupa gezonden dienen te worden, dient een e-mailadres ingesteld te worden. Dit adres kan bij betreffende relatie of bij Eijssink worden opgevraagd.
 
-Ga naar de contactgegevens van de relatie en voeg een e-mailadres toe. Zet het vinkje aan voor "Export naar extern systeem"  en kies in het dropdownmenu voor **Jupa**
+Ga naar de contactgegevens van de relatie en voeg een e-mailadres toe. Zet het vinkje aan voor "Export naar extern systeem” en kies in het drop Down menu voor **Jupa**
 
 ![E-mailadres aanmaken bij relatie](images/bedrijf.png)
 
@@ -38,7 +38,7 @@ Ga naar de contactgegevens van de relatie en voeg een e-mailadres toe. Zet het v
 Ga naar **Facturen exporteren naar extern systeem**. In dit venster zullen alle facturen worden weergegeven welke nog niet zijn geëxporteerd. Selecteer de facturen welke geëxporteerd dienen te worden en klik op **exporteer selectie**
 
 <div class="info">
-Het versturen van de facturen naar Jupa is een hamdmatige actie. Het systeem stuurt dus niet automatisch de facturen naar Jupa.
+Het versturen van de facturen naar Jupa is een handmatige actie. Het systeem stuurt dus niet automatisch de facturen naar Jupa.
 </div>
 
 ![Facturen exporteren naar Jupa](images/exporteer.png)
@@ -51,7 +51,7 @@ Via de button **Financiële exports** is het mogelijk om de geëxporteerde besta
 
 Selecteer de factuur en klik **Download bestand** om de betreffende export te downloaden.
 
-![Export bestand downloaden](images/download.png)
+![Exportbestand downloaden](images/download.png)
 
 <div class="info">
 Het bestandsformaat betreft een zogenaamd " ascii bestand" . Het is gewoon mogelijk om deze met bijvoorbeeld " notepad" te openen.
@@ -80,7 +80,7 @@ Niet alle beschikbare velden welke in Jupa worden gebruikt, worden ook in Hybrid
 3. **Factuurnummer**
 	(Factuur - Factuurkaart - Factuurnummer)
 4. **Regelvolgnummer in de export**
-5. **Factuurdutum**
+5. **Factuurdatum**
 	(Factuur - Factuurkaart - Factuurdatum)
 6. **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
 7. **Valuta**
@@ -99,10 +99,10 @@ Niet alle beschikbare velden welke in Jupa worden gebruikt, worden ook in Hybrid
 5. **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
 6. **Datum kredietbeperking** *(Niet in gebruik binnen Hybrid SaaS)*
 7. **Lege ruimte** *(Niet in gebruik binnen Hybrid SaaS)*
-8. **Totaal BTW bedrag** 
+8. **Totaal btw-bedrag** 
 	(Factuur - Factuurkaart - BTW)
-9. **Totaal factuur bedrag** *(Totaal bedrag incl BTW)*
-	(Factuur - Factuurkaart - Totaal incl. BTW)
+9. **Totaal factuur bedrag** *(Totaalbedrag incl. btw)*
+	(Factuur - Factuurkaart - Totaal incl. btw)
 10. **Kredietbeperking** *(Niet in gebruik binnen Hybrid SaaS)*
 
 ### Factuurregels ###
@@ -120,10 +120,10 @@ Niet alle beschikbare velden welke in Jupa worden gebruikt, worden ook in Hybrid
 	(Factuur - Factuurkaart - Factuurregel - Aantal)
 7.  **Productcode** ***(Artikelnummer leverancier)***
 	*(Producten - Productkaart - Productcode)*
-8.  **Gewicht** ***(In grammen vb 0069 6,9 gram)***
+8.  **Gewicht** ***(In grammen vb. 0069 6,9 gram)***
 	(Producten - Productkaart - Instellingen - Productonderdeel - aantal (vinkje dit is een gewicht))
 9.  **Basis verkoopprijs** ***(Prijs per stuk excl. metaal)***
-	(Producten - Productkaart - Instellingen - Basis verkoop prijs)
+	(Producten - Productkaart - Instellingen - Basis verkoopprijs)
 10.  **Verkoopprijs** ***(Prijs per stuk incl. metaal)***
 	(Producten - Productkaart - Prijzen - Verkoopprijs)
 11.  **Korting** ***(Korting per stuk)***

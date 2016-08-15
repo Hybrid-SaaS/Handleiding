@@ -73,7 +73,7 @@ Voorbeeld:
 - Resultaat: vanaf 350 stuks t/m 800 stuks
 </div>
 
-### Commissieregels toevoegen in commissieset ###
+### Commissieregels toevoegen in commissie set ###
 
 Klik op **Toevoegen** om commissieregels toe te voegen aan de set.
 
@@ -184,11 +184,11 @@ Nog geen contract? Bij het selecteren van een contract is het ook mogelijk om di
 </div>
 
 <div class="info">
-Indien gewenst is het mogelijk om de de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
+Indien gewenst is het mogelijk om de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
 </div>
 
 <div class="warning">
-Let op dat bij het importeren de begindatum correct staat ingevuld. Deze begin datum zal worden gebruikt bij het aanmaken van de factuurregels.
+Let op dat bij het importeren de begindatum correct staat ingevuld. Deze begindatum zal worden gebruikt bij het aanmaken van de factuurregels.
 </div>
 
 <div class="tip">

@@ -30,7 +30,7 @@ Klik op **Toevoegen**
 
 ![Partner aanmaken als relatie](images/partner_toevoegen_als_relatie.jpg)
 
-### NAW gegevens partner invullen ###
+### NAW-gegevens partner invullen ###
 
 Vul de benodigde NAW (naam, adres, woonplaats) gegevens in:
 - Naam partner
@@ -48,7 +48,7 @@ Zorg ervoor dat het vinkje bij leverancier staat aangevinkt. Indien dit niet het
 </div>
 
 <div class="warning">
-Selecteer op het tabblad Stamgegevens de juiste BTW code
+Selecteer op het tabblad Stamgegevens de juiste btw-code
 </div>
 
 ## Partner aanmaken als gebruiker ##
@@ -64,7 +64,7 @@ Vul alle benodigde velden in en selecteer bij **Onderaannemer** de juiste relati
 ![Partner aanmaken als gebruiker](images/partner_toevoegen_als_gebruiker.jpg)
 
 <div class="warning">
-Indien de partner via een SSO connectie gekoppeld is vul dan bij Inlognaam het partnernummer in. 
+Indien de partner via een SSO-connectie gekoppeld is vul dan bij Inlognaam het partnernummer in. 
 </div>
 
 -------

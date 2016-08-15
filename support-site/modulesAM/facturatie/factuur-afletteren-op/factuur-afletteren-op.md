@@ -19,7 +19,7 @@ Je kan een factuur op verschillende manieren afletteren, de stappen die hieronde
 
 ## Op een andere factuur ##
 
-Het kan voorkomen dat je een credit factuur wilt afletteren op een factuur die nog  moet ontvangen, zodat deze tegen elkaar weg vallen of dat er nog een deel overblijft wat je nog moet ontvangen.
+Het kan voorkomen dat je een credit factuur wilt afletteren op een factuur die nog moet ontvangen, zodat deze tegen elkaar weg vallen of dat er nog een deel overblijft wat je nog moet ontvangen.
 
 In dit voorbeeld gebruiken we een factuur van € 604,94 die we nog moeten ontvangen en een inkoopfactuur van € -268,86 die we nog moeten betalen, het verschil wat overblijft zal € 336,08 zijn wat we nog moeten ontvangen
 
@@ -32,7 +32,7 @@ Je ziet dat hij nog niet in evenwicht is, dit komt omdat het bedrag van de factu
 
 ![](images/2.png)
 
-Selecteer de regel welke het hoogste is en open deze door er op de dubbelklikken Hierin kunnen we het bedrag aanpassen naar het bedrag van de credit in dit geval : €268,86 en deze kan je opslaan
+Selecteer de regel welke het hoogste is en open deze door er op de dubbelklikken Hierin kunnen we het bedrag aanpassen naar het bedrag van de credit in dit geval: €268,86 en deze kan je opslaan
 
 ![](images/3.png)
 
@@ -40,7 +40,7 @@ De boeking zal nu in evenwicht zijn, en dit scherm kan je ook opslaan
 
 ![](images/4.png)
 
-Als je nu weer terug valt in het scherm van **alle openstaande facturen** zal je zien dat de credit nota er niet meer tussen staat en het openstaande bedrag van de andere factuur is aangepast.
+Als je nu weer terugvalt in het scherm van **alle openstaande facturen** zal je zien dat de credit nota er niet meer tussen staat en het openstaande bedrag van de andere factuur is aangepast.
 
 Dit is nu met elkaar verrekend
 
@@ -71,7 +71,7 @@ Je ziet dat hij nog niet in evenwicht is, dit komt omdat het bedrag van de factu
 
 ![](images/8.png)
 
-Selecteer de regel welke het hoogste is en open deze door er op de dubbelklikken Hierin kunnen we het bedrag aanpassen naar het bedrag van de inkoopfactuur in dit geval : €12.098,79 en deze kan je opslaan
+Selecteer de regel welke het hoogste is en open deze door er op de dubbelklikken Hierin kunnen we het bedrag aanpassen naar het bedrag van de inkoopfactuur in dit geval: €12.098,79 en deze kan je opslaan
 
 ![](images/9.png)
 
@@ -79,7 +79,7 @@ De boeking zal nu in evenwicht zijn, en dit scherm kan je ook opslaan
 
 ![](images/10.png)
 
-Als je nu weer terug valt in het scherm van **alle openstaande facturen** openstaande bedrag van de  factuur is aangepast. Als je de inkoopfactuur zal opzoeken zal je zien dat deze als betaald staat
+Als je nu weer terugvalt in het scherm van **alle openstaande facturen** openstaande bedrag van de factuur is aangepast. Als je de inkoopfactuur zal opzoeken zal je zien dat deze als betaald staat
 
 Dit is nu met elkaar verrekend
 
@@ -89,9 +89,9 @@ Dit is nu met elkaar verrekend
 
 ## Op een grootboek ##
 
-Het kan voorkomen dat je een factuur wilt afletteren op een grootboekrekening, zodat deze hierop word afgeletterd. Dit kunnen verschillende grootboekrekeningen zijn 
+Het kan voorkomen dat je een factuur wilt afletteren op een grootboekrekening, zodat deze hierop wordt afgeletterd. Dit kunnen verschillende grootboekrekeningen zijn 
 
-In dit voorbeeld gebruiken we een factuur van € -121,00 deze boeken we weg op de grootboek inhuur extern 
+In dit voorbeeld gebruiken we een factuur van € -121,00 deze boeken we weg op het grootboek inhuur extern 
 
 Ga naar **alle openstaande facturen** en selecteer de regel welke je wilt afletteren en klik op de knop **Afletteren**
 
@@ -99,7 +99,7 @@ Ga naar **alle openstaande facturen** en selecteer de regel welke je wilt aflett
 
 Er zal nu een transactie scherm worden geopend, met onderin de regel van de factuur.
 Je ziet dat hij nog niet in evenwicht is, dit komt omdat er nog geen andere regels is toegevoegd.
-Hiervoor gaan we naar **Op grootboek zoeken** of klik op de balk **geen grootboek rekening gekozen**
+Hiervoor gaan we naar **Op grootboek zoeken** of klik op de balk **geen grootboekrekening gekozen**
 
 ![](images/13.png)
 
@@ -108,11 +108,11 @@ Zoek hierin de grootboeknummer en klik op selecteren
 ![](images/14.png)
 
 Je komt nu weer terug in het transactie scherm, met onderin de regel van de factuur en het grootboeknummer.
-Deze is direct in evenwicht, het volledige bedrag word nu op deze grootboek rekening geboekt, dit scherm kan je opslaan
+Deze is direct in evenwicht, het volledige bedrag wordt nu op deze grootboekrekening geboekt, dit scherm kan je opslaan
 
 ![](images/15.png)
 
-Als je nu weer terug valt in het scherm van **alle openstaande facturen** zal je zien dat deze factuur er niet meer tussen staat. dit is terug te vinden bij de grootboekrekening
+Als je nu weer terugvalt in het scherm van **alle openstaande facturen** zal je zien dat deze factuur er niet meer tussen staat. Dit is terug te vinden bij de grootboekrekening
 
 Dit is nu met elkaar verrekend
 

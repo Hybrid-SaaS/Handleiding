@@ -10,16 +10,16 @@
 
 ## Bureaublad instellingen ##
 
-Als u er voor kiest om zelf uw bureaublad in te richten zullen automatisch de bestaande snelkoppelingen verwijderd worden. Zodra u uw eigen aangemaakte snelkoppelingen verwijderd zal het bureaublad automatisch weer de originele snelkoppelingen weergeven.
+Als u ervoor kiest om zelf uw bureaublad in te richten zullen automatisch de bestaande snelkoppelingen verwijderd worden. Zodra u uw eigen aangemaakte snelkoppelingen verwijderd zal het bureaublad automatisch weer de originele snelkoppelingen weergeven.
 
 TIP: SHIFT + F5 is het scherm verversen
 
-Om iconen toe te voegen aan je bureaublad kan je via start op de gewenste icoon gaan staan en dan met je rechter muisknop toon op bureaublad.
+Om iconen toe te voegen aan je bureaublad kan je via start op de gewenste icoon gaan staan en dan met je rechtermuisknop toon op bureaublad.
 
 ![](images/1.jpg)
 
 
-hij zet hem dan automatisch op het eerste vrije plekje vanaf links bovenin, daarna kan je hem verslepen naar de gewenste plek
+Hij zet hem dan automatisch op het eerste vrije plekje vanaf links bovenin, daarna kan je hem verslepen naar de gewenste plek
 
 ![](images/2.jpg)
 

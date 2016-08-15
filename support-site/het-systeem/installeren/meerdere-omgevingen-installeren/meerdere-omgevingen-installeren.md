@@ -11,9 +11,9 @@
 
 ## Meerdere omgevingen instellen ##
 
-Als je met meerdere omgevingen werkt, is het makkelijk om deze vast te laten zetten op het begin scherm van Hybrid SaaS. Hieronder word per stap uit gelegd hoe je dit kan doen 
+Als je met meerdere omgevingen werkt, is het makkelijk om deze vast te laten zetten op het begin scherm van Hybrid SaaS. Hieronder wordt per stap uit gelegd hoe je dit kan doen 
 
-* Ga dan naar regedit via de windows knop - Uitvoeren
+* Ga dan naar regedit via de Windows knop - Uitvoeren
 
 ![](images/1.png)
 
@@ -26,11 +26,11 @@ Als je met meerdere omgevingen werkt, is het makkelijk om deze vast te laten zet
 	* SOFTWARE
 	* Hybrid SaaS
 	
-In de map van Hybrid SaaS kan je met de rechtmuisknop iets toevoegen
+In de map van Hybrid SaaS kan je met de recht muisknop iets toevoegen
 ![](images/3.png)
 
 * Kies hiervoor nieuw
-* DWORD (32-bits)-waarde
+* DWORD (32-bits) -waarde
 * Deze kan je benoemen naar URL_LIST
 
 ![](images/5.png)
@@ -43,17 +43,18 @@ In de map van Hybrid SaaS kan je met de rechtmuisknop iets toevoegen
 
 ![](images/8.png)
 
-* In deze map (URL) kan je op de zelfde manier nog meer mappen toevoegen, net zo veel als hoeveel administraties je hebt. Hier geef je dan de naam van de administratie in
+* In deze map (URL) kan je op dezelfde manier nog meer mappen toevoegen, net zo veel als hoeveel administraties je hebt. Hier geef je dan de naam van de administratie in
 
 ![](images/7.png)
 
-* In deze map kan je via je rechtersmuis knop een tekenreeks toevoegen en deze geef je de naar URL
+* In deze map kan je via je rechtermuisknop een tekenreeks toevoegen en deze geef je de naar URL
 
 ![](images/9.png)
 
-* Dubbel klikken op de regel en bij waardegegevens dien je https://bedrijfsnaam.hybridsaas.com (als je deze niet weet kan je hem opvragen via support@hybridsaas.com)
+* Dubbel klikken op de regel en bij waarde gegevens dien je https://bedrijfsnaam.hybridsaas.com (als je deze niet weet kan je hem opvragen via support@hybridsaas.com)
 
 * Nu kan je de omgevingen kiezen
 
 ![](images/10.png)
 ---------
+

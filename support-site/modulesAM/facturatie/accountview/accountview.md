@@ -9,9 +9,9 @@
 	</menu>
 </properties>
 
-# Mutaties importeren in AccountView vanuit Hybrid SaaS #
+# Mutaties importeren in Account View vanuit Hybrid SaaS #
 
-Om de mutaties automatisch in te lezen vanuit Hybrid SaaS naar AccountView dient op de server aangegeven te worden voor welke administratie dit dient te gebeuren. Standaard staat de server ingesteld op het huidige boekjaar van de eerste administratie (indien er met meerdere administraties wordt gewerkt). In AccountView is het mogelijk om te wisselen tussen de verschillende administraties. Hybrid SaaS geeft echter geen onderscheid in de verschillende administraties op het moment van exporteren.
+Om de mutaties automatisch in te lezen vanuit Hybrid SaaS naar Account View dient op de server aangegeven te worden voor welke administratie dit dient te gebeuren. Standaard staat de server ingesteld op het huidige boekjaar van de eerste administratie (indien er met meerdere administraties wordt gewerkt). In Account View is het mogelijk om te wisselen tussen de verschillende administraties. Hybrid SaaS geeft echter geen onderscheid in de verschillende administraties op het moment van exporteren.
 
 ## Export vanuit Hybrid SaaS ##
 
@@ -44,7 +44,7 @@ Tevens is het mogelijk om de naam van de snelkoppeling te veranderen, door met d
 
 ### Regels exporteren ###
 
-Selecteer de regels welke geëxporteerd dienen te worden en klik op de knop **AccountView**.
+Selecteer de regels welke geëxporteerd dienen te worden en klik op de knop **Account View**.
 
 **Verkoopfacturen:**
 ![Verkoopregels exporteren naar Accountview](images/verkoopexport.png)
@@ -73,15 +73,15 @@ Bij de volgende melding wordt er gevraagd of het bestand opgeslagen of geopend d
 De exports zullen automatisch worden opgeslagen in Hybrid SaaS. Indien gewenst kunnen bestanden alsnog worden opgeslagen op de computer zodat er een extra back up is.
 </div>
 
-## Importeren exports in AccountView ##
+## Importeren exports in Account View ##
 
-Ga naar AccountView en kies bij **Bestand** voor **Administraties**.
+Ga naar Account View en kies bij **Bestand** voor **Administraties**.
 
-![AccountView bestand](images/avbestand.png)
+![Account View bestand](images/avbestand.png)
 
 Zorg dat de juiste administratie geselecteerd is en kies bij **Document** voor **Importeren** en vervolgens voor **XML**
 
-![AccountView import](images/avimport.png)
+![Account View import](images/avimport.png)
 
 Selecteer de juiste map om het bestand te selecteren. Ga naar de juiste map (waarin de exports zijn opgeslagen) en selecteer het bestand en kies voor **importeren**.
 
@@ -89,6 +89,8 @@ Selecteer de juiste map om het bestand te selecteren. Ga naar de juiste map (waa
 
 Sluit na het importeren de administratie.
  
-![AccountView sluiten](images/avsluiten.png)
+![Account View sluiten](images/avsluiten.png)
  
  -----
+
+

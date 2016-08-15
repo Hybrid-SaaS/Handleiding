@@ -8,9 +8,9 @@
 	</menu>
 </properties>
 
-# DataAdapter Help #
+# Data Adapter Help #
 
-De DataAdapter is een belangrijk instrument om bestaande data in Hybrid SaaS in te lezen. Doordat het toewijzen van de juiste data secuur en exact gedaan dient te worden is het mogelijk dat er hinder wordt ondervonden. In dit artikel proberen we een aantal stappen te beschrijven waarmee onderzocht kan worden waar een eventuele fout is opgetreden.
+De Data Adapter is een belangrijk instrument om bestaande data in Hybrid SaaS in te lezen. Doordat het toewijzen van de juiste data secuur en exact gedaan dient te worden is het mogelijk dat er hinder wordt ondervonden. In dit artikel proberen we een aantal stappen te beschrijven waarmee onderzocht kan worden waar een eventuele fout is opgetreden.
 
 ## Bron inzien ##
 
@@ -22,7 +22,7 @@ Klik met de rechtermuisknop op het opmerkingen veld.
 
 ![Bron inzien](images/rechtermuisknop.jpg) 
 
-## Tekst vervangen  ##
+## Tekst vervangen ##
 
 Plak de gekopieerde tekst in een edit programma. Wij adviseren EditPlus www.editplus.com (of een soortgelijk programma)
 

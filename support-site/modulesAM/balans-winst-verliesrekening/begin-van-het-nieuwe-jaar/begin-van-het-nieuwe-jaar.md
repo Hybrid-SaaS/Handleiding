@@ -14,11 +14,11 @@ Het nieuwe jaar brengt een paar kleine handeling die gedaan dienen te worden in 
 
 # Boekingsperiode #
 
-Om er voor te zorgen dat financiële boekingen niet in een verkeerd tijdvak worden geboekt werkt Hybrid SaaS met boekingsperiodes. Met een boekingsperiode wordt bepaald vanaf en tot welke datum boekingen gedaan mogen worden. Dit heeft onder andere invloed op facturatie, offerte/ orders, inkoopfacturatie en inkooporders.
+Om ervoor te zorgen dat financiële boekingen niet in een verkeerd tijdvak worden geboekt werkt Hybrid SaaS met boekingsperiodes. Met een boekingsperiode wordt bepaald vanaf en tot welke datum boekingen gedaan mogen worden. Dit heeft onder andere invloed op facturatie, offerte/ orders, inkoopfacturatie en inkooporders.
 
 Indien er een boeking wordt gedaan in een periode welke is afgesloten verschijnt de melding "Deze periode is geblokkeerd".
 
-![Deze periode is geblokeerd](images/boekingsperiode_geblokkeerd.jpg)
+![Deze periode is geblokkeerd](images/boekingsperiode_geblokkeerd.jpg)
 
 ## Boekingsperiode aanpassen ##
 
@@ -38,7 +38,7 @@ Wanneer alle boekingen (van het voorgaande jaar) zijn verwekt is het mogelijk om
 
 # Nummerreeksen aanpassen #
 
-Bij de start van een nieuw jaar kan er voor worden gekozen om de nummerreeksen van bijvoorbeeld factuurnummers, ordernummers en boekstuknummers opnieuw te laten starten. 
+Bij de start van een nieuw jaar kan ervoor worden gekozen om de nummerreeksen van bijvoorbeeld factuurnummers, ordernummers en boekstuknummers opnieuw te laten starten. 
 
 **Entiteiten** > Klik op de betreffende entiteit > **Boekhouding**
 

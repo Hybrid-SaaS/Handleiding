@@ -10,7 +10,7 @@
 
 # E-mailadres voor antwoord genereren #
 
-Om er voor te zorgen dat een antwoord op een ticket terug komt in het ticketsysteem is het van belang dat het antwoordadres van de e-mail goed is ingesteld. Via "E-mail sjablonen" en tabblad "Adresseringen" is het mogelijk om een antwoordadres te genereren. Wanneer de tegenpartij het ticket beantwoord zal deze naar het gegenereerde adres antwoorden en zal het antwoord aan het juiste ticket worden toegevoegd.
+Om ervoor te zorgen dat een antwoord op een ticket terugkomt in het ticketsysteem is het van belang dat het antwoordadres van de e-mail goed is ingesteld. Via "E-mail sjablonen" en tabblad "Adresseringen" is het mogelijk om een antwoordadres te genereren. Wanneer de tegenpartij het ticket beantwoord zal deze naar het gegenereerde adres antwoorden en zal het antwoord aan het juiste ticket worden toegevoegd.
 
 ## E-mailadres genereren ##
 
@@ -21,7 +21,7 @@ Naast het veld "Antwoord naar" staat een knop genaamd "Standaard". Door op "Stan
 ![E-mailadres Genereren](images/e-mail-koppelen-aan-ticketsysteem.jpg)
 
 <div class="tip">
-Het gegenereerde e-mailadres kan ook worden gebruikt om een bestaand e-mailadres te forwarden. In de e-mailinstellingen van je mailclient is dit aan te passen. 
+Het gegenereerde e-mailadres kan ook worden gebruikt om een bestaand e-mailadres te forwarden. In de e-mailinstellingen van je mail cliënt is dit aan te passen. 
 
 **MS Exchange :** [https://support.office.com/nl-be/article/Mijn-berichten-automatisch-doorsturen-naar-een-ander-e-mailaccount-9f124e4a-749e-4288-a266-2d009686b403](https://support.office.com/nl-be/article/Mijn-berichten-automatisch-doorsturen-naar-een-ander-e-mailaccount-9f124e4a-749e-4288-a266-2d009686b403 "Microsoft Exchange")
 
@@ -32,6 +32,7 @@ Het gegenereerde e-mailadres kan ook worden gebruikt om een bestaand e-mailadres
 
 
 ----------
+
 
 
 

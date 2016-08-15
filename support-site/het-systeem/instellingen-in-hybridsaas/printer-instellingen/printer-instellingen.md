@@ -17,7 +17,7 @@ Ga naar de word-sjablonen
 
 ![](images/instelling-word-sjabloon1.jpg)
 
-Kies het word-sjabloon  waarvan je de standaard printer wilt instellen (dubbelklikken)
+Kies het word-sjabloon waarvan je de standaard printer wilt instellen (dubbelklikken)
 
 Het word-sjabloon moet gekoppeld zijn aan een afdeling of het vinkje "Weergeven bij iedereen" staat aan. Anders komt deze niet zichtbaar in de lijst met printer instellingen. Controleer of dit klopt en anders pas dit aan.
 
@@ -31,16 +31,16 @@ Ook moet de "voorkeurs uitvoer" op **printer** worden gezet. Deze staat standaar
 
 ![](images/instelling-printer.jpg)
 
-Als je de printer instellingen opent, dan verschijnt er een scherm met alle word sjablonen die gedefinieerd zijn. 
+Als je de printer instellingen opent, dan verschijnt er een scherm met alle wordt sjablonen die gedefinieerd zijn. 
 
-Zoek in de lijst met word-sjablonen het sjabloon op waar je een standaard printer aan wilt koppelen, door op het "dropdown" pijltje te klikken. 
+Zoek in de lijst met word-sjablonen het sjabloon op waar je een standaard printer aan wilt koppelen, door op het "drop Down" pijltje te klikken. 
 ![](images/instelling-printer-lijst.jpg)    
 
 Er verschijnt dan een lijst met gevonden printer in het netwerk. Selecteer de juiste printer en drup op de knop opslaan.
 
 ![](images/instelling-printer-keuze.jpg)     
 
-Als je nu de volgende keer een document gaat printen dan staat deze automatisch op de juiste printer.Klik op samenvoegen en het document wordt opgemaakt en naar de printer verzonden.
+Als je nu de volgende keer een document gaat printen dan staat deze automatisch op de juiste printer. Klik op samenvoegen en het document wordt opgemaakt en naar de printer verzonden.
 
 ![](images/instelling-printer-resultaat.jpg)   
 

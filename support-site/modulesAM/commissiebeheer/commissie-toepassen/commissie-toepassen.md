@@ -2,7 +2,7 @@
 
 </properties>
 
-## Commsissie toepassen ##
+## Commissie toepassen ##
 
 Hier wordt beschreven welke stappen je moet doorlopen om commissie in te richten.
 
@@ -61,7 +61,7 @@ Ga via het menu naar "Commissies", naar "commissies beheren". Kies dan voor "Toe
 
 - Klant: Klant A
 - Leverancier: Leverancier A
-- Accountmanager : Piet van Testpersoon
+- Accountmanager: Piet van Testpersoon
 - Commissie: Alle producten; 10 %
 - Producten zijn op voorraad
 
@@ -76,32 +76,32 @@ Er wordt een order ingevoerd voor Klant A, met 2 producten van 100 euro per prod
 Orderinvoer scherm 
 ![](images/commissie-order.jpg) 
 
-Als er een factuur is gemaakt verschijnt deze in het bakje " alle nieuwe facturen". Je kan dan in deze factuur bij het tabblad "Commissies" terugvinden aan wie welke commissie is toebedeeld.(in waarde en in percentage). Zodra de factuur is goedgekeurd en is verstuurd start het proces om de commissie te gaan verrekenen.
+Als er een factuur is gemaakt verschijnt deze in het bakje " alle nieuwe facturen". Je kan dan in deze factuur bij het tabblad "Commissies" terugvinden aan wie welke commissie is toebedeeld. (In waarde en in percentage). Zodra de factuur is goedgekeurd en is verstuurd start het proces om de commissie te gaan verrekenen.
 ![](images/commissie-factuur.jpg)
 
-Na het versturen van de factuur komt er in het bakje "Nieuwe commissie afdracht" een regel te staan per leverancier met daarbij het totaal bedrag en het commissie bedrag. Als er meerdere facturen met commissie voor dezelfde leverancier, dan wordt deze gecumuleerd. Er komt niet voor iedere factuur één regel. Je kan de facturen inzien door de leverancier te selecteren en dan de knop Facturen te gebruiken. 
+Na het versturen van de factuur komt er in het bakje "Nieuwe commissie afdracht" een regel te staan per leverancier met daarbij het totaalbedrag en het commissie bedrag. Als er meerdere facturen met commissie voor dezelfde leverancier, dan wordt deze gecumuleerd. Er komt niet voor iedere factuur één regel. Je kan de facturen inzien door de leverancier te selecteren en dan de knop Facturen te gebruiken. 
 ![](images/commissie-nieuwe-commissie-afdracht.jpg)
 
 Afromen 
 Om van de commissie een inkoopfactuur te maken gebruik je de knop "Afromen".
 Selecteer alle leveranciers waarvoor je dit wilt doen.
 Je krijgt dan nog de mogelijkheid om aan te geven tot en met welke datum de commissie moet worden berekend. Standaard is dit de systeem datum. Als je een afwijkende datum wilt hebben, kies dan de datum en gebruik de toets afwijkend.
-er wordt nu één of meerdere inkoopfacturen gemaakt en deze komen in het bakje "Te verzenden naar onderaannemer".
+Er wordt nu een of meerdere inkoopfacturen gemaakt en deze komen in het bakje "Te verzenden naar onderaannemer".
  
 ![](images/commissie-afromen-datum.jpg)
 
 
-Selecteer hier de inkoopfacturen die je wilt gaan versturen aan de leveranciers (onderaannemers). Dit doe je door de knop "per e-mail" te gebruiken. de verschillende inkoopfacturen worden verstuurd naar de e-mailadressen die bij de leveranciers (onderaannemers) is ingesteld.
+Selecteer hier de inkoopfacturen die je wilt gaan versturen aan de leveranciers (onderaannemers). Dit doe je door de knop "per e-mail" te gebruiken. De verschillende inkoopfacturen worden verstuurd naar de e-mailadressen die bij de leveranciers (onderaannemers) is ingesteld.
 ![](images/commissie-te-verzenden-naar-onderaannemer.jpg)
 
 In het bakje "Verzonden naar onderaannemer wachtend op factuur" staan nu de verzonden inkoopfacturen. Zodra de leverancier (onderaannemer) zijn factuur heeft gestuurd en je deze hebt ontvangen dan kan je de inkoopfactuur verder verwerken en tot betaling overgaan. 
 ![](images/commissie-wachtend-op-factuur.jpg)
 
-Open vanuit het bakje "Verzonden naar onderaannemer wachtend op factuur" de inkoopfactuur. Vul het factuurnummer van de leverancier (onderaannemer) in, dit is een verplicht veld. en kies de type betaling. 
+Open vanuit het bakje "Verzonden naar onderaannemer wachtend op factuur" de inkoopfactuur. Vul het factuurnummer van de leverancier (onderaannemer) in, dit is een verplicht veld. En kies de type betaling. 
 Verder moet  
 ![](images/commissie-inkoopfactuur.jpg)
 
-In dit voorbeeld heb ik gekozen voor betaling via SEPA. De goedgekeurde inkoopfactuur komt hierdoor terecht in het bakje "Exporteren naar SEPA bestand
+In dit voorbeeld heb ik gekozen voor betaling via SEPA. De goedgekeurde inkoopfactuur komt hierdoor terecht in het bakje "Exporteren naar SEPA-bestand
 ![](images/commissie-betaling.jpg)
 
 ----------

@@ -22,7 +22,7 @@ Keur de order goed door op **Goedkeuren** te klikken, handel de order af door op
 
 <div class="info">
 Indien er een contract wordt gevonden van dezelfde relatie zal de volgende melding worden weergegeven: 
-"Er zijn lopende contracten gevonden wilt u deze order hier aan toevoegen?".
+"Er zijn lopende contracten gevonden wilt u deze order hieraan toevoegen?".
 
 Ja: Kies het contract waar de order aan toegevoegd dient te worden. De orderregels zullen aan het lopende contract worden toegevoegd.
 
@@ -50,7 +50,7 @@ Automatisch verlengen: Vink deze optie indien de contractregel door dient te lop
 
 Eventueel is het mogelijk om afwijkende voorwaarden in te stellen op orderregelniveau
 
-Open de orderegel en ga naar het tabblad **Productie/tijdregistratie**
+Open het orderegel en ga naar het tabblad **Productie/tijdregistratie**
 
 ![Afwijkende voorwaarden instellen op de orderregel vastleggen](images/looptijden_bij_orderregels_vastleggen.jpg)
 
@@ -63,12 +63,12 @@ Automatisch verlengen: Vink deze optie indien de contractregel door dient te lop
 </div>
 
 <div class="info">
-Indien gewenst is het mogelijk om de de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
+Indien gewenst is het mogelijk om de factor aan te passen. De factor is het aantal keer dat het item wordt uit gefactureerd gedurende de looptijd van het contract. Dit aantal wordt overigens niet gebruikt in het contract zelf.
 </div>
 
 
 ### Aantal van orderregel wordt als losse regels opgeslagen ###
-Bij het importeren van een order in een contract zal het aantal van de orderregel als losse regels worden geïmporteerd onder het tabblad variabele looptijden. Op deze manier kan ieder product afzonderlijk worden beheert op begin- en einddatum.
+Bij het importeren van een order in een contract zal het aantal van de orderregel als losse regels worden geïmporteerd onder het tabblad variabele looptijden. Op deze manier kan ieder product afzonderlijk worden beheerd op begin- en einddatum.
 
 ![Orderregels worden als losse regels opgeslagen in het contract](images/losse_contractregels_na_importeren_order.png)
 
@@ -102,7 +102,7 @@ Hieronder wordt een voorbeeld gegeven van een contract met 10 producten per maan
 
 ![Contractregel splitsen op aantal voorbeeld](images/splitsen_op_aantal.png)
 
-Indien er met bijvoorbeeld prepaidkaarten wordt gewerkt dienen er eenheden worden opgeboekt. In dit geval dient het aantal vermenigvuldigd met de interval zodat deze correct worden verwerkt.
+Indien er met bijvoorbeeld prepaidkaarten wordt gewerkt dienen er eenheden worden opgeboekt. In dit geval dient het aantal vermenigvuldigd met het interval zodat deze correct worden verwerkt.
 
 **Splitsen op prijs**
 
@@ -139,7 +139,7 @@ Er zijn 3 verschillende methoden om facturen op te maken op basis van contracten
 
 ![Facturen als batch verwerken op basis van verwerkingsdatum](images/contracten_opmaken_contracten_genereren.png)
 
-**Optie 2:** Selecteer een of meerdere contracten in het contractoverzicht , klik op **Genereren**
+**Optie 2:** Selecteer een of meerdere contracten in het contractoverzicht, klik op **Genereren**
 
 ![Facturen opmaken vanuit contractoverzicht](images/contracten_opmaken_vanuit_contractoverzicht.png)
 
@@ -150,3 +150,4 @@ Er zijn 3 verschillende methoden om facturen op te maken op basis van contracten
 <div class="warning">
 In alle bovenstaande gevallen zal de factuur worden weergegeven bij Nieuwe facturen. 
 </div>
+

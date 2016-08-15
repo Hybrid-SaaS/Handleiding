@@ -15,7 +15,7 @@
 <description>Om op een eenvoudige manier werkcodes in de database te krijgen is er een import module aanwezig. Hiermee kan je eenvoudig nieuwe werkcodes toevoegen of bestaande werkcodes aanpassen. Dit doe je niet als je voor één werkcodes iets wilt aanpassen maar vaak als je een massa mutatie gaat uitvoeren, waarbij je bijvoorbeeld bij iedere werkcodes iets wilt toevoegen en/of wijzigen.
 </description>
 
-**Om bestaande werkcodes te veranderen heb je de juiste werkcode nodig. deze zal dan overschreden worden met de nieuwe informatie**
+**Om bestaande werkcodes te veranderen heb je de juiste werkcode nodig. Deze zal dan overschreden worden met de nieuwe informatie**
 
 Zoek in start naar Importeren
 
@@ -24,9 +24,9 @@ Om te importeren klik je eerst op
 
 Je krijgt een hele lijst met kolommen, Zie voor uitleg kolommen hieronder
 
-(rechtermuisknop op de kolom en dan verwijderen)
+(Rechtermuisknop op de kolom en dan verwijderen)
 
-Vul vervolgens alle kolommen in die nodig zijn. als je er niks aan hoef te veranderen kan je de waarde laten staan of geheel leeg maken (geen 0 van maken dan zal het overschreden worden)
+Vul vervolgens alle kolommen in die nodig zijn. Als je er niks aan hoef te veranderen kan je de waarde laten staan of geheel leeg maken (geen 0 van maken dan zal het overschreden worden)
 
 Nu kan je het exportbestand opslaan op je bureaublad en afsluiten.
 
@@ -34,9 +34,9 @@ Nu kan je het exportbestand opslaan op je bureaublad en afsluiten.
 
 Gebruik nu de knop "Klik hier om Werkcodes te importeren" om de Werkcodes te importeren. 
 Zoek het juiste bestand op en selecteer deze.
-Na de import verschijnt er een internet pagina met daarin het resultaat van de import.
+Na de import verschijnt er een internetpagina met daarin het resultaat van de import.
 
-<div class="info"> Je moet het Excel bestandje sluiten voordat je hem gaat importeren anders zal die een fout melding aangeven </div>
+<div class="info"> Je moet het Excel bestandje sluiten voordat je hem gaat importeren anders zal die een foutmelding aangeven </div>
 
 Je kan nu in Hybrid SaaS bij de Werkcodes de geïmporteerde gegevens terugvinden.
 
@@ -96,7 +96,7 @@ De veldnaam is **dik** gedrukt
 			- 0 Credit
 			- 1 Debet
 - Vat
-	- **BTW percentage**
+	- **btw-percentage**
 		- deze moet gelijk zijn aan de waarde welke al bekend is in het systeem
 
 ----------

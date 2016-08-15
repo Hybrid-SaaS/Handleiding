@@ -12,11 +12,11 @@
 
 # Algemene informatie commissie #
 
-In deze rubriek zal o.a. worden beschreven hoe commissies aangepast en herberekend dienen te worden. Tevens zullen algemene zaken worden besproken voor optimaal gebruik van commissiebeheer.
+In deze rubriek zal o.a. worden beschreven hoe commissies aangepast en her berekend dienen te worden. Tevens zullen algemene zaken worden besproken voor optimaal gebruik van commissiebeheer.
 
-# Commissiepercentages aanpassen en herberekenen #
+# Commissiepercentages aanpassen en her berekenen #
 
-Het is mogelijk om (reeds uitgekeerde) commissies te herberekenen op basis van aangepaste percentages.
+Het is mogelijk om (reeds uitgekeerde) commissies te her berekenen op basis van aangepaste percentages.
 
 ## Percentages aanpassen ##
 
@@ -30,64 +30,64 @@ Percentages en voorwaarden kunnen op een aantal verschillende manieren worden aa
 ![Partner koppelen aan commissie set](images/commissieset_wijzigen_bij_partner.jpg)
 
 ### Commissie set percentage aanpassen ###
-![Commissieset percentage aanpassen](images/commissiepercentage_aanpassen_in_commissie_set.jpg)
+![Commissie set percentage aanpassen](images/commissiepercentage_aanpassen_in_commissie_set.jpg)
 
 ### Percentage op commissieregel aanpassen ###
 ![Percentage op commissieregel aanpassen](images/commissiepercentage_aanpassen_in_commissieregel.jpg)
 
 
-## Herberekenen met aangepast percentages ##
+## Her berekenen met aangepast percentages ##
 
-Nadat het percentage is aangepast dienen de commissies herberekend te worden. Hiervoor zijn een aantal verschillende manieren:
+Nadat het percentage is aangepast dienen de commissies her berekend te worden. Hiervoor zijn een aantal verschillende manieren:
 
-- Herberekenen op factuur- en orderniveau
-- Herberekenen op bulkniveau factuur en order
-- Herberekenen vanuit commissieafspraak bij partner
+- Her berekenen op factuur- en orderniveau
+- Her berekenen op bulkniveau factuur en order
+- Her berekenen vanuit commissieafspraak bij partner
 
-### Herberekenen op factuur- en orderniveau ###
+### Her berekenen op factuur- en orderniveau ###
 
 **Factuur**
 
-![Percentage herberekenen op factuurniveau](images/commisie_herberkenen_factuurniveau.jpg)
+![Percentage her berekenen op factuurniveau](images/commisie_herberkenen_factuurniveau.jpg)
 
 **Order**
 
-![Percentage herberekenen op orderniveau](images/commisie_herberkenen_orderniveau.jpg)
+![Percentage her berekenen op orderniveau](images/commisie_herberkenen_orderniveau.jpg)
 
-### Herberekenen op bulkniveau factuur en order ###
+### Her berekenen op bulkniveau factuur en order ###
 
-Ga naar "nieuwe commissieafdracht". Klik op één van de koppelingen.
+Ga naar "nieuwe commissieafdracht". Klik op een van de koppelingen.
 
 ![Facturen partner inzien](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
 
-Selecteer één of meerdere regels en klik op herberekenen.
+Selecteer een of meerdere regels en klik op her berekenen.
 
-![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
+![Commissie her berekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
-### Herberekenen op commissieset niveau ###
+### Her berekenen op commissie set niveau ###
 
-Ga naar "Commissie set", Selecteer één set en klik op één van de koppelingen.
+Ga naar "Commissie set", Selecteer één set en klik op een van de koppelingen.
 
 ![Facturen en Orders bij commissie set inzien](images/commisie_herberkenen_commissie_set_niveau.jpg)
 
-Selecteer één of meerdere regels en klik op herberekenen.
+Selecteer een of meerdere regels en klik op her berekenen.
 
-![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
+![Commissie her berekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
-### Herberekenen vanuit commissieafspraak bij partner ###
+### Her berekenen vanuit commissieafspraak bij partner ###
 
 Ga naar de commissieafspraken op de relatiekaart van de partner. Selecteer een commissieafspraak en kies voor **Inzien**.
 
 ![Facturen en Orders inzien via commissieafspraak partner](images/facturen_orders_inzien_via_commissieset.jpg)
 
-Selecteer één of meerdere regels en klik op herberekenen.
+Selecteer een of meerdere regels en klik op her berekenen.
 
-![Commissie herberekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
+![Commissie her berekenen bulkactie](images/commisie_herberkenen_bulk.jpg)
 
 
 <div class="info">
-Alle commissies in de geselecteerde facturen zullen worden herberekend indien deze zijn aangepast.
+Alle commissies in de geselecteerde facturen zullen worden her berekend indien deze zijn aangepast.
 </div>
 
 ## Facturen uitsluiten voor commissie ##
@@ -110,11 +110,11 @@ Selecteer de hieronder weergegeven opties.
 
 ### Uitsluiten op bulkniveau ###
 
-Ga naar **Nieuwe commissieafdracht**. Klik op één van de actieknoppen.
+Ga naar **Nieuwe commissieafdracht**. Klik op een van de actieknoppen.
 
 ![Facturen partner inzien](images/nieuwe_commissieafdracht_actieknoppen_details.jpg)
 
-Selecteer één of meerdere regels en klik op herberekenen.
+Selecteer een of meerdere regels en klik op her berekenen.
 
 ![Commissie uitsluiten op bulkactie](images/commisie_uitsluiten_bulkniveau.jpg)
 
@@ -126,9 +126,9 @@ Selecteer een commissieregel en klik op **Inzien** om de details van de regel in
 
 ![Details van commissie inzien](images/commissieregeldetails_inzien.jpg)
 
-Indien de commissie wordt herberekend zal er een groen vinkje worden weergegeven. Wanneer de details worden ingezien zal worden weergegeven welke gebruiker en wanneer de actie is gedaan.
+Indien de commissie wordt her berekend zal er een groen vinkje worden weergegeven. Wanneer de details worden ingezien zal worden weergegeven welke gebruiker en wanneer de actie is gedaan.
 
-![Details van commissie inzien na herberekenen](images/details_bij_herberekende_commissies.jpg)
+![Details van commissie inzien na her berekenen](images/details_bij_herberekende_commissies.jpg)
 
 # Belangrijke weetjes #
 
