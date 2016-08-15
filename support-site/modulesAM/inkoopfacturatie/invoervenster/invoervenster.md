@@ -50,19 +50,20 @@ Boekingsregels toevoegen
 - **Grootboek**
 	- Hier kunt u een werkcode selecteren.
 - **BTW Percentage**
-	- Hier kunt het BTW percentage selecteren.
+	- Hier kunt het btw-percentage selecteren.
 - **Omschrijving**
 	- Hier kunt u de omschrijving ingeven van het product.
 - **Aantal**
-	- Hier kan je de aantal aangeven
+	- Hier kan je het aantal aangeven
 - **Prijs**
 	- Hier kan je de prijs aangeven
-- **Intern gebruik / niet door belasten**
+- **Intern gebruik/ niet door belasten**
 	- Dit vinkje kunt u aanzetten als de inkoopfactuur voor intern gebruik is en u de factuur niet wilt door belasten.
 	
 Daarnaast kan je de regel nog koppelen aan verschillende onderdelen o.a. een factuur; product; project; contract; inventaris 
 
-Door een boekstuknummer te kunnen geven aan de inkoopfactuur dien je de factuur goed te keuren. deze heeft 3 stappen, deze kan onderverdeeld zijn onder meerdere medewerkers
-Bij de tapblad interne opmerking kan je zien wie de inkoop geeft goed gekeurd of eventueel heeft afgekeurd 
+Door een boekstuknummer te kunnen geven aan de inkoopfactuur dien je de factuur goed te keuren. Deze heeft 3 stappen, deze kan onderverdeeld zijn onder meerdere medewerkers
+Bij het tabblad interne opmerking kan je zien wie de inkoop geeft goed gekeurd of eventueel heeft afgekeurd 
 
 ----------
+

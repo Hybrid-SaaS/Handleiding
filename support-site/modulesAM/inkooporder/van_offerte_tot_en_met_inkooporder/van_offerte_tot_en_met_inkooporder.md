@@ -9,6 +9,7 @@
 	</menu>
 </properties>
 
+
 # Van verkooporder tot inkooporder #
 
 Deze rubriek geeft een beschrijving van het proces vanaf een verkooporder tot en met een inkooporder. Het proces is in verschillende stappen beschreven zoals hieronder is weergegeven.
@@ -25,7 +26,7 @@ Keur de order goed door op **Goedkeuren** zodat deze de status “Geaccepteerd�
 
 ![Order/ Offerte goedkeuren](images/order_goedkeuren.jpg) 
 
-Nadat de order is geaccepteerd worden bij “Backorderfase” de optie **Reserveren**
+Nadat de order is geaccepteerd worden bij “Backorder fase” de optie **Reserveren**
 
 ![Producten reserveren ](images/producten_reserveren.jpg) 
 
@@ -40,11 +41,11 @@ Door de order te reserveren worden de volgende acties gedaan:
 Bij **Te bestellen bij leverancier** worden alle producten weergegeven welke niet op voorraad zijn. 
 
 <div class="info">
-Dit overzicht geeft alle orderregels weer welke (nog) niet op voorraad zijn en welke besteld dienen te worden. Dit noemt men Backorderregels.
+Dit overzicht geeft alle orderregels weer welke (nog) niet op voorraad zijn en welke besteld dienen te worden. Dit noemt men Backorder regels.
 </div>
 
 <div class="info">
-Wanneer orderregels in dit bakje staan is het mogelijk om de order te deblokkeren en eventueel één of meerdere statussen terug te zetten. 
+Wanneer orderregels in dit bakje staan is het mogelijk om de order te deblokkeren en eventueel een of meerdere statussen terug te zetten. 
 </div>
 
 <div class="info">
@@ -63,7 +64,7 @@ Klik op **Inkooporder** (**Besteladvies**) om de regels door te zetten.
 
 Hierbij worden twee opties weergegeven:
 -	Ja: Producten uit de orderregels toevoegen aan een bestaande lopende inkooporder
--	Nee:  Producten uit de orderregels toevoegen aan een nieuwe inkooporder
+-	Nee: Producten uit de orderregels toevoegen aan een nieuwe inkooporder
 ![Bevestiging orderregels doorzetten naar een inkooporder ](images/goederen_toewijzen_aan_inkooporder_of_nieuwe_inkooporder_aanmaken.jpg) 
 
 <div class="info">
@@ -79,14 +80,14 @@ NEE: Alle producten zullen als een nieuwe inkooporder worden aangeboden. Zie sta
 Het kan voorkomen dat orderregels geannuleerd dienen te worden. De reden kan zijn dat het betreffende product niet meer nabesteld kan of gaat worden. Of dat de betreffende klant de bestelling voor het product wil annuleren.
 Selecteer de betreffende orderregels en kies voor Backorder Annuleren
 
-![Backorderregels annuleren](images/regels_annuleren.jpg)
+![Backorder regels annuleren](images/regels_annuleren.jpg)
  
 In de bevestiging wordt gevraagd of de regel geannuleerd dient te worden. Indien gewenst wordt er een annuleringsfactuur aangemaakt.
 
-![Backorderregels annuleren bevestigen](images/backorderregels_bevestigen.jpg) 
+![Backorder regels annuleren bevestigen](images/backorderregels_bevestigen.jpg) 
 
 <div class="info">
-Wanneer een backorderregel wordt geannuleerd zal het aantal de betreffende orderregel op “0” worden gezet.
+Wanneer een backorder regel wordt geannuleerd zal het aantal de betreffende orderregel op “0” worden gezet.
 </div>
 
 <div class="info">
@@ -107,7 +108,7 @@ Wanneer producten uit een order in dit bakje staan is het niet meer mogelijk de 
 </div>  
 
 <div class="info">
-Door de ordergel te verwijderen uit dit bakje zal deze weer één plaats terug gaan in het proces en is deze terug te vinden bij “Te bestellen bij leverancier”
+Door de ordergel te verwijderen uit dit bakje zal deze weer één plaats teruggaan in het proces en is deze terug te vinden bij “Te bestellen bij leverancier”
 </div>
 
 <div class="info">
@@ -116,27 +117,27 @@ In de orderregel wordt het aantal eenheden weergegeven welke besteld zijn
 
 ![Aantal eenheden welke besteld zijn bij leverancier](images/besteld_orderregel.jpg) 
 
-## Backorderregels koppelen aan een bestaande (lopende) inkooporder  ##
+## Backorder regels koppelen aan een bestaande (lopende) inkooporder  ##
 
-Indien een backorderregel bij **Inkooporder aanmaken / Besteladvies** wordt weergegeven terwijl er reeds een inkooporder is, is het mogelijk deze backorderregel aan de bestaande inkooporder te koppelen. 
+Indien een backorder regel bij **Inkooporder aanmaken / Besteladvies** wordt weergegeven terwijl er reeds een inkooporder is, is het mogelijk deze backorder regel aan de bestaande inkooporder te koppelen. 
 Selecteer te betreffende regel en klik op **Verwijderen**
 
-![Backorderregel verwijderen zodat deze weer bij te bestelen bij leverancier wordt weergegeven](images/backorderregel_verwijderen_van_inkooporder_aanmaken.jpg) 
+![Backorder regel verwijderen zodat deze weer bij te bestelen bij leverancier wordt weergegeven](images/backorderregel_verwijderen_van_inkooporder_aanmaken.jpg) 
 
-De status van de betreffende regel zal worden terug gezet waardoor de backorderregel bij “Te bestellen bij leverancier” wordt weergegeven. Ga terug naar stap 2 en kies bij de bevestiging voor de optie **JA**. Hierdoor zal de betreffende backorderregel aan een bestaande inkooporder worden als reservering gekoppeld.
+De status van de betreffende regel zal worden teruggezet waardoor de backorder regel bij “Te bestellen bij leverancier” wordt weergegeven. Ga terug naar stap 2 en kies bij de bevestiging voor de optie **JA**. Hierdoor zal de betreffende backorder regel aan een bestaande inkooporder worden als reservering gekoppeld.
 
 ## STAP 4: Inkooporder aanmaken ##
 
 Selecteer te betreffende regel en klik op **Inkooporder aanmaken**
 
-![Backorderregel omzetten in een nieuwe inkooporder](images/backorderregel_doorzetten_naar_nieuwe_inkopporder.jpg) 
+![Backorder regel omzetten in een nieuwe inkooporder](images/backorderregel_doorzetten_naar_nieuwe_inkopporder.jpg) 
 
-Kies bij de bevestig voor Ja om de backorderregels om te zetten naar een nieuwe inkooporder
+Kies bij de bevestig voor Ja om de backorder regels om te zetten naar een nieuwe inkooporder
 
-![Bevestiging om backorderregel omzetten in een nieuwe inkooporder](images/backorderregels_bevestigen.jpg) 
+![Bevestiging om backorder regel omzetten in een nieuwe inkooporder](images/backorderregels_bevestigen.jpg) 
 
 <div class="info">
-Indien er reeds een inkooporder bekend is van de betreffende leverancier, met status “nieuw”, zal de backorderegel aan deze inkooporder toegevoegd worden. Indien dit niet wenselijk is keur dan eerst de inkooporder goed.
+Indien er reeds een inkooporder bekend is van de betreffende leverancier, met status “nieuw”, zal het backorderegel aan deze inkooporder toegevoegd worden. Indien dit niet wenselijk is keur dan eerst de inkooporder goed.
 </div>
 
 # Inkooporder #
@@ -172,6 +173,8 @@ Wijzig het aantal items welke vrijgegeven dient te worden. Indien de gehele rese
 <div class="info">
 Door het ongedaan maken van de reserveringen zullen de items weer vooraan in het proces beginnen bij “Te bestellen bij leverancier” Zie STAP 1 voor meer informatie.
 </div>
+
+
 
 
 

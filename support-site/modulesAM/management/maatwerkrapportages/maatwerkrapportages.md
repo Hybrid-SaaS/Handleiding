@@ -9,11 +9,11 @@
 	</menu>
 </properties>
 
-# Managementrapporages #
+# Management rapportages #
 
 Door middel van maatwerkrapportages is het mogelijk om managementrapportages uit Hybrid SaaS te halen. Op basis van specifieke wensen kunnen wij een maatwerkrapportage aanmaken welke naar Excel kan worden geëxporteerd. 
 
-## Producten Onderdelen op maat  ##
+## Producten Onderdelen op maat ##
 
 In de volgende instructievideo wordt uitgelegd hoe een maatwerkrapportage in Hybrid SaaS kan worden aangemaakt
 

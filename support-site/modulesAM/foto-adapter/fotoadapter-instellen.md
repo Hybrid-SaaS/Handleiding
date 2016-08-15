@@ -8,36 +8,37 @@
 	</menu>
 </properties>
 
-# FotoAdapter #
+# Foto Adapter #
 
-De Hybrid SaaS FotoAdapter geeft de mogelijkheid om productafbeeldingen en foto's bij producten Hybrid SaaS te importeren. Door de bestandsnaam van de afbeelding het productnummer te geven zal deze automatisch bij het juiste product worden toegevoegd.
-## DataAdapter Downloaden ##
+De Hybrid SaaS Foto Adapter geeft de mogelijkheid om productafbeeldingen en foto's bij producten Hybrid SaaS te importeren. Door de bestandsnaam van de afbeelding het productnummer te geven zal deze automatisch bij het juiste product worden toegevoegd.
 
-FotoAdapter kan [hier](https://downloadsite.blob.core.windows.net/hybrid-saas-tools/tools.exe) worden gedownload. Of via onze [website](http://hybridsaas.com/support). 
+## Data Adapter Downloaden ##
 
-## FotoAdapter instellen ##
+Foto Adapter kan [hier](https://downloadsite.blob.core.windows.net/hybrid-saas-tools/tools.exe) worden gedownload. Of via onze [website](http://hybridsaas.com/support). 
 
-Om de FotoAdapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "**instellingen**" om de API gegevens in te vullen.
+## Foto Adapter instellen ##
+
+Om de Foto Adapter te kunnen gebruiken dient deze ingesteld te worden zodat de data in de juiste Hybrid SaaS omgeving wordt geïmporteerd. Klik op "**instellingen**" om de API-gegevens in te vullen.
 
 Vul bij de gegevens in. Hybrid SaaS URL: https://**BEDRIJFSNAAM**.hybridsaas.com (vul op de plaats van "bedrijfsnaam" de bedrijfsnaam in) en geef de API ID en API KEY in.
 
-![Instellingen wijzigen FotoAdapter ](images/API_instellingen.jpg)
+![Instellingen wijzigen Foto Adapter ](images/API_instellingen.jpg)
 
 <div class="info">
 API ID en API KEY kunnen worden aangemaakt in Hybrid SaaS. Zie de onderstaande beschrijving hoe deze aangemaakt dient te worden.
 </div>
 
-## API sleutel aanmaken ##
+## API-sleutel aanmaken ##
 
-Zoek in Hybrid SaaS naar "API sleutels" 
+Zoek in Hybrid SaaS naar "API-sleutels" 
 
 Klik op toevoegen om een nieuwe sleutel aan te maken. 
 
-![Nieuwe API sleutel toevoegen](images/toevoegen.jpg)
+![Nieuwe API-sleutel toevoegen](images/toevoegen.jpg)
 
-Geef de sleutel een naam door bij "Naam" bijvoorbeeld "FotoAdapter" in te vullen.
+Geef de sleutel een naam door bij "Naam" bijvoorbeeld "Foto Adapter" in te vullen.
 
-Klik één maal op "Opslaan" zodat de API gegevens worden aangemaakt. Klik nogmaals op "Opslaan" om het scherm af te sluiten.
+Klik eenmaal op "Opslaan" zodat de API-gegevens worden aangemaakt. Klik nogmaals op "Opslaan" om het scherm af te sluiten.
 
 ![E-mailadres instellen bij e-mailsjabloon](images/API-gegevens-aanmaken.jpg)
 

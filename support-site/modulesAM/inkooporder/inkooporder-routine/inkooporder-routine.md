@@ -19,7 +19,7 @@ In deze beschrijven worden voorbeelden gebruikt.
 Je ben vooraan in de keten.
 
 Je wil artikel 1001 verkopen aan klant, ik zie dat er maar 91 te leveren zijn.
-Je heb nu **2 opties**
+Je hebt nu **2 opties**
 
 - **Optie 1** 
 
@@ -33,23 +33,23 @@ Lever uit wat ik heb en de rest bestellen, klik op goedkeuren, reserveren, de or
 
 Dit kan het systeem ook automatisch doen voor je.  Als je op de klantenkaart dit aan zet, (bedoeld voor distributeurs, zodat ze je voorraad niet opkopen)
 Het systeem kijkt naar het aantal nabestel dagen wat nodig is om het hier te krijgen, dus in dit geval 49 dagen.
-In de afgelopen dagen zijn er 35 verkocht, in de aankomende 49 dagen in het voorgaande jaar  28.
+In de afgelopen dagen zijn er 35 verkocht, in de aankomende 49 dagen in het voorgaande jaar 28.
 
 Het systeem zal 35 aanhouden als planvoorraad, zodat je aan normale klanten geen nee hoeft te verkopen.
 
 ![](images/3.png) ![](images/4.png)
 
 Deze aantallen zijn exclusief bulk orders (dat zijn de orders die direct doorgaan naar een groothandel in het buitenland, dit kun je weer aansturen in de status, en het selecteren van deze status in de order.
-Systeem werkt met terugwerkende kracht de cijfers bij, dus als je de status later aanmaakt kun je de orders nog daar naar toe aanpassen.
+Systeem werkt met terugwerkende kracht de cijfers bij, dus als je de status later aanmaakt kun je de orders nog daarnaartoe aanpassen.
 
 ![](images/5.png) ![](images/6.png)
 
-De verkoop afdeling keurt de order goed, waardoor hij naar het magazijn gaat.
+De verkoopafdeling keurt de order goed, waardoor hij naar het magazijn gaat.
 
 ![](images/7.png)
 
 Magazijn zet de picklijst door via de printer, het systeem maakt de bon, op de bon zie je de 91 stuks staan, ook kan magazijn direct een controle houden, er moeten er namelijk 92 in het schap liggen, er blijft er 1 over voor een andere order.
-Is dit niet het geval dan moeten zij dit melden aan de inkoop afdeling.
+Is dit niet het geval dan moeten zij dit melden aan de inkoopafdeling.
 
 ![](images/8.png)
 
@@ -83,15 +83,15 @@ Vanuit de inkooporder (maakt niet uit welk bakje) is er een filter mogelijkheid 
 
 ![](images/14.png)
 
-Ten eerste zul je de besteladvies filters moeten doorlopen, het systeem verwerkt bepaalde producten op een andere manier, hierdoor staat het een beetje verspreid,
+Ten eerste zult je de besteladvies filters moeten doorlopen, het systeem verwerkt bepaalde producten op een andere manier, hierdoor staat het een beetje verspreid,
 
-- **Te bestellen:** hier staan backorderregels in die nog niet op het besteladvies staan.
-- **Op voorraad:** hier staan backorderregels in die nog niet op het besteladvies staan, maar wel op voorraad zijn volgens het systeem
+- **Te bestellen:** hier staan backorder regels in die nog niet op het besteladvies staan.
+- **Op voorraad:** hier staan backorder regels in die nog niet op het besteladvies staan, maar wel op voorraad zijn volgens het systeem
  
-(met uitzondering van ![](images/15.png) )
+(Met uitzondering van ![](images/15.png) )
 
 - **Besteladvies:** hier kun je leverancier wijzigen en de regels op een inkooporder plaatsen
-- **Prioriteit:** het zelfde als besteladvies, echter komen hier de drop shipment artikelen in te staan, deze gaan naar specifieke klanten, zo kun je snel deze orders 1x per dag bestellen zonder na te denken over de rest.
+- **Prioriteit:** hetzelfde als besteladvies, echter komen hier de drop shipment artikelen in te staan, deze gaan naar specifieke klanten, zo kun je snel deze orders 1x per dag bestellen zonder na te denken over de rest.
 
 Voorraad filters zijn alle producten die voorraad hebben. + verkoop informatie
 
@@ -107,9 +107,11 @@ Loop daarna het te bestellen bakje door, je krijgt de keuze om de goederen als n
  
 ![](images/17.png)
 
-Wat niet meer besteld mag worden bij de leverancier zul je moeten annuleren.
+Wat niet meer besteld mag worden bij de leverancier zult je moeten annuleren.
  
 ![](images/18.png)
 
 
 ----------
+
+

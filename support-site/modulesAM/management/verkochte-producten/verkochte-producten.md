@@ -11,7 +11,7 @@
 
 ## Overzichten verkochte producten per jaar ##
 
-Ga naar:   Overzichten / Management overzichten
+Ga naar: Overzichten/ Management overzichten
 Kies voorraad overzicht
 
 ![](images/1.jpg)
@@ -20,7 +20,7 @@ Selecteer rechts de periode, als je het hele jaar wilt hebben laat je de datum v
 
 ![](images/2.jpg)
  
-Resultaat is een excel sheet.
+Resultaat is een Excel sheet.
 Veld historisch verkocht geeft het aantal verkopen vanaf introductie weer.
 Veld historisch verkocht in jaar geeft het aantal verkopen van dit lopende jaar weer.
 

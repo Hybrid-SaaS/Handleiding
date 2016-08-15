@@ -39,7 +39,7 @@ Je zet dan het recht "Gebruiker mag andere gebruikers selecteren, ongeacht de in
 
 ![](images/handtekening-gebruiker.jpg)
 
-**Afdelings rechten**
+**Afdeling ’s rechten**
 
 Als je besluit dat gebruikers per afdeling onderling een handtekening van elkaar moeten kunnen plaatsen dan doe je dit op afdelingsniveau.
 Zorg dat de afdelingen op orde zijn en dat de juiste gebruikers in de juiste afdelingen staan.
@@ -62,3 +62,5 @@ Op het moment dat Jaap een offerte maakt met afdelingsrechten en Jaap zit in de 
 ![](images/handtekening-offerte-afdeling.jpg)
 
 ----------
+
+

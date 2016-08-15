@@ -10,19 +10,19 @@
 	</menu>
 </properties>
 
-# Het verwerken van de verlof aanvragen met de dagstaten #
+# Het verwerken van de verlofaanvragen met de dagstaten #
 
 ### Dagstaten controleren ###
 
-Doordat er tijdregistraties zijn aangemaakt komen ze in beeld bij het controlleren van de dagstaten. Bij het controleren van de dagstaten zal er worden aangegeven dat het rooster bij een normale werkdag hoort en zal de uren van een normale werkdag noteren.
+Doordat er tijdregistraties zijn aangemaakt komen ze in beeld bij het controleren van de dagstaten. Bij het controleren van de dagstaten zal er worden aangegeven dat het rooster bij een normale werkdag hoort en zal de uren van een normale werkdag noteren.
 
 ![dagstaten](images/dagstaten.png)
 
 Er zouden geen uren in het tijd voor tijd bakje terecht kunnen komen, is dat wel het geval dan is er een dubbele registratie aangemaakt, dit dient dan te worden nagekeken.
 
-Na het controleren van de dagstaat kan deze worden goedgekeurd. het proces van de dagstaten kan zoals bekend verder worden afgewerkt.
+Na het controleren van de dagstaat kan deze worden goedgekeurd. Het proces van de dagstaten kan zoals bekend verder worden afgewerkt.
 
-## Het verwijderen van verlof aanvragen ##
+## Het verwijderen van verlofaanvragen ##
 
 Als er een fout is gemaakt in het aanvragen van de verlofaanvraag kan deze weer ongedaan worden gemaakt. 
 
@@ -36,7 +36,9 @@ Als de registratie in de bak:
 - **Maandstaten controleren** zit, moet de hele regel **verwijderd worden**
 - **Gecontroleerde dagstaten** zit, moet de juiste datum(s) worden opgezocht en moet deze **verwijderd worden**
 
-Nadat deze handelingen gebeurd zijn kan er verder worden gegaan met het [verwijderen van de verlofaanvraag](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken). Als de verlofaanvraag word aangepast komt deze weer terecht bij te controleren dagstaten, er kan opnieuw het process worden doorgelopen
+Nadat deze handelingen gebeurd zijn kan er verder worden gegaan met het [verwijderen van de verlofaanvraag](http://hybridsaas.support/pages/support-site/modulesAM/hrm/verlof/verlof-verwerken). Als de verlofaanvraag wordt aangepast komt deze weer terecht bij te controleren dagstaten, er kan opnieuw het proces worden doorgelopen
 
 ------
+
+
 

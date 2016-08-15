@@ -10,7 +10,7 @@
 
 # Type gebruikers #
 
-Er zijn een aantal verschillende gebruikers welke op verschillende plekken in Hybrid SaaS aangemaakt dienen te worden. Voorals nog kennen we de volgende gebruikers:
+Er zijn een aantal verschillende gebruikers welke op verschillende plekken in Hybrid SaaS aangemaakt dienen te worden. Vooralsnog kennen we de volgende gebruikers:
 
 - Operations medewerkers
 - Direct sales medewerkers
@@ -88,7 +88,7 @@ De volgende gebruikers dienen als gebruiker op de relatiekaart aangemaakt te wor
 
 Ga naar het betreffende bedrijf en ga naar het tabblad "Extranet"
 
-Klik op toevoegen om een nieuwe extranet gebruiker aan te te maken
+Klik op toevoegen om een nieuwe extranet gebruiker aan te maken
 
 ![Accountmanager toevoegen](images/extranetgebruiker-toevoegen.jpg)
 

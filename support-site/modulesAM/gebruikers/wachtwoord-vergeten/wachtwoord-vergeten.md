@@ -23,14 +23,14 @@ Het kan natuurlijk altijd voorkomen dat je je wachtwoord of je inlognaam bent ve
 
 Om deze procedure te starten klik je op de link **"wachtwoord vergeten?"** op het inlogscherm van je Hybrid SaaS omgeving.   
 
-![Op de wachtwoord vergeten link klikken](images/wachtwoord-vergeten-link.jpg)
+![Op het wachtwoord vergeten link klikken](images/wachtwoord-vergeten-link.jpg)
 
-Na het aanklikken van deze link krijg je de mogelijkheid te zien om je e-mailadres in te geven. Voer hier je e-mail adres in en klik op versturen. 
+Na het aanklikken van deze link krijg je de mogelijkheid te zien om je e-mailadres in te geven. Voer hier je e-mailadres in en klik op versturen. 
 
-![E-mail adres invoeren](images/email-adres-invoeren.jpg)
+![E-mailadres invoeren](images/email-adres-invoeren.jpg)
 
 
-Nadat je je e-mail adres hebt verstuurt, geeft Hybrid SaaS je een bevestiging. 
+Nadat je je e-mailadres hebt verstuurd, geeft Hybrid SaaS je een bevestiging. 
 
 ![](images/bevestiging-wachtwoord-reset-email.jpg)
 
@@ -45,7 +45,7 @@ Binnen enkele momenten ontvang je een e-mail van Hybrid SaaS.
 
 ![](images/e-mail-wachtwoord-herstel.jpg)
 
-In de zojuist ontvangen e-mail vind je de link om de wachtwoord reset uit te voeren. Klik op deze link om het wachtwoordherstel uit te voeren.
+In de zojuist ontvangen e-mail vind je de link om het wachtwoord reset uit te voeren. Klik op deze link om het wachtwoordherstel uit te voeren.
 Je internetbrowser opent met daarin een bevestiging van de aanvraag van het wachtwoordherstel. Je kunt dit venster of tab afsluiten.
 
 ![](images/wachtwoord-is-gereset.jpg)
@@ -63,11 +63,11 @@ Ga terug naar de *Hybrid SaaS browser* en klik indien nodig op de **inloggen** k
 
 
 <div class="info">
-De ingave van het wachtwoord is hoofdlettergevoelig. 
+Het ingeven van het wachtwoord is hoofdlettergevoelig. 
 </div>
 
 <div class="tip">
-Het makkelijkste is om het wachtwoord middels kopiëren / plakken ( <strong>Control-C</strong> / <strong>Control-V</strong> ) in te voeren.
+Het makkelijkste is om het wachtwoord middels kopiëren/ plakken ( <strong>Control-C</strong> / <strong>Control-V</strong> ) in te voeren.
 </div>
 
 
@@ -93,4 +93,5 @@ Het is essentieel om een veilig wachtwoord te kiezen voor je Hybrid SaaS-account
 
 
 ----------
+
 

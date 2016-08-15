@@ -24,14 +24,14 @@ In dit overzicht wordt een overzicht getoond van alle openstaande facturen gegro
 
 ### Betalingsachterstand ###
 
-In dit overzicht wordt een overzicht getoond van alle openstaande facturen gegroepeerd per klant. Hierin wordt  onderscheid gemaakt in vervaldagen, kredietlimieten of betalingsregelingen.
+In dit overzicht wordt een overzicht getoond van alle openstaande facturen gegroepeerd per klant. Hierin wordt onderscheid gemaakt in vervaldagen, kredietlimieten of betalingsregelingen.
 
 ![Betalingsachterstand](images/gegroepeerd-herinneren-op-basis-van-voorwaarden.jpg)
 
 
 ## Versturen ##
 
-Indien je een overzicht wilt sturen selecteer je de betreffende klant en klik je op "Herinneren". Met deze knop wordt de herinnering per mail verzonden en worden de herinneringsdata in de factuur opgeslagen. Wil je enkel een overzicht sturen waarbij de data niet worden opgeslagen kies dan één van andere twee opties.
+Indien je een overzicht wilt sturen selecteer je de betreffende klant en klik je op "Herinneren". Met deze knop wordt de herinnering per mail verzonden en worden de herinneringsdata in de factuur opgeslagen. Wil je enkel een overzicht sturen waarbij de data niet worden opgeslagen kies dan een van andere twee opties.
 
 ![Betalingsachterstand](images/gegroepeerd-herinneringsoverzicht.jpg)
 
@@ -45,7 +45,9 @@ Voor instellingen van sjablonen en e-mails kan je "documentschema's" raadplegen.
 </div>
 
 <div class="tip">
-"Het is mogelijk om verschillende facturen tegelijkertijd te selecteren zodat meerdere herinneringen te gelijkertijd kunnen worden verstuurd. Gebruik hiervoor de SHIFT en/of CTRL toets voor de selectie.
+"Het is mogelijk om verschillende facturen tegelijkertijd te selecteren zodat meerdere herinneringen te gelijker tijd kunnen worden verstuurd. Gebruik hiervoor de SHIFT en/of ctrl-toets voor de selectie.
 </div>
 
 ----------
+
+

@@ -24,9 +24,10 @@ Nu zijn de aantallen verplaatst naar het magazijn **Retour leverancier**. Via de
 
 ![producten op voorraad per locatie](images/loccatie-voorraad.png)
 
-Er word nu een scherm getoond waarin er een inkooporder is aangemaakt, open de juiste inkooporder en loop het proces door **Goedkeuring aanvraag**, **goedkeuren manager** en als laatste de knop **Besteld**. De order hoeft niet binnen gemeld of in ontvangst te worden genomen.
+Er wordt nu een scherm getoond waarin er een inkooporder is aangemaakt, open de juiste inkooporder en loop het proces door **Goedkeuring aanvraag**, **goedkeuren manager** en als laatste de knop **Besteld**. De order hoeft niet binnen gemeld of in ontvangst te worden genomen.
 De voorraad wordt meteen weer afgeboekt, en de inkooporder komt na deze stappen als afgehandeld te staan
 
 ![inkooporder verwerken](images/inkooporder.png)
  
  ----------
+

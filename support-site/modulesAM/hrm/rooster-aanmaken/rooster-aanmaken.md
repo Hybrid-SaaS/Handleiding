@@ -25,7 +25,7 @@ Voorbeeld:
 
 * Naam: Rooster 2016 Full Time
 * Startdatum 01-01-2016
-* Tot en met  31-12-2016
+* Tot en met 31-12-2016
 
 ![](images/3.jpg)
  
@@ -43,7 +43,7 @@ Je ziet dat de weekenden nu als roostervrije dag zijn ingevuld, als je dit wil j
 
 Pas nu de daglengte aan, aan de gewenste werktijden.
 
-Klik op de knop “dag lengte”. Stel dat je om 7.30 uur begint met werken en je werkt 7,40 uur per dag en je hebt 1 uur pauze. (op werkdagen)
+Klik op de knop “dag lengte”. Stel dat je om 7.30 uur begint met werken en je werkt 7,40 uur per dag en je hebt 1 uur pauze. (Op werkdagen)
 Vink dan de dagen aan en vul de rest van de gegevens in.
 
 ![](images/6.jpg)
@@ -69,7 +69,7 @@ Klik op “Dag type” en wijzig Werkdag naar Feestdag
 
 ![](images/11.jpg)
 
-Doe dit voor alle wettelijke feestdagen zoals Pasen, Pinksteren, kerstmis, koningsdag, etc…..)
+Doe dit voor alle wettelijke feestdagen zoals Pasen, Pinksteren, kerstmis, koningsdag, etc.…)
 
 En sla dit rooster op.
 
@@ -93,9 +93,4 @@ Bij medewerkers met een bepaalde tijd contract kan de begin en/of einddatum afwi
 En sla het rooster bij deze medewerker op.
 
 --------------
-
-
-
-
-
 
