@@ -11,16 +11,18 @@
 
 # Project marge informatie #
 
-Deze rubriek zal meer duidelijkheid geven over hoe de waarde word opgebouwd in de projectkaart onder de tabbel Marge informatie.
+Deze rubriek zal meer duidelijkheid geven over hoe de waarde wordt opgebouwd in de projectkaart onder de tabel Marge informatie.
+
+![legenda](images/legenda-projectinformatie.jpg)
 
 ## Begin bedrag van €20.000,00 ##
 
-Er is een offerte aangemaakt van € 20.000,00 en deze is omgezet naar een prject.
-Het projectwaarde heeft hierdoor een waarde van € 20.000,00
+Er is een offerte aangemaakt van € 20.000,00 en deze is omgezet naar een project.
+De projectwaarde heeft hierdoor een waarde van € 20.000,00
 
-![begin stand vanaf 0 marge informatie](images/begin-saldo.png)
+![beginstand vanaf 0 marge informatie](images/begin-saldo.png)
 
-## Tijdregistratie's nog niet goedgekeurd ##
+## Tijdregistraties nog niet goedgekeurd ##
 
 Er zijn 5 lossen tijdregistraties op dit project gemaakt met als uurtarief van €10,00 en een intern uurtarief van €5,00
 
@@ -32,9 +34,9 @@ De uren zijn nog niet goedgekeurd
 
 **Nog niet verwerkt**
 
-- Uren: 50 (5 registratie's a 10 uur)
+- Uren: 50 (5 registraties a 10 uur)
 - Arbeid: €250,00 (50 uur a €5 intern uurtarief)
-- Te fact. arbeid: €500,00 (50 uur a €10 uurtarief)
+- Te fact. Arbeid: €500,00 (50 uur a €10 uurtarief)
 
 ![waarde na toevoegen tijdregistratie](images/waarde-toevoegen-tijdregistratie.png)
 
@@ -44,7 +46,7 @@ Er is een werkbon gemaakt met daarin een tijdregistratie van 15 uur met als uurt
 
 ![werkbon aanmaken tijdregistratie](images/werkbon-tijd.png)
 
-Ook zijn er kosten gemaakt op de werkbon 1 product van €15,00 excl btw
+Ook zijn er kosten gemaakt op de werkbon 1 product van €15,00 excl. btw
 
 ![werkbon aanmaken kosten](images/werkbon-kosten.png)
 
@@ -54,15 +56,15 @@ De werkbon is nog niet goedgekeurd
 
 **Nog niet verwerkt**
 
-- Uren: 65 (5 registratie's a 10 uur en 1 registratie van 15 uur)
+- Uren: 65 (5 registraties a 10 uur en 1 registratie van 15 uur)
 - Arbeid: €325,00 (65 uur a €5 intern uurtarief)
-- Te fact. arbeid: €650,00 (65 uur a €10 uurtarief)
+- Te fact. Arbeid: €650,00 (65 uur a €10 uurtarief)
 
 ![werkbon aanmaken niet goedgekeurd marge](images/werkbon-aanmaken.png)
 
 ## Werkbon goedkeuren maar nog niet factureren ##
 
-De werkbon is goedgekeurd tot de laatste stap maar nog niet gefactureerd. Hierdoor is 1 tijdregistatie goedgekeurd en mag het product gefactureerd gaan worden.
+De werkbon is goedgekeurd tot de laatste stap maar nog niet gefactureerd. Hierdoor is 1 tijdregistratie goedgekeurd en mag het product gefactureerd gaan worden.
 
 ![werkbon goedgekeurd maar nog geen factuur](images/werkbon-goedgekeurd.png)
 
@@ -77,9 +79,9 @@ De werkbon is goedgekeurd maar er is nog geen factuur van gemaakt
 
 **Nog niet verwerkt**
 
-- Uren: 50 (5 registratie's a 10 uur)
+- Uren: 50 (5 registraties a 10 uur)
 - Arbeid: €250,00 (50 uur a €5 intern uurtarief)
-- Te fact. arbeid: €650,00 (65 uur a €10 uurtarief)
+- Te fact. Arbeid: €650,00 (65 uur a €10 uurtarief)
 
 ## De factuur van de werkbon nog niet verstuurd ##
 
@@ -101,9 +103,9 @@ De tijdregistratie en de kosten van de werkbon worden nu gefactureerd
 **Nog niet verwerkt**
 
 - Facturen: €165,00 (het totaalbedrag van de **nieuwe** factuur excl. btw)
-- Uren: 50 (5 registratie's a 10 uur)
+- Uren: 50 (5 registraties a 10 uur)
 - Arbeid: €250,00 (50 uur a €5 intern uurtarief)
-- Te fact. arbeid: €500,00 (50 uur a €10 uurtarief)
+- Te fact. Arbeid: €500,00 (50 uur a €10 uurtarief)
 
 ## De factuur van de werkbon status verstuurd ##
 
@@ -126,9 +128,9 @@ De status van de factuur is nu verstuurd, nu heeft het de waarde van gefactureer
 
 **Nog niet verwerkt**
 
-- Uren: 50 (5 registratie's a 10 uur)
+- Uren: 50 (5 registraties a 10 uur)
 - Arbeid: €250,00 (50 uur a €5 intern uurtarief)
-- Te fact. arbeid: €500,00 (50 uur a €10 uurtarief)
+- Te fact. Arbeid: €500,00 (50 uur a €10 uurtarief)
 
 ## De losse uren goedkeuren ##
 
@@ -147,15 +149,15 @@ De tijdregistratie zijn goedgekeurd maar nog niet doorgezet als factuur
 
 **Marge informatie**
 
-- Uren: 65 (5 registratie's a 10 uur en 1 registratie van 15 uur)
+- Uren: 65 (5 registraties a 10 uur en 1 registratie van 15 uur)
 - Producten: €15,00 (Het product van de werkbon)
 - Arbeid: €325,00 (65 uur a €5 intern uurtarief)
 
 **Nog niet verwerkt**
 
-- Uren: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
-- Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
-- Te fact. arbeid: €500,00 (50 uur a €10 uurtarief)
+- Uren: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
+- Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
+- Te fact. Arbeid: €500,00 (50 uur a €10 uurtarief)
 
 ## De losse uren doorzetten tot factuur ##
 
@@ -174,16 +176,16 @@ De tijdregistraties zijn verwerkt en hiervan is een factuur gemaakt maar heeft n
 
 **Marge informatie**
 
-- Uren: 65 (5 registratie's a 10 uur en 1 registratie van 15 uur)
+- Uren: 65 (5 registraties a 10 uur en 1 registratie van 15 uur)
 - Producten: €15,00 (Het product van de werkbon)
 - Arbeid: €325,00 (65 uur a €5 intern uurtarief)
 
 **Nog niet verwerkt**
 
 - Facturen: €500,00 (het totaalbedrag van de **nieuwe** factuur excl. btw)
-- Uren: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
-- Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
-- Te fact. arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
+- Uren: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
+- Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
+- Te fact. Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
 
 ## Factuur status verstuurd  ##
 
@@ -200,25 +202,19 @@ Alle facturen hebben de status verstuurd en alle tijdregistraties zijn verwerkt
 
 **Marge informatie**
 
-- Uren: 65 (5 registratie's a 10 uur en 1 registratie van 15 uur)
+- Uren: 65 (5 registraties a 10 uur en 1 registratie van 15 uur)
 - Producten: €15,00 (Het product van de werkbon)
 - Arbeid: €325,00 (65 uur a €5 intern uurtarief)
 
 <div class="tip">
-De informatie bij marge infomratie is verwerkt in het stukje van gefactureerd en resterend
+De informatie bij marge informatie is verwerkt in het stukje van gefactureerd en resterend
 </div>
 
 **Nog niet verwerkt**
 
 - Facturen: 0,00 (er zijn geen nog goed te keuren facturen)
-- Uren: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
-- Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
-- Te fact. arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistaties)
+- Uren: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
+- Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
+- Te fact. Arbeid: 0,00 (er zijn geen nog goed te keuren tijdregistraties)
 
 -------
-
-
-
-
-
-
