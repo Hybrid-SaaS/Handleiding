@@ -5,18 +5,10 @@
 	<menu>
 		<position>Cloud / Werkbonnen</position>
 		<title>Proces werkbonnen</title>
-		<sort>B</sort>
 	</menu>
 </properties>
 
 # De werkbonnen: #
-
-Om met de Cloud versie te kunnen werken, dient er een link te worden opgeslagen op de telefoon. Deze link zal als volgt zijn: https://`{bedrijfsnaam}`.hybridsaas.com/Cloud 
-De gebruikersnaam en wachtwoord zijn gelijk aan de gegevens welke gebruikt worden om in te loggen in Hybrid SaaS.
-
-<div class="warning">
-Indien er een foutmelding komt voor het installeren van de Cloud, kan het zijn dat de bedrijfsnaam niet overeenkomt, Deze kan opgevraagd worden bij de Hybrid SaaS beheerder
-</div>
 
 Via de Cloud is het mogelijk om werkbonnen op locatie aan te maken, te verwerken, informatie bij te voegen, of juist alle informatie op te vragen. Werkbonnen kunnen door de planning al klaar gezet worden in het dashboard, zodat de buitendienst medewerkers weten waar ze naar toe moeten. In de Cloud zijn er 4 bakjes onder de werkbonnen hieronder wordt beschreven welke functies deze hebben.
 
