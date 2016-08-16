@@ -10,11 +10,11 @@
 	</menu>
 </properties>
 
-## Proces werkbonnen  ##
+## Proces werkbonnen ##
 
-*In deze handleiding worden er 3 personen als voorbeelden gebruikt. dit is een uitleg welke je kan gebruiken als de handelingen wilt onderverdelen onder meerdere collega's*
+*In deze handleiding worden er 3 personen als voorbeelden gebruikt. Dit is een uitleg welke je kan gebruiken als de handelingen wilt onderverdelen onder meerdere collega's*
 
-Persoon 1 zet voor de medewerkers één week vooruit alle werkbonnen in het systeem. Deze komen in het bakje : **Alle nieuwe werkbonnen**.
+Persoon 1 zet voor de medewerkers één week vooruit alle werkbonnen in het systeem. Deze komen in het bakje: **Alle nieuwe werkbonnen**.
 
 De medewerkers moeten aan het eind van iedere dag de tijd registreren op de werkbonnen. 
 

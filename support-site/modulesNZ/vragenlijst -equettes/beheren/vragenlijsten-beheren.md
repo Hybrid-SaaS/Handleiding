@@ -11,7 +11,7 @@
 
 ## Beheren van de vragenlijst ##
 
-Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door  via de startknop naar het menu Vragenlijsten te gaan en daar Beheren te selecteren. 
+Voordat je een vragenlijst kan aanbieden moet deze samengesteld worden. Dit doe je door via de startknop naar het menu Vragenlijsten te gaan en daar Beheren te selecteren. 
 
 ![](images/vragenlijst-beheer.jpg) 
 
@@ -48,7 +48,7 @@ Er zijn 3 soorten vragen:
 
 ![](images/vragenlijst-beheer-instellingen.jpg)
 
-Voordat je de vragenlijst kan opslaan is er ook nog een tabblad "Instellingen" Hierop geef je aan waar de vragenlijst wordt weergegeven en je bent verplicht om een document layout en een email layout te selecteren.
+Voordat je de vragenlijst kan opslaan is er ook nog een tabblad "Instellingen" Hierop geef je aan waar de vragenlijst wordt weergegeven en je bent verplicht om een document lay-out en een email lay-out te selecteren.
 
 Hieronder het resultaat van bovenstaande vragenlijst
  
@@ -70,7 +70,7 @@ Door bij de antwoord opties een actie toe te voegen, zullen de extra vragen in d
 
 ![](images/vragenlijst-beheer-extra-1.jpg)
 
-De extra vragen die je maakt kunnnen weer van de 3 verschillende types zijn,   
+De extra vragen die je maakt kunnen weer van de 3 verschillende types zijn,   
 
 ![](images/vragenlijst-beheer-extra-vraag.jpg) 
 
@@ -86,7 +86,7 @@ De extra vragen die je maakt kunnnen weer van de 3 verschillende types zijn,
 
 **Foto bij de vraag**
 
-In sommige gevallen is het handig om een foto (upload) aan de vraag toe te voegen. Dit verduidelijkt de vraag.
+In sommige gevallen is het handig om een foto (uploadt) aan de vraag toe te voegen. Dit verduidelijkt de vraag.
 Bij de vraag kan je door middel van de knop "Upload foto" een plaatje toevoegen. 
 
 ![](images/vragenlijst-foto-upload.jpg)
@@ -109,7 +109,7 @@ Onderstaand scherm verschijnt, je kan nu door middel van de vinkjes de vraag uit
 
 ![](images/vragenlijst-mc-optie.jpg)
 
-Als je een extra mogelijkheid wilt creëren om informatie vast te leggen dan zet je het vinkje aan bij "Omschrijving ingave". Zodra antwoord JA word gekozen volgt er een extra invoermogelijkheid. Je kan het veld ook verplicht maken door het vinkje "Omschrijving is verplicht" aan te zetten. Bij het opslaan wordt er dan een controle uitgevoerd. 
+Als je een extra mogelijkheid wilt creëren om informatie vast te leggen dan zet je het vinkje aan bij "Omschrijving ingaven". Zodra antwoord JA word gekozen volgt er een extra invoermogelijkheid. Je kan het veld ook verplicht maken door het vinkje "Omschrijving is verplicht" aan te zetten. Bij het opslaan wordt er dan een controle uitgevoerd. 
 Boven het invoerblok kan je een label meegeven, dit doe je bij de "Label omschrijving". Als een veld verplicht is, dan wordt dit vermeld achter het label. 
 
 ![](images/vragenlijst-mc-omschrijving-1.jpg)        
@@ -133,3 +133,4 @@ Als laatste kan je ook van uit een bestaande vragenlijst een nieuwe vragenlijst 
 
 
 ----------
+

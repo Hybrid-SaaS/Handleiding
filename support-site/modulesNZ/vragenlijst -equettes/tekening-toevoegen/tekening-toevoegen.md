@@ -24,8 +24,9 @@ Ook gaat het menu weg als je de tablet in portrait mode zet.
 
 ![](images/3.jpg)
  
-In PDF formaat ziet het er dan zo uit.
+In pdf-formaat ziet het er dan zo uit.
 
 ![](images/4.jpg)
 
 ----------
+

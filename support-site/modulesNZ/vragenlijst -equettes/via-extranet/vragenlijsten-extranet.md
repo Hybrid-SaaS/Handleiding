@@ -16,7 +16,7 @@
 
 # Hoe log ik in op extranet #
 
-Maak een gebruiker aan die alleen via extranet kan inloggen. Geef deze gebruiker de juiste rechten. dit doe je door middel van een beveiligingsgroep aan te maken en deze aan de gebruiker te koppelen.
+Maak een gebruiker aan die alleen via extranet kan inloggen. Geef deze gebruiker de juiste rechten. Dit doe je door middel van een beveiligingsgroep aan te maken en deze aan de gebruiker te koppelen.
 
 **Aanmaken gebruiker**
 
@@ -26,7 +26,7 @@ Het vinkje "Gebruiker mag niet inloggen op Hybrid SaaS" moet aan staan. Hiermee 
 - Inlognaam: dit is je gebruikersnaam voor het inloggen
 - Weergave naam: zo wordt je in de applicatie weergegeven
 - Functie: niet verplicht
-- E-mail adres: vul hier je email adres in
+- E-mailadres: vul hier je email adres in
  
 ![](images/vragenlijst-gebruiker.jpg)  
 
@@ -38,7 +38,7 @@ Voor de individuele rechten ga je bij de gebruikerskaart naar het tabblad "Recht
 
 Het scherm bestaat uit een bepaald aantal onderdelen. Je kan deze gebruiker aan een beveiligingsgroep koppelen (Beveiligingsgroep moet wel bestaan)
 Je kan op zoek gaan naar een bepaald recht door een stuk van de tekst in te voeren in het veld "Zoeken in rechten" en dan op ENTER te drukken. Je krijgt dan alle rechten te zien die aan deze tekst voldoen ongeacht in welke module deze zitten.
-Voorbeeld : zoeken op het woord "bewerken" heeft als resultaat 
+Voorbeeld: zoeken op het woord "bewerken" heeft als resultaat 
   
 ![](images/gebruikers-rechten-zoeken.jpg)  
 
@@ -47,7 +47,7 @@ Voorbeeld module Extranet. Met de scrolbar kan je alle rechten zien.
 
 ![](images/gebruikers-rechten-module.jpg)  
 
-Er zijn 4 soorten rechten die je terug ziet en of kan zetten. Standaard zullen alle rechten op "Geen recht beveiligingsgroep" staan.
+Er zijn 4 soorten rechten die je terugziet en of kan zetten. Standaard zullen alle rechten op "Geen recht beveiligingsgroep" staan.
 
 ![](images/gebruikers-rechten-opties.jpg)  
 
@@ -67,7 +67,7 @@ Afhankelijk van deze keuzes worden rechten toebedeeld.
 
 ![](images/vragenlijst-rechten-opties.jpg)  
 
-**Bedrijfs rechten**
+**Bedrijf ’s rechten**
 
 ![](images/extranet-vragenlijst-klant-1.jpg)
 
@@ -86,8 +86,9 @@ Afhankelijk van deze keuzes worden rechten toebedeeld.
 
 ![](images/extranet-vragenlijst-project-1.jpg)
 
-Informeer nu deze gebruiker door hem zijn id en wachtwoord te versturen.
+Informeer nu deze gebruiker door hem zijn id. en wachtwoord te versturen.
 
-Ga naar  [Wachtwoord versturen](http://hybridsaas.support/pages/support-site/modules/gebruikers/wachtwoord-versturen/wachtwoord-versturen)  
+Ga naar [Wachtwoord versturen](http://hybridsaas.support/pages/support-site/modules/gebruikers/wachtwoord-versturen/wachtwoord-versturen)  
 
 ----------
+

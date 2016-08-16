@@ -11,15 +11,16 @@
 </properties>
 
 # Handige weetjes #
+
 In deze rubriek laten we aan aantal voorbeelden zien voor het aanpassen van documentsjablonen in Hybrid SaaS. Denk hierbij aan factuursjabloon, ordersjabloon, herinneringen enz. Hybrid SaaS maakt gebruik van Microsoft Word voor de opmaak van documenten. Binnen Word zijn tal van mogelijkheden. Wij zullen een aantal functies uitleggen die makkelijk zijn om zelf sjablonen aan te passen.
 
 # Document bewerken, toevoegen en opslaan #
 
-Zoek "**Wordsjablonen**"
+Zoek "**Word sjablonen**"
 
 Selecteer het betreffende sjabloon en klik op "**Bewerken**"
 
-![Wordsjablonen bewerken](images/wordsjaboon_bewerken.jpg)
+![Word sjablonen bewerken](images/wordsjaboon_bewerken.jpg)
 
 Microsoft Word zal worden geopend en het geselecteerde sjabloon zal worden weergegeven. Aan de rechterkant verschijnt een overzicht van alle velden welke ingevoegd kunnen worden. Afhankelijk van het type "tabel" welke is geselecteerd bij het sjabloon worden de mogelijke velden weergegeven.
 
@@ -38,12 +39,11 @@ Er zijn twee verschillende soorten velden:
 
 Indien het document naar wens ia aangepast dient het document worden geüpload in Hybrid SaaS.
 
-Klik rechtsboven in  het Word document op "**Save & Store Template**" 
+Klik rechtsboven in het Word document op "**Save & Store Template**" 
 
 ![Sjabloon opslaan in Hybrid SaaS](images/save_and_store_template.jpg)
 
 ## Basis weetjes voor het bewerken van documenten ##
-
 
 - ALT+F9 		| Onzichtbare onderdelen zichtbaar maken. Bijvoorbeeld veldcode `«INVOICE_NUMBER»` wordt zichtbaar als `{ MERGEFIELD INVOICE_NUMBER \* MERGEFORMAT }`
 - CTRL+F9		| Lege (nieuwe)veldcode invoegen
@@ -59,6 +59,7 @@ Met ALT+F9 is het mogelijk om de veldcodes weer te geven. Echter is het niet alt
 ![Veldcode weergeven](images/andere_veldweergave.jpg)
 
 ## Tabellen weergeven ##
+
 Om alle informatie op het document netjes onder elkaar weer te geven zal met tabellen gewerkt dienen te worden. Echter is het niet altijd wenselijk om de tabel daadwerkelijk weer te geven op de documentuitvoer.
 
 In Word is de tabel onzichtbaar en is bijvoorbeeld het onderstaande zichtbaar.
@@ -77,17 +78,17 @@ De tabellen (lees rasterlijnen) zullen worden weergegeven. Voer bovenstaande bew
 
 ## Tabellen vast breedte laten behouden ##
 
-Om er voor te zorgen dat de kolommen een vaste breedte behouden en niet van afmeting veranderen kan de kolombreedte vastgezet worden. Klik op de tabel zodat er links bovenin de tabel een een icoontje met een kruisje verschijnt. Klik met de **rechtermuisknop** op het icoontje en kies vervolgens "**AutoAanpassen**" en daarna "V**aste kolombreedte**"
+Om ervoor te zorgen dat de kolommen een vaste breedte behouden en niet van afmeting veranderen kan de kolombreedte vastgezet worden. Klik op de tabel zodat er links bovenin de tabel een icoontje met een kruisje verschijnt. Klik met de **rechtermuisknop** op het icoontje en kies vervolgens "**Auto Aanpassen**" en daarna "**Vaste kolombreedte**"
 
 ![Vaste kolombreedte](images/vaste_kolombreedte.jpg)
 
-## Aanpassen getalnotatie (Angelsaksische en Engelse notatie) ##
+## Aanpassen getal notatie (Angelsaksische en Engelse notatie) ##
 
-Getalnotaties voor bijvoorbeeld valuta kunnen op diverse manieren worden weergegeven. Hierin wordt onderscheid gemaakt tussen het het karakter voor het scheiden van duizendtallen en het karakter om decimalen weer te geven. In Nederland maken wij gebruik van de Angelsaksische notatie waarbij duizendtallen worden gescheiden dmv een "." (punt) en decimalen dmv een "," (komma). In de Engelse notatie worden deze karakters andersom gebruikt.
+Getal notaties voor bijvoorbeeld valuta kunnen op diverse manieren worden weergegeven. Hierin wordt onderscheid gemaakt tussen het karakter voor het scheiden van duizendtallen en het karakter om decimalen weer te geven. In Nederland maken wij gebruik van de Angelsaksische notatie waarbij duizendtallen worden gescheiden d.m.v. een "." (punt) en decimalen d.m.v. een "," (komma). In de Engelse notatie worden deze karakters andersom gebruikt.
 
 Bij de uitvoer van documenten met verschillende talen is het belangrijk dat de documenten goed worden ingesteld. 
 
-### Voorkeursnotatie  ###
+### Voorkeursnotatie ###
 
 Ga naar de betreffende MERGEFIELD
 
@@ -103,10 +104,9 @@ Voorbeeld met voorkeursnotatie (Angelsaksisch) € 12.345,67: `{MERGEFIELD INVOI
 
 Voorbeeld met voorkeursnotatie (Engels) $ 12,345.67: `{MERGEFIELD INVOICE_Line_Total_excl_VAT \# "§0¤00" \* MERGEFORMAT}`
 
-
 ## Informatie verbergen ##
 
-Het kan voorkomen dat iets niet weergegeven dient te worden indien geen data van is. Bijvoorbeeld een "ter attentie van" in een adres. Om er voor te zorgen dat er geen regel wordt weergegeven is het mogelijk om informatie weg te laten indien er geen data is. Dit kan worden opgelost door een zogenoemd "IF" functie (in het Nederlands ALS). Kort gezegd "als waarde X is, dan moet Y worden weergeven"
+Het kan voorkomen dat iets niet weergegeven dient te worden indien geen data van is. Bijvoorbeeld een "ter attentie van" in een adres. Om ervoor te zorgen dat er geen regel wordt weergegeven is het mogelijk om informatie weg te laten indien er geen data is. Dit kan worden opgelost door een zogenoemd "IF" functie (in het Nederlands ALS). Kort gezegd "als waarde X is, dan moet Y worden weergeven"
 
 Onderstaande afbeelding laat zien dat er een lege regel wordt weergegeven omdat de "t.a.v." niet is ingevuld
 
@@ -139,7 +139,7 @@ De ALS functie kan voor talloze doeleinden worden gebruikt. Het is ook mogelijk 
 
 ## Maximaal aantal karakters vastleggen ##
 
-In bepaalde gevallen kan het makkelijk zijn om het aantal karakters te limiteren. Op deze manier wordt voorkomen dat tekstregels te lang worden en daardoor niet meer op een document passen (bijv een label of sticker).
+In bepaalde gevallen kan het makkelijk zijn om het aantal karakters te limiteren. Op deze manier wordt voorkomen dat tekstregels te lang worden en daardoor niet meer op een document passen (bijv. een label of sticker).
 
 Door middel van een "maxlength" `/ maxlength=20` toe te voegen aan de MERGEFIELD kan het maximaal aantal karakters worden ingesteld.
 
@@ -164,7 +164,8 @@ Klik met de rechtermuisknop op de rij welke herhaald dient te worden. Ga naar **
 ![Eerste rij op elke pagina herhalen](images/eerste_rij_weergeven_op_volgende_pagina.jpg)
 
 ## Tekstterugloop bij tabellen ##
-Het kan voorkomen dat een tabel niet op de juiste plek of soms helemaal niet wordt weergegeven, wanneer deze wordt omgezet naar een PDF.
+
+Het kan voorkomen dat een tabel niet op de juiste plek of soms helemaal niet wordt weergegeven, wanneer deze wordt omgezet naar een pdf.
 
 Om dit voorkomen dient de tekstterugloop van de tabel uitgeschakeld te worden.
 
@@ -195,6 +196,9 @@ Zet het vinkje voor "**Microsoft Word**", kies het bestandstype "**Word Document
 Door de veldcodes (door middel van ALT+F9) weer te geven kan worden bekeken waarom een bepaald veld een bepaalde waarde geeft.
 
 <div class="info">
-Naast de uitvoer in Word is het ook mogelijk om bijvoorbeeld PDF als uitvoer te kiezen.
+Naast de uitvoer in Word is het ook mogelijk om bijvoorbeeld pdf als uitvoer te kiezen.
 </div>
+
+--------
+
 

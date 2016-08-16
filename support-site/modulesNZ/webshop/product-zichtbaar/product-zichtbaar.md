@@ -16,7 +16,7 @@
 
 Wat er allemaal aangezet moet worden om je product zichtbaar te maken op je website kan je hieronder vinden
 
-Op de productkaart heb je een aantal gegevens nodig welke er voor zorgen dat dit product zichtbaar word op je website
+Op de productkaart heb je een aantal gegevens nodig welke ervoor zorgen dat dit product zichtbaar word op je website
 
 **Tabblad Informatie**
 
@@ -42,7 +42,7 @@ Op de productkaart heb je een aantal gegevens nodig welke er voor zorgen dat dit
 ![](images/4.png)
 
 - Het product een prijs geven
-	- Aan deze prijs een btw code hangen
+	- Aan deze prijs een btw-code hangen
 
 ![](images/5.png)
 
@@ -65,23 +65,24 @@ Op de productkaart heb je een aantal gegevens nodig welke er voor zorgen dat dit
 - Aangeven voor welke website het bedoeld is
 	- <span style="color: blue">indien niet ingevuld zal hij beschikbaar zijn bij alle websites</span>
 - Een Omschrijving invullen
-	- Deze is te zien in het overzicht bij de CMS (handig als je meerdere regels hier heb staan)
+	- Deze is te zien in het overzicht bij de CMS (handig als je meerdere regels hier hebt staan)
 	- ![](images/10.png)
 
 ![](images/8.png)
 
 - De details invullen voor je product.
-	- Deze word overgenomen van het eerste tabblad van de productkaart, eventueel kan je deze aanvullen naar wens 
+	- Deze wordt overgenomen van het eerste tabblad van de productkaart, eventueel kan je deze aanvullen naar wens 
 	- ![](images/12.png)
-	- <span style="color: blue">Deze word niet standaard gevuld, Indien je niks ingevuld word de beschrijving overgenomen van het eerste tabblad</span>
+	- <span style="color: blue">Deze wordt niet standaard gevuld, Indien je niks ingevuld word de beschrijving overgenomen van het eerste tabblad</span>
 
 ![](images/9.png)
 
 - URL
-	- Hier kan je het product een URl geven (deze dient uniek te zijn)
+	- Hier kan je het product een URL geven (deze dient uniek te zijn)
 		- Let op gebruik hiervoor geen hoofdletters of andere speciale tekens 
 			- *voorbeeld fout: Product 12 cm* / *voorbeeld goed: product-12cm*
 - Een titel invullen
 	- Dit is je titel voor op de website
 
 ----------
+
